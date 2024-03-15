@@ -25,7 +25,8 @@ title: Indice
 ##### Teo
 *Under construction...*
 ### Storia
-*Under construction...*
+[[6) L'URSS e le ripercussioni in Europa]]
+[[7) La crisi del 1929 e gli USA di Roosevelt]]
 ### TePI
 ##### Lab
 *Under construction...*
