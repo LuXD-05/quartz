@@ -299,53 +299,44 @@ h1 {
   font-size: 1.75rem;
   margin-top: 2.25rem;
   margin-bottom: 1rem;
+  background: rgba(205, 244, 105, 0.3);
 }
 
 h2 {
   font-size: 1.4rem;
   margin-top: 1.9rem;
   margin-bottom: 1rem;
+  color: #d00000;
 }
 
 h3 {
   font-size: 1.12rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
+  color: #ff0000;
 }
 
-h4,
-h5,
+h4 {
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #ff6600;
+}
+
+h5 {
+  font-size: 1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: #00b050;
+}
+
 h6 {
   font-size: 1rem;
   margin-top: 1.5rem;
   margin-bottom: 1rem;
+  color: #4596ff;
 }
 
-$lightGreen: rgba(205, 244, 105, 0.3);
-$darkRed: #d00000;
-$red: #ff0000;
-$orange: #ff6600;
-$green: #00b050;
-$blue: #4596ff;
-
-h1 {
-  background: $lightGreen;
-}
-h2 {
-  color: $darkRed;
-}
-h3 {
-  color: $red;
-}
-h4 {
-  color: $orange;
-}
-h5 {
-  color: $green;
-}
-h6 {
-  color: $blue;
-}
 figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
