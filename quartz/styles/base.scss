@@ -321,6 +321,34 @@ h6 {
   margin-bottom: 1rem;
 }
 
+$lightGreen: rgba(205, 244, 105, 0.3);
+$darkRed: #d00000;
+$red: #ff0000;
+$orange: #ff6600;
+$green: #00b050;
+$blue: #4596ff;
+
+.markdown-preview-view {
+  h1 {
+    background: $lightGreen;
+  }
+  h2 {
+    color: $darkRed;
+  }
+  h3 {
+    color: $red;
+  }
+  h4 {
+    color: $orange;
+  }
+  h5 {
+    color: $green;
+  }
+  h6 {
+    color: $blue;
+  }
+}
+
 figure[data-rehype-pretty-code-figure] {
   margin: 0;
   position: relative;
