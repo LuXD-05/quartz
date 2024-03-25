@@ -70,9 +70,6 @@ public partial class MainWindow : Window
 {
     TcpManager m;
 
-    TcpClient client;
-    NetworkStream ns;
-
     public MainWindow()
     {
         InitializeComponent();
