@@ -1,9 +1,11 @@
 ---
 public: true
+edited_seconds: 10
+modified_at: 01/04/2024 11:02:34
 ---
 # Gli "anni ruggenti"
 ### La prosperità degli anni '20
-Per gli USA la WWI non delineò una completa catastrofe su ogni fronte, anzi, superata una breve recessione post-bellica del 1920-1921, si ebbe un boom nell'economia, tanto che: 
+Per gli USA la WWI non delineò una completa catastrofe su ogni fronte, anzi, superata una breve recessione post-bellica del 1920-1921, si ebbe un boom nell'economia, tanto che:
 - Reddito nazionale aumenta del 50%,
 - Vi erano poi 10 miliardi di dollari di crediti verso gli europei
 - Si verificò una grande crescita nel settore terziario: nelle grandi città sorsero grattacieli con uffici di agenzie industriali e finanziarie.

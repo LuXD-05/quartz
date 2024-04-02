@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 1090
-modified_at: 24/03/2024 16:44:07
+edited_seconds: 1100
+modified_at: 24/03/2024 22:18:34
 ---
 ### TCP in C\#
 In C# è possibile creare connessioni TCP tra un client e un server mediante l'uso di diverse cose.
@@ -69,9 +69,6 @@ Il codice del client (WPF) si struttura così:
 public partial class MainWindow : Window
 {
     TcpManager m;
-
-    TcpClient client;
-    NetworkStream ns;
 
     public MainWindow()
     {

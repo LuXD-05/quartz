@@ -1,17 +1,16 @@
 ---
 public: true
-tags:
-  - "#matematica/integrali"
+edited_seconds: 50
+modified_at: 29/03/2024 11:55:30
 ---
-# Steps
+### Step
 0) Sono date 2 funzioni ed è richiesto di trovare quanto vale l'area della loro intersezione. 
 1) Calcolare (per parabole) le coordinate del vertice delle funzioni non note "a occhio" (una nota ad occhio è $y = x^2$, al contrario di $y = -x^{2}+2$) con: $x_{v}= -\dfrac{b}{2a}$ e $y_v$ si trova sostituendo il valore di $x_v$ alle $x$ della funzione originale.
 2) Trovare (per le funzioni che intersecano l'asse x e/o y) i punti di intersezione con tali assi (fatto per il meme, in realtà non serve).
 3) Trovare i punti di intersezione tra le 2 funzioni ponendole in un sistema e risolvere facendo poi $f(x) = g(x)$. Le coordinate x dei 2 punti saranno trovate (ovviamente) quando si trova $x = \ldots$ , ma per trovare le coordinate y sarà necessario sostituire i valori di queste 2 x alla 1a funzione dell'uguaglianza iniziale ($f(x)$).
 4) (Siccome si ha tutto il necessario) fare il grafico delle funzioni.
 5) Calcolare l'area facendo l'integrale tra i 2 punti di intersezione appena trovati e la differenza: ($f(x)$ con margine dell'area + in alto) - ($f(x)$ con margine dell'area + in basso).
-# Esempi
-### Area tra 2 f(x) n° 1
+###### Esempio
 Calcolare l'area delle 2 funzioni date.
 $$
 y = x^{2} \;\;\lvert\;\; y = -x^{2}+2 \;\;\lvert\;\; A = ?
@@ -95,3 +94,6 @@ $$
 \;\; = \;\;
 -\dfrac{4}{3} + 4 \;\; = \;\; -\dfrac{8}{3}
 $$
+
+---
+Vedi poi: [[Calcolo dei volumi]]

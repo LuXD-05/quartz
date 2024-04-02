@@ -1,9 +1,11 @@
 ---
 public: true
+edited_seconds: 50
+modified_at: 01/04/2024 17:09:59
 ---
 # La rivoluzione bolscevica in Russia
 ##### Il "pericolo rosso" in Europa
-Nel 1917 cadde il regime zarista in Russia (link) e ora il comunismo, fonte di preoccupazioni politiche e sociali da parte di altri stati conservatori e liberali, diventa una minaccia esterna e reale. 
+Nel 1917 [[4) La prima Guerra Mondiale#La fine della Russia zarista|cadde il regime zarista in Russia]] e ora il comunismo, fonte di preoccupazioni politiche e sociali da parte di altri stati conservatori e liberali, diventa una minaccia esterna e reale.
 ### Dalla rivoluzione di febbraio a quella d'ottobre
 Nel febbraio 1917, ancora durante la WWI, la Russia era stata travolta da un'ondata di proteste operaie e contadine, in seguito a cui lo zar abdicò venendo poi arrestato (link cap 4). La guida del paese fu presa da un governo provvisorio rivoluzionario (sostenuto da partito costituzional-democratico, dai menscevichi e dai socialisti rivoluzionari), la cui autorità era però minata dai **soviet** (link cap 2), presenti ora in quasi ogni fabbrica e villaggio. Il governo a quel punto perse favore decidendo di continuare con la WWI; e Lenin, appena tornato dall'esilio, con le sue parole e le "tesi di aprile" (dove sancisce: "pace, terra ai contadini e il potere ai soviet") incita i bolscevichi a rovesciare il governo e a riprendere il potere (questi intanto avevano visto crescere i loro consensi e conquistano la maggioranza nei 2 soviet + importanti: Mosca e Pietrogrado).
 Nonostante il governo fosse stato affidato a Kerenskij, membro del soviet di Pietrogrado, Lenin ruppe ogni indugio e nella città, nella notte tra il 24 e il 25 ottobre 1917, 25000 bolscevichi armati si impadronirono del Palazzo d'Inverno. 

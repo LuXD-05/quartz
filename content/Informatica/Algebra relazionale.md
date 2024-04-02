@@ -1,5 +1,7 @@
 ---
 public: true
+edited_seconds: 720
+modified_at: 24/03/2024 23:03:18
 ---
 # Algebra relazionale
 ### Definizione
@@ -100,9 +102,12 @@ Le **outer join** invece, congiungono 2 relazioni restituendo tutte le **tuple**
 In sostanza, sono combinate solo le righe della 1a dove il suo attributo comune trova un valore = nella colonna dell'attributo corrispondente della 2a relazione; mentre le altre righe sono ricopiate aggiungendo NULL negli attributi aggiunti/non in comune.
 A loro volta divise in:
 ###### Left join
-La **left outer join** elenca tutte le **righe della 1a relazione** <u>congiungendole</u> **con** quelle della **2a** solo **quando l'attributo comune è uguale**. Per **le altre** righe invece, **congiunge impostando NULL agli attributi** concatenati **della 2a relazione**.
+Simbolo $=⨝$.
+La **left outer join** elenca tutte le **righe della 1a relazione** <u>congiungendole</u> **con** quelle della **2a** solo **quando l'attributo comune è uguale**. Per **le altre** righe invece, **congiunge impostando NULL agli attributi** concatenati **della 2a relazione**. 
 ###### Right join
+Simbolo $⨝=$.
 La **right outer join** restituisce tutte le **righe della 2a relazione** <u>congiungendogli</u> le righe della **1a** **solo se il valore** di queste **corrisponde** a quello che c'è nell'**attributo comune della 2a** relazione.
 ###### Full join
+Simbolo $=⨝=$.
 La **full outer join** applica contemporaneamente la **left outer join** e la **right outer join**, restituendo tutte le righe della 1a relazione con NULL dove la 2a non ha un valore corrispondente nell'attributo comune + tutte le righe della 2a con NULL dove la 1a non ha un valore corrispondente nell'attributo comune (questo non duplicando le righe uguali indipendentemente dall'ordinamento degli attributi).
 **MySQL** <u>non</u> supporta direttamente la **full outer join**, perciò è necessario fare una `UNION` tra la left e la right join che si stanno cercando di effettuare.

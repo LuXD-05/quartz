@@ -1,5 +1,7 @@
 ---
 public: true
+edited_seconds: 10
+modified_at: 02/04/2024 11:11:38
 ---
 #SQL (Structured Query Language) è il linguaggio di interrogazione db. Ha delle **keywords** case **insensitive** (come nomi di tabelle e attributi) al contrario del resto da cui è composto.
 # Sottolinguaggi
