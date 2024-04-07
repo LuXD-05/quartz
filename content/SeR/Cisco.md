@@ -1,7 +1,7 @@
 ---
 public: true
-modified_at: 01/04/2024 23:58:03
-edited_seconds: 4900
+modified_at: 02/04/2024 17:06:17
+edited_seconds: 4990
 ---
 # Cisco Packet Tracer
 ## Creazione della rete
@@ -113,8 +113,8 @@ R1(config)# ip route 192.168.1.0 255.255.255.0 192.168.2.1
 Questo considerando il caso in cui:
 - "192.168.1.0" è l'**indirizzo di rete** della rete di **destinazione**,
 - "255.255.255.0" è la **subnet mask** della rete di **destinazione**,
-- "192.168.2.1" è l'indirizzo dell'**interfaccia seriale di destinazione**, definito come "Gateway 2" nella rete di collegamento tra le 2 reti.
-Per tutte le rotte da definire su un router (in rete anello senso unico) il next hop sarà il medesimo. 
+- "192.168.2.1" è l'indirizzo della **prossima interfaccia seriale** (*next hop*) a cui verranno inviati per primi i pacchetti, definito come "Gateway 1/2" nella rete di collegamento tra le 2 reti.
+Per tutte le rotte da definire su un router (in rete anello <u>senso unico</u>) il next hop sarà il medesimo. 
 Comando generico: `ip route (ind rete dest) (subnet mask dest) (ind next serial int colleg)`.
 ##### Visualizzare rotte statiche configurate
 ```

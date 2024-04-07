@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 230
-modified_at: 02/04/2024 10:24:21
+edited_seconds: 310
+modified_at: 07/04/2024 23:54:13
 ---
 ### 1
 - [[Databases]]
@@ -22,4 +22,7 @@ modified_at: 02/04/2024 10:24:21
 - [[Blogs and forums]]
 - [[File sharing]]
 ### 3
-- ...
+- [[Malware, adware, spam & bugs]]
+- [[Viruses, worms, backdoors and rogue security]]
+- [[Crimeware and cookies]]
+- [[Mobile malware]]

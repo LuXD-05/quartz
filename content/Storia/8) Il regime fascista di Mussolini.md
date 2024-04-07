@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 13190
-modified_at: 01/04/2024 13:22:07
+edited_seconds: 15530
+modified_at: 05/04/2024 17:30:02
 ---
 # Il fascismo e l'avvento al potere di Mussolini
 ### Il fascismo dalle origini allo squadrismo
@@ -180,15 +180,30 @@ Al contrario il ceto medio ottenne + vantaggi. Fino al 1936 la stabilizzazione d
 
 # L'ambivalente politica estera di Mussolini
 ### Le ambizioni dell'Italia
-
+Dopo la WWI l'Italia non aveva assunto una posizione rilevante nel contesto europeo; tuttavia era comunque una potenza vincitrice e Mussolini giocò subito quella carta.
+Per tutti gli anni '20 l'Italia coltivò rapporti amichevoli con lo UK e anche una crescente rivalità con la Francia, ma si attenne per lo + a una linea prudente e moderata. In tale contesto, Mussolini sottoscrisse nel 1925 l'accordo di Locarno, per cui assunse la funzione di garante dell'inviolabilità dei confini tra Francia, Germania e Belgio.
 ### L'Italia e il suo "peso determinante"
-
+Nei primi anni '30, dopo l'ascesa al potere di Hitler, l'Italia assunse un "peso determinante": una sua eventuale presa di posizione a favore delle democrazie occidentali o del nazismo, avrebbe alterato gli equilibri europei.
+In un 1° momento Mussolini si schierò dalla parte delle potenze liberali, e con Francia e UK adottò delle misure atte a contenere il revisionismo tedesco (atteggiamento di rifiuto dell'assetto politico-territoriale imposto dai trattati dopo la WWI + l'aspirazione a modificarlo). Perciò, nel 1935 Italia, UK e Francia sottoscrissero gli **accordi di Stresa**, con cui si condannava il riarmo tedesco e si ribadiva la necessità di un'Austria indipendente.
+Questo accordo tuttavia era ambiguo, perché Mussolini contribuiva al blocco con potenze antihitleriane perché:
+- Da una parte era allarmato dalla minaccia tedesca in espansione,
+- Dall'altra si attendeva, come contropartita, la neutralità di Francia e UK nei confronti della sua prossima mossa: la conquista dell'Etiopia.
 ### La "vocazione imperiale" dell'Italia
-
+Fin dai primi anni '30, il governo fascista cercava di trasformare l'Etiopia in un suo protettorato (facendo leva sui dissidi tra i capi feudali e Haile Selassie I, negus dal 1930); tuttavia Mussolini iniziò a muoversi solo nel 1935.
+Egli fece ricorso ad un'ampia propaganda nazionalistica e puntò sulla contrapposizione tra le "potenze plutocratiche" (paesi capitalisti comandati da ricche oligarchie che opprimevano il potere del proletariato; Francia e UK, in possesso di imperi coloniali) e le "nazioni proletarie" (Italia, senza colonie).
+Conquistare l'Etiopia avrebbe portato vantaggi economico-sociali:
+- Sarebbe migliorato il problema dell'eccedenza di manodopera (grave dopo la crisi del 1929 anche per le limitazioni all'immigrazione in USA),
+- La grande industria avrebbe potuto riprendersi dai contraccolpi della depressione economica (confidava nelle commesse statali derivanti dalla guerra).
 ### L'attacco all'Etiopia e la reazione della comunità internazionale
-
+Nel 1935 il governo iniziò a inviare truppe in Africa. Francesi e inglesi (in linea di massima) non erano contrari alle mire espansionistiche italiane, ma non potevano tollerare la cancellazione di uno stato sovrano come l'Etiopia, per di + membro della Società delle Nazioni.
+Nonostante ciò, il 3 ottobre 1935 Mussolini decise di invadere l'Etiopia; e nei giorni successivi, la Società delle Nazioni condannò l'Italia com stato aggressore. Il Consiglio approvò varie sanzioni economiche contro il regime, comprendenti:
+- L'embargo (sanzione che prevede il blocco degli scambi commerciali di uno stato con altri) sulle merci per l'industria di guerra,
+- Un altro embargo sulla concessione di crediti,
+- Dazi doganali per le esportazioni.
+Questi provvedimenti però, non incisero molto sul sistema economico (infatti furono revocate nell'estate 1936); poi il regime, avente il controllo dell'informazione, sfruttò il tutto facendo credere agli italiani che il paese stesse soccombendo sotto le pressioni economiche imposte in seguito alla sua politica estera. La guerra in Etiopia venne quindi celebrata sia come "missione civilizzatrice", sia come un'azione legittima per dare all'Italia un "posto al sole", cioè un impero coloniale proprio.
 ### La nascita dell'impero
-
+Le truppe etiopiche (sotto Haile Selassie I), pur resistendo per mesi e a volte anche senza armi da fuoco, finirono per soccombere ai 400000 italiani guidati da Badoglio, la cui offensiva fu condotta facendo uso di aerei e mezzi corazzati oltre che gas asfissianti (in particolare l'iprite, in violazione delle convenzioni internazionali).
+Il 5 maggio 1936 la guerra si concluse con l'entrata di Badoglio ad Addis Abeba (capitale) e 4 giorni dopo Mussolini proclama la restaurazione dell'impero ("romano"). Nasceva quindi l'Africa orientale italiana, composta dalle colonie dell'Eritrea, Somalia italiana e Abissinia. La vittoria permise al regime di rafforzare la propria immagine: l'Italia si era assicurata la colonia etiope senza grandi ripercussioni in politica estera.
 # L'antisemitismo e le leggi razziali
 ### Le leggi antiebraiche
 

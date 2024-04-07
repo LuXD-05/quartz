@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 10
-modified_at: 02/04/2024 11:11:38
+edited_seconds: 1180
+modified_at: 07/04/2024 16:23:44
 ---
 #SQL (Structured Query Language) è il linguaggio di interrogazione db. Ha delle **keywords** case **insensitive** (come nomi di tabelle e attributi) al contrario del resto da cui è composto.
 # Sottolinguaggi
@@ -290,3 +290,86 @@ UNION
 SELECT s.nome, c.nome
 FROM Studenti s RIGHT JOIN Classi c ON s.fkClasse = c.id;
 ```
+# Views
+### Cosa sono?
+>[!important] View
+>Modo di mostrare i dati di un db con una struttura diversa da quella che hanno in esso.
+##### Nel db
+Le views sono memorizzate nei db come tabelle sempre disponibili in memoria (che occupano tanti byte quanti caratteri contiene) e su cui si possono effettuare delle query (di `SELECT`).
+**Attenzione**: le views non possono chiamarsi come tabelle già esistenti nel db.
+###### Permessi
+Si possono dare (`GRANT`) o revocare (`REVOKE`) dei permessi alle views per gli utenti del DB. 
+### Usi
+Possibili usi delle views sono:
+- Dare a un utente l'accesso a solo parte di una tabella (con < colonne).
+- Leggere dati da + tabelle in contemporanea tramite `JOIN` o `UNION`.
+- Spezzare una query complessa in + parti (con viste).
+- Usarle come subquery.
+- Includere in una query dati calcolati (non nella tabella d'interesse ma calcolati da altri dati).
+### Comandi
+###### CREATE
+Per creare una view, bisogna darle un nome e il suo contenuto con una query di `SELECT` (sarebbe possibile specificare una lista di colonne opzionale da visualizzare, ma per comodità questa si omette e le colonne che si visualizzeranno saranno quelle nella query):
+```sql
+CREATE VIEW view AS
+SELECT s.nome, s.cognome
+FROM Studenti s;
+```
+###### REPLACE
+Si può poi sostituire il contenuto di una view lasciandone il nome invariato:
+```sql
+REPLACE VIEW view AS
+SELECT s.cognome, s.nome
+FROM Studenti s;
+```
+###### DROP
+Per eliminare una view invece:
+```sql
+DROP VIEW view;
+```
+# Subquery
+### Cosa sono?
+> [!important] Subquery
+> Query innestate in altre query
+##### Query esterna
+Detta "***Main query***", racchiude in essa 0, 1 o + subquery.
+##### Query innestate
+Dette "***Inner query***", sono eseguite (dalla + interna alla + esterna) prima della *Main query*, la quale utilizza solo il risultato che le subquery restituiscono.
+Queste possono essere:
+- **Molteplici**: collegate con operatori tipo `AND` o `OR` e tutte allo stesso livello,
+- **Innestate una nell'altra**: subquery inserite una all'interno dell'altra nelle relative clausole.
+##### Dove usare le subquery?
+Le subquery sono innestate nelle **SELECT**, e si usano nelle **clausole**:
+###### WHERE
+Trovare gli studenti con media > di quella di Luciano. Per fare la query viene comodo prima trovare la media di Luciano, e poi trovare gli studenti con le medie > del risultato della 1a query.
+```sql
+SELECT s.nome, s.media
+FROM Studenti s 
+WHERE 
+	(SELECT s.media 
+	FROM s
+	WHERE s.nome = 'Luciano');
+```
+###### HAVING - RIVEDERE???
+Trovare le classi la cui media totale è > di quella della 5DI.
+```sql
+SELECT c.nome, AVG(s.media) AS media
+FROM Classi c
+JOIN Studenti s ON c.id = s.fkClasse
+GROUP BY c.id
+HAVING
+	(SELECT SUM(s.media)
+	FROM s);
+```
+###### FROM
+
+### Tipi di subquery
+Le subquery in ogni caso <u>possono restituire niente</u>; ma quando restituiscono qualcosa, questo le distingue in:
+##### Single-row subquery
+Ritornano al massimo **1 riga**. Gli operatori utilizzabili in queste sono:
+- "**=**"
+- "**>**"
+- "**>=**"
+- "**<**"
+- "**<=**"
+- "**!=**"
+##### Multiple-row subquery

@@ -1,15 +1,19 @@
 ---
 public: true
-edited_seconds: 800
-modified_at: 02/04/2024 11:11:15
+edited_seconds: 1880
+modified_at: 04/04/2024 23:54:04
 ---
 ### Ridondanza
 Questa è il + grande difetto dei db. Perché:
 1) Occupa spazio inutile,
-2) Intralcia le SELECT 
+2) Intralcia le SELECT,
 3) Rende i dati duplicati e inconsistenti, che non portano informazione.
 ### Normalizzazione
-Questa è un processo che normalizza un db definendo delle regole (modificando lo schema logico del db) al fine di evitare inconsistenze dei dati ed anomalie nelle operazioni.
+> [!important] Normalizzazione
+> La normalizzazione è un processo che parte da un db non normalizzato e definisce delle regole (modificandone lo schema logico) al fine di evitare inconsistenze dei dati ed anomalie nelle operazioni.
+
+Questa è un'ottimizzazione progressiva che permette di riportare le relazioni nelle cosiddette **forme normali**. Il fatto di essere <u>progressiva</u> implica che non è possibile normalizzare un db direttamente a una certa forma normale senza prima normalizzarla a quelle precedenti.
+Ovviamente sui db NoSQL la normalizzazione ha scarso (se non nessun) effetto.
 ##### Steps
 1) Analisi della realtà d'interesse,
 2) [[Progettazione concettuale]],
@@ -19,10 +23,26 @@ Questa è un processo che normalizza un db definendo delle regole (modificando l
 ### Anomalie
 ##### Anomalie d'inserimento
 Se nell'inserire un nuovo record si è costretti a inserire info già presenti nel db. Conseguenza: **ridondanza**.
-Esempio: in una tabella ordini mista a clienti (sbagliata), non è pensabile far inserire al client ogni volta l'indirizzo a cui spedire il pacco perché magari lo scrive ogni volta in modo diverso. Quindi l'indirizzo deve essere presente in una tabella a parte e la selezione deve essere possibile mediante una ComboBox.
+###### Esempio
+In una tabella ordini mista a clienti (non normalizzata), non è pensabile far inserire al client ogni volta l'indirizzo a cui spedire il pacco perché magari lo scrive ogni volta in modo diverso. Quindi l'indirizzo deve essere presente in una tabella a parte e la selezione deve essere possibile mediante una ComboBox.
 ##### Anomalie di cancellazione
 Se nel cancellare un record si è costretti a cancellare info che possono ancora essere utili nel db. Conseguenza: **inconsistenze**.
-Esempio: in una tabella ordini mista a clienti (sbagliata), cancellando una riga si cancella anche il cliente.
+###### Esempio
+In una tabella ordini mista a clienti (non normalizzata), cancellando una riga si cancella anche il cliente.
 ##### Anomalie di aggiornamento
 Se dovendo aggiornare un record si è costretti ad aggiornarne altri. Conseguenza: **performance basse**.
-Esempio: in una tabella ordini mista a clienti (sbagliata), se l'indirizzo di un cliente cambia allora bisogna cambiarlo in tutte le altre tuple.
+###### Esempio
+In una tabella ordini mista a clienti (non normalizzata), se l'indirizzo di un cliente cambia allora bisogna cambiarlo in tutte le altre tuple.
+### Forme normali
+> [!important] Forma normale
+> Una forma normale (FN) è una proprietà di uno schema relazionale che ne garantisce l'assenza di anomalie.
+
+Ci si ferma solitamente alla **3FN** (o alla *Boyce-Codd*) in quanto il costo in termini di tempo per realizzarle sarebbe maggiore dell'effettivo guadagno.
+##### 1FN
+Una relazione si dice in **1a forma normale** (detta anche *forma atomica*) se:
+- Ha una **PK** (tutte le <u>tuple devono essere diverse</u>),
+- **Ogni attributo** è definito su un **dominio** di attributi **atomici** (<u>no attributi composti o multivalore</u>).
+###### Step
+1) Ogni attributo composto viene sostituito da tanti attributi quanti sono i valori atomici che contiene,
+2) Ogni attributo multivalore viene riportato in una nuova tabella con una nuova PK, mentre la PK della tabella primaria diventa FK. Questo si fa invece di duplicare la tupla della tabella primaria per ogni valore dell'attributo in quanto ciò creerebbe anomalie e ridondanza.
+##### 2FN
