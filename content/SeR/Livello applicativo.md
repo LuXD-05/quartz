@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 2670
-modified_at: 04/04/2024 12:07:14
+edited_seconds: 5690
+modified_at: 08/04/2024 23:00:43
 ---
 # Fondamenti
 ### Il livello applicativo
@@ -228,19 +228,67 @@ DNS quindi realizza il servizio di directory di internet. Si risolve un nome di 
 ## Componenti
 Il DNS riguarda vari componenti e processi:
 ### 1) Richiesta della risoluzione
-Viene mandata una richiesta di risoluzione di un nome di dominio da una applicazione (tipo browser) al ***resolver*** (software DNS client e punto di accesso al DNS system) fornito dall'OS. 
-Il *resolver* fa la richiesta al ***recursor*** (o DNS server locale), il quale avvia il processo di ricerca dell'IP corrispondente al nome; e l'informazione, se trovata, viene rimandata al *resolver* come risposta alla richiesta, altrimenti, nel caso di corrispondenza non trovata, questo riceverà un codice di errore.
+##### Step
+1) Viene mandata una richiesta di risoluzione di un nome di dominio da una applicazione (tipo browser) al ***resolver*** (software DNS client e punto di accesso al DNS system) fornito dall'OS. 
+2) Il *resolver* fa la richiesta al ***recursor*** (o DNS server locale), il quale avvia il processo di ricerca dell'IP corrispondente al nome. L'informazione, se trovata, viene rimandata al *resolver* come risposta alla richiesta, altrimenti questo riceverà un codice di errore.
+##### Altro
+Ogni host deve essere configurato con l'IP del default DNS server locale (manualmente in modo statico o col DHCP in modo dinamico, come per il *default gateway*).
+I ***recursor*** sono ridondati per rendere il sistema + robusto/disponibile; infatti ci sono sempre un ***name server*** primario e uno secondario, i cui IP sono solitamente forniti dall'ISP.
+Esistono però dei DNS server locali alternativi a quelli dell'ISP, tipo:
+- Google: 8.8.8.8 (primario) e 8.8.4.4 (secondario).
+- Cloudflare: 1.1.1.1 (primario) e 1.0.0.1 (secondario). (Logga solo per 24 ore e ha RTT bassi).
+Ci sono varie ragioni per scegliere il *recursor* di Cloudflare (rispetto a quello dell'ISP):
+###### Sicurezza
+- Non tutti gli ISP usano tecniche di cifratura forte o supportano il protocollo [[#DNSSEC]] sui loro *name server*; per questo (le query di) molti utenti sono esposti ad attacchi tipo *[[TePI#Attività di hacking|man-in-the-middle]]*.
+###### Prestazioni
+- Spesso gli ISP usano i record DNS per tracciare le attività e i comportamenti degli utenti.
+- La velocità dei *recursor* degli ISP può non essere molto alta.
+- Gli ISP possono eseguire politiche di filtraggio per certi siti bloccandone la risoluzione dei nomi.
 ### 2) Ricerca della soluzione
+Il *recursor* inizia la ricerca degli IP interrogando i *name server* aventi il db distribuito. Ci sono 3 tipi di *name server*:
+![](https://i.imgur.com/Lv0WA1k.png)
+##### Root
+Il ***Root name server*** è il 1° *name server* cui si rivolge il *recursor* per risolvere un nome (ogni *recursor* deve conoscere tutti i *root name server*). Questo accetta le query del recursor e risponde indirizzandolo verso il *TLD name server*.
+Risposta: RR NS.
+##### TLD
+Un ***Top Level Domain name server*** memorizza i dati per tutti i nomi che condividono un dominio *top level* (tipo ".com"). Un *TLD name server* può essere ***authoritative*** per 1 o + nomi di dominio e può non esserlo per altri.
+##### Authoritative
+> [!important] Authoritative
+> Un *name server* è ***authoritative*** (autorevole) per un nome di dominio se questo è registrato presso di lui (quindi se nel suo db è presente l'IP ("RR A" o "AAAA") per quel nome + le altre info necessarie alla registrazione).
 
-### 3) Organizzazione gerarchica dei nomi di dominio
+Un ***Authoritative name server*** amministra (possiede (nel db)) i dati di un nome di dominio, quindi è detto *authoritative* solo per i nomi che gestisce.
+### 3) Gerarchia dei nomi di dominio
+I nomi di dominio hanno una struttura gerarchica ad albero che rispecchia la gerarchia dei *name server*:
+![](https://i.imgur.com/VATKQKO.png)
+Un nome di dominio è costituito da tutte le parole della gerarchia collegate con un ".". Ogni parola (parte) del nome di dominio è detta ***label*** e può essere di max 63 byte; inoltre:
+- Ad un certo livello della gerarchia, non ci potranno essere 2 etichette uguali.
+- C'è sempre una **label riservata** *null* di lunghezza 0, usata per la ***root***.
+###### Esempio
+Prendiamo il nome di dominio dalla foto "example.com.". Per leggere i livelli si fa da destra a sinistra e:
+1) ".": è il 1° e + alto livello (*root*),
+2) "com": è il livello TLD,
+3) "example": è il livello SLD.
+Un nome di dominio che presenta anche il "." finale di *root* è detto ***fully qualified domain name***. La gerarchia dei nomi costituisce il ***namespace***. I dati per risolvere i nomi sono memorizzati nella **gerarchia di *name server***.
+##### Zona e Zone file
+> [!important] Zona
+> Insieme dei dati relativi sotto una certa amministrazione
+
+Le **zone** sono salvate in dei file di testo detti ***zone file***. Una zona può riguardare 1 o + domini e sottodomini:
+![](https://i.imgur.com/L29pxu2.png)
+##### Root zone
+I dati della ***root zone*** sono gestiti dai ***root name server*** e sono salvati nel ***[root zone file](https://www.internic.net/domain/root.zone)***. 
+Ci sono 13 IP diversi riservati per i *root name server* (per i limiti dell'architettura DNS originale) e ognuno è associato a vari *name server* ridondati ([root-servers.org](https://root-servers.org/), 1757 distribuiti nel mondo) i quali usano l'***anycast routing***.
+L'***anycast routing*** permette di assegnare a + pc lo **stesso IP**, così da **distribuire** le richieste in base al **carico** e alla **vicinanza**, fornendo un servizio **uniforme** su vaste aree geografiche. Per questo e la **ridondanza**, i *root name server* sono molto affidabili.
+I 13 IP sono gestiti da varie organizzazioni e sono etichettati da una lettera dalla **A** alla **M**.
+![](https://i.imgur.com/Lt2lo50.png)
+Dato che i *root name server* sono in cima alla gerarchia dei *name server*, i loro IP non possono essere risolti tramite DNS; quindi ogni *recursor* contiene implementati nel sw, i 13 IP.
+##### Albero dei nomi di dominio
 
 ### 4) Risoluzione
-
+a
 ### 5) Servizi aggiuntivi
-
+a
 ### 6) Registrazione
-
+a
 ## DNSSEC
-...
-
-
+a

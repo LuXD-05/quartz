@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 140
-modified_at: 02/04/2024 11:16:33
+edited_seconds: 370
+modified_at: 08/04/2024 19:36:10
 ---
 # Fondamenti
 Il livello trasporto esegue una consegna **process-to-process** perché fornisce servizi ai **processi applicativi**.
@@ -40,10 +40,9 @@ Nell’header del pacchetto TCP ci sono dei campi che permettono a TCP e UDP di 
 La comunicazione è **sempre iniziata dal client** (verso il server) che **genera dinamicamente un n° di porta sorgente** **univoco** per ogni conversazione (così sono possibili + di 1 in contemporanea, tipo per mandarne + a 1 un web server).
 (Porta sorgente e destinazione nel pacchetto livello trasporto poi incapsulati in IP avente IP sorgente e destinazione)
 ### Socket
-È la combinazione tra **IP** e **n° di porta** in formato [**_IP_**]:[**_port_**] sia **sorgente** sia **destinazione**. Identifica in processo su un host. Il socket ha l’IP dell’host e la porta generata (a cazzo) mentre a destinazione la porta è specifica.
+È la combinazione tra **IP** e **n° di porta** in formato \[**IP**]:\[**port**] sia **sorgente** sia **destinazione**. Identifica in processo su un host. Il socket ha l’IP dell’host e la porta generata (a cazzo) mentre a destinazione la porta è specifica.
 La corrispondenza tra socket sorgente e socket destinatario è detta **_socket pair_**, e discrimina una conversazione.
 ### Tipi di numeri di porta
-Gestiti dalla IANA () e sono:
 ###### **Well-Known** (0 – 1023)
 Riservate a app **server** cosicché i client richiedano servizi a una porta specifica nei server.
 ###### **Registrate** (1024 – 49151)
@@ -51,6 +50,7 @@ Sempre per app server, assegnati dalla IANA a un’entità richiedente per usi s
 ###### **Dinamiche** (49152 – 65535)
 (O _ephimeral port_) assegnati dall’OS di un host quando un client inizia una comunicazione con un server.
 # Trasferimento affidabile
+### Affidabilità
 Un protocollo è **affidabile** quando ritrasmette pacchetti alterati/persi, quindi detto **ARQ** (**_Automatic Repeat reQuest_**). Un protocollo ARQ garantisce l’affidabilità tramite:
 1) **Rilevamento degli errori**: con un campo di controllo (checksum o CRC in base al livello del protocollo),
 2) **Feedback dal ricevente**: che informa il trasmettitore sull’esito della ricezione, di 2 tipi:
@@ -81,14 +81,6 @@ Il ricevente accetta e memorizza tutti i pacchetti ricevuti corretti (sia in seq
 (Diversi modi provocano problemi tra trasmittente e ricevente; ricevente deve anche pensare al riordino pacchetti fuori sequenza).
 # Controllo di flusso e della congestione
 I protocolli, oltre a offrire servizi affidabili/inaffidabili e con/senza connessione, possono offrire servizi aggiuntivi:
-### Controllo del flusso 
-(Un servizio _host-to-host_) **capacità** di un trasmittente **di** **rallentare la trasmissione di pacchetti** quando si accorge che il **destinatario non riesce ad elaborarli con la dovuta velocità**.
-I motivi di lentezza possono essere: scarsità di memoria nel buffer, eccessiva multiprogrammazione o lentezza CPU.
-Il controllo di flusso evita la perdita di pacchetti presso il destinatario causata dall’**_overflow_ di buffer di ricezione**.
-### Controllo della congestione
-(Un servizio _host-to-network_) **capacità** di un trasmittente **di** **rallentare la trasmissione di pacchetti** quando si accorge che la **rete** (**router** di infrastruttura) **non riesce ad elaborarli con la dovuta velocità**.
-Il motivo di lentezza è solitamente l’eccessivo traffico in rete.
-Il controllo di congestione evita la perdita di pacchetti nei router per l’**_overflow_ dei loro buffer di ricezione o inoltro**.
 # TCP
 Usato per app che non tollerano perdite o alterazioni nell’ordine di pacchetti ma che tollerano ritardi.
 ### Caratteristiche
@@ -161,7 +153,12 @@ Per le **perdite** si può usare sia **_go-back-N_** sia **s_elective repeat_**;
 Essendo **_full-duplex_**_,_ TCP può usare il **_piggybacking_** per riscontrare segmenti ricevuti (di solito 1 ACK per segmento ricevuto).
 # Controllo di flusso
 ### Cos'è?
-**Controllo di flusso** significa: **regolare** **l’invio** di **segmenti** del trasmittente, per **diminuirne l’afflusso alla destinazione**.
+Il **controllo di flusso** è un servizio *host-to-host*, ed esso **regola l’invio di segmenti** del trasmittente, per **diminuirne l’afflusso alla destinazione**.
+> [!important] Controllo di flusso
+> **Capacità** di un trasmittente **di rallentare la trasmissione di pacchetti** quando si accorge che il **destinatario non riesce ad elaborarli con la dovuta velocità**.
+
+I motivi di lentezza possono essere: scarsità di memoria nel buffer, eccessiva multiprogrammazione o lentezza CPU.
+Il controllo di flusso evita la perdita di pacchetti presso il destinatario causata dall’**_overflow_ di buffer di ricezione**.
 ##### Situazione
 Durante il _3-way handshake_ gli host riservano dei **buffer** di **invio** e **ricezione**, e quando sono ricevuti dei dati corretti, il TCP li mette nel buffer di ricezione in ordine. I processi applicativi però **non leggono il buffer sempre**, ma **solo** **quando** è **pieno**, **e** **non** lo fanno **necessariamente** **quando** **lo** **diventa**. Quindi se una app è lenta a leggere il buffer, si rischia che il trasmittente mandi in **_overflow_** il **buffer di ricezione** (se troppo veloce).
 ##### Soluzione
@@ -184,10 +181,14 @@ L’**MSS** è stabilita con il **SYN** del _3-way handshake_ e **non** può ess
 Se nel percorso vi è un **link** con **MTU < MSS**, il **pacchetto IP** è **scartato** e il router informa il mittente con un **pacchetto** **ICMP** (type 3, code 4) “**Need to Fragment**”, che contiene il **valore** dell’**MTU** **accettato** (mittente lo userà per **l’MSS**).
 # Controllo di congestione
 ### Cos'è?
+> [!important] Controllo di congestione
+> (Servizio *host-to-network*), **capacità** di un trasmittente **di rallentare la trasmissione di pacchetti** quando si accorge che la **rete** (**router** di infrastruttura) **non riesce ad elaborarli con la dovuta velocità**.
+
 La **congestione** riguarda la rete e i router di infrastruttura e si ha in 2 situazioni:
 - All’**inizio** di essa, quando il **tempo di transito** nella rete (**RTT**) **aumenta**.
 - All’**aumento** di essa, quando i **pacchetti si perdono** per il **_timeout_** (**_countdown timer_** che **scade**). 
   (Per esempio passando da collegamenti più veloci ad altri più lenti, tipo da gigabit ad ADSL, pacchetti rallentano).
+Il controllo di congestione evita la perdita di pacchetti nei router per l’**_overflow_ dei loro buffer di ricezione o inoltro**.
 ### Approfondimenti
 TCP impone al mittente un **limite alla frequenza di invio dei segmenti** in base al **livello** “percepito” della **congestione**, grazie al **RTT** (usato dato che è a livello rete, di router e non trasporto).
 Il **throughput** (quantità di dati trasmessi nell’unità di tempo) di una comunicazione TCP è limitato da:

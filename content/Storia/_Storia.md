@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 150
-modified_at: 02/04/2024 10:08:32
+edited_seconds: 170
+modified_at: 09/04/2024 16:48:04
 ---
 ### Capitoli
 - [[13) ]]
@@ -18,3 +18,4 @@ modified_at: 02/04/2024 10:08:32
 - [[6) L'URSS e le ripercussioni in Europa]]
 - [[7) La crisi del 1929 e gli USA di Roosevelt]]
 - [[8) Il regime fascista di Mussolini]]
+- [[9) Le dittature di Hitler e Stalin]]

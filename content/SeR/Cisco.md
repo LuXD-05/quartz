@@ -1,7 +1,7 @@
 ---
 public: true
-modified_at: 02/04/2024 17:06:17
-edited_seconds: 4990
+modified_at: 09/04/2024 16:07:53
+edited_seconds: 5970
 ---
 # Cisco Packet Tracer
 ## Creazione della rete
@@ -27,8 +27,6 @@ Cliccare sul pc e:
    - **Subnet mask** = subnet mask della rete in cui si trova l'host.
    - **Default gateway** = indirizzo di gateway della rete in cui si trova l'host.
 ###### IPv6
-...
-### Switch
 ...
 ### Router (esterna)
 Cliccare sul router (2901) e:
@@ -137,6 +135,50 @@ R1(config-if)# no sh
 ```
 ###### Seriale (router)
 ...
+### Switch
+Gli switch sono configurabili sia cliccando sul dispositivo e andando sulla scheda "Config", sia collegandocisi con un cavo console e andando in "Desktop $\rightarrow$ Terminal". 
+Configurandoli da "Terminal", sugli switch possono essere eseguiti gli stessi comandi di base eseguibili suo router, i principali sono:
+- [[#Dare nome a router|Assegnare hostname al dispositivo]],
+- [[#Protezione accesso con cavo console|Proteggere l'accesso con cavo console]],
+- [[#Impostare password per enable]],
+- [[#Attivare il servizio di crittazione password]]
+- ...
+Gli switch sono principalmente usati per la configurazione di [[Livello rete#VLAN|VLAN]].
+##### Configurare VLAN in switch
+Accedere al terminale dello switch e, dopo `conf t`, creare la **VLAN**:
+```
+S1(config)# vlan 10
+S1(config-vlan)# name V1
+```
+Quando si creano le VLAN, è buona pratica dargli dei **VID numericamente distanti** e proporzionati in base alla grandezza della rete nel caso serva creare altre VLAN.
+##### Mostrare tutte le VLAN di uno switch
+```
+S1(config)# show vlan brief
+```
+##### Configurazione access port
+Negli switch vanno configurate le ***access port*** per le interfacce a cui si collegano **host**, quindi:
+```
+S1(config)# int fa0/1
+S1(config-if)# switchport access vlan 10
+```
+Questo nel caso in cui l'host sia attaccato all'interfaccia "**FastEthernet0/1**" e si voglia associarlo alla **VLAN** con VID **10**.
+##### Configurazione trunk port
+Per configurare le ***trunk port*** si configurano le interfacce di collegamento tra switch:
+```
+S1(config)# int g0/1
+S1(config-if)# switchport mode trunk
+S1(config-if)# sh
+S1(config-if)# switchport trunk allowed vlan none
+S1(config-if)# switchport trunk allowed vlan add 10
+S1(config-if)# no sh
+```
+Va fatto per <u>entrambe le interfacce del collegamento</u>. Questo, in ordine:
+1) Si entra nell'interfaccia dello switch a cui gli si collega un altro switch (nel caso questa sia l'ingerfaccia "**GigabitEthernet0/1**"),
+2) Con `switchport mode trunk` si imposta l'interfaccia come ***trunk***.
+3) Bisogna poi <u>spegnere l'interfaccia</u>.
+4) Si **rimuovono** tutte le **VLAN conosciute** nello switch.
+5) Si **aggiungono** le **VLAN necessarie**, ovvero quelle di cui l'interfaccia vuole inviare il traffico.
+6) Va poi <u>riaccesa l'interfaccia</u>.
 ## Hotkeys
 ##### CTRL + SHIFT + 6
 Sblocca ping errati.

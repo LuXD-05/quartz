@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 50
-modified_at: 01/04/2024 17:09:59
+edited_seconds: 60
+modified_at: 09/04/2024 17:45:59
 ---
 # La rivoluzione bolscevica in Russia
 ##### Il "pericolo rosso" in Europa
@@ -48,7 +48,8 @@ Nei trattati del 1919, il principio di nazionalità venne spesso sacrificato a l
 ### Tentativi insurrezionali in Austria e Ungheria
 I paesi dell'Europa centro-est erano dilaniati da spinte contrastanti: da una parte un nazionalismo reazionario antidemocratico in cerca di rivalsa e dall'altra le insurrezioni delle sinistre comuniste aizzate dalla rivoluzione bolscevica. 2 sono gli esempi più importanti:
 ##### Ungheria
-Nel 1919 una rivolta operaia sfociò nell'occupazione di fabbriche e nella costruzione di soviet; nel mentre i socialdemocratici al governo cedettero ai comunisti proclamando una repubblica sovietica. Questo perché già l'armistizio aveva ridotto il territorio, poi c'erano da fronteggiare cechi e rumeni che volevano espandersi e tutto ciò davanti all'indifferenza di Francia e UK; per questo si puntava ad un aiuto dalla Russia di Lenin. Nello stesso anno si concluse l'esperienza rivoluzionaria in seguito a un colpo di stato dell'ammiraglio Horthy, supportato da rumeni, inglesi e francesi, nel cui regime autoritario si scatenò una repressione degli oppositori.
+Nel 1919 una rivolta operaia sfociò nell'occupazione di fabbriche e nella costruzione di soviet; nel mentre i socialdemocratici al governo cedettero ai comunisti proclamando una repubblica sovietica. Questo perché già l'armistizio aveva ridotto il territorio, poi c'erano da fronteggiare cechi e rumeni che volevano espandersi e tutto ciò davanti all'indifferenza di Francia e UK; per questo si puntava ad un aiuto dalla Russia di Lenin. 
+Nello stesso anno si concluse l'esperienza rivoluzionaria con un colpo di stato dell'ammiraglio Horthy, supportato da rumeni, inglesi e francesi, nel cui regime autoritario si scatenò una repressione degli oppositori.
 ##### Austria
 Anche qui (ma in modo incruento) prevalsero le forze conservatrici. Alle elezioni del 1920 vinsero i cristiano-sociali e i socialdemocratici si accontentarono di mantenere il municipio di Vienna.
 ### La repubblica socialdemocratica in Germania
@@ -66,7 +67,7 @@ I nazionalisti riuscirono a convincere milioni di tedeschi per la frustrazione d
 L'economia tedesca era già in ginocchio, ma nel 1923 ci fu un tracollo finanziario in seguito all'occupazione del bacino della Ruhr di francesi e belgi (pretesto mancato pagamento di 1 rata). Il governo dovette quindi aumentare le emissioni di banconote e il valore del marco precipitò, scaturendo in una terribile inflazione. Nel mentre, ad Amburgo e a Monaco, il partito nazionalsocialista dei lavoratori di Hitler (nuova formazione di estrema destra) tentò un colpo di stato detto "***Putsch di Monaco***" che però fallì (Hitler condannato a 5 anni ma esce dopo meno di 1).
 ### Una precaria stabilizzazione
 I repubblicani reagirono: tutti i partiti (da destra moderata a sinistra socialdemocratica) si strinsero in un governo di coalizione sotto Stresemann, che riuscì a isolare estrema destra e sinistra, trattare con la Francia e avviare una politica economica. Ciò aveva comunque convinto gli stati vincitori che il sistema delle riparazioni non funzionava; ma la soluzione giunse dagli USA con gli aiuti economici del piano Dawes, grazie alle quali la Germania si risollevò.
-Con l'accordo di Locarno (1925) Germania e Francia migliorarono i rapporti e l'anno dopo la Germania venne ammessa alla Società delle Nazioni; quindi il governo di Weimar sembrava aver retto, ma la repubblica era debole e le oligarchie e il loro consenso forti, infatti nel 1925 venne eletto presidente Hindenburg, già capo dell'esercito del *Reich* della WWI.
+Con l'accordo di Locarno (1925) Germania e Francia migliorarono i rapporti e l'anno dopo la Germania venne ammessa alla Società delle Nazioni; quindi il governo di Weimar sembrava aver retto, ma la repubblica era debole e le oligarchie e il loro consenso forti, infatti nel 1925 venne eletto presidente **Hindenburg**, già capo dell'esercito del *Reich* della WWI.
 ### Francia e UK alla ricerca della stabilità
 Negli anni 20 anche Francia e UK si trovarono ad affrontare varie difficoltà; tuttavia in questi le istituzioni parlamentari e liberali ressero nonostante l'instabilità interna del dopoguerra. 
 - Francia: si alternarono molti governi accomunati da un moderatismo che escluse le tendenze estremiste e i comunisti.

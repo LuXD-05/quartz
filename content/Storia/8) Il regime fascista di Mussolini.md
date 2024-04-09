@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 15530
-modified_at: 05/04/2024 17:30:02
+edited_seconds: 16410
+modified_at: 09/04/2024 17:04:52
 ---
 # Il fascismo e l'avvento al potere di Mussolini
 ### Il fascismo dalle origini allo squadrismo
@@ -206,5 +206,17 @@ Le truppe etiopiche (sotto Haile Selassie I), pur resistendo per mesi e a volte 
 Il 5 maggio 1936 la guerra si concluse con l'entrata di Badoglio ad Addis Abeba (capitale) e 4 giorni dopo Mussolini proclama la restaurazione dell'impero ("romano"). Nasceva quindi l'Africa orientale italiana, composta dalle colonie dell'Eritrea, Somalia italiana e Abissinia. La vittoria permise al regime di rafforzare la propria immagine: l'Italia si era assicurata la colonia etiope senza grandi ripercussioni in politica estera.
 # L'antisemitismo e le leggi razziali
 ### Le leggi antiebraiche
+Tra il 1938 e il 1939 il regime fascista promulgò dei provvedimenti (parti integranti di un sistema di norme razziste) detti "**leggi per la difesa della razza**". Queste, basate sul modello tedesco delle "[[9) Le dittature di Hitler e Stalin#Le leggi di Norimberga|leggi di Norimberga]]", avevano come obiettivo la discriminazione degli ebrei.
+La legislazione antisemita comprendeva:
+- Il divieto dei matrimoni misti con italiani,
+- Il licenziamento degli ebrei da: pubbliche amministrazioni, banche e assicurazioni + l'interdizione dal lavorare come notai o giornalisti + altre restrizioni professionali,
+- Il divieto di possedere aziende o immobili sopra un certo valore + di avere alle dipendenze domestici ariani,
+- L'espulsione degli ebrei dalle scuole pubbliche (sia alunni che professori),
+- (Limitazioni sulla residenza in Italia di ebrei stranieri),
+- (L'obbligatorietà dell'annotazione di appartenenza alla razza ebraica).
+ Queste disposizioni furono varate per far emigrare gli ebrei nella prospettiva di un'espulsione di massa (in max 10 anni); solo che l'ingresso dell'Italia in WWII riservò agli ebrei il crudele destino dello sterminio di massa.
+##### Il manifesto degli scienziati razzisti
 
 ### Le radici dell'antisemitismo in Italia
+Nonostante l'introduzione delle leggi antisemite fosse in linea con gli sviluppi dell'alleanza con la Germania, la decisione fu un atto autonomo del fascismo. 
+La politica di discriminazione razziale si basava su un sentimento antisemita presente in Italia da lungi.  Anche la chiesa (in parte forse per i patti Lateranensi) fu tiepida nelle reazioni; infatti si limitò a: tutelare gli ebrei convertiti al cattolicesimo e rifiutare il razzismo antisemita "materialistico e biologico", ma non quello "spirituale" (al contrario del mondo cattolico in se, in cui molti manifestarono disagio e sconcerto per il regime).
