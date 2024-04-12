@@ -1,30 +1,29 @@
 ---
 public: true
-edited_seconds: 310
-modified_at: 11/04/2024 16:54:38
+edited_seconds: 10
+modified_at: 01/04/2024 11:02:34
 ---
 # Gli "anni ruggenti"
 ### La prosperità degli anni '20
-Per gli USA la **WWI** <u>non</u> delineò una completa catastrofe su ogni fronte, anzi, superata una breve recessione post-bellica del 1920-1921, si ebbe un **boom** nell'**economia**, tanto che:
+Per gli USA la WWI non delineò una completa catastrofe su ogni fronte, anzi, superata una breve recessione post-bellica del 1920-1921, si ebbe un boom nell'economia, tanto che:
 - Reddito nazionale aumenta del 50%,
 - Vi erano poi 10 miliardi di dollari di crediti verso gli europei
 - Si verificò una grande crescita nel settore terziario: nelle grandi città sorsero grattacieli con uffici di agenzie industriali e finanziarie.
-Questo clima di prosperità e di ottimismo che caratterizzò gli anni '20 bastò a definirli "***anni ruggenti***" (*Roaring Twenties*).
+Questo clima di prosperità e di ottimismo che caratterizzò gli anni Venti bastò a definirli "anni ruggenti" (*Roaring Twenties*).
 ### La presidenza repubblicana e l'isolazionismo
-Negli anni dopo la WWI gli USA presero decisioni nella **direzione opposta** a quella di **Wilson**; andando infatti nel 1920 a <u>bocciare il trattato di Versailles</u> e a <u>ritirarsi dalla Società delle Nazioni</u>. 
-In quell'anno le elezioni, che per la prima volta videro la partecipazione delle **donne** al voto, videro il ritorno dei **repubblicani** alla presidenza. Fattore importante del loro successo fu il sopravvento della corrente <u>isolazionista/conservatrice</u> nell'elettorato.
+Negli anni dopo la WWI gli USA presero decisioni nella direzione opposta a quella di Wilson; andando infatti nel 1920 a bocciare il trattato di Versailles e a ritirarsi dalla Società delle Nazioni. 
+In quell'anno le elezioni, che per la prima volta videro la partecipazione delle donne al voto, videro il ritorno dei repubblicani alla presidenza. Fattore importante del loro successo fu il sopravvento della corrente isolazionista/conservatrice nell'elettorato.
 ### La politica economica
-L'isolazionismo politico si tradusse in una linea economica mirata a difendere la **produzione interna**, che si concretizzò con **tariffe doganali sulle importazioni**. Al contempo, l'<u>annullamento</u> dei provvedimenti di <u>controllo dei prezzi</u> e di <u>limitazione dei monopoli</u> risultò in una **crescita incontrollata dei trust** (tipo la *Standard Oil Company*). 
-Quasi **inesistente** fu invece l'azione di **assistenza sociale** (tipo misure per una più equa distribuzione del reddito), senza tutele dei ceti popolari di fronte a salari che crescevano molto meno dei profitti. Da tutto ciò esclusi ovviamente gli afroamericani.
+L'isolazionismo politico si tradusse in una linea economica mirata a difendere la produzione interna, che si concretizzò con tariffe doganali sulle importazioni. Al contempo, l'annullamento dei provvedimenti di controllo dei prezzi e di limitazione dei monopoli risultò in una crescita incontrollata dei trust (tipo la Standard Oil). 
+Quasi inesistente fu invece l'azione di assistenza sociale (tipo misure per una più equa distribuzione del reddito), senza tutele dei ceti popolari di fronte a salari che crescevano molto meno dei profitti. Da tutto ciò esclusi ovviamente gli afroamericani.
 #### L'automobile
 Dagli anni 20 l'automobile, prodotta in serie, inizia ad assumere un ruolo sempre più centrale nella società nonostante gli alti prezzi di essa e della benzina. La sua vasta diffusione richiese l'adattamento delle infrastrutture urbane, come officine specializzate e punti di rifornimento. Si arrivò poi alla patente e alle autostrade, mentre l'allargamento delle carreggiate e l'adattamento del loro fondo richiesero tempi più lunghi. Non vi era poi ancora un codice della strada perfezionato (approvato solo nel 33), ma c'era una segnaletica limitata (dal 22). Si diffuse quindi il mito della velocità, simbolo di una modernità inarrestabile.
 ### "Paura dei rossi", razzismo, xenofobia
-Il prevalere dell'indirizzo **conservatore/isolazionista** fu favorito dalla *Red Scare*, la "**paura dei rossi**", diffusasi dopo la [[6) L'URSS e le ripercussioni in Europa#La rivoluzione bolscevica in Russia|rivoluzione bolscevica]] in Russia e che fece intensificare le agitazione sindacali portando alla nascita di un **partito comunista** con membri principalmente immigrati e anarchici.
-Chi arrivava dall'**Europa**, infatti, veniva <u>sospettato di diffondere idee sovversive</u>; perciò furono molte le **espulsioni** (di socialisti, comunisti e anarchici) oltre a **leggi sull'immigrazione** sempre più **restrittive**. L'esempio + eclatante fu la condanna alla pena capitale di **Sacco** e **Vanzetti** (1920), 2 <u>anarchici italiani accusati di omicidio</u> nonostante l'<u>assenza di prove</u>.
-Si rinforzò poi il ***Ku Klux Klan*** (KKK) che, con più di 2 milioni di affiliati, si era affermato sul territorio e riprese a colpire, oltre ai neri, anche ebrei e altre minoranze.
+Il prevalere dell'indirizzo conservatore/isolazionista fu favorito dalla *Red Scare*, la "paura dei rossi", diffusasi dopo la rivoluzione bolscevica in Russia e che fece intensificare le agitazione sindacali portando alla nascita di un partito comunista con membri principalmente immigrati e anarchici.
+Chi arrivava dall'Europa, infatti, veniva sospettato di diffondere idee sovversive; perciò furono molte le espulsioni (di socialisti, comunisti e anarchici) oltre a leggi sull'immigrazione sempre più restrittive. L'esempio + eclatante fu la condanna alla pena capitale di Sacco e Vanzetti (1920), 2 anarchici italiani accusati di omicidio nonostante l'assenza di prove.
+Si rinforzò poi il Ku Klux Klan (KKK) che, con più di 2 milioni di affiliati, si era affermato sul territorio e riprese a colpire, oltre ai neri, anche ebrei e altre minoranze.
 ### Proibizionismo e delinquenza organizzata
-In un clima di conformismo ipocrita e pregiudizio razziale, si iniziò a manifestare una sempre + palese **diffidenza** verso i **ceti umili** del proletariato, accusati di abusare di **alcool** e di provocare **degradazione** fisica e morale della popolazione americana. Da ciò si arrivò nel **1919** alle **leggi proibizioniste**, che **vietavano** la **produzione, circolazione e il consumo di alcolici** nel paese. 
-Tuttavia questo aumentò la **delinquenza organizzata**, che traeva enormi profitti dalla distillazione e **spaccio** clandestino di **alcolici** ed era controllata da gangster tra cui **Al Capone**. Il fallimento del proibizionismo porto alla nascita di un movimento favorevole alla loro abrogazione (avvenuta nel **1932**).
+In un clima di conformismo ipocrita e pregiudizio razziale, si iniziò a manifestare una sempre + palese diffidenza verso i ceti umili del proletariato, accusati di abusare di alcool e di provocare degradazione fisica e morale della popolazione americana. Da ciò si arrivò nel 1919 alle leggi proibizioniste, che vietavano la produzione, circolazione e il consumo di alcolici nel paese. Tuttavia questo aumentò la delinquenza organizzata, che traeva enormi profitti dalla distillazione e spaccio clandestino di alcolici ed era controllata da gangster tra cui Al Capone. Il fallimento del proibizionismo porto alla nascita di un movimento favorevole alla loro abrogazione (avvenuta nel 1932).
 # Il crollo di Wall Street e la "grande depressione"
 ### La febbre speculativa
 Era aumentato anche il volume delle negoziazioni di titoli azionari alla borsa di Wall Street a New York, in quanto si era diffusa la convinzione che arricchirsi con la speculazione finanziaria fosse un'attività semplice e sicura (molti investivano grandi % del loro patrimonio in borsa perché fomentati dal grande potenziale guadagno).

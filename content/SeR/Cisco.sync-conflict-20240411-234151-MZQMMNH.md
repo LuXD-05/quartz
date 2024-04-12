@@ -1,7 +1,7 @@
 ---
 public: true
-modified_at: 11/04/2024 21:40:07
-edited_seconds: 6010
+modified_at: 09/04/2024 16:07:53
+edited_seconds: 5970
 ---
 # Cisco Packet Tracer
 ## Creazione della rete
@@ -158,7 +158,7 @@ S1(config)# show vlan brief
 ##### Configurazione access port
 Negli switch vanno configurate le ***access port*** per le interfacce a cui si collegano **host**, quindi:
 ```
-S1(config)# int fa0/1
+S1(config)# int f0/1
 S1(config-if)# switchport access vlan 10
 ```
 Questo nel caso in cui l'host sia attaccato all'interfaccia "**FastEthernet0/1**" e si voglia associarlo alla **VLAN** con VID **10**.
@@ -257,8 +257,7 @@ Prendiamo la RD come esempio:
 ###### Router-switch gigabit interface
 ![](https://i.imgur.com/6v5Vjfl.png)
 ###### Serial port (send to RP)
-![](https://i.imgur.com/ZgQltt9.png)
+
 ###### Serial port (receive from RC)
-![](https://i.imgur.com/dDQtn12.png)
+
 ###### Static routes
-![](https://i.imgur.com/gJAHfLu.png)

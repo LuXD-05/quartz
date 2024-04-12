@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 680
-modified_at: 03/04/2024 18:53:18
+edited_seconds: 990
+modified_at: 11/04/2024 16:54:38
 ---
 # Definizione del team di progetto
 Il processo di creazione del team di progetto si compone di:
@@ -32,4 +32,13 @@ Per definire un compito, bisogna descrivere almeno:
 La definizione dei compiti:
 - Si basa sui prodotti da realizzare,
 - Richiede una schedulazione dei prodotti dettagliata fino al livello di sottoprodotti elementari (PBS).
+Per questo differisce poco dalla schedulazione di prodotti in quanto ad ogni elemento di questa corrisponde un compito.
+###### Esempio
+
+[link](https://projectmanagement.matematicamente.it/attachments/article/30/uda_07_Lezione_1_Schedulazione_Prodotti_Compiti.pdf)
+##### Tipi di compito
+Ci sono diversi tipi di compito:
+- Generale (management, amministrazione, progettazione, realizzazione, approvvigionamento, monitoraggio...),
+- Specifico di settore (di interesse del progetto: sviluppo sw, configurazione sw, installazione rete...),
+- Specifico del progetto (rilevazione stato dell'arte...).
 

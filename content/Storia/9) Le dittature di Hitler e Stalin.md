@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 90
-modified_at: 09/04/2024 18:55:47
+edited_seconds: 3740
+modified_at: 12/04/2024 16:36:07
 ---
 # L'ascesa di Hitler
 ### Una breve stabilizzazione
@@ -35,5 +35,63 @@ In questa situazione drammatica, chi aveva perso e chi temeva di perdere il lavo
 ### Le deboli reazioni al nazismo
 In questo clima anche alcuni partiti conservatori "tradizionali" erano propensi a una svolta autoritaria, come il DNVP (*Partito popolare nazional-tedesco*), i cui esponenti si affidavano al presidente della repubblica Hindenburg e pensavano di poter "addomesticare" Hitler per tagliare fuori la sinistra e stabilizzare il sistema politico (analogamente ai liberali e Giolitti).
 Il partito centrista del ***Zentrum*** (cattolico) si schierò invece contro i nazisti per i loro atteggiamenti anticlericali e cercò di mantenere il proprio ruolo nel governo con l'aiuto di conservatori moderati e socialisti.
-Anche a sinistra il nazismo fu sottovalutato in quanto il SPD (*partito socialista tedesco*) si stava contendendo l'egemonia sulla classe operaia con il KPD (*partito comunista tedesco*, appoggiava nazisti per rivoluzione).
+Anche a sinistra il nazismo fu sottovalutato in quanto il **SPD** (*partito socialista tedesco*) si stava contendendo l'egemonia sulla classe operaia con il **KPD** (*partito comunista tedesco*, che però in Germania appoggiava i nazisti per la rivoluzione).
 Nel 1930, il governo centrista ricorse alle **elezioni anticipate** sperando di ottenere una maggioranza, ma fu inutile, dato che il voto fu + per i comunisti ma soprattutto per i nazisti, che passarono da 12 a 107 seggi.
+### Hitler al potere
+Il 30 gennaio 1933 Hindenburg incaricò Hitler di presiedere il governo. Da lì tutto accelerò: il 1° febbraio il parlamento venne sciolto e il 27 venne bruciata la sede del *Reichstag* (per mano degli stessi nazisti che poi addossarono la colpa ai comunisti per farli dichiarare fuorilegge).
+A marzo 1933, con delle nuove elezioni, il partito nazista ottenne il 43,9% dei voti, mentre il 23 marzo fu votata (con consenso *Zentrum* e opposizione socialdemocratici) una legge con la quale Hitler poté promulgare leggi senza l'approvazione del parlamento. Da qui iniziò il processo di "***nazificazione***" della Germania:
+- I ***Lander*** (governi regionali) furono sciolti e il potere fu centralizzato nelle mani del governo,
+- Tutti i **partiti politici** vennero soppressi ad eccezione di quello **nazista**.
+- I **sindacati** furono sciolti,
+- Le **SS** vennero incluse nelle **forze di polizia**,
+- Allestiti i primi **campi di concentramento** per oppositori del regime (il 1° a **Dachau**, vicino a Monaco),
+- Bruciati pubblicamente tutti i libri di autori antinazisti,
+- Istituita una violenta **campagna antisemita** (con boicottaggio di attività ebraiche).
+Tra il **30 giugno** e il **1 luglio 1934**, la "**notte dei lunghi coltelli**", gran parte delle **SA** fu **eliminato** con assassini e arresti (con anche vari oppositori di destra e alti ufficiali dell'esercito). Hitler diede così il via alla stagione di <u>totalitarismo nazista</u>, cancellando gran parte delle **opposizioni**.
+# La struttura totalitaria del 3° Reich
+### Il Fuhrer e la nuova Germania
+Alla **morte di Hindenburg** (1934) Hitler assunse il pieno controllo dello stato; quindi nacque il **3° Reich** con il **Fuhrer** (lui) al vertice nel quale si riunivano i poteri di **presidente** e **cancelliere** della **repubblica di Weimar** (Hitler però si vedeva come la "forza vitale" della Germania, che rappresentava la nazione senza bisogno di istituzioni). Ebbe quindi inizio la sua doppia missione:
+- Salvare la Germania, risollevandola dall'umiliazione della sconfitta militare e dalla crisi economica,
+- Restituirle il rango di grande potenza europea e mondiale.
+### Il fondamento ideologico
+Il regime si basava sull'idea hitleriana della Germania come "**comunità di popolo**", cioè un <u>insieme di persone accomunate dall'appartenenza alla stessa razza</u>: quella **ariana** (nazismo si basava sulla falsa teoria che indicava i tedeschi come discendenti del gruppo linguistico indoeuropeo degli Ariani). Lo **stato**, espressione di questa, era supremo e assoluto; mentre coloro al di fuori di esso non contavano ed erano sacrificabili.
+##### Totalitarismo
+Un regime totalitario si basa su vari elementi imprescindibili:
+- La concentrazione del potere nelle mani di un singolo o di un'oligarchia inamovibile ed esente da giudizio pubblico,
+- L'imposizione di un'ideologia ufficiale con governati completamente subalterni ad essa,
+- Un unico partito di massa,
+- Il controllo degli apparati amministrativi,
+- Il ricorso alla propaganda con la manipolazione delle informazioni e delle comunicazioni,
+- L'uso sistematico del terrore di stato (violenza di polizia o forze armate contro avversari politici o minoranze *target*).
+### L'organizzazione dello stato
+La società venne plasmata in base ai principi nazisti, e:
+- A **10 anni i ragazzi** entravano nella "***gioventù hitleriana***", un'organizzazione paramilitare che doveva forgiare giovani "combattenti" tramite un forte indottrinamento ideologico e l'addestramento all'uso delle armi.
+- I **lavoratori**, dopo lo scioglimento dei sindacati, furono raccolti nel "***Fronte del lavoro***"
+### Consenso e dissenso
+Il **consenso** fu ottenuto con <u>provvedimenti legislativi populistici e autoritari</u>:
+- La **classe operaia** fu conquistata con misure che istituirono forme di **assistenza sociale** e che riuscirono a **riassorbire la disoccupazione** grazie alla militarizzazione dell'industria.
+- I **ceti medi** invece, furono rassicurati dalla **restaurazione dell'ordine** e sedotti dagli **appelli all'orgoglio nazionale**.
+Per quanto riguarda il mondo religioso, nel **1933 Hitler** stipulò un **concordato** con la **chiesa cattolica** e accordi con le varie **chiese protestanti**, così queste potevano esercitare le proprie attività (entro certi limiti) in cambio del silenzio su quanto riguardava il 3° Reich. Chi **rifiutò**, tipo i <u>testimoni di Geova</u>, fu duramente **perseguitato**.
+Per **reprimere il dissenso** risultarono fondamentali i corpi di polizia, in particolare la **Gestapo** ("polizia segreta di stato", dal 1934 sotto il controllo delle SS ed esonerata dal controllo del potere giudiziario); infatti questi estinsero l'opposizione, riducendo i comunisti a qualche gruppo clandestino ed esiliando socialisti e democratici.
+##### La propaganda
+Come già col fascismo, Hitler fece largo uso della **propaganda** per crearsi un consenso di massa. **Goebbels**, <u>ministro della propaganda dal 1937</u>, operò su + piani:
+- Con la **radio** portò la voce di Hitler nelle case del popolo,
+- Con il **cinema** produsse vari documentari in cui si esaltava il Fuhrer,
+- Con **adunate** nelle piazze e negli stati compattò il popolo.
+### Le leggi di Norimberga
+Con l'avvento del nazismo, l'**antisemitismo** divenne una politica di stato assecondata da molti. All'ostilità quotidiana (tipo boicottaggi di negozi ebrei), si aggiunsero **discriminazioni ufficiali**. Si arrivò poi, nel **1935**, alle **leggi di Norimberga**, con cui venne <u>negata la parità di diritti agli ebrei</u>, limitandone (con anche altre prescrizioni) libertà di lavoro, di iniziativa economica, di insegnamento... 
+Dei 500000 circa ebrei nel paese, dal **1933** al **1939** circa **200000** di loro abbandonarono il paese; mentre, chi non poteva, rimase vittima delle violenze naziste.
+Tra il **9** e il **10 novembre 1938**, col pretesto della morte di un diplomatico tedesco, i nazisti alimentarono una **sollevazione popolare** che dilagò in tutto il paese e si tradusse nel famoso episodio della "**notte dei cristalli**", così detta per la <u>distruzione delle vetrine dei negozi ebrei</u>, ma vennero anche bruciati migliaia di case, sinagoghe e centri sociali. Diversi morirono mentre circa 30000 furono arrestati e in parte **deportati** nei **lager**.
+### I lager
+I **campi di concentramento** erano gestiti dalle **SS** ed erano <u>sottratti a qualsiasi giurisdizione legale</u>. In essi venivano accolti <u>testimoni di Geova, gay, prigionieri politici o "asociali"</u> (zingari, alcolizzati, senzatetto...); e dal 1938 anche gli <u>ebrei</u>. Questi cancellavano al dignità dei prigionieri, i quali subivano violenze di ogni genere (spesso morendo tra gli stenti) e venivano classificati come "subumani".
+##### La classificazione
+I deportati venivano catalogati per evidenziare la loro condizione/colpa e le misure da prendere nei loro confronti. Dal 1936 vi era una legenda standard basata su triangoli di colore:
+- **Rosso**: prigionieri politici o sacerdoti antinazisti,
+- **Verde**: delinquenti,
+- **Blu**: emigranti (dalla guerra di Spagna),
+- **Viola**: testimoni di Geova e altri religiosi,
+- **Rosa**: gay,
+- **Giallo**: ebrei,
+- **Nero** (a volte marrone): "asociali" (zingari, vagabondi, alcolizzati, malati di mente, puttane o lesbiche)
+I triangoli potevano essere **raddoppiati e sovrapposti**, poi un sistema di **lettere** dava specifiche di provenienza e infine ogni divisa aveva un **numero** che veniva anche tatuato sul braccio sinistro dei prigionieri.
+# I regimi autoritari in Europa
