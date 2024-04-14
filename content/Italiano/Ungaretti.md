@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 2700
-modified_at: 10/04/2024 00:24:15
+edited_seconds: 5520
+modified_at: 13/04/2024 00:17:36
 ---
 # Vita e opera
 ### Infanzia e formazione
@@ -10,7 +10,7 @@ Nel **1912** va a **Parigi**, frequenta lettere e filosofia all'**università**,
 ### La 1a stagione poetica e la WWI
 Allo scoppio della **WWI** Ungaretti va a **Milano** e aderisce al movimento **interventista**. Nel **1915** (oltre a pubblicare le prime poesia su "Lacerba"), all'entrata in guerra dell'Italia, si **arruola volontario** e parte per il **Carso**. 
 La dura e traumatica esperienza della **guerra** segna l'inizio della sua **biografia poetica**, caratterizzata da **temi** quali: la vita di trincea, la fragilità dell'esistenza, il legame tra gli uomini... presenti anche nella sua **1a raccolta**: ***Il Porto Sepolto*** del **1916**. Nel **1918** è chiamato a Champagne sul **fronte occidentale**; poi, finita la guerra, torna a **Parigi** e nello stesso anno (1918) la **morte di Apollinaire** gli ispira la raccolta ***La guerre*** del **1919** (con al contempo a Firenze ***Allegria di Naufragi***, che ne riprende in italiano i testi), la quale nel 1931 sarà rinominata insieme alla 1a raccolta in ***L'Allegria***.
-Sposa poi **Jeanne Dupoix**, con la quale avrà **2 figli**: **Anna Maria** (1925) e **Antonietto** (1930).
+Sposa poi **Jeanne Dupoix**, con la quale avrà **2 figli**: **Anna Maria** (1925) e **Antonietto** (1930). <br>
 ### La 2a stagione poetica
 Nel **1921** va a **Roma**, lavora al Ministero degli Esteri e la città (con le sue architetture **barocche** e le **rovine**) lo affascina e gli suscita una riflessione sul **tempo**, rappresentata nella 3a raccolta ***Sentimento del Tempo*** (**1933**). 
 Nel **1936** invece va in **Brasile** siccome gli è stata offerta la **cattedra di lingua e letteratura italiana** a San Paolo del Brasile, dove tiene corsi sui grandi poeti italiani (Dante, Petrarca, Leopardi...); e nello stesso anno esce la 2a edizione di *Sentimento del Tempo* e il *Quaderno di traduzioni*. Questo periodo felice è però funestato dalla **morte del fratello** nel **1937** e da quella del **figlio Antonietto** nel **1939**.
@@ -22,7 +22,47 @@ Nel **1942**, quando il <u>Brasile entra in WWII</u>, Ungaretti torna a **Roma**
 In seguito c'è la **traduzione francese** delle sue poesie (*Les Cinq Livres*, 1954) ma anche la **morte** della moglie **Jeanne** nel **1958**. Nel **1960** invece esce l'ultima raccolta ***Il Taccuino del Vecchio*** a cura del critico Piccioni (a cui unisce testimonianze di poeti e amici). Ungaretti è ormai un poeta riconosciuto e onorato, nel 1964 tiene incontri alla **Columbia** University (New York) dove incontra poeti della ***Beat Generation***, tra cui **Ginsberg**. 
 Nel **1969** esce ***Vita d'un uomo*** (raccolta di tutte le sue poesie); e poi di ritorno dall'università dell'**Oklahoma** dove stava ritirando un premio, Ungaretti si ammala e **muore** a Milano nel **1970**.
 # Visione del mondo
+### TODO
+Interdipendenza tra poesia e vita???
+Sradicamento e nomadismo
+Deserto e ricerca dell'innocenza?
+Fragilità dell'esistenza
+Il dolore
+Poesia non pessimistica ma ottimistica
+Ossimoro allegria di naufragi
+Cattolicesimo
+"Parola pura" (frasi scarne, poesie verticali) + roba presa da futurismo + roba presa da simbolismo francese
+Lavoro di rimaneggiamento (fratelli)
+Spostamento del testo (porto sepolto --> allegria)
+Sentimento del tempo (alla morte da violenza di guerra, si sostituisce il disfarsi delle cose inesorabile a causa del tempo)
+
+### Temi
+##### Interdipendenza tra poesia e vita
+La produzione ungarettiana è caratterizzata da dei rapporti di interdipendenza fra vita del poeta e poesia.
 ...
+##### Sradicamento e nomadismo
+Il sentimento di ***sradicamento*** si avverte nelle poesie ungarettiane caratterizzate da luoghi stranieri ed inospitali, in cui il poeta, non riesce a riconoscersi come parte del contesto in cui si trova, rendendolo portatore di una condizione di "nomadismo" a causa della lontananza dalla patria o da un luogo che può chiamare "patria". Esempio lampante si può trovare in [[#Girovago]], poesia di *Allegria di Naufragi*, poesia in cui il <u>girovagare tra terre straniere</u> metaforizza la **ricerca** (del poeta) di una condizione di **autenticità**, di un "**paese innocente**" non contaminato da storia o memoria.
+##### Fragilità dell'essere e dolore
+(Fratelli, Soldati)
+I temi della fragilità dell'esistenza e del dolore/sofferenza attraversano tutte le fasi della poetica ungarettiana.
+- Nelle poesie della 1a fase, il poeta è di fronte alla guerra e alla morte, evidenziando la sua fragilità di creatura. Questa sensazione di precarietà spinge lui e gli uomini a creare legami gli uni con gli altri e con il cosmo.
+- Nella 2a stagione poetica, gli stessi temi sono declinati in modo differente in quanto la violenza della guerra viene sostituita dal sentimento della lenta consunzione (logoramento) del tempo, che tutto dissolve e che fa apparire l'esistenza come costantemente minacciata dal vuoto. Qui il dolore diventa un sentimento universale a cui l'uomo tenta di trovare un senso attraverso la ricerca di Dio.
+- Nella 3a fase invece (per le vicende private e storiche), Ungaretti si rapporta al vuoto che il dolore scava nell'anima. *Il Dolore*, il cui titolo nasce dalla morte del fratello, del figlio Antonietto e dalla catastrofe della WWII, annuncia la coincidenza del dramma personale e collettivo in un dolore universale. Il poeta non si sofferma però sulla morte, bensì sullo stato d'animo dovuto all'assenza scaturendo una poesia dominata dal rimpianto.
+##### La fratellanza e il legame col cosmo
+(Fratelli)
+nonostante la condizione di ...
+...
+naufragio
+##### Attaccamento alla vita e speranza
+Ungaretti però non si condanna al "naufragio" in quanto, nonostante esso, negli uomini permane sempre un *senso vitale* che li spinge alla ricerca dell'innocenza e dell'"allegria"; perché persino nell'inferno della trincea, i compagni si rivelano "fratelli" e si uniscono accomunati dal dolore. Ciò è fissato nel titolo ossimorico della raccolta, in cui l'"allegria" è accostata al "naufragio" (*Allegria di Naufragi*).
+Più tardi questo tema verrà ripreso diversamente con *La Terra Promessa* (il cui titolo recupera l'allegoria biblica della terra promessa agli Ebrei) sottolineando che fino alla fine l'uomo mantiene la speranza nonostante il dolore perseguendo il miraggio di una "terra promessa".
+Anche in ***Soldati*** si può cogliere uno spunto di questo tema se si pensa che "*non si sa*" quando le **foglie** (soldati) **cadranno** (moriranno), ma <u>nel mentre rimangono attaccate all'albero</u>. Ciò sottolinea come, <u>nonostante l'uomo stia soffrendo</u>, esso **non si arrende al dolore** e trova riparo nella **fratellanza**. **Ungaretti**, ribadendo questo, si presenta come, <u>+ che pessimista</u>, uno che anche in guerra cerca sempre il **lato positivo** e la **speranza**.
+##### Deserto e ricerca dell'innocenza
+(Girovago)
+Il deserto (+ tardi nella concezione di Ungaretti), è un luogo "innocente" ed "iniziale", che rappresenta una condizione primigenia di autenticità, anteriore ad ogni evento o esperienza vissuti.
+##### Lo scorrere inarrestabile del tempo
+(Sentimento del tempo)
+
 # Testi ed estratti
 ### L'allegria
 ##### Girovago
@@ -31,5 +71,10 @@ Nel **1969** esce ***Vita d'un uomo*** (raccolta di tutte le sue poesie); e poi 
 - L'**innocenza**: il girovagare si fa metafora della **ricerca** da parte del poeta **di un "paese innocente"**, ovvero di una condizione "**iniziale**", pura e intoccata dalla storia e dal passato; questo però comunque invano.
 ##### Soldati
 ***Soldati*** è scritta negli ultimi anni di guerra e chiude la sezione *Girovago*. Anche questa caratterizzata dall'***essenzialità del verso*** (versi corti ed essenziali), esprime in poche parole la condizione di **precarietà** che vivono i **soldati in guerra**, questi uniti solo dalla **fratellanza**. Nella poesia si nota anche il susseguirsi anaforico della "**s**" e infine della "**f**" onomatopeici, suoni che rimandano alla **caduta delle foglie**.
-Con "**Si sta**" Ungaretti si riferisce a **tutti i soldati** in guerra, comunicando un senso di **fratellanza**; mentre col paragone introdotto dal "**come**", egli paragona questi a delle **foglie** sugli alberi **in autunno**, in procinto di **cadere** ma non si sa quando. 
-Importante è il fatto che "non si sa" quando le foglie debbano cadere, ma <u>nel mentre la foglia rimane attaccata all'albero</u>; quindi, nonostante tutto, Ungaretti stesso **non si arrende al dolore** e trova riparo nella **fratellanza** (stesso discorso vale per l'ossimoro titolo dell'opera "*Allegria di Naufragi*"). Per questo Ungaretti **non è pessimista**, anzi, anche in guerra cerca sempre il lato positivo e la speranza.
+Con "**Si sta**" Ungaretti si riferisce a **tutti i soldati** in guerra, comunicando un senso di **fratellanza**; mentre col paragone introdotto dal "**come**", egli paragona questi a delle **foglie** sugli alberi **in autunno**, in procinto di **cadere**. 
+##### Veglia
+
+##### Fratelli
+
+##### I fiumi
+
