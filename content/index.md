@@ -1,20 +1,15 @@
 ---
 title: Indice
 public: true
-modified_at: 15/04/2024 18:19:08
-edited_seconds: 1030
+modified_at: 15/04/2024 19:09:56
+edited_seconds: 1040
 ---
 
 ### Ed. Civica
-
 **Subindex**: *none*
-
 **Status**: *Empty*
-
 ###### Todo
-
 - TePI: approfondimento firma digitale
-
 ### GeP
 **Subindex**: [[_GeP]]
 **Status**: *Work in progress*
