@@ -1,7 +1,7 @@
 ---
 public: true
-edited_seconds: 310
-modified_at: 07/04/2024 23:54:13
+edited_seconds: 370
+modified_at: 16/04/2024 18:33:05
 ---
 ### 1
 - [[Databases]]
@@ -24,5 +24,10 @@ modified_at: 07/04/2024 23:54:13
 ### 3
 - [[Malware, adware, spam & bugs]]
 - [[Viruses, worms, backdoors and rogue security]]
-- [[Crimeware and cookies]]
+- [[Crimeware]]
+- [[Cookies]]
 - [[Mobile malware]]
+- [[Network threats]]
+- [[DoS]]
+### 4
+- [[Cryptography]]
