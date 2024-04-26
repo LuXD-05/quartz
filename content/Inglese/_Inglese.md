@@ -1,16 +1,15 @@
----
-public: true
-edited_seconds: 370
-modified_at: 16/04/2024 18:33:05
----
 ### 1
+
 - [[Databases]]
 - [[Web]]
+- [[Client & Server]]
 - [[Types of networks]]
 - [[Communication]]
 - [[LAN]]
 - [[Protocol stacks]]
+
 ### 2
+
 - [[History of the internet]]
 - [[Internet apps nowadays]]
 - [[WWW, websites and browsers]]
@@ -21,13 +20,17 @@ modified_at: 16/04/2024 18:33:05
 - [[Social networks]]
 - [[Blogs and forums]]
 - [[File sharing]]
+
 ### 3
-- [[Malware, adware, spam & bugs]]
+
+- [[Malware, adware, spam and bugs]]
 - [[Viruses, worms, backdoors and rogue security]]
 - [[Crimeware]]
 - [[Cookies]]
 - [[Mobile malware]]
 - [[Network threats]]
-- [[DoS]]
+- [[DDoS]]
+
 ### 4
+
 - [[Cryptography]]

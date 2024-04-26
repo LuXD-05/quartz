@@ -1,9 +1,5 @@
----
-public: true
-edited_seconds: 700
-modified_at: 11/04/2024 16:54:38
----
 ### Correnti
+
 - [[Romanticismo]]
 - [[Scapigliatura]]
 - [[Naturalismo]]
@@ -13,7 +9,9 @@ modified_at: 11/04/2024 16:54:38
 - [[Simbolismo]]
 - [[Futurismo]]
 - ...
+
 ### Autori
+
 - [[Leopardi]]
 - [[Carducci]]
 - [[Capuana]]
@@ -27,5 +25,8 @@ modified_at: 11/04/2024 16:54:38
 - Gadda?
 - [[Ungaretti]]
 - ...
+
 ### Domande
+
 [[_Domande]]
+

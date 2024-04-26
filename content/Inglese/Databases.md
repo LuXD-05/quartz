@@ -1,166 +1,134 @@
----
-public: true
-edited_seconds: 20
-modified_at: 02/04/2024 11:14:51
----
-Database
+### Database
 
-**Container used to store information** managed by the information system (efficient = no redundancy, effective = fast).
+**Container used to store information** managed by the information system and contains files (saved on mass memory) logically organized to represent reality. So:
 
-It contains files (saved on mass memory) logically organized to represent reality.
+- **Small** db: stored on a <u>file system</u>,
+- **Large** db: hosted on <u>pc clusters or cloud storage</u>.
 
--      **Small** db --> stored on a **file system**,
+**Actions**: search, retrieve, edit, delete... data.
 
--      **Large** db --> hosted on **pc clusters** or **cloud storage**.
+### Tables
 
-Actions
+Db are organized in **tables**, lists of rows and columns.
 
--      Search data,
+##### Record
 
--      Retrieve data (generate reports),
+(<u>Row</u>), a **meaningful and consistent way to combine info about something**.
 
--      Edit/delete data…
+##### Field (column)
 
-Tables
+(<u>Column</u>), a **single item of info, one that appears in every record**.
 
-Db are organized in **tables**, **lists of rows and columns**.
+### Keys
 
-Record (row)
+An attribute used to **sort/identify data**; they give meaning to data.
 
-**Meaningful and consistent way to combine information about something**.
+- **Primary (PK)**: <u>specific choice of a minimal set of fields that uniquely identifies a row</u> in a relation,
+- **Alternate (AK)**: candidate key to be primary, but isn’t,
+- **Foreign (FK)**: <u>refers to the PK of another table</u>.
 
-Field (column)
+### Schema
 
-**Single item of information, one that appears in every record**. (Key field --> holds unique data that identifies the record)
+**Structure of a db**, or a **set of integrity constraints** imposed on a db (they ensure compatibility). The **schema** <u>doesn’t vary in time</u>.
 
-Keys
+### Instance
 
-An **attribute used to sort/identify data**; they give meaning to data.
+Collection of **info stored** in the db **at** a certain **moment**/instance **of time** (*snapshot* of the db). The **instance** does <u>vary in time</u>.
 
--      **Primary (PK)** --> **specific choice of a minimal set of fields that uniquely identifies a row** in a relation,
+### Data models
 
--      **Alternate (AK)** --> candidate key to be primary, but isn’t,
+Data structures to manage and interrogate dbs. **They classify databases**. 
 
--      **Foreign (FK)** --> **refers to the PK of another table**.
+##### Non-Relational db models
 
-Schema
+- **Hierarchical**: data arranged in a <u>tree-like structure</u>. Nodes = entities, Arcs = relations. Rigidity: redundancy.
+- **Flat-file**: data organized into a <u>single table</u> (*spreadsheets*).
+- **Network/reticular**: organizes data in a <u>graph</u>. Access through several paths. Complex, no redundancy.
+- **Object oriented**: data stored as <u>objects</u> belonging to classes.
 
-**Structure** (in formal language) **of a db**, or, a **set of integrity constraints imposed on a db** (they ensure compatibility).
+##### Relational db models
 
-The **schema doesn’t vary in time**.
+**Simple and effective** (better represent reality), data in tables/files in fields and records. They use **SQL** (*Structured Query Language*) for queries.
 
-Instance
+### DBMS
 
-**Collection of information stored in the db at a certain moment/instance of time** (**snapshot** of the db).
+It’s a **sw** system that **stores and organizes data** other than **retrieving data for apps**. Main features:
 
-The **instance does vary in time**.
+###### Data normalization
 
-Data models
+< risk, < data duplication (redundancy) and < chance of anomalies or inconsistencies.
 
-Data structures to manage and interrogate dbs. **They classify databases**.
+###### User-defined constraints
 
-Non-Relational db models:
+Users can define constraints (rules) to prevent accidental damage to the db by authorized users.
 
--      **Hierarchical** --> data arranged in a **tree-like structure**. **Nodes** = entities, **Arcs** = relations. Rigidity: **redundancy**.
+###### Security protocols
 
--      **Flat-file** --> data organized into a **single table** (**spreadsheets**).
+Protects the integrity of db, data and records with encryption, user authentication and authorization.
 
--      **Network/reticular** --> organizes data in a **graph**. Access through **several paths**. **Complex**, **no redundancy**.
+###### Backups
 
--      **Object oriented** --> data stored as **objects belonging to classes**.
+Copy of the db data in case of loss or corruption by any mean. Used to reconstruct dbs.
 
-Relational db models:
+###### Data structuring
 
-Simple and effective (better represent reality), data in tables/files in fields and records.
+DBMS allows users to define clear and hierarchical structures to organize information.
 
-SQL (Structured Query Language)
-
-Language used for queries.
-
-DBMS
-
-It’s a **software** system that **stores and organizes data** other than **retrieving data for apps**. Main features:
-
-Data normalization
-
-**< risk, <** data duplication (**redundancy**) & **< chance of** anomalies or **inconsistencies**.
-
-User-defined constraints
-
-Users can define **constraints** (rules) to prevent accidental damage to the db by authorized users.
-
-Security protocols
-
-Protects the **integrity of db**, data and records with **encryption**, user **auth**entication and authorization.
-
-Backups
-
-**Copy of the db data in case of loss or corruption** by any mean. Used to reconstruct dbs.
-
-Data structuring
-
-DBMS allows users to define clear and **hierarchical structures** to organize information.
-
-Abstraction layers
+### Abstraction layers
 
 Simplified representation of a db in the form of written description of diagram. 3 levels:
 
-External/application level
+###### External/application level
 
 Exposed to users and devs. Describes data as it’s seen. Provides tools for db operations (modify and see data).
 
-Logical level
+###### Logical level
 
 Describes all the items of interest of the app and offers detailed descriptions about records of data.
 
-Internal/physical level
+###### Internal/physical level
 
 Used to store data. Implements the logical level.
 
-Type of information stored in a db
+##### Type of information stored in a db
 
 Ex: e-commerce app
 
--      Customer data --> emails, passwords, preferences…
+- **Customer data**: emails, passwords, preferences…
+- **Business data**: products colors, prices, ratings…
+- **Relationship data**: location of store with specific product…
 
--      Business data --> products colors, prices, ratings…
+### A good db design
 
--      Relationship data --> location of store with specific product…
+Principles of db design:
 
-A good db design
-
-Principle guide db design:
-
-1)    **Redundancy** (duplicated data) **is bad** (> wasted space & > error chance)
-
-2)    **Correctness and completeness of information** is important. If **not**, = **misinformation** (unintentional, dis… = intentional).
+1) **Redundancy** (duplicated data) **is bad** (> wasted space & > error chance)
+2) **Correctness and completeness of information** is important. If <u>not</u>, = <u>misinformation</u> (unintentional, <u>disinformation</u> = intentional).
 
 A good db design, therefore:
 
--      Divides info in subject-based tables (< redundancy),
+- Divides info in subject-based tables (< redundancy),
+- Gives access and information to join tables data together as needed,
+- Ensures accuracy and integrity of info,
+- Satisfies data processing and reporting needs.
 
--      Gives access and information to join tables data together as needed,
+### Database application
 
--      Ensures accuracy and integrity of info,
+Sw whose purpose is retrieving (+ insert, update, delete…) info in/from a db. It facilitates simultaneous queries from multiple users (since mid-1990s, common to build db apps with web interface).
 
--      Satisfies data processing and reporting needs.
+### Users POV
 
-Database application
+There are also dbs for homes & small businesses, like Access, Oracle, SQL Server, MySQL…
 
-**Program whose purpose is retrieving** (**& insert, update, delete…**) **information from a db**. It facilitates **simultaneous** **queries** from **multiple** **users** (since mid-1990s, common to build db apps with web interface).
+###### Accounting apps
 
-Users POV
+Used for **financial data**. Record liabilities, inventory, transactions between customers and suppliers…
 
-There are also dbs for homes & small businesses, like **Access, Oracle, SQL Server, MySQL**…
+###### CRM apps
 
-Accounting apps
+Manages **relations of a business with clients** + marketing, sales, support for clients… goal: > sales, < costs…
 
-Used for financial data. Record liabilities, inventory, transactions between customers and suppliers…
+###### Web apps
 
-CRM apps
+**Websites as db apps**. Can incorporate db functions of accounting/CRM apps.
 
-Manages relations of a business with clients + marketing, sales, support for clients… goal: > sales, < costs…
-
-Web apps
-
-Websites as db apps. Can incorporate db functions of accounting/CRM apps.

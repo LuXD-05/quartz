@@ -1,56 +1,45 @@
----
-public: true
-edited_seconds: 20
-modified_at: 02/04/2024 11:15:01
----
-File Sharing (FS)
+### File sharing
 
-Public or private sharing of files & folders through a network (sharing also outside the network with removable media). With FS several people can use, create, modify and delete data depending on the permissions they have.
+**FS** is public or private **sharing of files** and folders through a **network** (also outside of it with removable media). With FS several people can <u>use, create, modify and delete data</u> depending on the **permissions** they have, since FS systems has **levels of access** to read, view, edit… files.
 
-FS can also be referred to the sharing of medias on websites. A FS system has levels of access to read, view, edit… files.
+##### FTP
 
-FTP
+With the internet, the **FTP** has become widely used to access shared files in a server (auth, but many FTP sites offer public FS or anonymous file download).
 
-With the internet the File Transfer Protocol has become widely used to access shared files in a server (authentication with username and password, but many FTP sites offer public FS or anonymous file download).
+##### OS FS
 
-OS file sharing
+Features available with **OS FS** (nearly any modern OS allows FS):
 
-Features available with OS FS (but specific options vary by OS):
+- Specifying **user permissions** for shared folders,
+- Imposing **storage limits** to the amount of data that users can store/share,
 
--      Specifying user permissions for shared folders,
+##### Internet FS
 
--      Imposing storage limits to the amount of data that users can store/share,
+###### P2P FS  
 
--      (Windows Server offers a feature where admins can specify what types of data can be stored and where).
+A **consumer-level tech** where **each pc** acts as a **client** in a larger FS network. When 1 **download** something, the P2P <u>3rd-party sw</u> **speeds up** the **download** process, allowing it to come from **different sources** (possible for the ***segmentation*** of shared files into smaller pieces by the 3rd-party sw).
 
-Nearly any modern OS allows FS (on Windows with SMB & sharing in ReFS, _Resilient File System_).
+###### File hosting services  
 
-Internet File sharing
+**Websites** which <u>host</u> a broad selection of <u>online materials</u> to enable <u>users to download them</u>.
 
-There are several types of internet FS, the most common are:
+###### Enterprise file sync & share services  
 
-P2P FS  
-A consumer-level tech where each pc acts as a client in a larger FS network. When 1 download something, the P2P 3rd-party sw speeds up the download process, allowing it to come from different sources (this is possible by the segmentation of shared files into smaller pieces by the 3rd-party sw).
+Enables **cloud storage** + **access to files from everywhere**. Files created **offline** in the storage, will be <u>automatically synchronized</u> the <u>next time</u> that the creator goes <u>online</u>.  
 
-File hosting services  
-Websites which host a broad selection of online materials to enable users to download them.
+Data is stored in a <u>centralized location</u> to allow its security and backup. Any data shared between end user’s devices and the server, has to be put in a **special encrypted folder** (*vault*) to <u>prevent its loss</u>.
 
-Enterprise file sync & share services  
-Popular for smart working because enables: cloud storage + access to its files from everywhere.  
-Files created offline in the storage, will be automatically synchronized the next time that the creator goes online.  
-The storage stores data in a centralized location to allow its security and backup. Any data shared between end user’s devices & the server, has to be put in a special encrypted folder (vault) to prevent its loss.
+###### Portal websites  
 
-Portal websites  
-Allows users to share files and folders with co-workers also outside of the organization via a shared link. These portals provide real-time FS through a browser from everywhere and with every device online.
+Allows users to **share files and folders** with co-workers also outside of the organization via a shared link. These portals provide <u>real-time FS</u> through a <u>browser</u> from everywhere and with every device online.
 
-How FS Works
+### How FS Works
 
-To organize files in an enterprise FS tool, admins create folders and grants access privileges to users or groups; then users can access the files and download them from their storage (physical or cloud).
+To organize files in a FS tool, admins create folders and grants access privileges to users or groups; then users can access the files and upload/download them.
 
 Accessing files via another pc works with P2P FS because each pc is client in a network; on the other hand, with server-based FS access to files can be restricted. Users edit files, the changes will be synchronized between all users.
 
-Issues
+###### Issues
 
--      Even if there are legitimate uses of P2P, it has gained a reputation for being used to share **pirated** media.
-
--      Websites that share files online sometimes hide spywares/adwares in their files (then installed on the user’s pc).
+- Even if there are <u>legitimate uses of P2P</u>, it has gained a reputation for being used to share **pirated** media.
+- Websites that share files online sometimes hide <u>spywares/adwares</u> in their files (then installed on the user’s pc).

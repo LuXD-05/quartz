@@ -1,39 +1,42 @@
----
-public: true
-edited_seconds: 10
-modified_at: 02/04/2024 11:14:58
----
-Email
+### Email
 
-Email is a way of sending messages (& documents) from a pc to another. The messages are often text-based and sent from a pc connected to Internet (but also from a WAP or from a mobile phone). You can email using either:
+**Email** is a way of <u>sending messages</u> (& documents) <u>from a pc to another</u>. The messages are often **text-based** and sent from a device connected to internet. You can email using either an **email client** or a **webmail**.
 
-Email client
+Structure of an email address:
 
-Aka MUA (Mail User Agent) is a client/server software on the user’s pc. They send/receive emails to/from a mail server by communicating with an MTA (Transfer) which sends the messages to the relative receiver via some MDA (Delivery).
+| Email address      | Username  | Domain name | Domain type | Country code |
+| ------------------ | --------- | ----------- | ----------- | ------------ |
+| gil.dis@bulz.co.uk | "gil.dis" | "bulz"      | "co"        | "uk"         |
 
-Advantage: emails are stored locally, so this implies:
+##### Email client
 
--      Faster access compared to a web interface,
+(A.k.a. *Mail User Agent*), a **MUA** is a client/server sw on an user’s pc. It **sends/receives emails** **to/from a mail server** by communicating with an **MTA** (*Mail Transfer Agent*) which sends the messages to the relative receiver via some **MDA** (*Mail Delivery Agent*). (Famous: Outlook & Thunderbird).
 
--      Offline work: ability to read downloaded messages and to write emails that will be sent when online again.
+###### Pro
 
-Famous: Outlook & Thunderbird. Emails have to be downloaded to be available, so user mailboxes are accessed in 2 ways:
+Emails are **stored locally**, so this implies:
 
--      **POP** (_Post Office Protocol_) --> Simple protocol that allows to **download** **emails** from an **inbox** **to** a **device** (**1 device** only),
+- **Faster access** compared to a web interface,
+- **Offline work**: ability to read downloaded messages and to write emails that will be sent when online again.
 
--      **IMAP** (_Internet Message Access Protocol_) --> Allows user to **manage emails** **while** **stored** **on** the **server** (**multiple** devices).
+###### Email access
 
-Webmail
+Emails have to be <u>downloaded</u> to be available, so user **mailboxes** are accessed in 2 ways:
 
-Cloud service provider accessed via browser, where emails are operated from a website, so they aren’t downloaded locally & the user doesn’t have to install fancy software on his pc (but no download or writing in offline mode).
+- **POP** (_Post Office Protocol_): a protocol that allows to **download** **emails** from an **inbox** **to** a **device** (**1 device** only),
+- **IMAP** (_Internet Message Access Protocol_): allows user to **manage emails** **while** **stored** **on** the **server** (**multiple** devices).
 
-Advantage: the user to access them everywhere with an Internet connection. Most famous webmails: Gmail & Hotmail.
+##### Webmail
 
-Process: open browser, access email website, login with username & password, receive and send emails. When an email is sent its stored in a mailbox on the pc system of the recipient’s ISP, so when the receiver connects to the internet and opens his account, the new message will be visible and downloadable. Structure of an email address:
+Cloud service provider accessed via **browser**, where **emails** are operated from a **website**, so they are <u>not downloaded locally</u> & the user does <u>not have to install fancy sw</u> on his pc (but <u>no download</u> or <u>writing in offline mode</u>).
 
-| gil.dis@bulz.co.uk | gil.dis = **username** | bulz = **domain name** / **service provider** | co = **domain type** | uk = **country code** |
-| ------------------ | ---------------------- | --------------------------------------------- | -------------------- | --------------------- |
+When an **email** is sent its **stored** in a **mailbox** on the pc system of the **recipient’s ISP**, so when the receiver connects to the internet and opens his account, the <u>new message will be visible and downloadable</u>. (Most famous webmails: Gmail & Hotmail).
 
-Which is better?
+###### Pro
 
-Generally, webmail is better because of ease of access, setup and time; but, for people who travel in regions with 0 to low internet or for those who want max privacy/security, the email client seems a much better option.
+The user can **access** them **everywhere** with an Internet connection. 
+
+###### Which is better?
+
+Generally, <u>webmail is better</u> because of ease of access, setup and time; but, for people who travel in regions with 0 to low internet or for those who want max privacy/security, the <u>email client</u> seems a much <u>better</u> option.
+

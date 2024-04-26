@@ -1,25 +1,28 @@
----
-public: true
-edited_seconds: 50
-modified_at: 29/03/2024 11:55:30
----
 ### Step
+
 0) Sono date 2 funzioni ed è richiesto di trovare quanto vale l'area della loro intersezione. 
 1) Calcolare (per parabole) le coordinate del vertice delle funzioni non note "a occhio" (una nota ad occhio è $y = x^2$, al contrario di $y = -x^{2}+2$) con: $x_{v}= -\dfrac{b}{2a}$ e $y_v$ si trova sostituendo il valore di $x_v$ alle $x$ della funzione originale.
 2) Trovare (per le funzioni che intersecano l'asse x e/o y) i punti di intersezione con tali assi (fatto per il meme, in realtà non serve).
 3) Trovare i punti di intersezione tra le 2 funzioni ponendole in un sistema e risolvere facendo poi $f(x) = g(x)$. Le coordinate x dei 2 punti saranno trovate (ovviamente) quando si trova $x = \ldots$ , ma per trovare le coordinate y sarà necessario sostituire i valori di queste 2 x alla 1a funzione dell'uguaglianza iniziale ($f(x)$).
 4) (Siccome si ha tutto il necessario) fare il grafico delle funzioni.
 5) Calcolare l'area facendo l'integrale tra i 2 punti di intersezione appena trovati e la differenza: ($f(x)$ con margine dell'area + in alto) - ($f(x)$ con margine dell'area + in basso).
+
 ###### Esempio
+
 Calcolare l'area delle 2 funzioni date.
+
 $$
 y = x^{2} \;\;\lvert\;\; y = -x^{2}+2 \;\;\lvert\;\; A = ?
 $$
+
 Qui abbiamo come funzione nota "ad occhio" $y = x^{2}$, in quanto è risaputo che ha vertice e intersezione con l'asse x in (0,0); perciò si procede col vertice della seconda.
+
 $$
 x_{v} = -\dfrac{b}{2a} = -\dfrac{0}{2*(-1)} = 0 \;\;\;\;\; \lvert \;\;\;\;\; y_{v}= 0 + 2 = 2
 $$
+
 Si vanno a trovare le intersezioni con gli assi:
+
 $$
 int. y
 \left\{\begin{aligned} 
@@ -41,7 +44,9 @@ x^{2} = 2
 x = \pm\sqrt{2}
 \end{aligned}\right.
 $$
+
 Ora si calcolano le intersezioni con il sistema:
+
 $$
 \left\{\begin{aligned} 
 y &= x^{2} \\
@@ -69,7 +74,9 @@ y &= \pm 1^{2} = 1 \\
 x &= \pm 1
 \end{aligned}\right.
 $$
+
 Il grafico:
+
 ```tikz
 \begin{document} 
 \begin{tikzpicture}[domain=-4:4] 
@@ -82,7 +89,9 @@ Il grafico:
 \end{tikzpicture} 
 \end{document}
 ```
+
 Le intersezioni trovate sono quindi: (1;-1) e (1;1). Si procede infine con il calcolo dell'area:
+
 $$
 \int^{1}_{-1} [(-x^{2}+2)-(x^{2})] \; dx
 \;\; = \;\;
@@ -96,4 +105,6 @@ $$
 $$
 
 ---
-Vedi poi: [[Calcolo dei volumi]]
+
+Vedi poi: [[14 Calcolo dei volumi]]
+

@@ -1,32 +1,40 @@
----
-public: true
-edited_seconds: 1420
-modified_at: 29/03/2024 11:54:56
----
 ### Primitive
+
 L'integrazione è l'operazione inversa alla derivazione; e se $f(x) = 2x$ è una funzione derivata, si definisce **primitiva** la sua funzione integrata $F(x) = x^{2}$.
+
 > [!important] Primitiva
->Una funzione $F(x)$ è una **primitiva** di $f(x)$ se $F(x)$ è **derivabile** e la sua **derivata** è $f(x)$, per cui: $F'(x) = f(x)$
+> Una funzione $F(x)$ è una **primitiva** di $f(x)$ se $F(x)$ è **derivabile** e la sua **derivata** è $f(x)$, per cui: $F'(x) = f(x)$
 
 Nell'esempio iniziale, la primitiva $F(x) = x^{2}$ è derivabile e la sua derivata è $f(x) = 2x$. 
+
 Le primitive però, non sono uniche per le loro derivate in quanto derivare una funzione alla quale si aggiunge o si toglie un numero $c$ reale risulterà sempre nella stessa derivata: $F'(x) + c = f(x)$.
-(foto)
+
+![](https://i.imgur.com/YKDMYfn.png)
+
 ### Integrale indefinito
->[!important] Integrale indefinito
->L'**integrale indefinito** di una funzione $f(x)$ è l'**insieme** di tutte le **primitive** della stessa $F(x) + c$
+
+Hind: def, notazione + f(x) integranda e primitiva
+
+> [!important] Integrale indefinito
+> L'**integrale indefinito** di una funzione $f(x)$ è l'**insieme** di tutte le **primitive** della stessa $F(x) + c$
 
 **Notazione**: $\displaystyle \int[f(x)] \; dx \;=\; [F(x)] + c$
+
 Dove:
+
 - $f(x)$ = funzione ***integranda***.
 - $F(x)$ = funzione **primitiva**.
+
 ### Derivabilità vs Continuità vs Integrabilità
+
 --- start-multi-column: ID_5r5c
 ```column-settings
 Number of Columns: 2
 Largest Column: standard
+Borders: off
 ```
 
-(foto)
+![](https://i.imgur.com/eDfuJf7.png)
 
 --- column-break ---
 
@@ -35,20 +43,27 @@ Largest Column: standard
 - **Integrabili**: sono funzioni <u>non</u> sempre **Continue** o **Derivabili**.
 
 --- end-multi-column
-### Proprietà
->[!important] Linearità 1
->L'integrale di una somma di funzioni è uguale alla somma delle singole funzioni integrate:
->$\displaystyle \int[f(x) + g(x)] \; dx \;=\; \int f(x) \; dx \;+\; \int g(x) \; dx$
 
->[!important] Linearità 2
->L'integrale di una funzione moltiplicata per una costante è uguale all'integrale della funzione moltiplicata per la costante:
->$\displaystyle \int k * f(x) \; dx \;=\; k * \int f(x) \; dx$
+### Proprietà
+
+> [!important] Linearità 1
+> L'integrale di una somma di funzioni è uguale alla somma delle singole funzioni integrate:
+> $\displaystyle \int[f(x) + g(x)] \; dx \;=\; \int f(x) \; dx \;+\; \int g(x) \; dx$
+
+> [!important] Linearità 2
+> L'integrale di una funzione moltiplicata per una costante è uguale all'integrale della funzione moltiplicata per la costante:
+> $\displaystyle \int k * f(x) \; dx \;=\; k * \int f(x) \; dx$
 
 ### Tabella integrali immediati
+
 (tab quad)
+
 ### Tabella integrali composti
+
 (tab 1241)
+
 ### Tipi di integrazione
+
 ##### Sostituzione
 
 ###### Esempio
@@ -73,6 +88,7 @@ Largest Column: standard
 
 ###### Caso delta < 0 (speciale)
 
-
 ---
-Vedi poi: [[Integrali definiti]]
+
+Vedi poi: [[12 Integrali definiti]]
+

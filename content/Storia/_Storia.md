@@ -1,17 +1,13 @@
----
-public: true
-edited_seconds: 170
-modified_at: 09/04/2024 16:48:04
----
 ### Capitoli
+
 - [[13) ]]
 - [[14) ]]
 - [[15) ]]
 - [[16) ]]
 - [[17) ]]
 - [[18) ]]
-- [[1) ]]
-- [[2) ]]
+- [[1) Lo sviluppo economico]]
+- [[2) Nazionalismi e democrazie in Europa]]
 - [[3) L'età giolittiana]]
 - [[4) La prima Guerra Mondiale]]
 - [[5) Il dopoguerra]]

@@ -1,13 +1,13 @@
----
-public: true
-edited_seconds: 1100
-modified_at: 24/03/2024 22:18:34
----
 ### TCP in C\#
+
 In C# è possibile creare connessioni TCP tra un client e un server mediante l'uso di diverse cose.
+
 ### Lato client
+
 ##### Grafica
+
 La grafica solitamente è composta da elementi di inserimento dati (TextBox...), elementi di invio dati (Button...) ed elementi di visualizzazione dati (TextBlock, ListView...). L'esempio sarà la gestione delle ordinazioni di un ristorante per i vari tavoli.
+
 ```xml
 <Grid>
     <Grid.RowDefinitions>
@@ -34,8 +34,11 @@ La grafica solitamente è composta da elementi di inserimento dati (TextBox...),
 	
 </Grid>
 ```
+
 ##### TcpManager
+
 Verrà poi creata la classe TcpManager, la quale prevede dei metodi per l'invio e per la ricezione di messaggi da parte del client. Questa richiede `System.Net.Sockets` per il TCP e `System.Text` per le conversioni da `byte[]` a `string` e viceversa.
+
 ```c#
 public class TcpManager
 {
@@ -63,8 +66,11 @@ public class TcpManager
     }
 }
 ```
+
 ##### Client code-behind
+
 Il codice del client (WPF) si struttura così:
+
 ```c#
 public partial class MainWindow : Window
 {
@@ -103,9 +109,13 @@ public partial class MainWindow : Window
     }
 }
 ```
+
 ### Lato server
+
 ##### Entry point
+
 Il server invece sarà una semplice applicazione console, il cui entry point sarà:
+
 ```c#
 static void Main()
 {
@@ -114,8 +124,11 @@ static void Main()
         m.Listen();
 }
 ```
+
 ##### Manager
+
 Il manager sarà invece la classe in cui saranno presenti i metodi per la gestione dei dati, oltre che parte centrale del programma server referenziante anche il TcpManager e il FileManager:
+
 ```c#
 public class Manager
 {
@@ -166,8 +179,11 @@ public class Manager
     }
 }
 ```
+
 ##### TcpManager
+
 Il TcpManager sarà simile a quello del client, ma con qualche aggiunta in più:
+
 ```c#
 public class TcpManager
 {
@@ -215,8 +231,11 @@ public class TcpManager
     }
 }
 ```
+
 ##### FileManager
+
 Per quanto riguarda il FileManager, la gestione + semplice è fatta con i seguenti metodi:
+
 ```c#
 public static class FileManager
 {
@@ -239,3 +258,4 @@ public static class FileManager
     }
 }
 ```
+

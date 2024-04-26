@@ -1,36 +1,32 @@
----
-public: true
-edited_seconds: 10
-modified_at: 02/04/2024 11:14:43
----
-Modes
+### Modes, directions, types and channels
 
-Unicast --> Connection between 2 hosts (phone call),
+##### Modes
 
-Multicast --> Data transmitted simultaneously to a group of hosts (videoconference),
+**Unicast**: Connection between 2 hosts (phone call),
 
-Broadcast --> Data transmitted from a host to all the other hosts of the network (TV channel),
+**Multicast**: Data transmitted simultaneously to a group of hosts (videoconference),
 
-Anycast --> Data directed to the nearest node (fewest hops away) of a target group.
+**Broadcast**: Data transmitted from a host to all the other hosts of the network (TV channel),
 
-Directions
+**Anycast**: Data directed to the nearest node (fewest hops away) of a target group.
 
-Simplex --> Data flows only in 1 direction,
+##### Directions
 
-Half-duplex --> Both directions, but alternatively (walkie-talkie),
+**Simplex**: Data flows only in 1 direction,
 
-Duplex --> Both directions at the same time (phone call).
+**Half-duplex**: Both directions, but alternatively (walkie-talkie),
 
-Symmetric
+**Duplex**: Both directions at the same time (phone call).
 
-Dataflows are equal.
+##### Types
 
-Asymmetric
+**Symmetric**: dataflows are equal.
 
-Dataflows are different.
+**Asymmetric**: dataflows are different.
 
-Channels
+##### Channels
 
-Asynchronous --> Every message is made of a single char. 1 char transmitted at a time. 1 bit of start and 1 bit of stop.
+**Asynchronous**: Every message is made of a single char. 1 char transmitted at a time. 1 bit of start and 1 bit of stop.
 
-Synchronous --> Every message is made of a block of bytes.
+**Synchronous**: Every message is made of a block of bytes.
+

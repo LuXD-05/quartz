@@ -1,50 +1,40 @@
----
-public: true
-edited_seconds: 10
-modified_at: 02/04/2024 11:15:42
----
-Circuit switching (ex: telephone network)
+### Circuit vs Packet switching
 
-Physical infrastructure made of **circuit switches** and **transmission media**, **before** the **communication**, a **connection** is **established** **between** the **transmitter** **and** the **receiver** **at** a **physical** **level** (**_virtual circuit_**); it **stays reserved**.
+##### Circuit switching 
+
+<u>Physical</u> infrastructure made of **circuit switches** and **transmission media**, before the communication, a <u>connection is established</u> between the transmitter and the receiver at a physical level (*virtual circuit*); it stays <u>reserved</u> (ex: telephone network).
 
 Network layer protocols provide a **connection-oriented** and **reliable** service.
 
-Packet switching (ex: internet)
+##### Packet switching 
 
-The **data** is **organized in packets** and travels in an infrastructure made of **transmission media** and **packet switching** **nodes** (**PSN**). **Packet switches choose the** packet’s path considering: **info about the receiver** and **network state**. Network resources are provided **on demand** to individual packets.
+Packets travel in an infrastructure made of **transmission media** and **packet switching nodes** (PSN). Routers choose the packet’s path considering: <u>info about the receiver</u> and <u>network state</u>. Network resources are provided **on demand** to individual packets (ex: internet).
 
 Network layer protocols provide a **connectionless** and **unreliable** service.
 
-**Types of service**
+### Connection-oriented vs connectionless
 
-Protocols are designed to work in 2 ways:
+##### Connection-oriented
 
-Connection-oriented
+Before communicating, a ***handshake*** is performed: the transmitter network protocol <u>exchanges control packets</u> with the receiver network protocol. This is done because:
 
-Before communicating, a handshake is performed: the transmitter network protocol exchanges control packets with the receiver network protocol. This is done because:
+- **Transmitter**: checks if the receiver is available,
+- **Receiver**: prepares it to receive packets,
+- (**Both**: to agree on any parameters).
 
--      **Transmitter** --> checks if the **receiver is available**,
+Once the **handshake** is done, the communication begins; at the end of which, follows a phase of **termination** that frees the resources used for communicating. “*Connection oriented*” as it occurs between logical layers with information saved in memory and protocols; not involving any aspect of the physical layer. The connection is **virtual**.
 
--      **Receiver** --> **prepares** it **to receive** packets,
-
--      (**Both** --> to agree on any parameters).
-
-Once the **handshake** is **done**, the **communication begins**; at the **end** of which, follows a phase of demolition (connection termination) that frees the resources used for communicating.
-
-“_Connection oriented_” as it occurs between **logical** **layers** with information saved in memory and protocols; **not** **involving** any aspect of the **physical** layer. The connection is **virtual**.
-
-Connectionless
+##### Connectionless
 
 **No handshakes** are performed, when the transmitter has data to send, it sends it.
 
-Reliability
+### Reliability
 
-Protocols can ensure reliable data delivery or not give guarantees about data delivery. The service can be:
+###### Reliable
 
-Reliable
+Ensures that data is delivered <u>correctly</u>, <u>without duplicates</u>, <u>lossless</u> and in the <u>right order</u>. If a packet is <u>corrupted</u>, it’s <u>retransmitted</u> by the transmitter.
 
-Ensures that **data** is **delivered** **correctly**, **without duplicates**, **lossless** and in the **right order**. If a **packet** is **corrupted**, it’s **retransmitted** by the transmitter.
+###### Unreliable
 
-Unreliable
+The service <u>doesn’t guarantee anything</u>. <u>Corrupted packets</u> will be simply <u>discarded</u> by the receiver.
 
-The **service doesn’t guarantee anything**. **Corrupted packets** will be simply **discarded** by the receiver.
