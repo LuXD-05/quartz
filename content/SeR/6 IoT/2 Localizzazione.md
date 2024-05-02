@@ -149,9 +149,9 @@ Si ha una griglia di antenne (collegate con **PoE**, *indoors* = a soffitto, *ou
 
 ###### Tecnologia 
 
-La tecnologia VLC (*Visible Light Communication*) permette il trasferimento dei dati con la luce; ciò grazie alle lampadine LED (dispositivi a semiconduttore), con cui si possono trasmettere dati a velocità elevatissime, a bassi costi e ad alta affidabilità per la loro capacità di accendersi e spegnersi a velocità tali che l'occhio umano non riesce a percepire.
+La tecnologia **VLC** (*Visible Light Communication*) permette il trasferimento dei dati con la **luce**; ciò grazie alle **lampadine LED** (dispositivi a semiconduttore), con cui si possono trasmettere dati a <u>velocità elevatissime</u>, a <u>bassi costi</u> e ad <u>alta affidabilità</u> per la loro capacità di accendersi e spegnersi a velocità tali che l'occhio umano non riesce a percepire.
 
-In questo modo si usano i LED sia per l'illuminazione sia per il trasferimento di dati binari, i quali vengono acquisiti da un ricevitore (smartphone con fotocamera) che ritrasforma la luce in un flusso di bit.
+In questo modo si usano i LED sia per l'illuminazione sia per il trasferimento di dati binari, i quali vengono acquisiti da un ricevitore (smartphone con <u>fotocamera</u>) che ritrasforma la luce in un flusso di bit.
 
 ##### Fingerprinting
 

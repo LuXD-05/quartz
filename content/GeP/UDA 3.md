@@ -4,9 +4,9 @@ Il project management (PM) si basa su dei principi, che servono per affrontare e
 
 ### Scelta dei progetti e sviluppo dell’azienda
 
-Aziende private --> realizzano progetti con l’obiettivo di mantenere o aumentare i livelli di produzione e vendita.
+Aziende private: realizzano progetti con l’obiettivo di mantenere o aumentare i livelli di produzione e vendita.
 
-Aziende pubbliche --> fanno progetti con l’obiettivo di erogare servizi più efficienti, efficaci ed economici ai clienti.
+Aziende pubbliche: fanno progetti con l’obiettivo di erogare servizi più efficienti, efficaci ed economici ai clienti.
 
 Bisogna valutare se un progetto è in grado di raggiungere obiettivi strategici o se può portare effetti positivi per l’azienda; questo è visto con alcuni indicatori: 
 
@@ -80,9 +80,9 @@ Obiettivi, tempi e costi sono le 3 variabili principali del progetto, e purché 
 
 Non rispettare i vincoli anche per solo 1 variabile significa possibile fallimento; e a volte si fanno scelte tipo:
 
-	Per un risultato migliore --> si aumentano costi o si prolunga il tempo di realizzazione,
+	Per un risultato migliore: si aumentano costi o si prolunga il tempo di realizzazione,
 
-	Per il risultato previsto --> si impiega altro budget o si allungano i tempi.
+	Per il risultato previsto: si impiega altro budget o si allungano i tempi.
 
 Bisogna quindi sapere le priorità dell’azienda per scegliere, e per modifica di variabili, i relativi vantaggi o svantaggi.
 
@@ -168,9 +168,9 @@ Cause
 
 Tipi di rischio
 
-	Interno (al progetto) --> in base a corretta pianificazione e realizzazione di attività,
+	Interno (al progetto): in base a corretta pianificazione e realizzazione di attività,
 
-	Esterno (al progetto) --> dipendenti da problemi aziendali o dal contesto esterno.
+	Esterno (al progetto): dipendenti da problemi aziendali o dal contesto esterno.
 
 Individuazione, definizione e gestione dei rischi
 
@@ -232,7 +232,7 @@ Il project manager deve avere anche certe capacità:
 
 	Assumere atteggiamenti positivi e aperti per risolvere problemi.
 
-Atteggiamento positivo --> spinge team ad affrontare problemi con fiducia anche quando ancora piccoli,
+Atteggiamento positivo: spinge team ad affrontare problemi con fiducia anche quando ancora piccoli,
 
-Atteggiamento negativo --> spinge team a ritardare segnalazioni fino a quando il problema non è critico.
+Atteggiamento negativo: spinge team a ritardare segnalazioni fino a quando il problema non è critico.
 

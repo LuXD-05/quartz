@@ -1,5 +1,3 @@
-# Controllo di flusso
-
 ### Cos'è?
 
 Il **controllo di flusso** è un servizio *host-to-host*, ed esso **regola l’invio di segmenti** del trasmittente, per **diminuirne l’afflusso alla destinazione**.
@@ -17,7 +15,7 @@ Durante il *3-way handshake* gli host riservano dei **buffer** di **invio** e **
 
 ##### Soluzione
 
-Il trasmittente ha una variabile detta ***send window*** (finestra di spedizione) che indica quanto **spazio libero** c’è **nel buffer di ricezione** del **destinatario** (dato **preso dal campo *window size* dei segmenti** inviati **dal destinatario**) e proverà a trasmettere una quantità di dati **minore** di questo valore.
+Il trasmittente ha una variabile detta ***send window*** (finestra di spedizione) che indica quanto **spazio libero** c’è **nel buffer di ricezione** del **destinatario** (dato **inserito nel campo *window size* degli ACK** inviati **dal destinatario**) e proverà a trasmettere una quantità di dati **<** di questo valore.
 
 Il destinatario invia un **ACK** non appena **processa** dei **dati ricevuti** (**ogni volta**, non aspetta tutti i byte) cosicché il trasmittente possa **riadattare** la sua ***send window*** al valore di ***window size* ricevuto** aumentandola o riducendola in base allo spazio nel buffer di ricezione del destinatario. Questo riaggiustamento è detto ***sliding window***.
 
@@ -36,7 +34,7 @@ Un valore ***zero window*** indica che il **buffer in ricezione è esaurito** (s
 ### Indicatori di dimensione
 
 - ***Window size***: quantità di byte trasmissibili senza attendere un ACK.
-- **MTU** (*Maximum Transport Unit*): dimensione max di un datagram IP (senza bisogno di frammentarlo) in byte. 
+- **MTU** (*Maximum Transport Unit*): dimensione max di un datagram IP (senza bisogno di frammentarlo) in byte.
 
   Ovvero la **dimensione** del **payload** del **protocollo datalink usato** (Ethernet = 1500), IPv4 = 576, IPv6 = 1280.
 

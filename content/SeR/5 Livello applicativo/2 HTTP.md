@@ -24,7 +24,7 @@
 
 Una **richiesta HTTP** è composta da: \[**metodo**\] \[**URI** della risorsa\] \[**versione** HTTP\]: “GET / HTTP/1.1”.
 
-Usati i metodi **GET** e **POST** per ottenere la risorsa richiesta. “/” è l’URI della risorsa richiesta all’host. 
+Usati i metodi **GET** e **POST** per ottenere la risorsa richiesta. “/” è l’URI della risorsa richiesta all’host.
 
 HTTP/1.1 indica che si sta usando la versione 1.1 del protocollo HTTP. Il resto sono linee di **header**, in forma: "\[campo\]: \[valore\]".
 
@@ -32,11 +32,11 @@ HTTP/1.1 indica che si sta usando la versione 1.1 del protocollo HTTP. Il resto 
 
 - ***Host*** = È il **nome di dominio** del **server** (virtuale) a cui è fatta la richiesta. Necessario per l’<u>hosting condiviso</u>, dove 1 pc hosta + domini, <u>per riconoscerli anche se il TCP usa solo l’IP del pc</u> (comune a tutti i siti del pc).
 - ***User-Agent*** = Campo con **informazioni sul client** (di solito browser) che origina la richiesta.
-- ***Referer*** = Contiene l’**URL** da cui è stata **generata la richiesta HTTP** (così server web sa da dove viene). 
+- ***Referer*** = Contiene l’**URL** da cui è stata **generata la richiesta HTTP** (così server web sa da dove viene).
 - ***Accept*** = Campo che specifica i **tipi di contenuto** che il client **accetta** (interpreta) e i suoi valori sono detti ***media type*** o **tipi MIME** (*Multipurpose Internet Mail Extensions*). I tipi MIME più comuni sono:
 
 | text/plain | text/html | text/xml | image/jpeg | application /xhtml+xml | multipart/form-data | application/octet-stream |
-| :--------: | :-------: | :------: | :--------: | :--------------------: | :-----------------: | :----------------------: |
+|:----------:|:---------:|:--------:|:----------:|:----------------------:|:-------------------:|:------------------------:|
 |   testo    | pag html  | doc xml  |  img jpg   |       doc xhtml        |     campi form      |       dati binari        |
 
 L’header HTTP deve essere in US-ASCII a 7 bit, ma il campo MIME definisce la forma del contenuto del body.
@@ -76,8 +76,3 @@ Qui si usano gli ***status codes*** e le loro descrizioni. Tra i più frequenti 
 
 ![](https://i.imgur.com/xnZJyEq.png)
 
-### Autenticazione
-
-Molte app web limitano l’accesso a utenti autorizzati. Una tecnica è l’***HTTP Basic*** (**auth** integrato in **HTTP**).
-
-1) Un client richiede una risorsa che necessita di auth e il server risponde con un *401 Unauthorized*, con campo:

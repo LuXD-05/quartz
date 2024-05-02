@@ -2,9 +2,9 @@ Organizzazioni
 
 (O aziende) sono soggetti pubblici o privati costituiti da gruppi di persone che svolgono attività di diversa natura, finalizzate a obiettivi specifici. Possono essere:
 
-pubbliche --> mission = profitto
+pubbliche: mission = profitto
 
-pubbliche --> mission = offrire e garantire servizi sempre migliori
+pubbliche: mission = offrire e garantire servizi sempre migliori
 
 ESEMPIO e-commerce
 

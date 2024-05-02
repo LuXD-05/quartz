@@ -140,6 +140,21 @@ L'immagine del ***naufragio*** è ripreso dall'***Infinito* leopardiano** ("... 
 
 Con "**Si sta**" Ungaretti si riferisce a **tutti i soldati** in guerra, comunicando un senso di **fratellanza**; mentre col paragone introdotto dal "**come**", egli paragona questi a delle **foglie** sugli alberi **in autunno**, in procinto di **cadere**.
 
+##### In memoria
+
+Con *In Memoria* Ungaretti fa un omaggio all'amico d'infanzia egiziano **Mohammed Sceab**, conosciuto ad **Alessandria** e ritrovato a **Parigi** dopo anni, ma perduto nuovamente perché **suicidatosi** nel 1916.
+
+La poesia tratta il tema dello **sradicamento** dato che <u>Mohammed non riusciva ad integrarsi in Francia nonostante il nuovo nome francese Marcel</u>, ma ciò al contempo evidenzia anche il tema del **deserto** in quanto <u>lo faceva sentire lontano dalla "tenda dei suoi</u>" (simbolo del suo luogo d'origine, quindi del <u>deserto</u>).
+
+Con l'<u>ultima strofa</u> (molte allitterazioni della "s") fa capire quanto tutte le persone che Mohammed conosceva non gliene importasse niente di lui. Inoltre è evidente l'uso del <u>passato prossimo</u> per parlare di Mohammed ancora vivo ma si passa al <u>presente</u> al momento del funerale.
+
+##### Il porto sepolto
+
+Lirica del 1916 mai modificata nelle redazioni che ha dato il titolo alla raccolta. Si compone di 2 blocchi:
+
+- Il 1° rappresenta il <u>viaggio</u> del poeta <u>verso le radici della parola e della vita</u> e la <u>risalita</u> in superficie <u>della poesia</u> stessa,
+- Il 2° invece si riferisce alla <u>realizzazione della poesia</u>, ovvero <u>ciò che resta dell'immersione</u> (e del <u>segreto</u>).
+
 ##### Veglia
 
 ***Veglia*** è una poesia scritta l'antivigilia di natale del 1915 e parla del poeta che, in trincea, <u>passa la notte accanto al cadavere di un compagno ucciso</u>. La lirica si divide in 2 parti:
@@ -260,4 +275,17 @@ si estende nello spazio ed acceca la vista,
 coi suoi occhi disseccanti
 
 spoglia la terra consumandola.
+
+### Il dolore
+
+##### Non gridate più
+
+In questa poesia de *Il Dolore* Ungaretti esprime sdegno di fronte alla WWII e proietta il dolore (prima interiorizzato e privato) verso una dimensione collettiva. Tratta il tema della guerra, del dolore e della morte ma mantiene la sintassi di *Sentimento del Tempo*.
+
+Questa è una poesia civile (nonostante assuma quasi un tono di preghiera) con cui il poeta esorta l'umanità a salvare se stessa dalla guerra (chiaro nel 1° verso, dove "cessate di uccidere i morti" è preso come se si stesse uccidendo chi è già morto in WWI una 2a volta).
+
+Ci sono 2 quartine contrapposte:
+
+- Nella 1a il poeta esorta a cessare la violenza non solo della guerra ma anche quella che alimenterà il rancore delle persone dopo la guerra,
+- Nella 2a invece il grido si trasforma in "impercettibile sussurro" dei morti (quasi come se fosse un messaggio per dire di non commettere lo stesso errore) e Ungaretti si concentra sull'aspetto fonico, invitando ad una calma quasi silenziosa e criticando l'uomo (l'erba è + contenta dove non passa l'uomo per la guerra).
 

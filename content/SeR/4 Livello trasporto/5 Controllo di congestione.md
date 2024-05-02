@@ -1,5 +1,3 @@
-# Controllo di congestione
-
 ### Cos'è?
 
 > [!important] Controllo di congestione
@@ -8,17 +6,15 @@
 La **congestione** riguarda la rete e i router di infrastruttura e si ha in 2 situazioni:
 
 - All’**inizio** di essa, quando il **tempo di transito** nella rete (**RTT**) **aumenta**.
-- All’**aumento** di essa, quando i **pacchetti si perdono** per il ***timeout*** (***countdown timer*** che **scade**). 
+- All’**aumento** di essa, quando i **pacchetti si perdono** per il ***timeout*** (***countdown timer*** che **scade**).
 
   (Per esempio passando da collegamenti più veloci ad altri più lenti, tipo da gigabit ad ADSL, pacchetti rallentano).
 
 Il controllo di congestione evita la perdita di pacchetti nei router per l’***overflow* dei loro buffer di ricezione o inoltro**.
 
-### Approfondimenti
+### Approfondimento
 
-TCP impone al mittente un **limite alla frequenza di invio dei segmenti** in base al **livello** “percepito” della **congestione**, grazie al **RTT** (usato dato che è a livello rete, di router e non trasporto).
-
-Il **throughput** (quantità di dati trasmessi nell’unità di tempo) di una comunicazione TCP è limitato da:
+TCP impone al mittente un **limite alla frequenza di invio dei segmenti** in base al **livello** “percepito” della **congestione**, grazie al **RTT** (usato dato che è a livello rete, di router e non trasporto). Il **throughput** (quantità di dati trasmessi nell’unità di tempo) di una comunicazione TCP è limitato da:
 
 ##### Finestra di congestione
 
@@ -28,7 +24,7 @@ Contiene la **qta di byte trasmissibili in 1 segmento** e cerca di non superare 
 
 Contiene la **qta di byte trasmissibili prima di** aspettare **1 ACK** e cerca di non superare la capacità del ricevitore di elaborare dati. Variabile ***rwnd***, è = al **limite max che la *cwnd* può assumere** (dimensione finestra ricezione destinatario).
 
-### Modalità di invio pacchetti
+#### Modalità di invio pacchetti
 
 TCP usa le variabili *cwnd* (***congestion window***) e ***ssthresh*** (***slow-start threshold***, soglia/limite) per le modalità di invio pacchetti:
 
@@ -42,7 +38,7 @@ Superato l’***ssthresh***, si passa dal raddoppiamento all’**incremento** de
 
 Quando TCP rileva **perdite**, considera la rete **congestionata** e cambia **modalità** (ciò per **timeout** o **3 o + ACK duplicati**).
 
-### Rilevamento perdite
+#### Rilevamento perdite
 
 Si vede come in entrambi i casi i pacchetti spediti in 1 volta **aumentano**, di conseguenza aumenta anche il **n°** degli **ACK da riscontrare**. Quando la rete si congestiona, qualche pacchetto **si perde**; e ognuno ha il suo ***acknowledgement number***, che indica il **successivo *sequence number*** aspettato.
 

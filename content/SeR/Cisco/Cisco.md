@@ -226,7 +226,7 @@ Configurandoli da "Terminal", sugli switch possono essere eseguiti gli stessi co
 - [[#Attivare il servizio di crittazione password]]
 - ...
 
-Gli switch sono principalmente usati per la configurazione di [[Livello rete#VLAN|VLAN]].
+Gli switch sono principalmente usati per la configurazione di [[8 VLAN#VLAN|VLAN]].
 
 ##### Configurare VLAN in switch
 

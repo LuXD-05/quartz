@@ -54,7 +54,13 @@ Per calcolare poi la superficie totale basta aggiungere ad $A_{l}$ l'area della 
 
 $A \;=\; \dfrac{p}{2} * a + A_{b}$
 
-(foto)
+$h_{max} \;=\; \sqrt{3}$
+
+$b^{2}_{max} \;=\; 36 - 4h^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 36 - 4(\sqrt{3})^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 24 \;\;\rightarrow\;\; b_{max} \;=\; \pm\sqrt{24} < 2\sqrt{6} acc   -2\sqrt{6} non acc$
+
+Sistemare richiesta e richiedere le <u>dimensioni</u> della piramide con vol max...
+
+Trovare il modo di fare il < grande come se fosse il risultato della x di un'equazione di 2° grado
 
 ### Calcolo del volume
 

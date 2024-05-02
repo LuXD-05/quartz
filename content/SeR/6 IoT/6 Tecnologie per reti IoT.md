@@ -26,9 +26,9 @@ Una criticità si ha nel decidere quale standard trasmissivo usare per l'invio d
 
 Esistono delle tecnologie adatte per vari tipi di reti IoT: 
 
-- **[[6.1 Short range|WiFi e BLE]]** per *short range* (pochi metri),
-- **[[6.2 Medium range|Tecnologie cellulari]]** per *range* medio-grandi (centinaia di metri),
-- Tecnologie LPWAN (*Low Power WAN*), tipo **[[6.3 Long range|LoRa]]**, per *long range* (diversi km) e con bassi consumi energetici.
+- **[[6.1 Short range|WiFi e BLE]]** per ***short range*** (pochi metri),
+- **[[6.2 Medium range|Tecnologie cellulari]]** per ***range* medio-grandi** (centinaia di metri),
+- Tecnologie LPWAN (*Low Power WAN*), tipo **[[6.3 Long range|LoRa]]**, per ***long range*** (diversi km) e con bassi consumi energetici.
 
 Per capire quale tecnologia usare, occorre valutare quale sia la + adatta in base a *range* e *bandwidth*.
 

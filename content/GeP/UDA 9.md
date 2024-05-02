@@ -1,0 +1,159 @@
+# Relazioni tra attività e tempi
+
+### La schedulazione dei tempi
+
+L’analisi dei compiti permette di individuarne le **figure professionali** necessarie, **vincoli**, **parallelismi** e quantificarne sia l’**effort** che la **durata** (in gg solari e calcolata in funzione di effort e risorse). Alcune **cose** possono però <u>influire sulla schedulazione dei tempi</u> delle attività:
+
+- <u>Urgenza</u> nella realizzazione del <u>progetto</u>,
+- <u>Disponibilità</u> di <u>HR e budget</u>,
+- <u>Vincoli di tempo</u>...
+
+![](https://i.imgur.com/3spEMp1.png)
+
+### Schedulazione degli input
+
+Spesso le attività necessitano di **input** (prerequisiti), individuati in <u>pianificazione</u>, per essere avviate (tipo HR, strumenti...); in particolare gli **output di altre attività**, dato che determinano l'**ordine** delle attività.
+
+Nella seguente WBS gli output usati come input sono identificati dal nome della loro attività. Sono le cosiddette "**dipendenze**" (qui attività propedeutiche):
+
+![](https://i.imgur.com/v45jbAi.png)
+
+### Grafi di dipendenze
+
+Le **attività** (il cui ordine è definito con la foto precedente) possono essere rappresentate **graficamente** in ordine con dei grafi contenenti:
+
+- **Nodi** (= fasi/attività): <u>rettangoli</u> (o cerchi) <u>identificati univocamente da un nome o numero</u> (di attività),
+- **Archi** (= input attività posteriore): <u>linea che collega 2 nodi</u>, ha una <u>direzione</u> (*diagrammi orientati*).
+
+Questi, in sequenza, definiscono le **dipendenze** tra le attività. Esistono 3 tipi di diagrammi:
+
+- **PERT**
+- **CPM** (*Critical Path Method*)
+- **PMD** (*Precedence Diagramming Method*)
+
+##### PERT
+
+*Project Evaluation & Review Technique*, ha diversi **obiettivi**:
+
+- <u>Determinare il minor tempo reale per realizzare il progetto</u>,
+- <u>Individuare il percorso critico</u> ([[#Critical Path]]).
+
+PERT generale del progetto SPOT:
+
+![](https://i.imgur.com/1gJvGll.png)
+
+###### Tipi di PERT
+
+Il PERT può essere:
+
+- (**Normale**): quando comprende solo le **macro-attività**,
+- **Generale**: quando comprende solo le **micro-attività**.
+
+###### Tipi di dipendenze
+
+Per fare il PERT (ma anche CPM e PDM) bisogna definire le <u>dipendenze tra le attività</u>, che sono di 3 tipi:
+
+- **Obbligatori**: perché una attività parte solo con in input gli output della precedente,
+- **Discrezionali**: in base a scelte del PM che decide a quale attività assegnare prima le risorse, 
+- **Esterni**: quando partono solo con input esterni.
+
+##### Critical Path
+
+Con il **PERT** (anche con **CPM** e **PDM**) è possibile calcolare il **tempo totale** per realizzare un progetto, <u>sommando la durata di tutte le attività</u> (per percorso) che lo compongono.
+
+> [!important] Critical path
+> In un reticolo, la **sequenza** (o percorso) **di attività** che richiede il **> tempo di esecuzione** rispetto alle altre e <u>definisce la durata minima del progetto</u>.
+
+###### Attività critiche
+
+Il *critical path* è composto da attività **critiche** che hanno + precedenza ed importanza delle altre nel progetto. La loro esecuzione <u>non può essere ritardata/rallentata</u> in quanto <u>ciò rallenterebbe</u> la realizzazione del <u>progetto</u> (non possono slittare). 
+
+###### Attività non critiche
+
+Le attività che invece <u>si possono ritardare</u> (**non critiche**):
+
+- possono essere <u>avviate subito</u> non <u>appena si hanno</u> tutti gli <u>input</u> necessari,
+- si può decidere di <u>ritardarle</u> (PM).
+
+Quando però il loro <u>ritardo occupa tutto il periodo di slittamento possibile</u>, anche queste attività **diventano critiche**.
+
+### Gantt
+
+Detto anche *cronoprogramma di progetto*, venne proposto da Henry Laurence **Gantt** come <u>strumento di gestione progetto</u> e riporta in:
+
+- **Righe**: <u>attività della WBS</u>
+- **Colonne**: <u>linea del tempo</u> ripartita <u>in unità temporali</u> (giorni, mesi...)
+- **Celle**: (con a <u>sinistra il nome dell'attività</u>) delle <u>barre temporali di lunghezza orizzontale pari alla durata dell'attività associata</u> (se macro-attività, la durata totale delle micro-attività)
+
+Si possono inserire delle ***milestones***, poste come attività con durata pari a 0 (sono solo nominali, indicano il completamento di 1 o + attività precedenti; di solito sono solo macro-attività).
+
+Gantt del progetto SPOT:
+
+![](https://i.imgur.com/X3BKDPc.png)
+
+##### Legami logici tra attività
+
+Nel Gantt i **legami logici tra attività** sono rappresentati tramite **linee** che collegano la fine di una con l'inizio di un'altra (e viceversa). Ci sono vari <u>tipi di legami</u>:
+
+- ***Fine-Inizio***: <u>A2 inizia dopo la fine di A1</u>,
+- ***Inizio-inizio***: <u>A1 e A2 iniziano insieme</u> (parallele),
+- ***Fine-fine***: <u>A1 e A2 finiscono insieme</u> (parallele?),
+- ***Inizio-fine***: <u>A1 inizia dopo la fine di A2</u>.
+
+![](https://i.imgur.com/04WtGqq.png)
+
+Sono anche possibili eventuali ritardi o anticipi:
+
+![](https://i.imgur.com/EJifsk8.png)
+
+###### Legami multipli
+
+Un **legame multiplo** è fatto da <u>+ legami semplici tra 3 o + attività</u>, tipo:
+
+- <u>Più attività che dipendono da 1 sola</u>,
+- <u>Una attività che dipende da +</u>.
+
+![](https://i.imgur.com/g4UNlO4.png)
+
+Un particolare sono i **legami logici transitivi**, in cui gli <u>output di A1 servono per A2 e gli output di questa servono per A3</u>. Sarebbe inutile inserire una dipendenza tra A1 e A3, come da esempio:
+
+![](https://i.imgur.com/FyclwJA.png)
+
+### Competizione e adattamento di risorse
+
+Le **risorse** <u>necessarie</u> per un'attività <u>non sono sempre disponibili</u>; e, se non lo sono per delle <u>attività critiche</u>, si <u>ritarda l'intero progetto</u>.
+
+> [!important] Risorse in competizione
+> Risorse che sono **impegnate in + luoghi contemporaneamente** (<u>contese tra + attività</u>).
+
+Esempio:
+
+![](https://i.imgur.com/qv8KPxB.png)
+
+##### Piano di adattamento
+
+Quando ci sono delle risorse in competizione, bisogna elaborare un:
+
+> [!important] Piano di adattamento
+> (O di livellamento), è un piano che ha come obiettivo la **risoluzione della competizione di risorse** <u>tra + attività di 1 o + progetti</u>.
+
+Con questo si va a verificare che ogni **risorsa** <u>non abbia</u> un **carico > del 100%**, ovvero che non sia ***sovrallocata*** nel periodo di tempo considerato (se lo è, <u>non è possibile finire entro il tempo previsto</u>).
+
+Il **livellamento** delle risorse può essere fatto:
+
+- **Rimandando l'attività in esame** così da <u>completare prima le altre</u> in cui è impegnata la risorsa,
+- **Posticipando le altre attività** così da <u>liberare le risorse</u> necessarie.
+
+##### Risorse chiave
+
+Nei progetti (soprattutto se + progetti paralleli in 1 azienda) a volte è possibile individuare delle:
+
+> [!important] Risorse chiave
+> (O *Drum Resources*), **risorse** speciali la cui <u>disponibilità è preponderante per l'avanzamento del progetto</u>.
+
+### Il piano finanziario
+
+Si ottiene integrando il ***budget*** di progetto col **Gantt** ed è caratterizzato da **2 linee** rappresentanti i <u>finanziamenti a inizio e a fine di ogni fase</u>:
+
+![](https://i.imgur.com/cRW2URU.png)
+

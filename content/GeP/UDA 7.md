@@ -1,58 +1,127 @@
-# Definizione del team di progetto
+# Definizione del team
 
-Il processo di creazione del team di progetto si compone di:
+La creazione del team di progetto prevede le seguenti fasi (la 1, definizione e schedulazione dei prodotti non c'è):
 
-- Definizione e schedulazione dei prodotti di progetto,
-- <u>Definizione dei compiti necessari alla realizzazione dei prodotti</u>,
-- Definizione delle competenze e individuazione delle figure professionali (organigramma),
-- Quantificazione degli effort necessari alla realizzazione dei compiti per ogni tipologia di figura professionale,
-- Quantificazione delle risorse umane necessarie per ogni tipologia di figura professionale,
-- Selezione delle risorse umane,
-- Assegnazione delle responsabilità.
+### 2 Definizione dei compiti
 
-### I compiti
+Un compito è un'**attività elementare che dura 1 o + giorni necessaria alla realizzazione di prodotti**; di solito si trova suddividendo gerarchicamente le attività.
 
-> [!important] Compito
->Attività elementare della durata di 1 o + giorni necessaria alla realizzazione di prodotti
+Essi sono gli <u>elementi + importanti della WBS</u> perché permettono il <u>controllo delle attività</u> (*work control packages*).
 
-Solitamente si individuano alla fine della scomposizione gerarchica delle attività di progetto.
+##### Caratteristiche
 
-I compiti sono gli elementi + importanti della WBS in quanto permettono il controllo delle attività di progetto (*work control packages*); e possono anche emergere nei livelli superiori della WBS.
+I **compiti**, rispetto al progetto, devono avere:
 
-##### Individuazione dei compiti
+- <u>Durata</u> relativamente <u>breve</u>,
+- <u>Costi</u> relativamente <u>piccoli</u>.
 
-I compiti, rispetto a tempi e costi complessivi di progetto, devono avere:
+##### Definire un compito
 
-- Durata relativamente breve,
-- Costi relativamente piccoli.
+Per **definire** un compito si <u>elencano le singole azioni per realizzarlo</u> (*statement of work*); ma anche:
 
-###### Definizione dei compiti
+- <u>Input attesi</u> (da altri compiti),
+- <u>Output attesi</u> (che siano prodotti finali/intermedi e materiali/immateriali),
+- <u>Specifiche tecniche</u> (+ documenti di riferimento).
 
-Per definire un compito, bisogna descrivere almeno:
-
-- Le singole azioni per realizzarlo (*statement of work*),
-- Input attesi (da altri compiti),
-- Output attesi (che siano prodotti finali/intermedi e materiali/immateriali),
-- Specifiche tecniche (+ documenti di riferimento).
-
-##### Schedulazione dei compiti
-
-La definizione dei compiti:
-
-- Si basa sui prodotti da realizzare,
-- Richiede una schedulazione dei prodotti dettagliata fino al livello di sottoprodotti elementari (PBS).
-
-Per questo differisce poco dalla schedulazione di prodotti in quanto ad ogni elemento di questa corrisponde un compito.
-
-###### Esempio
-
-[link](https://projectmanagement.matematicamente.it/attachments/article/30/uda_07_Lezione_1_Schedulazione_Prodotti_Compiti.pdf)
+Inoltre per definirli ci si basa sui **prodotti** da realizzare e (quindi) serve una schedularli dettagliatamente fino a <u>sottoprodotti elementari</u>.
 
 ##### Tipi di compito
 
 Ci sono diversi tipi di compito:
 
-- Generale (management, amministrazione, progettazione, realizzazione, approvvigionamento, monitoraggio...),
-- Specifico di settore (di interesse del progetto: sviluppo sw, configurazione sw, installazione rete...),
-- Specifico del progetto (rilevazione stato dell'arte...).
+- **Generale** (management, amministrazione, progettazione, realizzazione, approvvigionamento, monitoraggio...),
+- **Specifico di settore** (di interesse del progetto: sviluppo sw, configurazione sw, installazione rete...),
+- **Specifico del progetto** (rilevazione stato dell'arte...).
+
+##### Esempio
+
+Questo [link](https://projectmanagement.matematicamente.it/attachments/article/30/uda_07_Riepilogo_Fasi-Prodotti_SottoProdotti_Compiti_Risorse_Effort.pdf) contiene la schedulazione di: prodotti, sottoprodotti, compiti, risorse ed effort.
+
+### 3 Definizione delle figure professionali
+
+Vedi: [[UDA 5#Figure professionali generali|Figure professionali generali]] e [[UDA 5#Figure professionali specialistiche|Figure professionali specialistiche]]
+
+La <u>scelta</u> delle **figure professionali** avviene, prima di tutto, <u>in base alle competenze necessarie per realizzare prodotti e compiti</u>; poi dipende anche da: 
+
+- **Personale** (disponibile) aziendale, 
+- Organizzazione di **progetto**,
+- **Altre** esigenze...
+
+##### Distinzione delle figure
+
+Le figure (adesso in esempio quelle del progetto SPOT) possono essere distinte per provenienza:
+
+###### Interni
+
+- Il [[UDA 5#Comitato di programma|PB]]
+- Lo [[UDA 5#Sponsor|Sponsor]]
+- Il [[UDA 5#PM|PM]] (supportato da staff tecnico tipo progettisti interni/esterni ed esperti di aspetti organizzativi)
+- Il [[UDA 5#PMO|PMO]]
+- L'[[UDA 5#RdA|RdA]]
+- I [[UDA 5#TL|TL]] dei settori comunali
+- Alcuni [[UDA 5#Utenti finali|utenti finali]] (operatori comunali)
+
+###### Consulenti esterni
+
+Operano per lo sponsor o come staff del PM e sono:
+
+- Un [[UDA 5#RdQ|RdQ]]
+- Un [[UDA 5#Progettista|progettista]] esterno (in staff del PM) esperto di dominio applicativo (SUAP, SUE...)
+- Un esperto in aspetti organizzativi (in staff del PM), con ruolo di progettista e formatore
+
+###### Stakeholder
+
+- **1 o + rappresentanti dei cittadini** (di organizzazioni) che seguono e contribuiscono al progetto attivamente
+- I **cittadini finali** dei servizi interessati ad essi
+
+###### Team del fornitore
+
+- Il [[UDA 5#PM|PM]] del fornitore
+- Un <u>gruppo</u> per attività di installazione di <u>sistemi</u>, reti e sw
+- Un <u>gruppo</u> per lo <u>sviluppo</u> di sw custom
+- Un <u>gruppo</u> per <u>formazione e supporto</u> (sia a interni sia a utenti finali)
+- Un <u>gruppo</u> di <u>assistenza</u> tecnica
+
+Ogni gruppo si compone di: [[UDA 5#Progettista|progettisti]], [[UDA 5#Analista|analisti]] e [[UDA 5#Tecnico specialista|tecnici specialisti]] (in questo caso non distinti tra **junior** e **senior**).
+
+##### Definizione dell'organigramma
+
+L'organigramma è una **struttura organizzativa gerarchica** che rappresenta le **responsabilità** (delle risorse) all'interno di un processo:
+
+![](https://i.imgur.com/YcICE7Q.png)
+
+Il **PM** definisce l'organigramma avvalendosi di <u>tecnici esperti</u> per la definizione di compiti e figure professionali.
+
+### 4/5/6 Quantificazione dell'effort e selezione delle HR
+
+Dopo la schedulazione dei prodotti e quella dei compiti, è possibile **quantificare** (e selezionare) le **HR** per ogni figura e individuarne il rispettivo ***effort***. 
+
+A tal fine serve la collaborazione di esperti tipo TL e analisti.
+
+### 7 Assegnazione delle responsabilità
+
+Fondamentale è poi l'**attribuzione delle responsabilità nel team** (a volte <u>diversa</u> per i membri in base all'attività). L'attribuzione delle responsabilità avviene per <u>fasi</u>:
+
+1) **Prima**, vengono <u>attribuite le responsabilità alle figure</u> professionali (funzioni),
+2) **Poi**, sono <u>assegnate ai singoli membri</u> del team (via via che si completa).
+
+#### La matrice di relazione
+
+Essa è uno <u>strumento di rappresentazione delle responsabilità e dei compiti</u>. Presenta:
+
+- **Attività/compiti** sulle <u>righe</u>,
+- **HR e figure professionali** sulle <u>colonne</u>,
+- **Tipo di responsabilità** all'interno di ogni <u>elemento/cella</u>
+
+##### Tipi di responsabilità
+
+- **R** = è responsabile
+- **P** = progetta
+- **L** = lavora
+- **C** = collabora
+- **I** = da interpellare
+
+![](https://i.imgur.com/NwmIDi5.png)
+
+Si inizia da una matrice con le figure professionali e poi si passa al nome della HR (*Human Resource*). Col tempo sono ridefinite e dettagliate.
 

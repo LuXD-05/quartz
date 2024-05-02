@@ -6,20 +6,20 @@ Descrive la struttura di un'azienda come un insieme limitato di processi, e ne i
 
 (Descrivono sequenza di processi che un'azienda deve realizzare per creare prodotto o servizio da vendere)
 
-- Logistica interna --> gestione di materie prime e input per il processo
-- Operations --> progettazione e lavorazione di materie prime o di realizzazione prodotto
-- Logistica esterna --> distribuzione o consegna del prodotto presso il cliente
-- Marketing --> attività di commercializzazione (pubblicità, punti vendita, campagne di lancio, eventi...)
-- Servizi --> assistenza, help desk...
+- Logistica interna: gestione di materie prime e input per il processo
+- Operations: progettazione e lavorazione di materie prime o di realizzazione prodotto
+- Logistica esterna: distribuzione o consegna del prodotto presso il cliente
+- Marketing: attività di commercializzazione (pubblicità, punti vendita, campagne di lancio, eventi...)
+- Servizi: assistenza, help desk...
 
 ##### Supporto 
 
 (Attività trasversali al ciclo di vita del prodotto)
 
-- Infrastruttura di impresa --> gestione dei beni d'impresa necessari allo svolgimento di tutte le attività
-- Risorse umane --> gestione personale tramite recruiting, formazione, definizione piani carriera...
-- Serviti IT --> realizzazione e manutenzione di SW e HW necessaria per l'uso di programmi aziendali
-- Approvvigionamenti --> gestione rifornimento di materie prime, accessori e scorte
+- Infrastruttura di impresa: gestione dei beni d'impresa necessari allo svolgimento di tutte le attività
+- Risorse umane: gestione personale tramite recruiting, formazione, definizione piani carriera...
+- Serviti IT: realizzazione e manutenzione di SW e HW necessaria per l'uso di programmi aziendali
+- Approvvigionamenti: gestione rifornimento di materie prime, accessori e scorte
 
 ### Organigramma
 
@@ -27,14 +27,14 @@ Descrive la struttura di un'azienda come un insieme limitato di processi, e ne i
 
 ##### Definito tramite
 
-- Grafici --> indicano i rapporti di dipendenza tra individui (gerarchia) e il raggruppamento di essi in unità
-- Descrizioni --> Integrano i grafici e definiscono sistemi di comunicazione, coordinamento e integraz. componenti
+- Grafici: indicano i rapporti di dipendenza tra individui (gerarchia) e il raggruppamento di essi in unità
+- Descrizioni: Integrano i grafici e definiscono sistemi di comunicazione, coordinamento e integraz. componenti
 
 ##### Tipi di relazioni
 
-- Orizzontali --> uffici di pari responsabilità di ambiti diversi
-- Verticali --> uffici di responsabilità decrescente nello stesso ambito
-- (staff) --> uffici che svolgono attività trasversali e di supporto, tipo segreteria, contabilità...
+- Orizzontali: uffici di pari responsabilità di ambiti diversi
+- Verticali: uffici di responsabilità decrescente nello stesso ambito
+- (staff): uffici che svolgono attività trasversali e di supporto, tipo segreteria, contabilità...
 
 ### Forme della struttura organizzativa
 
@@ -100,23 +100,23 @@ Inizia calcolando il beneficio aziendale (BA) prodotto dall'investimento in un'u
 
 BA = (PP_post-PP_pre )-EF_post
 
-BA --> Beneficio annuale generato dall'investimento
+BA: Beneficio annuale generato dall'investimento
 
-PPpost --> Profitto da produzione (annuale) dopo l'investimento
+PPpost: Profitto da produzione (annuale) dopo l'investimento
 
-PPpre --> Profitto da produzione (annuale) prima dell'investimento
+PPpre: Profitto da produzione (annuale) prima dell'investimento
 
-EFpost --> Economie fisse (annuali) dopo l'investimento (ovvero differenza tra costi fissi prima e dopo l'investimento, anche negative. ES: riduzione di personale o aumento energia elettrica consumata)
+EFpost: Economie fisse (annuali) dopo l'investimento (ovvero differenza tra costi fissi prima e dopo l'investimento, anche negative. ES: riduzione di personale o aumento energia elettrica consumata)
 
 Dove il PP (profitto da produzione (annuale)) sia pre sia post è dato da:
 
 <center>PP=CP*(PV-PC)</center>
 
-CP --> Numero capi prodotti e venduti in 1 anno
+CP: Numero capi prodotti e venduti in 1 anno
 
-PV --> Prezzo di vendita di ogni capo
+PV: Prezzo di vendita di ogni capo
 
-PC --> Prezzo di costo do ogni capo
+PC: Prezzo di costo do ogni capo
 
 Da qui è possibile calcolare il payback period ed il breakeven:
 

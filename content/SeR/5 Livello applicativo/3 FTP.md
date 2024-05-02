@@ -13,8 +13,6 @@ Per questo si dice che **FTP** è ***out-of-band***, al contrario di **HTTP**, c
 
 ### Modalità
 
-L’FTP ha **2 modalità** di funzionamento:
-
 ##### Modalità attiva
 
 All’apertura della porta di comando (client), il client dice al server di voler usare la **modalità attiva** inviandogli un **n° di porta non privilegiata e casuale** (> 1024) **aperta** sullo stesso. Il <u>server</u> apre quindi 2 collegamenti:
@@ -41,7 +39,7 @@ In modalità passiva
 - La **connessione di controllo** è aperta dall’**FTP client**,
 - La **connessione dati** è aperta dall’**FTP client**.
 
-Con la modalità passiva viene limitato il range delle porte non privilegiate del server FTP, riducendo le porte aperte sul server e semplificando la creazione delle regole del firewall per il server. 
+Con la modalità passiva viene limitato il range delle porte non privilegiate del server FTP, riducendo le porte aperte sul server e semplificando la creazione delle regole del firewall per il server.
 
 ##### Per entrambe le modalità
 

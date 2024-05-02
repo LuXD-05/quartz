@@ -1,8 +1,6 @@
-# TCP
+### Caratteristiche
 
 Usato per app che non tollerano perdite o alterazioni nell’ordine di pacchetti ma che tollerano ritardi.
-
-### Caratteristiche
 
 ##### Connection oriented
 
@@ -18,11 +16,11 @@ Durante l’instaurazione della sessione (***handshake***), trasmittente e desti
 
 Essendo **affidabile**, TCP garantisce che ciascun segmento inviato dal trasmittente arrivi a destinazione. Nel caso in cui un segmento si perda o risulti corrotto, TCP lo **ritrasmette**. Dato che le reti presentano percorsi multipli di lunghezza diversa, i segmenti possono raggiungere la destinazione in **ordine diverso** da come sono trasmessi, perciò TCP fornisce un servizio di **numerazione** dei segmenti per poterne ricostruire la corretta sequenza.
 
-##### Controllo del flusso 
+##### Controllo del flusso
 
 (O *flow control*), per questo TCP è in grado di accorgersi se un **destinatario** che riceve pacchetti **è sovraccaricato** e nel caso **riduce il tasso di trasmissione dei pacchetti** (previene la necessità di ritrasmissione di segmenti persi per ***buffer overflow***).
 
-##### Controllo della congestione 
+##### Controllo della congestione
 
 (O *congestion control*), per questo TCP è in grado di accorgersi se la **rete è sovraccaricata** e nel caso **riduce il tasso di trasmissione dei pacchetti**.
 
@@ -44,20 +42,20 @@ Il pacchetto TCP è detto segmento e ha un *overhead* di 20 byte (opzioni di sol
 - ***Data offset*** (4 bit), è la **lunghezza dell’header** (bit di offset prima del payload/dati, se > 5 ci sono opzioni).
 - ***Reserved*** (3 bit), bit riservati.
 - ***Control bits*** (9 bit), **flags** usate da TCP per diversi scopi, tra cui:
-  - **SYN**, **ACK** e **FIN**, usati per gestire la connessione (***3-way handshake***).
-  - **RST**, *reset*, usato per resettare una connessione in caso di errore o *timeout*.
-  - **URG**, a **1** indica che il campo ***Urgent pointer*** è valido.
-  - **PSH**, usato in app soggette a **ritardi** (***real-time***) per la bufferizzazione dei dati presso sia TCP trasmittente sia TCP ricevente, chiede di inviare i dati nel buffer all’applicazione ricevente.
+	- **SYN**, **ACK** e **FIN**, usati per gestire la connessione (***3-way handshake***).
+	- **RST**, *reset*, usato per resettare una connessione in caso di errore o *timeout*.
+	- **URG**, a **1** indica che il campo ***Urgent pointer*** è valido.
+	- **PSH**, usato in app soggette a **ritardi** (***real-time***) per la bufferizzazione dei dati presso sia TCP trasmittente sia TCP ricevente, chiede di inviare i dati nel buffer all’applicazione ricevente.
 - ***Window size*** (16 bit), apertura della **finestra di ricezione**, indica il **n° max di byte trasmissibili prima di 1 ACK positivo**.
 - ***Checksum*** (16 bit), campo di controllo con errori di ***header***, ***payload*** e alcuni **campi IP** (IP sorg, IP dest, n° protocollo…).
 - ***Urgent pointer*** (16 bit), individua **l’ultimo byte di dati urgenti** nel payload.
 - ***Options*** (0-320 bit, in unità di 32 bit), con:
-  - Negoziazione opzionale di MSS (default 536 byte, max 65535 byte): tipo opzione 2 (con SYN impostato).
-  - Negoziazione Window scale: tipo opzione 3 (con SYN impostato).
-  - Selective acknowledgement (SACK invece di go-back-N) possibile: tipo opzione 4 (con SYN impostato).
-  - Selective acknowledgement (SACK), in opzioni ci sono i blocchi di dati riconosciuti (anche non contigui) riconosciuti: tipo opzione 5 (con SYN impostato).
+	- Negoziazione opzionale di MSS (default 536 byte, max 65535 byte): tipo opzione 2 (con SYN impostato).
+	- Negoziazione Window scale: tipo opzione 3 (con SYN impostato).
+	- Selective acknowledgement (SACK invece di go-back-N) possibile: tipo opzione 4 (con SYN impostato).
+	- Selective acknowledgement (SACK), in opzioni ci sono i blocchi di dati riconosciuti (anche non contigui) riconosciuti: tipo opzione 5 (con SYN impostato).
 
-### Gestione della connessione
+### Connessione
 
 ##### 3-way handshake
 
@@ -77,7 +75,7 @@ Il ***3-way handshake*** permette di:
 - **Dire al destinatario** che **client vuole comunicare su** un **n° di porta**,
 - **Stabilire parametri** di **sessione** (*sequence numbers* iniziali, *window size*…).
 
-### Terminazione della connessione
+##### Terminazione
 
 La **terminazione** di una connessione può essere iniziata sia da **client** sia da **server**.
 
@@ -85,7 +83,7 @@ Per chiuderla è usato il **flag FIN** (*finish*) e dato che la connessione è *
 
 **Al termine**, **client** e **server** TCP **deallocano** le **risorse** (buffer e variabili) usate.
 
-### Attacchi SYN flood
+#### Attacchi SYN flood
 
 I ***SYN flood attacks*** sono degli attacchi alla rete che sfruttano le vulnerabilità dell’**handshake** del TCP. In questi si mandano **tanti SYN** all’obiettivo **senza** poi **fare** il 3° passo (**l’ACK**); e, poiché **per ogni SYN** ricevuto il **server alloca buffer** e **variabili per** rispondere col **SYNACK**, il **server** potrebbe **esaurire** le sue **risorse** e **non riuscire** a **gestire** le **connessioni** giuste/**legittime** (attacco DoS, ***Denial of Service***).
 
@@ -109,7 +107,7 @@ Se un host che riceve un segmento (con byte da 1 a 1000) deve inoltrare un ACK a
 
 L’***acknowledgement number*** è **valido** solo **quando** il flag **ACK** è a **1** (di solito è a 0 solo nei segmenti SYN).
 
-Per le **perdite** si può usare sia ***go-back-N*** sia **s*elective repeat***; ma alcuni usano la ***selective acknowledgement*** (**SACK**). (Se entrambi supportano **SACK**, il destinatario può riscontrare segmenti non contigui e richiedere di ritrasmettere solo quelli persi).
+Per le **perdite** si può usare sia ***go-back-N*** sia ***selective repeat***; ma alcuni usano la ***selective acknowledgement*** (**SACK**). (Se entrambi supportano **SACK**, il destinatario può riscontrare segmenti non contigui e richiedere di ritrasmettere solo quelli persi).
 
-Essendo ***full-duplex****,* TCP può usare il ***piggybacking*** per riscontrare segmenti ricevuti (di solito 1 ACK per segmento ricevuto).
+Essendo ***full-duplex***, TCP può usare il ***piggybacking*** per riscontrare segmenti ricevuti (di solito 1 ACK per segmento ricevuto).
 

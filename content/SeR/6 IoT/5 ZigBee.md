@@ -7,7 +7,7 @@ ZigBee è una specifica per reti wireless molto usata per far comunicare disposi
 ZigBee:
 
 - Adotta lo standard livello fisico/datalink IEEE 802.15.4 con frequenza 2,4GHz con 16 canali separati e usa CSMA/CA per evitare le collisioni, ACK ad ogni *hop* e ACK *end-to-end*.
-- Usa la topologia mesh, la quale fornisce:
+- Usa la **topologia mesh**, la quale fornisce:
 	- Portata estesa tramite multi-hop,
 	- Formazione rete ad-hoc,
 	- Rilevamento automatico del percorso + riparazione automatica in caso di guasto di un nodo.
@@ -23,9 +23,7 @@ Le reti ZigBee prevedono 3 tipi di dispositivi: i ***coordinator***, i ***router
 
 ##### ZigBee Coordinator
 
-(O **ZC**) esegue il ***bootstrap*** della rete e, nel mentre, sceglie l'identificatore PAN e il canale radio fisico che verranno usati dalla rete; dopo questo però, si comporta come uno [[#ZigBee Router|ZR]] (caratteristiche identiche). Comunque ce n'è 1 per rete.
-
-Ve ne è 1 per rete e deve essere sempre attivo, quindi anche sempre collegato all'alimentazione (no batterie).
+(O **ZC**) esegue il ***bootstrap*** della rete e, nel mentre, sceglie l'identificatore PAN e il canale radio fisico che verranno usati dalla rete; dopo questo però, si comporta come uno [[#ZigBee Router|ZR]] (caratteristiche identiche). Comunque ce n'è 1 per rete. Ve ne è 1 per rete e deve essere sempre attivo, quindi anche sempre collegato all'alimentazione (no batterie).
 
 ##### ZigBee Router
 
