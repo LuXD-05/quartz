@@ -2,35 +2,35 @@
 
 ### GeP
 
-[[_GeP]]
+[[GeP/_GeP|GeP]]
 
 ### Informatica
 
- [[_Informatica]]
+ [[Informatica/_Informatica|Informatica]]
 
 ### Inglese
 
-[[_Inglese]]
+[[Inglese/_Inglese|Inglese]]
 
 ### Italiano
 
-[[_Italiano]]
+[[Italiano/_Italiano|Italiano]]
 
 ### Matematica
 
-[[_Matematica]]
+[[Matematica/_Matematica|Matematica]]
 
 ### Motoria
 
 ### SeR
 
-[[_SeR]]
+[[SeR/_SeR|SeR]]
 
 ### Storia
 
-[[_Storia]]
+[[Storia/_Storia|Storia]]
 
 ### TePI
 
-[[_TePI]]
+[[TePI/_TePI|TePI]]
 
