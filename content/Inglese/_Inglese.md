@@ -16,7 +16,7 @@
 - [[Search engines]]
 - [[Wikis]]
 - [[Emails]]
-- [[Cloud computing]]
+- [[2. School/TePI/Teo/Cloud Computing]]
 - [[Social networks]]
 - [[Blogs and forums]]
 - [[File sharing]]
@@ -34,3 +34,4 @@
 ### 4
 
 - [[Cryptography]]
+- [[Protection against risks]]
