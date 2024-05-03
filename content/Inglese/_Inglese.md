@@ -16,7 +16,7 @@
 - [[Search engines]]
 - [[Wikis]]
 - [[Emails]]
-- [[2. School/TePI/Teo/Cloud Computing]]
+- [[2. School/Inglese/Cloud computing|Cloud computing]]
 - [[Social networks]]
 - [[Blogs and forums]]
 - [[File sharing]]

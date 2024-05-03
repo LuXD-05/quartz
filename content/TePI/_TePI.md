@@ -3,7 +3,7 @@
 - [[Web e HTTP]]
 - [[Evoluzione delle reti]]
 - [[Reti Client-Server e P2P]]
-- [[Protocolli e oggetti]]
+- [[Protocolli]]
 - [[Socket]]
 - [[App e sistemi distribuiti]]
 - [[Datacenter]]

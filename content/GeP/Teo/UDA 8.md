@@ -139,6 +139,6 @@ Qui l'effort è in <u>ore/uomo</u>, in altri casi <u>ore/mesi</u> o altro.
 
 Qui invece sono riportati **tutti i costi per un'attività**:
 
-- I <u>totali</u> dei <u>costi di personale</u> (della scheda precedente),
-- I <u>costi</u> del <u>resto dei tipi di spesa</u>.
+- I <u>costi di personale</u> e altri costi <u>interni</u>,
+- Il resto dei <u>costi esterni</u>.
 

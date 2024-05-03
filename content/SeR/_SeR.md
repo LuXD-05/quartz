@@ -28,6 +28,9 @@
 
 - [[1 Fondamenti applicativo]]
 - [[2 HTTP]]
+- [[2.1 Autenticazione HTTP]]
+- [[2.2 Caching HTTP]]
+- [[2.3 Cookies HTTP]]
 - [[3 FTP]]
 - [[4 Remote desktop]]
 - [[5 Posta elettronica]]
@@ -47,6 +50,10 @@
 - [[6.1 Short range]]
 - [[6.2 Medium range]]
 - [[6.3 Long range]]
+
+##### Sicurezza
+
+##### Progettazione
 
 ### Lab
 

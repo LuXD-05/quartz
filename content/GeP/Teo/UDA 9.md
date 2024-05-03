@@ -29,7 +29,7 @@ Questi, in sequenza, definiscono le **dipendenze** tra le attività. Esistono 3 
 
 - **PERT**
 - **CPM** (*Critical Path Method*)
-- **PMD** (*Precedence Diagramming Method*)
+- **PDM** (*Precedence Diagramming Method*)
 
 ##### PERT
 
