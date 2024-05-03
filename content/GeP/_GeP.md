@@ -8,7 +8,7 @@
 - [[UDA 6]]
 - [[UDA 7]]
 - [[UDA 8]]
-- [[Teo/UDA 9]]
+- [[UDA 9]]
 
 ### Laboratorio
 
