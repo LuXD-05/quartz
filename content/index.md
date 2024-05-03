@@ -1,98 +1,36 @@
 ### Ed. Civica
 
-**Subindex**: *none*
-
-**Status**: *Empty*
-
-###### Todo
-
-- TePI: approfondimento firma digitale
-
 ### GeP
 
-**Subindex**: [[_GeP]]
-
-**Status**: *Work in progress*
-
-###### Todo
-
-- Teo: Complete UDA 7
-- Teo: Do UDA 8
-- Teo: Fix UDA 1, 2, 3, 4, 5, 6
-- Lab: Fix all (except Capisaldi di progetto)
+[[_GeP]]
 
 ### Informatica
 
-**Subindex**: [[_Informatica]]
-
-**Status**: *Up to date*
-
-###### Todo
-
-- Teo: Fix old args
+ [[_Informatica]]
 
 ### Inglese
 
-**Subindex**: [[_Inglese]]
-
-**Status**: *Up to date*
+[[_Inglese]]
 
 ### Italiano
 
-**Subindex**: [[_Italiano]]
-
-**Status**: *Work in progress*
-
-###### Todo
-
-- Fix old args (except Svevo & Pirandello)
+[[_Italiano]]
 
 ### Matematica
 
-**Subindex**: [[_Matematica]]
-
-**Status**: *Work in progress*
-
-###### Todo
-
-- Redo Teorema della media
-- Do last args (Equazioni differenziali + poligoni)
-- Fix old args (from start to Punti stazionari)
+[[_Matematica]]
 
 ### Motoria
 
-**Subindex**: *none*
-
-**Status**: *Under construction...*
-
 ### SeR
 
-**Subindex**: [[_SeR]]
-
-**Status**: *Work in progress*
-
-###### Todo
-
-- Teo: Check Livello rete, Livello trasporto, Livello applicativo
-- Teo: Do Livello datalink, Livello fisico
-- Lab: Complete IPv6 in Cisco
+[[_SeR]]
 
 ### Storia
 
-**Subindex**: [[_Storia]]
-
-**Status**: *Up to date*
-
-###### Todo
-
-- Fix old args
+[[_Storia]]
 
 ### TePI
 
-**Subindex**: [[_TePI]]
+[[_TePI]]
 
-**Status**: *Up to date*
-
-###### Todo
-
-- none
