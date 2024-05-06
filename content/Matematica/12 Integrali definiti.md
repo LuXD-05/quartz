@@ -1,21 +1,17 @@
 ### Integrale definito
 
-Abbiamo una funzione generica $f(x)$:
+Per una funzione generica $f(x)$, si definiscono 2 **estremi di integrazione** $a$ e $b$ sull'asse delle x. Questi delimiteranno a destra e a sinistra l'area sottesa della funzione che vogliamo calcolare.
 
-(foto)
+Questa va poi suddivisa in **rettangoli** di <u>uguale dimensione</u>, i quali delimiteranno un'**area** che va dal punto $c_{n}$ (il punto medio alla base di ogni rettangolo) al punto $f(c_{n})$ (trovato proiettando ogni $c_{n}$ per la funzione su y).
 
-Definiamo 2 **estremi di integrazione** $a$ e $b$ sull'asse delle x. Questi delimiteranno a destra e a sinistra l'area sottesa della funzione che vogliamo calcolare.
-
-Suddividere poi l'area sottesa in rettangoli di uguale dimensione, i quali delimiteranno un'area che va dal punto $c_{n}$ (punto medio della base del rettangolo, per ogni rettangolo: $c_{1}, c_{2} \ldots$) al punto $f(c_{n})$ (trovato proiettando ogni $c_{n}$ di ogni rettangolo sulla funzione).
-
-(foto)
+![](https://i.imgur.com/ylnlGiA.png)
 
 A questo punto definiamo:
 
-- $N$ = il n° di rettangoli usati per definire l'area sotto la funzione.
-- $\Delta x$ = la lunghezza della base di ogni rettangolo, data da: $\; \Delta x = \dfrac{b - a}{N}$.
+- $N$ = il **n° di rettangoli** usati per definire l'area sotto la funzione.
+- $\Delta x$ = la lunghezza della **base di ogni rettangolo**, data da: $\; \Delta x = \dfrac{b - a}{N}$.
 
-Matematicamente, trovare l'area di un n° indefinito di rettangoli $N$ si può rappresentare con:
+Matematicamente, trovare l'<u>area di un n° indefinito di rettangoli</u> $N$ si può rappresentare con:
 
 $$S_{N} = (\Delta x_{1} * f(c_{1})) + (\Delta x_{2} * f(c_{2})) \, \ldots \, (\Delta x_{N} * f(c_{N}))$$
 
@@ -23,7 +19,11 @@ $S_{N}$ è detta **somma di Riemann** e per rappresentarla in modo migliore, si 
 
 $$S_{N} = \sum\limits^{N}_{i \,=\, 1} \, f(c_{i}) * \Delta x$$
 
-L'idea per calcolare l'area della curva è aumentare gradualmente $N$ riducendo di volta in volta la lunghezza della base di ogni rettangolo, prolungando questo processo indefinitamente, così da aumentare sempre di + la precisione con cui i rettangoli corrispondono all'area sotto la funzione. Per questo motivo si usa il limite:
+L'idea per calcolare l'area della curva è <u>aumentare gradualmente</u> $N$ <u>riducendo di volta in volta la lunghezza della base di ogni rettangolo</u>, prolungando questo processo <u>indefinitamente</u>, così da <u>aumentare</u> sempre di + la <u>precisione con cui i rettangoli corrispondono all'area</u> sotto la funzione.
+
+![](https://i.imgur.com/AaW4teJ.png)
+
+Per questo motivo si usa il limite:
 
 $$\lim_{N \,\to\, +\infty} S_{N} \;\;\;=\;\; \lim_{\Delta x \,\to\, 0} \; \sum\limits^{N}_{i \,=\, 1} \, f(c_{i}) * \Delta x$$
 
@@ -31,7 +31,7 @@ Questo è l'integrale definito e la sua notazione è:
 
 $$\int^{b}_{a} f(x) \; dx$$
 
-Se la funzione $f(x)$ è continua, il limite delle somme di Riemann esiste.
+Se la funzione $f(x)$ è **continua**, il limite delle somme di Riemann (integrale definito) **esiste**.
 
 > [!important] Definizione
 > L'integrale definito è il limite per $N$ tendente a $+\infty$ delle somme di Riemann, considerandole in una funzione continua
@@ -45,7 +45,7 @@ Gli integrali definiti mantengono le 2 proprietà di [[11 Integrali indefiniti#P
 
 > [!important] Convenzione 2
 > Gli integrali si calcolano da $a$ a $b$ (quindi "da sinistra verso destra" avendo $a < b$) e in questo modo si interpretano come positivi o negativi in base all'area (se si trova sopra o sotto l'asse x).
-> Gli integrali calcolati da $b$ ad $a$ (in questo caso "da destra verso sinistra", sempre con $a < b$,) vanno invece interpretati al contrario. 
+> Gli integrali calcolati da $b$ ad $a$ (in questo caso "da destra verso sinistra", sempre con $a < b$,) vanno invece interpretati al contrario.
 > Per questo vale l'uguaglianza (sempre se $a < b$): $\displaystyle \int^{b}_{a} f(x) \; dx = - \int^{a}_{b} f(x) \; dx$
 
 > [!important] Additività rispetto all'intervallo d'integrazione
@@ -68,11 +68,11 @@ Gli integrali definiti mantengono le 2 proprietà di [[11 Integrali indefiniti#P
 
 ### Teorema fondamentale del calcolo integrale
 
-Questo teorema (seppur non enunciato in dettaglio) permette di semplificare il calcolo degli integrali definiti. Se integriamo tra $a$ e $b$ una funzione $f(x)$ continua nell'intervallo, allora:
+Questo teorema (seppur non enunciato in dettaglio) permette di semplificare il calcolo degli integrali definiti. Se integriamo tra $a$ e $b$ una funzione $f(x)$ <u>continua</u> nell'intervallo, allora:
 
 $$\int^{b}_{a} f(x) \; dx = F(b) - F(a)$$
 
-$F$ sono primitive; quindi si va a sostituire alle $x$ della funzione integranda, prima l'argomento di $F(b)$, e poi a questa si sottrae la medesima funzione integranda sostituendovi alle $x$ l'argomento di $F(a)$. 
+$F$ sono **primitive**; quindi si va a sostituire alle $x$ della funzione integranda, prima l'argomento di $F(b)$, e poi a questa si sottrae la medesima funzione integranda sostituendovi alle $x$ l'argomento di $F(a)$.
 
 ###### Esempio + notazione
 
@@ -80,7 +80,7 @@ $$\int^{1}_{0} x \; dx \;=\; \biggr{[}\, \frac{x^{2}}{2} \,\biggr{]}^{1}_{0} \;=
 
 ### Calcolo dell'area di funzioni pari e dispari
 
-Le funzioni pari e dispari presentano delle particolarità quando vengono prese in un intervallo simmetrico:
+Le funzioni **pari** e **dispari** presentano delle particolarità quando vengono prese in un **intervallo simmetrico**:
 
 ##### Funzione pari
 
@@ -91,6 +91,7 @@ Prendiamo come esempio $\cos x$ nell'intervallo di integrazione compreso tra $-\
 Number of Columns: 2
 Largest Column: standard
 Border: off
+Alignment: center
 ```
 
 (foto)
@@ -101,7 +102,7 @@ $$\int^{\pi}_{-\pi} \cos x \; dx \;=\; 2\int^{\pi}_{0} \cos x \; dx$$
 
 --- end-multi-column
 
-Si nota come nell'intervallo le 2 aree siano identiche, perciò si può considerare una delle 2 e moltiplicarla per 2.
+Si nota come nell'intervallo le <u>2 aree siano identiche</u>, perciò si può considerare <u>una delle 2 e moltiplicarla per 2</u>.
 
 ##### Funzione dispari
 
@@ -111,6 +112,8 @@ Prendiamo come esempio $\sin x$ nell'intervallo di integrazione compreso tra $-\
 ```column-settings
 Number of Columns: 2
 Largest Column: standard
+Border: off
+Alignment: center
 ```
 
 (foto)
@@ -121,7 +124,7 @@ $$\int^{\pi}_{-\pi} \sin x \; dx \;=\; 0$$
 
 --- end-multi-column
 
-Si nota come nell'intervallo le 2 aree siano identiche ed opposte, perciò si annullano.
+Si nota come nell'intervallo le <u>2 aree siano identiche ed opposte</u>, perciò si <u>annullano</u>.
 
 ---
 

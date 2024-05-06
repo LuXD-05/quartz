@@ -34,10 +34,11 @@
 - [[20 Probabilità]]
 - [[21 Compatibilità di eventi e somma logica]]
 - [[22 Probabilità condizionata e prodotto logico]]
+- 
 
 ### Geometria
 
-- [[23 Prismi e parallelepipedi]]
-- [[24 Piramidi e angoloidi]]
-- [[25 Solidi di rotazione]]
-- [[26 Poliedri]]
+- [[25 Prismi e parallelepipedi]]
+- [[26 Piramidi e angoloidi]]
+- [[27 Solidi di rotazione]]
+- [[28 Poliedri]]

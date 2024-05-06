@@ -1,4 +1,4 @@
-### Cos'è?
+### Teorema della media
 
 > [!important] Teorema della media
 > Se una funzione è <u>continua</u> nell'intervallo tra gli estremi di integrazione \[a; b\], esiste almeno un punto $z$ dell'intervallo, tale che:

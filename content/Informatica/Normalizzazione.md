@@ -158,5 +158,23 @@ Diventa (solo in 2FN):
 Per poter normalizzare in **3FN**, bisogna identificare all'interno della relazione, le **dipendenze transitive**.
 
 > [!important] Dipendenza transitiva
-> In una relazione $R$ con almeno 2 attributi $x$ e $y$: se $y$ (valore) varia al variare di $x$ (valore), $y$ ha una **dipendenza funzionale** da $x$. Si indica con: $x \rightarrow y$ ($x$ determina $y$).
+> In una relazione $R$ con 3 attributi $x$, $y$ e $z$ con $x$ PK,
+
+Quando un attributo non chiave, dipende da un altro attributo non chiave (che a sua volta dipende dalla PK in quanto è già in 2FN).
+
+Al variare di un attributo non chiave, varia anche l'altro attributo.
+
+Quando sono in 2FN, per evitare ridondanze, partendo dalla PK, si vedono le dipendenze transitive. Queste si capiscono facendo una tabella e buttandoci dentro un paio di dati.
+
+###### Esempio
+
+ Veicolo(<u>id</u>, tipo, prezzo, potenza):
+
+| ID  | Tipo | Prezzo | Potenza |
+|:---:|:----:|:------:|:-------:|
+| 1   | Bike | 100    | 1kw     |
+| 2   | Car  | 1000   | 10kw    |
+| 3   | Bike | 100    | 1kw     |
+
+In questo caso <u>tutti gli attributi dipendono dall'id</u>, però **prezzo** e **potenza** <u>dipendono dal tipo del veicolo</u>. Questa è una dipendenza transitiva.
 

@@ -65,5 +65,5 @@ $p(E_{1} \;\cap\; E_{2}) \;=\; p(E_{1}) \;*\; p(E_{2}|E_{1}) \;=\; \dfrac{5}{21}
 
 ---
 
-Vedi poi: [[23 Prismi e parallelepipedi]]
+Vedi poi: [[23 Teorema della probabilità composta]]
 
