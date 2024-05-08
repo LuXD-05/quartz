@@ -7,10 +7,6 @@ Soggetti pubblici o privati costituiti da gruppi di persone che svolgono attivit
 - **Private**: mission = <u>profitto</u>
 - **Pubbliche**: mission = <u>offrire e garantire servizi</u> sempre migliori
 
-###### Esempio
-
-Se prima avevo bisogno di magazzino, centro di vendita e rappresentante vendite (prima contattato dal cliente), ora avendo un sistema informativo, il rappresentante non serve più perché se ne occupa di tutto il sistema.
-
 ### Progetto
 
 > [!important] Progetto
@@ -25,7 +21,6 @@ Se prima avevo bisogno di magazzino, centro di vendita e rappresentante vendite 
 
 - Implica un <u>cambiamento nell'organizzazione</u> (che implica magari esigenze di revisione dei processi aziendali),
 - <u>Ha un obiettivo</u> o un punto di arrivo,
-- Ha a che fare con la <u>soluzione di problemi</u>,
 - <u>Crea</u> nuovi <u>processi</u>,
 - Presenta un <u>rischio > rispetto ai</u> quotidiani <u>processi</u> aziendali
 

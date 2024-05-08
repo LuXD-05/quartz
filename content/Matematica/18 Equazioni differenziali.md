@@ -38,7 +38,7 @@ Per esempio, un'equazione differenziale di **1° ordine** è un'equazione differ
 
 ###### Steps
 
-0) Distinguerla da quella a variabili separabili (quelle a variabili separabili hanno $y' \;=\; \ldots y \;\;* / :\;\; \ldots x$)
+0) Distinguerla da quelle lineari (quelle a variabili separabili hanno $y' \;=\; \ldots y \;\;* / :\;\; \ldots x$)
 1) Isolare $y'$ (portando tutto il resto a destra dell'uguale) e trovare $a(x)$ e $b(y)$
 2) Trovare l'eventuale soluzione per $b(y) \;=\; 0$ (impossibile a meno che non ci sia una variabile o sia tipo $1 \;=\; 1$?)
 3) Sostituire a: $\dfrac{dy}{dx} \;=\; a(x) * b(y)$ le variabili $a(x)$ e $b(y)$ 

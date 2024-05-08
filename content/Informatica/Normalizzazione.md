@@ -178,3 +178,31 @@ Quando sono in 2FN, per evitare ridondanze, partendo dalla PK, si vedono le dipe
 
 In questo caso <u>tutti gli attributi dipendono dall'id</u>, però **prezzo** e **potenza** <u>dipendono dal tipo del veicolo</u>. Questa è una dipendenza transitiva.
 
+##### Cos'è
+
+Una relazione è in **3FN** se:
+
+- è in **2FN**,
+- **Non ha dipendenze transitive** (<u>tutti gli attributi non-chiave dipendono direttamente dalla PK</u>).
+
+Un database è in 3FN se tutte le relazioni sono in 3FN.
+
+##### Step
+
+Si ottiene scomponendo la relazione di partenza in nuove relazioni, nelle quali tutti gli attributi dipendono dalla PK.
+
+##### Formalizzando
+
+Data la relazione R(<u>A1</u>, A2, A3, A4) in 2FN, con le seguenti dipendenze funzionali:
+
+- A1 $\rightarrow$ A2
+- A2 $\rightarrow$ A4
+
+Si ha quindi una **dipendenza transitiva**: A1 $\rightarrow$ A2 $\rightarrow$ A4
+
+Si può normalizzarla andando a <u>rimuovere questa</u> e creando una nuova relazione per la dipendenza: A2 $\rightarrow$ A4
+
+Ottenendo infine:
+
+- R1(<u>A1</u>, A2, A3)
+- R2(<u>A2</u>, A4)

@@ -19,7 +19,7 @@ Per indicare il <u>n° di elementi contenuti in un insieme</u> (che sia $f$ o $N
 ### Definizione
 
 > [!important] Probabilità
-> La probabilità di un evento $E$ è il rapporto fra $f$ e $S$ quando sono tutti ugualmente possibili.
+> La probabilità di un evento $E$ è il rapporto fra $f$ e $N$ quando sono tutti ugualmente possibili.
 
 Quindi, la probabilità di un evento corrisponde a: $\; p(E) = \dfrac{f}{N}$
 

@@ -102,7 +102,7 @@ I metodi per la valutazione di un progetto prevedono che le **analisi qualitativ
 
 ###### Calcolo del PP
 
-Servono altre 4 variabili:
+Servono 4 variabili:
 
 - $PP$ = **Profitto da produzione** (annuale) (sia <u>pre-investimento</u> sia <u>post-investimento</u>),
 - $NP$ = **N° prodotti** <u>prodotti e venduti</u> (in 1 anno),
@@ -115,7 +115,7 @@ $$PP \;=\; NP * (PV - PC)$$
 
 ###### Calcolo del BA
 
-Servono 4 variabili (considerate in un'unità di tempo, non per forza annuale):
+Servono altre 4 variabili (considerate in un'unità di tempo, non per forza annuale):
 
 - $BA$ = **Beneficio aziendale** (annuale) generato dall'investimento,
 - $PP_{post}$ = **Profitto da produzione** (annuale) <u>dopo l'investimento</u>,
