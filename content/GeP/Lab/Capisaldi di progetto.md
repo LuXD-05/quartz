@@ -4,7 +4,7 @@ I 3 capisaldi di progetto sono la pianificazione di costi, tempi e risorse (in o
 
 ### Pianificazione delle risorse
 
-La pianificazione di risorse consiste nell'elencare le risorse necessarie per ogni attività della WBS. Con questo si ottiene la RBS (*Requirement Breakdown Structure*).
+La pianificazione di risorse consiste nell'elencare le risorse necessarie per ogni attività della WBS. Con questo si ottiene la **RBS** (*Resource Breakdown Structure*).
 
 ##### Categorie di risorse
 
