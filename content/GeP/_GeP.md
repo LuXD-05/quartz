@@ -22,4 +22,4 @@
 - [[Capisaldi di progetto]]
 - [[EVM]]
 - [[BEP]]
-- [[Micorsoft project]]
+- [[Microsoft project]]
