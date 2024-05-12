@@ -5,6 +5,8 @@ L'**integrazione** è l'<u>operazione inversa alla derivazione</u>; e se $f(x) =
 > [!important] Primitiva
 > Una funzione $F(x)$ è una **primitiva** di $f(x)$ se $F(x)$ è **derivabile** e la sua **derivata** è $f(x)$, per cui: $F'(x) = f(x)$
 
+###### Esempio
+
 Nell'esempio iniziale, la primitiva $F(x) = x^{2}$ è derivabile e la sua derivata è $f(x) = 2x$.
 
 Le **primitive** però, non <u>sono uniche per le loro derivate</u> in quanto derivare una funzione alla quale si <u>aggiunge o si toglie un numero</u> $c$ reale risulterà sempre nella stessa derivata: $F'(x) + c = f(x)$.
@@ -17,6 +19,8 @@ Hind: def, notazione + f(x) integranda e primitiva
 
 > [!important] Integrale indefinito
 > L'**integrale indefinito** di una funzione $f(x)$ è l'**insieme** di tutte le sue **primitive** $F(x) + c$
+
+###### Altro
 
 **Notazione**: $\displaystyle \int[f(x)] \; dx \;=\; [F(x)] + c$
 
@@ -47,9 +51,13 @@ Border: off
 
 ### Proprietà
 
+###### 1
+
 > [!important] Linearità 1
 > L'integrale di una somma di funzioni è uguale alla somma delle singole funzioni integrate:
 > $\displaystyle \int[f(x) + g(x)] \; dx \;=\; \int f(x) \; dx \;+\; \int g(x) \; dx$
+
+###### 2
 
 > [!important] Linearità 2
 > L'(integrale di una funzione moltiplicata per una costante) è uguale all'(integrale della funzione) moltiplicato per la costante:

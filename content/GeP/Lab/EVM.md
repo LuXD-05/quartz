@@ -51,10 +51,6 @@ Questa è una **stima del futuro costo totale del progetto fatta al *timenow***,
 
 Questa è una **stima della durata totale del progetto fatta al *timenow***, <u>se l'andamento dei costi rimanesse quello ricavato al timenow</u>.
 
-#### Considerazioni
-
-Poi dipende tutto dall'importanza delle variabili. Se i costi sono + importanti e l'EAC supera il BT, allora conviene allungare i tempi e ridurre i costi.
-
 ### Esercizi
 
 ##### 1
@@ -119,33 +115,33 @@ TT = 12 mesi
 
 BT = 250k
 
-35%BT = cablaggio = 87500
+35%BT = cablaggio (87500)
 
-65%BT = rete = 162500
+65%BT = rete (162500)
 
 Timenow = 7 mesi
 
 (3 strutture al timenow completate) 
 
-Cablaggio = 100% 86000€
+Cablaggio = 86000€ (100%)
 
-Rete = 60% 96000€
+Rete = 96000€ (60%)
 
 ###### Indicatori 1
 
-PV = 100% 86000 + 58,3% 96000 (56000) = 142000€
+PV = 100% 86000 + 58,3% 162500 = 180737,5€
 
 AC = 86000 + 96000 = 182000€
 
-EV = 100% 86000 + 60% 96000 (57.600) = 143600€
+EV = 100% 86000 + 60% 162500 = 183500€
 
 ###### Indicatori 2
 
-CPI = 143600/182000 = 0,79
+CPI = 183500/182000 = 1,008
 
-SPI = 143600/142000 = 1,01
+SPI = 183500/180737,5 = 1,015
 
-EAC = 182000 + (250000 - 143600) / 0,79 = 365063,3€
+EAC = 182000 + (250000 - 183500) / 1,008 = 246468,7€
 
-SAC = 12 / 1,01 = 11,9 mesi
+SAC = 12 / 1,015 = 11,8 mesi
 

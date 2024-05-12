@@ -44,13 +44,13 @@ Quale è la probabilità che gli eventi si verifichino entrambi?
 
 ###### Step
 
-1) Trovare $S$, la $f$ per ogni evento e (eventualmente) la $f$ per ogni intersezione:
+1) Trovare ${} N$, la $f$ per ogni evento e (eventualmente) la $f$ per ogni intersezione:
 2) Calcolare le probabilità di ogni evento e quella delle intersezioni tra questi (2 alla volta):
 3) Calcolare l'unione:
 
 ###### Risoluzione
 
-$S \;=\; \{\; 1 \;\ldots\; 52 \;\} \;\;\lvert\;\; f_{1} \;=\; \{\; 4_{c}, 4_{q}, 4_{f}, 4_{p} \;\} \;\;\lvert\;\; f_{2} \;=\; \{\; (1 \ldots 10 + J, Q, K)_{p} \;+\; (1 \ldots 10 + J, Q, K)_{f}\;\} \;\;\lvert\;\; E_{1} \;\cap\; E_{2} \;=\; \{\; 4_{f}, 4_{p} \;\}$
+$N \;=\; \{\; 1 \;\ldots\; 52 \;\} \;\;\lvert\;\; f_{1} \;=\; \{\; 4_{c}, 4_{q}, 4_{f}, 4_{p} \;\} \;\;\lvert\;\; f_{2} \;=\; \{\; (1 \ldots 10 + J, Q, K)_{p} \;+\; (1 \ldots 10 + J, Q, K)_{f}\;\} \;\;\lvert\;\; E_{1} \;\cap\; E_{2} \;=\; \{\; 4_{f}, 4_{p} \;\}$
 
 $p(E_{1}) \;=\; \dfrac{f_{1}}{N} \;=\; \dfrac{1}{13} \;\;\;\lvert\;\;\; p(E_{2}) \;=\; \dfrac{f_{2}}{N} \;=\; \dfrac{1}{2} \;\;\;\lvert\;\;\; p(E_{1} \;\cap\; E_{2}) \;=\; \dfrac{f}{N} \;=\; \dfrac{\#(E_{1} \;\cap\; E_{2})}{\#S} \;=\; \dfrac{1}{26}$
 

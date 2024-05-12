@@ -40,13 +40,13 @@ Se un'azienda ha un BEP di 100 unità e prevede di venderne 150, il MS è del 33
 
 1) Calcolo di $Q$ (BEP):
 
-   $$Q = \dfrac{CF}{p - cv} \;$$
+   $$Q \;=\; \dfrac{CF}{p - cv} \;$$
 
    Che è un valore espresso rappresentante il n° di prodotti (necessari per raggiungere il BEP ed avere pari costi e guadagni).
 
 2) Calcolo del $R_{c}$:
 
-   $$R_{c} = p * Q - (cv * Q + CF) \;$$
+   $$R_{c} \;=\; p * Q - (cv * Q + CF) \;$$
 
    Che invece è composto da:
 
@@ -214,11 +214,11 @@ Quindi si hanno:
 
 ###### Indicatori 2
 
-$Q \;=\; CF \;:\; (p - cv) \;=\; 400k \;:\; (7.5 - 4) \;=\; 114286 \;$ sensori.
+$Q \;=\; 400k \;:\; (7.5 - 4) \;=\; 114286 \;$ sensori.
 
 (Spese totali / guadagno da ogni pezzo = n° pezzi necessari per equipararle)
 
-${} R_{c} \;=\; p * Q - (cv * Q + CF) \;=\; 7.5 * 114286 - (4 * 114286 + 400k) \;=\; 857143 - (457143 + 400k) \;=\; 0 {}$
+$R_{c} \;=\; 7.5 * 114286 - (4 * 114286 + 400k) \;=\; 857143 - (457143 + 400k) \;=\; 0$
 
 Supponendo che si prevede di vendere 120000 sensori, l'MS:
 
@@ -228,22 +228,22 @@ $MS \;=\; (120000 - 114286) / 120000 = 5714 / 120000 = 0,0476 * 100 = 4,78\%$
 
 ![](https://i.imgur.com/YJAnfmd.png)
 
-1 = 5
+1 = 4 (aumento costi x stipendi)
 
-2 = 3/4
+2 = 3 (tipo se progetto all'aperto e non posso lavorare con pioggia)
 
-3 = 1
+3 = 1 (troppo generico per specificare)
 
-4 = 3
+4 = 3 (dato che magari ci si mette troppo a produrre l'output)
 
-5 = 1/5
+5 = 1/5 (tipo che ci mette poco tempo? potrebbe anche non significare niente)
 
-6 = 3
+6 = 3 (sovrallocamenti indesiderati... + tempo?)
 
-7 = 1
+7 = 1 (nessun sovrallocamento o stalli... - tempo?)
 
-8 = ?
+8 = 1? (perché lo si fa in meno tempo se di scarsa qualità?)
 
-9 = 3?
+9 = 4 (perché previsti costi minori di quelli effettivi (ma anche tempi) quindi si sfora ???)
 
-10 = ?
+10 = 1/5 (perché previsti costi > di quelli effettivi (ma anche tempi) quindi è come se fosse molto veloce ???)

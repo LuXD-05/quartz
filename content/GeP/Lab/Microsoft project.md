@@ -1,4 +1,4 @@
-# ...
+# Intro
 
 ### Gestionali
 
@@ -125,7 +125,7 @@ Sono milestones
 
 - Verso il basso: scadenza
 
-### Gestione delle risore
+### Gestione delle risorse
 
 Per gestire le risorse, cliccare sulla 2a scheda da destra "Elenco risorse" in basso a destra.
 
@@ -134,6 +134,8 @@ Per gestire le risorse, cliccare sulla 2a scheda da destra "Elenco risorse" in b
 (In project mancano le risorse "attrezzatura" e le risorse di tipo "altro").
 
 Per aggiungerle cliccare su "Aggiungi risorse" e selezionare il tipo di risorsa voluta.
+
+##### Tipi
 
 ###### Lavoro
 

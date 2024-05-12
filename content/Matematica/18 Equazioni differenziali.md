@@ -24,7 +24,7 @@ $$P(0, 0) \;\rightarrow\; c = 0 \;\rightarrow\;y = x^{2}$$
 ##### Ordine
 
 > [!important] Ordine
-> Il massimo ordine di derivazione che compare nell'equazione differenziale 
+> Il massimo ordine di derivazione che compare nell'equazione differenziale
 
 Per esempio, un'equazione differenziale di **1° ordine** è un'equazione differenziale che contiene al massimo la **derivata 1a** della funzione incognita da trovare (soluzione).
 
