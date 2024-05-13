@@ -228,6 +228,12 @@ Configurandoli da "Terminal", sugli switch possono essere eseguiti gli stessi co
 
 Gli switch sono principalmente usati per la configurazione di [[8 VLAN#VLAN|VLAN]].
 
+##### Mostrare tutte le VLAN di uno switch
+
+```
+S1(config)# show vlan brief
+```
+
 ##### Configurare VLAN in switch
 
 Accedere al terminale dello switch e, dopo `conf t`, creare la **VLAN**:
@@ -239,15 +245,9 @@ S1(config-vlan)# name V1
 
 Quando si creano le VLAN, è buona pratica dargli dei **VID numericamente distanti** e proporzionati in base alla grandezza della rete nel caso serva creare altre VLAN.
 
-##### Mostrare tutte le VLAN di uno switch
-
-```
-S1(config)# show vlan brief
-```
-
 ##### Configurazione access port
 
-Negli switch vanno configurate le ***access port*** per le interfacce a cui si collegano **host**, quindi:
+Negli switch vanno configurate le ***access port*** per le interfacce a cui si collegano **host** (se allo switch si collegano **+ VLAN**, <u>vanno configurate tutte</u>), quindi:
 
 ```
 S1(config)# int fa0/1
@@ -258,7 +258,7 @@ Questo nel caso in cui l'host sia attaccato all'interfaccia "**FastEthernet0/1**
 
 ##### Configurazione trunk port
 
-Per configurare le ***trunk port*** si configurano le interfacce di collegamento tra switch:
+Per configurare le ***trunk port*** si configurano le interfacce di collegamento tra switch (il comando `switchport trunk allowed vlan add N` va fatto per <u>ogni VLAN che si deve mettere in comunicazione con l'altro switch</u>):
 
 ```
 S1(config)# int g0/1
@@ -269,7 +269,11 @@ S1(config-if)# switchport trunk allowed vlan add 10
 S1(config-if)# no sh
 ```
 
-Va fatto per <u>entrambe le interfacce del collegamento</u>. Questo, in ordine:
+Va fatto per <u>entrambe le interfacce del collegamento</u> (prima per S1 e poi per S2). 
+
+**ATTENZIONE**: il procedimento va fatto anche per le interfacce degli switch collegate con router (non per quelle dei router).
+
+###### Spiegazione passi
 
 1) Si entra nell'interfaccia dello switch a cui gli si collega un altro switch (nel caso questa sia l'ingerfaccia "**GigabitEthernet0/1**"),
 2) Con `switchport mode trunk` si imposta l'interfaccia come ***trunk***.
@@ -277,6 +281,34 @@ Va fatto per <u>entrambe le interfacce del collegamento</u>. Questo, in ordine:
 4) Si **rimuovono** tutte le **VLAN conosciute** nello switch.
 5) Si **aggiungono** le **VLAN necessarie**, ovvero quelle di cui l'interfaccia vuole inviare il traffico.
 6) Va poi <u>riaccesa l'interfaccia</u>.
+
+##### Abilitare l'inter-VLAN routing
+
+Supponendo che il VID della VLAN sia 10:
+
+```
+R1(config)# int g0/0
+R1(config-if)# no sh
+R1(config-if)# exit
+R1(config)# int g0/0.10
+R1(config-subif)# encapsulation dot1Q 10
+R1(config-subif)# ip add 192.168.0.1 255.255.255.0
+```
+
+Con:
+
+- "192.168.0.1" = gateway della rete
+- "255.255.255.0" = subnet mask della rete
+
+imposto gateway per tutte le VLAN che mandano traffico all'interfaccia
+
+##### Cancellare una VLAN
+
+Supponendo che si voglia cancellare la VLAN con VID 10:
+
+```
+S1(config)# no vlan 10
+```
 
 ## Hotkeys
 

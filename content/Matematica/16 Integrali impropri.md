@@ -4,7 +4,7 @@ Gli integrali impropri sono degli integrali particolari che hanno in 1 o in entr
 
 ##### Convergenza e divergenza
 
-- Integrale **convergente** in un intervallo: è un'integrale il cui **limite** su 1 o entrambi gli **estremi di integrazione** risulta **finito** (quindi un numero); questo tipo di integrale ha come **estremi 2 numeri finiti** dei quali **almeno 1 è un'asintoto** della funzione da integrare. 
+- Integrale **convergente** in un intervallo: è un'integrale il cui **limite** su 1 o entrambi gli **estremi di integrazione** risulta **finito** (quindi un numero); questo tipo di integrale ha come **estremi 2 numeri finiti** dei quali **almeno 1 è un'asintoto** della funzione da integrare.
 - Integrale **divergente** in un intervallo: è un'integrale il cui **limite** su 1 o entrambi gli **estremi di integrazione** risulta **infinito** o **inesistente**; questo tipo di integrale ha come **estremi** (raramente 2 infiniti, di solito) **un numero finito e un infinito** (positivo o negativo).
 
 ### Casi e risoluzione

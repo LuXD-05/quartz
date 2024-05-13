@@ -8,11 +8,11 @@ Un esperimento aleatorio è un fenomeno di cui non si riesce a determinare l'esi
 > Lo **spazio campionario** di un esperimento aleatorio è l'insieme di tutti gli esiti (casi) dell'esperimento. I "**casi totali**" si indicano con la lettera $N$.
 
 > [!important] Evento
-> Un **evento** è un qualsiasi <u>sottoinsieme dei casi dello spazio campionario</u>. Si indica con la lettera $E$. 
+> Un **evento** è un qualsiasi <u>sottoinsieme dei casi dello spazio campionario</u>. Si indica con la lettera $E$.
 > Gli elementi che il sottoinsieme dell'evento studia sono detti "**casi favorevoli**" e si indicano con la lettera $f$.
 
 > [!important] Evento contrario
-> Un evento contrario corrisponde agli elementi dello spazio campionario che l'evento (normale) non include. Si indica con la lettera $\overline{E}$. 
+> Un evento contrario corrisponde agli elementi dello spazio campionario che l'evento (normale) non include. Si indica con la lettera $\overline{E}$.
 
 Per indicare il <u>n° di elementi contenuti in un insieme</u> (che sia $f$ o $N$) si usa il simbolo di **cardinalità**: $\#$.
 

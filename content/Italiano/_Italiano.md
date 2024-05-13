@@ -24,7 +24,7 @@
 - [[Pirandello]]
 - Gadda?
 - [[Ungaretti]]
-- ...
+- [[Montale]]
 
 ### Domande
 

@@ -1,19 +1,19 @@
 # Prismi
 
 > [!important] Prisma indefinito
-> Dato un poligono convesso e una retta r incidente al suo piano, si dice prisma indefinito la figura formata dalle rette parallele a r, passanti per tutti i punti del poligono dato, inclusi quelli del suo contorno. Le rette che passano per i vertici del poligono si dicono spigoli del prisma indefinito.
+> Dato un <u>poligono convesso</u> e una <u>retta</u> $r$ incidente al suo piano, si dice **prisma indefinito** la figura formata dalle rette parallele a $r$, passanti per <u>tutti i punti del poligono dato</u>, inclusi quelli del suo contorno. Le **rette** che <u>passano per i vertici</u> del poligono si dicono **spigoli** del prisma indefinito.
 
 > [!important] Prisma 
-> Si dice prisma (definito) la parte di un prisma indefinito compresa tra una cop- pia di piani paralleli che intersecano tutti gli spigoli di quest'ultimo.
+> Si dice **prisma** (<u>definito</u>) la parte di un prisma indefinito compresa tra una coppia di piani paralleli che intersecano tutti gli spigoli di quest'ultimo.
 
 ![](https://i.imgur.com/o1iILL6.png)
 
 > [!important] Prisma retto
-> Un prisma si dice retto quando gli spigoli laterali sono perpendicolari ai piani delle basi. Infine, un prisma retto le cui basi sono poligoni regolari viene detto regolare.
+> Un **prisma** si dice **retto** quando gli <u>spigoli laterali sono perpendicolari ai piani delle basi</u>. Infine, un prisma retto le cui <u>basi sono poligoni regolari</u> viene detto **regolare**.
 
 ![](https://i.imgur.com/qUHTVc9.png)
 
-Un prisma si dice inoltre triangolare, quadrangolare, esagonale... a seconda del numero dei lati delle basi.
+Un prisma si dice inoltre <u>triangolare, quadrangolare, esagonale</u>... a seconda del **numero dei lati delle basi**.
 
 ### Calcolo dell'area di un prisma
 

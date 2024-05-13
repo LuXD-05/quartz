@@ -34,7 +34,8 @@
 - [[20 Probabilità]]
 - [[21 Compatibilità di eventi e somma logica]]
 - [[22 Probabilità condizionata e prodotto logico]]
-- 
+- [[23 Teorema delle probabilità totali]]
+- [[24 Teorema di Bayes]]
 
 ### Geometria
 

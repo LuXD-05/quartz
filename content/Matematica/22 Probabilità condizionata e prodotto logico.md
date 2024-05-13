@@ -8,7 +8,7 @@ Inoltre:
 
 > [!important] Probabilità condizionata
 > (Dati 2 eventi $E_{1}$ ed $E_{2}$) la probabilità condizionata di $E_{2}$ rispetto a $E_{1}$ corrisponde alla probabilità che $E_{2}$ si verifichi sapendo che si è già verificato $E_{1}$.
-> La probabilità condizionata di $E_{2}$ rispetto ad $E_{1}$ si rappresenta con: $p(E_{2}|E_{1})$.
+> La probabilità condizionata di $E_{2}$ rispetto ad $E_{1}$ si rappresenta con: $p(E_{2}|E_{1})$, che è = a: $\dfrac{p(E_{2} \;\cap\; E_{1})}{p(E_{1})}$
 
 ##### Prodotto logico di eventi
 

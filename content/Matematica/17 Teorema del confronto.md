@@ -7,7 +7,6 @@ Siano $f$ e $g$ 2 funzioni continue in $\underset{a \;\leq\; x \;<\; b}{[a, b)}$
 Se: $\;0 \;\leq\; f(x) \;\leq\; g(x)\;$ in $\large [a, b)$, allora:
 
 1) Se $\;\displaystyle\int_{a}^{b} g(x) \,dx\;$ è **convergente**, anche $\;\displaystyle\int_{a}^{b} f(x) \,dx\;$ sarà **convergente**.
-
 2) Se $\;\displaystyle\int_{a}^{b} f(x) \,dx\;$ è **divergente**, anche $\;\displaystyle\int_{a}^{b} g(x) \,dx\;$ sarà **divergente**.
 
 (grafici)
@@ -19,7 +18,6 @@ Siano $f$ e $g$ 2 funzioni continue in $\large x \;{\small\geq}\; a$:
 Se: $\;0 \;\leq\; f(x) \;\leq\; g(x)\;$ in $\large x \;{\small\geq}\; a$, allora:
 
 1) Se $\;\displaystyle\int_{a}^{+\infty} g(x) \,dx\;$ è **convergente**, anche $\;\displaystyle\int_{a}^{+\infty} f(x) \,dx\;$ sarà **convergente**.
-
 2) Se $\;\displaystyle\int_{a}^{+\infty} f(x) \,dx\;$ è **divergente**, anche $\;\displaystyle\int_{a}^{+\infty} g(x) \,dx\;$ sarà **divergente**.
 
 (grafici?)
