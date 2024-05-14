@@ -18,7 +18,7 @@ Le attività devono comprendere **obiettivi SMART** che descrivano il <u>contest
 
 ##### 3) Prodotti
 
-Ogni attività deve realizzare dei **prodotti** (*deliverable*) definiti e ogni prodotto necessita di: 
+Ogni attività deve realizzare dei **prodotti** (*deliverable*) definiti e ogni prodotto necessita di:
 
 1) Essere <u>identificato da un codice univoco</u>,
 2) Essere <u>descritto</u> nei dettagli ed eventualmente <u>scomposto in sottoprodotti</u>.
@@ -26,10 +26,9 @@ Ogni attività deve realizzare dei **prodotti** (*deliverable*) definiti e ogni 
 ###### Tipi di prodotti
 
 - **Documenti**: progetti, relazioni, report, verbali…
-- **Strumenti**: hw, sw, beni generali;
+- **Tool**: hw, sw, beni generali;
 - **Impianti**: impianti elettrici, di dati, di sorveglianza, di elaborazione…
-- **Attività**: (iniziative) funzionali al progetto (eventi di promozione, formazione, riunioni tecniche…);
-- **Altro**: (sw...).
+- **Attività**: (iniziative) funzionali al progetto (eventi di promozione, formazione, riunioni tecniche…)...
 
 ###### Sottoprodotti, compiti ed effort
 
@@ -52,9 +51,7 @@ Per ogni compito è quantificabile il necessario:
 
 ##### 4) Prerequisiti
 
-(o **input/vincoli**) sono elementi indispensabili per un'attività, tipo: prodotti, tool, UR, tempi, costi…
-
-In particolare i prodotti di altre attività (input) che determinano la sequenza delle attività e i tempi totali.
+(O **input/vincoli**) sono elementi indispensabili per un'attività, tipo: prodotti, tool, UR, tempi, costi… In particolare i prodotti di altre attività (input) che determinano la sequenza delle attività e i tempi totali.
 
 ###### Input incerti
 
@@ -91,8 +88,8 @@ Dopo aver individuato le **figure**, gli si assegnano le **responsabilità e aut
 ### PBS
 
 > [!important] Project Breakdown Structure
-> È una <u>struttura analitica e gerarchica che scompone il progetto in</u> **attività** (non gestisce durate, costi, vincoli…). 
-> Se arriva a dettagliare anche i singoli *work packages* (unità di lavoro) diventa **WBS** (*Work Breakdown Structure*). 
+> È una <u>struttura analitica e gerarchica che scompone il progetto in</u> **attività** (non gestisce durate, costi, vincoli…).
+> Se arriva a dettagliare anche i singoli *work packages* (unità di lavoro) diventa **WBS** (*Work Breakdown Structure*).
 
 È buona norma non scomporre ogni attività in più di **5 sotto-attività**, (distribuibili) per un massimo di **4 livelli**.
 
@@ -114,11 +111,11 @@ Esempio:  **P1.2\_03** = prodotto 03 della sotto-attività 2 dell'attività 1.
 
 ##### PBS per obiettivi realizzativi
 
-Alcuni <u>obiettivi</u> potrebbero prevedere dei <u>macro-prodotti complessi</u> al punto da dover essere realizzati con **sotto-progetti**. 
+Alcuni <u>obiettivi</u> potrebbero prevedere dei <u>macro-prodotti complessi</u> al punto da dover essere realizzati con **sotto-progetti**.
 
-In questi casi, la **PBS** può essere suddivisa in base agli **obiettivi realizzativi** (che diventano <u>attività principali</u>); mentre attività tipo <u>progettazione, realizzazione, dispiegamento…</u> diventano **sotto-attività di ogni obiettivo**. 
+In questi casi, la **PBS** può essere suddivisa in base agli **obiettivi realizzativi** (che diventano <u>attività principali</u>); mentre attività tipo <u>progettazione, realizzazione, dispiegamento…</u> diventano **sotto-attività di ogni obiettivo**.
 
-###### Esempio 
+###### Esempio
 
 --- start-multi-column: ID_lszr
 ```column-settings

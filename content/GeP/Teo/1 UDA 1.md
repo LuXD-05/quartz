@@ -22,22 +22,21 @@ Soggetti pubblici o privati costituiti da gruppi di persone che svolgono attivit
 - Implica un <u>cambiamento nell'organizzazione</u> (che implica magari esigenze di revisione dei processi aziendali),
 - <u>Ha un obiettivo</u> o un punto di arrivo,
 - <u>Crea</u> nuovi <u>processi</u>,
-- Presenta un <u>rischio > rispetto ai</u> quotidiani <u>processi</u> aziendali
+- Presenta un <u>rischio maggiore rispetto ai soliti processi</u> aziendali
 
 ### Processo
 
 > [!important] Processo
-> Insieme di **attività** note svolte con <u>continuità</u> in un'azienda, fatti da una sequenza di operazioni note che sono eseguite per <u>realizzare un obiettivo</u> aziendale.
+> Insieme di **attività** note svolte con <u>continuità</u> e fatte per <u>realizzare un obiettivo</u> aziendale.
 
 Un **processo** potrebbe essere un <u>progetto per un'altra azienda</u> (tipo processo per una società di costruzioni e progetto per l'azienda cliente a cui viene costruito l'immobile).
 
 ### Confine tra progetto e processo
 
-È segnato da diverse cose a seconda dell'azienda:
+È segnato da diverse cose (principalmente 2) a seconda dell'azienda:
 
 - **Frequenza** con cui un'azienda fa un'attività e se è di routine o no,
-- **Rischio** legato alla sua realizzazione,
-- **Altro** in base alla situazione, tipo costo di investimento e tempo necessario.
+- **Rischio** legato alla sua realizzazione...
 
 ### BPR
 
@@ -45,7 +44,7 @@ Un **processo** potrebbe essere un <u>progetto per un'altra azienda</u> (tipo pr
 
 ###### Esempio
 
-Un e-commerce che vuole sorgere da un negozio fisico deve cambiare completamente: non servono o vanno ridotti luoghi di vendita fisica e magazzini, richiesta organizzazione di spedizioni di prodotti, richiesti contatti con banche per gestione di pagamento automatizzato e una riorganizzazione/ridimensionamento del personale. 
+Un e-commerce che vuole sorgere da un negozio fisico deve cambiare completamente: non servono o vanno ridotti luoghi di vendita fisica e magazzini, richiesta organizzazione di spedizioni di prodotti, richiesti contatti con banche per gestione di pagamento automatizzato e una riorganizzazione/ridimensionamento del personale.
 
 ### Project management
 
@@ -65,7 +64,7 @@ Un e-commerce che vuole sorgere da un negozio fisico deve cambiare completamente
 > [!important] Sistema informativo
 > **Insieme di progetti** integrati dove **output di 1 progetto sono gli input di 1 altro**, quindi il 1° condiziona il 2° e così via.
 
-Di solito si istituisce nelle aziende un <u>team di gestione programmi</u>, che:
+Di solito si istituisce nelle aziende un <u>team di gestione programmi</u> (vedi [[7 UDA 5.1#Comitato di programma|PB]]), che:
 
 - Monitora la realizzazione dei progetti,
 - Pianifica a/o autorizza revisioni,
@@ -74,7 +73,7 @@ Di solito si istituisce nelle aziende un <u>team di gestione programmi</u>, che:
 
 ### Dematerializzazione
 
-L'eliminazione di carta e la sostituzione con informazioni digitali (+ in voga nel passato).
+L'**eliminazione di carta** e la **sostituzione con informazioni digitali** (+ in voga nel passato).
 
 ##### Vantaggi
 

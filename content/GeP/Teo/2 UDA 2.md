@@ -2,7 +2,7 @@
 
 **Descrive la struttura di un'azienda come un insieme limitato di processi**, e ne individua <u>5 primari</u> e <u>4 di supporto</u>:
 
-##### Primari 
+##### Primari
 
 (Sequenza di processi che un'azienda deve fare per creare prodotto o servizio da vendere)
 
@@ -12,7 +12,7 @@
 - **Marketing**: attività di marketing (pubblicità, punti vendita, campagne di lancio, eventi...),
 - **Servizi**: assistenza, help desk...
 
-##### Supporto 
+##### Supporto
 
 (Attività trasversali al ciclo di vita del prodotto)
 
@@ -42,7 +42,7 @@ L'organigramma è rappresentabile con:
 
 ### Forme della struttura organizzativa
 
-##### Struttura x funzioni 
+##### Struttura x funzioni
 
 <u>Divisione</u> dell'azienda <u>basata</u> sulla **tipologia dell'attività**, come acquisti, produzione, logistica...
 
@@ -128,9 +128,9 @@ $$BA \;=\; (PP_{post} - PP_{pre}) - EF_{post}$$
 
 ###### PbP e BE
 
-Alla fine si calcolano il $PbP$ (*payback period*) ed il $BE$ (*breakeven*) (sempre tenendo conto dell'unità di tempo usata):
+Alla fine si calcolano il $PbP$ (*payback period*) ed il $BE$ (*breakeven*) (sempre tenendo conto dell'unità di tempo usata, BT = budget totale o costo totale dell'investimento):
 
-$$PbP \;=\; costo globale investimento / BA$$
+$$PbP \;=\; BT / BA$$
 
 $$BE \;=\; PbP * NP$$
 

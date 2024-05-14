@@ -1,10 +1,10 @@
 ## Principi
 
-Il *project management* si basa su dei principi, che servono per affrontare (proattivamente, prevenendo) le situazioni che emergono realizzando un progetto; e sono:
+Il *project management* si basa su dei principi, che servono per affrontare (proattivamente, prevenendo) le situazioni che emergono realizzando un progetto,<u></u> e sono:
 
 ### 1) Scelta del progetto
 
-Prima di fare un progetto, bisogna valutare se <u>è in grado di raggiungere degli obiettivi</u> o se <u>può portare benefici</u> per l'azienda; ciò è visto con degli <u>indicatori</u>: 
+Prima di fare un progetto, bisogna valutare se <u>è in grado di raggiungere degli obiettivi</u> o se <u>può portare benefici</u> per l'azienda; ciò è visto con degli <u>indicatori</u>:
 
 - **Aumento delle entrate**,
 - **Riduzione dei costi**,
@@ -25,16 +25,15 @@ Se un progetto <u>non porta miglioramenti</u> a questi <u>indicatori</u> (in tem
 
 Il piano deve:
 
-- <u>Avere obiettivi, attività, prodotti, costi e date</u> in base a cui pianificare e monitorare il progetto,
 - Tracciare una <u>mappa generale del progetto</u> (essendo una guida per tutti i coinvolti),
 - Essere <u>approvato dal management</u> aziendale e <u>finanziato</u> (per iniziare il progetto),
 - Permettere il <u>monitoraggio di attività</u>,
 - Prevedere l'<u>assegnazione di compiti al team</u>,
-- <u>Definire ogni attività e cosa realizza</u> nel progetto,
+- <u>Definire ogni attività e relativi output</u> nel progetto,
 - Definire <u>risorse e investimenti necessari</u> al progetto,
 - <u>Descrivere</u> sempre e fedelmente lo <u>stato del progetto</u>.
 
-Il piano deve essere **flessibile e modificabile** in quanto chi lo fa <u>non sa tutto subito</u>, perciò deve essere possibile **aggiornarlo col tempo** (<u>soprattutto</u> se in un qualsiasi momento <u>non descrive + il progetto</u> fedelmente). 
+Il piano deve essere **flessibile e modificabile** in quanto chi lo fa <u>non sa tutto subito</u>, perciò deve essere possibile **aggiornarlo col tempo** (<u>soprattutto</u> se in un qualsiasi momento <u>non descrive + il progetto</u> fedelmente).
 
 ##### Attività
 
@@ -66,14 +65,9 @@ In caso di **portfolio**, il <u>piano diventa ancora + importante</u>, in quanto
 
 Come detto [[1 UDA 1#Le 3 variabili|qui]], **obiettivi, tempi e costi** sono le 3 variabili principali del progetto e, dato che sono <u>sempre in conflitto</u>, tra esse va mantenuto **equilibrio** per realizzare il progetto.
 
-##### Scelte sbagliate
+##### Scelte
 
-Non rispettare i vincoli anche per solo 1 variabile significa possibile fallimento; e a volte si fanno scelte quali:
-
-- Per **risultati migliore**: si <u>aumentano costi</u> o si <u>prolunga il tempo</u> di realizzazione,
-- Per **risultati previsti**: si <u>impiega altro budget</u> o si <u>allungano i tempi</u>.
-
-Quindi:
+Non rispettare i vincoli anche per solo 1 variabile significa possibile fallimento; e a volte, per **i risultati previsti o migliori**, si <u>aumentano costi</u> o si <u>prolunga il tempo</u> di realizzazione, quindi:
 
 - Per **compiere** delle **scelte** bisogna <u>conoscere le priorità dell'azienda</u>,
 - Per **modificare** alcune **variabili** bisogna essere <u>consapevoli dei relativi vantaggi e svantaggi</u>.
@@ -82,7 +76,7 @@ Quindi:
 
 ### 4) Obiettivi SMART
 
-Nei progetti è buona norma fissare sempre <u>obiettivi semplici e intelligenti</u> (***SMART***). 
+Nei progetti è buona norma fissare sempre <u>obiettivi semplici e intelligenti</u> (***SMART***).
 
 ##### Caratteristiche
 
@@ -137,8 +131,6 @@ Una <u>buona comunicazione tra team e PM</u> consente di <u>evitare molti proble
 
 ##### Rischio
 
-Tutti i progetti presentano rischi:
-
 > [!important] Rischio
 > **Condizione che può portare il progetto verso una crisi potenzialmente insuperabile** (<u>prima</u> di tale situazione però, i <u>rischi vanno individuati e gestiti</u>).
 
@@ -159,11 +151,11 @@ I rischi possono essere:
 
 ##### Gravità del rischio
 
-I rischi vanno **classificati** <u>prioritarizzandoli in base alla</u> **gravità**, <u>misurata in funzione della</u> **probabilità di verificarsi** e dell'**impatto sui risultati**. 
+I rischi vanno **classificati** <u>prioritarizzandoli in base alla</u> **gravità**, <u>misurata in funzione della</u> **probabilità di verificarsi** e dell'**impatto sui risultati**.
 
 **Rischi** con <u>maggiori probabilità e impatto</u> vanno **evitati o ammortizzati**, mentre quelli con <u>minori probabilità o impatto</u> possono anche essere **subiti**.
 
-##### Gestione del rischio 
+##### Gestione del rischio
 
 Per **gestire il rischio** c'è bisogno di:
 
@@ -194,9 +186,7 @@ Nel progetto sono fondamentali costanti scambi di info al fine di informare tutt
 
 Spesso il **PM** <u>non ha tempo/competenze per prendere decisioni</u> nelle attività e, per non diventare un **collo di bottiglia** (ritrovarsi a dover rispondere a tutto), egli deve poter **delegare responsabilità** (e **autorità** decisionale) ad altri.
 
-I **limiti** <u>della responsabilità delegata vanno fissati in delega</u>, e devono <u>rispettare limiti di tempo e costi del progetto</u>.
-
-Chi è **responsabile** (delegato o PM) deve far presenti eventuali difficoltà e attendere nuove autorizzazioni.
+I **limiti** <u>della responsabilità delegata vanno fissati in delega</u>, e devono <u>rispettare limiti di tempo e costi del progetto</u>. Chi è **responsabile** (delegato o PM) deve far presenti eventuali difficoltà e attendere nuove autorizzazioni.
 
 ### 9) Collaborazione nel team
 
@@ -206,7 +196,7 @@ Per il successo del progetto è importante il **morale** e la **collaborazione**
 
 Quindi il **PM deve**:
 
-- Creare <u>spirito di gruppo</u>, 
+- Creare <u>spirito di gruppo</u>,
 - <u>Gestire il morale del team</u>,
 - <u>Moderare</u> l'influenza delle <u>personalità troppo forti</u>,
 - <u>Incoraggiare la riflessione</u> nel team.
