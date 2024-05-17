@@ -15,23 +15,21 @@
 
 Un prisma si dice inoltre <u>triangolare, quadrangolare, esagonale</u>... a seconda del **numero dei lati delle basi**.
 
+### Solidi sviluppabili
+
+> [!important] Solido sviluppabile
+> La superficie di un solido è **sviluppabile** se, con un numero <u>finito</u> di tagli, è possibile distenderla su un piano senza deformazioni.
+> La figura piana ottenuta è detta **sviluppo**. Calcolando l'area di questo, si calcolerà anche l'area del solido.
+
+![](https://i.imgur.com/NyGgLeq.png)
+
 ### Calcolo dell'area di un prisma
 
 Hint:
 
-##### Intro (review)
-
-Assumeremo come primitivo il concetto di superficie di un solido.
-
-Nello studio di alcuni solidi notevoli nei quali sono presenti una o più basi, parleremo di superficie totale per indicare appunto la superficie complessiva del solido e di superficie laterale per indicare la superficie che si ottiene sottraendo dalla superficie totale quella delle basi. Indicheremo la misura della superficie totale con il simbolo $S_{t}$ e la misura della superficie laterale con il simbolo $S$.
-
-La superficie di un solido si dice sviluppabile se, mediante un numero finito di tagli, la si può distendere completamente su un piano senza deformarla. La figura piana ottenuta si chiama sviluppo (in piano) del solido originario è rappresentato per esempio lo sviluppo di un cubo.
-
-Se un solido è sviluppabile, il problema di determinare l'area della sua superficie si può ricondurre a un problema di geometria piana: basta determinare l'area del suo sviluppo.
-
 ##### Area di un prisma retto
 
-Per calcolare l'area di un prisma bisogna sommare l'area laterale $A_{l}$ con l'area delle basi superiore ed inferiore (nel caso di prisma retto congruenti, quindi con $2A_{b}$). Si avranno quindi (con $p$ = perimetro e $h$ = altezza):
+Per calcolare l'area di un prisma bisogna **sommare l'area laterale** $A_{l}$ con l'**area delle basi** <u>superiore ed inferiore</u> (nel caso di prisma retto congruenti, quindi con $2A_{b}$). Si avranno quindi (con $p$ = *perimetro* e $h$ = *altezza*):
 
 $A_{l} \;=\; p * h$
 

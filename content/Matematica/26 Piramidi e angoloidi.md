@@ -14,23 +14,23 @@ Gli angoli che hanno come vertice V e come lati due spigoli consecutivi si dicon
 ### Piramidi
 
 > [!important] Piramide
-> Si chiama piramide la parte di un angoloide compresa tra il vertice dell'angoloide e un piano che interseca tutti gli spigoli dell'angoloide.
+> Si chiama **piramide** la parte di un angoloide compresa tra il vertice dell'angoloide e un piano che interseca tutti gli spigoli dell'angoloide.
 
 ![](https://i.imgur.com/8NxIyUq.png)
 
 > [!important] Piramide retta
-> Una piramide si dice retta se la base è un poligono circoscrivibile a una circonferenza e il centro di tale circonferenza coincide con il piede dell'altezza della piramide.
+> Una piramide si dice **retta** se la base è un poligono circoscrivibile a una circonferenza e il centro di tale circonferenza coincide con il piede dell'altezza della piramide.
 
 ![](https://i.imgur.com/ML44FxO.png)
 
 > [!important] Piramide regolare
-> Una piramide si dice regolare se è retta e la base è un poligono regolare (equilatero ed equiangolo).
+> Una piramide si dice **regolare** se è retta e la base è un poligono regolare (equilatero ed equiangolo).
 
 ![](https://i.imgur.com/jJWiE0M.png)
 
 Una piramide si dice triangolare, quadrangolare, pentagonale... a seconda che la sua base sia un triangolo, un quadrilatero, un pentagono... 
 
-In particolare, una piramide a base triangolare si chiama tetraedro.
+In particolare, una piramide a base triangolare si chiama **tetraedro**.
 
 ##### Apotema di una piramide retta
 
@@ -42,7 +42,7 @@ In una piramide retta, ciascuna altezza delle facce laterali (relativa al propri
 
 ##### Area di una piramide retta
 
-Si parte calcolando l'area laterale $A_{l}$ e questa si fa sommando l'area di ogni faccia (con $l$ = base faccia e $a$ = apotema):
+Si parte calcolando l'area laterale $A_{l}$ e questa si fa sommando l'area di ogni faccia (con $l$ = *base faccia* e $a$ = *apotema*):
 
 $A_{l} \;=\; \dfrac{1}{2}l_{n} * a$
 
@@ -54,21 +54,15 @@ Per calcolare poi la superficie totale basta aggiungere ad $A_{l}$ l'area della 
 
 $A \;=\; \dfrac{p}{2} * a + A_{b}$
 
-$h_{max} \;=\; \sqrt{3}$
-
-$b^{2}_{max} \;=\; 36 - 4h^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 36 - 4(\sqrt{3})^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 24 \;\;\rightarrow\;\; b_{max} \;=\; \pm\sqrt{24} < 2\sqrt{6} acc   -2\sqrt{6} non acc$
-
-Sistemare richiesta e richiedere le <u>dimensioni</u> della piramide con vol max...
-
-Trovare il modo di fare il < grande come se fosse il risultato della x di un'equazione di 2° grado
+![](https://i.imgur.com/20b2P4E.png)
 
 ### Calcolo del volume
 
 ##### Volume di una piramide retta
 
-Una piramide retta equivale a 1/3 del prisma avente la sua stessa base e la sua stessa altezza, quindi:
+Una piramide retta equivale a **1/3 del prisma avente la sua stessa base e la sua stessa altezza**, quindi: 
 
-$V \;=\; \dfrac{1}{3}V_{prism} \;=\; \dfrac{1}{3}A_{b} * h$
+$V \;=\; (\dfrac{1}{3}V_{prism}) \;=\; \dfrac{1}{3}A_{b} * h$
 
 ###### Step
 
@@ -113,9 +107,15 @@ $V' \;=\; (12h - \dfrac{4}{3}h^{3})' \;=\; 12 - \dfrac{4}{3} * 3h^{2} \;=\; 12 -
 
 $V' > 0 \;\;\rightarrow\;\; 12 - 4h^{2} > 0 \;\;\rightarrow\;\; 3 - h^{2} > 0 \;\;\rightarrow\;\; h^{2} < 3 \;\;\rightarrow\;\; h < \pm\sqrt{3} \;\;\rightarrow\;\; (graf) \;=\; -\sqrt{3} < h < \sqrt{3}$
 
-(dis)
+(foto)
 
-$h_{max} \;=\; ...$
+$h_{max} \;=\; \sqrt{3}$
+
+$b^{2}_{max} \;=\; 36 - 4h^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 36 - 4(\sqrt{3})^{2} \;\;\rightarrow\;\; b^{2}_{max} \;=\; 24 \;\;\rightarrow\;\; b_{max} \;=\; \pm\sqrt{24} < 2\sqrt{6} acc   -2\sqrt{6} non acc$
+
+Sistemare richiesta e richiedere le <u>dimensioni</u> della piramide con vol max...
+
+Trovare il modo di fare il < grande come se fosse il risultato della x di un'equazione di 2° grado
 
 ---
 

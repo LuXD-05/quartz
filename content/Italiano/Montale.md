@@ -52,6 +52,17 @@ Il poeta ossimora il lungo "<u>viaggio</u>" (vita) con la moglie indicandolo com
 
 (Dopo aver ripetuto + o - il 1° verso + il perché dell'accompagnarla), Montale spiega che ha "sceso le scale" (vissuto?) con lei perché gli unici occhi che erano in grado di andare oltre le apparenze e di vedere la realtà vera erano i <u>suoi</u> (al contrario di quelli del poeta).
 
+###### L'opera
+
+Il titolo della raccolta ***Satura*** ha un <u>duplice significato</u>:
+
+- Da una parte <u>allude a qualcosa di saturo, pieno</u>.
+- Dall'altra <u>allude alla satira latina</u> (dal termine *satura lanx*: "*piatto misto, farcito*").
+
+**Satura** è divisa in **parti** <u>non seguenti linearità temporale</u> e <u>presentanti temi e stile diversi</u>. L'unica eccezione è la sezione di ***Xenia*** (dal greco "*dono*") con <u>scritti dedicati alla</u> **moglie** (Mosca) **morta da poco** (+ dei doni/offerte votivi in questo contesto, quasi a simboleggiare un colloqui con la moglie morta); componimenti brevi, frammenti di discorsi e battute della loro vita con un ordine di diario.
+
+La poetica di Satira appare molto **comica**: con <u>argomenti bassi e quotidiani</u>, e con <u>toni ironici e sarcastici</u> su politica e società (e giornalismo) contemporanei.
+
 ###### Figure retoriche
 
 - (Cesura): 1, 11
@@ -66,17 +77,6 @@ Il poeta ossimora il lungo "<u>viaggio</u>" (vita) con la moglie indicandolo com
 - Antitesi: 3 (breve ... lungo viaggio)
 - Sineddoche: (pupille per occhi)
 - Metafora: 1/8 (sceso ... scale = vivere vita), 3 (viaggio = vita)
-
-###### L'opera
-
-Il titolo della raccolta ***Satura*** ha un <u>duplice significato</u>:
-
-- Da una parte <u>allude a qualcosa di saturo, pieno</u>.
-- Dall'altra <u>allude alla satira latina</u> (dal termine *satura lanx*: "*piatto misto, farcito*").
-
-**Satura** è divisa in **parti** <u>non seguenti linearità temporale</u> e <u>presentanti temi e stile diversi</u>. L'unica eccezione è la sezione di ***Xenia*** (dal greco "*dono*") con <u>scritti dedicati alla</u> **moglie** (Mosca) **morta da poco** (+ dei doni/offerte votivi in questo contesto, quasi a simboleggiare un colloqui con la moglie morta); componimenti brevi, frammenti di discorsi e battute della loro vita con un ordine di diario.
-
-La poetica di Satira appare molto **comica**: con <u>argomenti bassi e quotidiani</u>, e con <u>toni ironici e sarcastici</u> su politica e società (e giornalismo) contemporanei.
 
 ### Ossi di seppia
 

@@ -35,3 +35,5 @@
 
 - [[Cryptography]]
 - [[Protection against risks]]
+- [[Best protection practices]]
+- [[Security of networks, payments and copyright]]
