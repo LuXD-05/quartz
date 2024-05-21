@@ -1,6 +1,6 @@
 ### Cosa sono
 
-Gli integrali impropri sono degli integrali particolari che hanno in 1 o in entrambi gli estremi di integrazione un valore in cui la funzione da integrare non è definita / ha un asintoto / tende a $\pm\infty$.
+Gli **integrali impropri** sono degli integrali particolari che hanno in 1 o in entrambi gli estremi di integrazione un valore in cui la funzione da integrare non è definita / ha un asintoto / tende a $\pm\infty$.
 
 ##### Convergenza e divergenza
 
@@ -14,8 +14,8 @@ Gli integrali impropri sono degli integrali particolari che hanno in 1 o in entr
 ###### Risoluzione
 
 1) Trovare il dominio della funzione da integrare.
-2) Calcolare il limite (tenendo conto dell'intervallo definito dagli estremi di integrazione) della funzione con x tendente al valore infinitesimale + o - (in base alla funzione e a dove si trova / al suo dominio) del dominio.
-3) Se il limite nel punto calcolato è $+\infty\,$ o $\,-\infty$, antecedere all'integrale iniziale lo stesso limite però con t tendente al valore infinitesimale di prima e sostituire all'estremo di integrazione in cui vi è l'asintoto questa t.
+2) Calcolare il limite (tenendo conto dell'intervallo definito dagli estremi di integrazione) della funzione con $x$ tendente al valore infinitesimale + o - (in base alla funzione e a dove si trova / al suo dominio) del dominio.
+3) Se il limite nel punto calcolato è $+\infty\,$ o $\,-\infty$, antecedere all'integrale iniziale lo stesso limite però con $t$ tendente al valore infinitesimale di prima e sostituire all'estremo di integrazione in cui vi è l'asintoto questa t.
 4) Risolvere infine l'integrale e applicare il limite.
 
 ###### Esempio

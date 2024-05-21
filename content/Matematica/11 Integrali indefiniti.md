@@ -49,6 +49,12 @@ Border: off
 
 --- end-multi-column
 
+### Applicazioni in fisica
+
+$\displaystyle S \;=\; \int V\,dx \;\;\;\rightarrow\;\;\; V \;=\; \int a\,dx$
+
+$S(t) \;=\; \dfrac{1}{2}at^{2} + V_{0}t + S_{0}$
+
 ### Proprietà
 
 ###### 1

@@ -1,8 +1,12 @@
 ### Cos'è?
 
-Vi è anche la possibilità di calcolare i volumi di solidi di rotazione che ruotano attorno all'asse x di un grafico. Il volume di tali solidi si ottiene con la seguente formula:
+Secondo la stessa logica usata col metodo dei rettangoli, vi è anche la possibilità di calcolare il volume di solidi di rotazione che ruotano attorno all'asse x di un grafico.
 
-$$V = \pi * \int^{b}_{a}[f(x)]^{2} \; dx$$
+![](https://i.imgur.com/DszyUiU.png)
+
+Il volume di tali solidi si ottiene con la seguente formula:
+
+$$V \;=\; \lim_{N\,\to\,\infty} \; \sum_{i\,=\,1}^{N} \; S_{c_{i}} * \Delta x \;\;=\; \Big(\int^{b}_{a} S(x) \; dx\Big) \;\;\;\;\;\rightarrow\;\;\;\;\; V \;=\; \pi * \int^{b}_{a}[f(x)]^{2} \; dx$$
 
 ###### Esempio
 

@@ -66,7 +66,7 @@ Gli integrali definiti mantengono le 2 proprietà di [[11 Integrali indefiniti#P
 > [!important] Integrale di una funzione costante
 > (Libro 1298)
 
-### Teorema fondamentale del calcolo integrale
+### 1° teorema fondamentale del calcolo integrale
 
 Questo teorema (seppur non enunciato in dettaglio) permette di semplificare il calcolo degli integrali definiti. Se integriamo tra $a$ e $b$ una funzione $f(x)$ <u>continua</u> nell'intervallo, allora:
 
@@ -78,7 +78,23 @@ $F$ sono **primitive**; quindi si va a sostituire alle $x$ della funzione integr
 
 $$\int^{1}_{0} x \; dx \;=\; \biggr{[}\, \frac{x^{2}}{2} \,\biggr{]}^{1}_{0} \;=\; \frac{1^{2}}{2} - \frac{0^{2}}{2} \;=\; \frac{1}{2}$$
 
+### 2° teorema fondamentale del calcolo integrale
+
+###### Funzione integrale
+
+> [!important] Funzione integrale
+> Funzione (continua e positiva) che associa ad ogni $x$ l'area sottesa compresa tra $a$ e $x$ (quindi al variare di $x$ varia anche l'area sottesa).
+> $$F(x) \;=\; \int^{x}_{a} f(t)\,dt$$
+
+##### Teorema
+
+Derivando la funzione integrale ($F(x)$), si ottiene la funzione integranda:
+
+$$F(x)' \;=\; f(x) \;\; per \; ogni \; x \; \in [A, B)$$
+
 ### Calcolo dell'area di funzioni pari e dispari
+
+Hint:
 
 Le funzioni **pari** e **dispari** presentano delle particolarità quando vengono prese in un **intervallo simmetrico**:
 
