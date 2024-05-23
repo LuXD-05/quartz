@@ -16,7 +16,7 @@
 - [[Search engines]]
 - [[Wikis]]
 - [[Emails]]
-- [[2. School/Inglese/Cloud computing|Cloud computing]]
+- [[Inglese/Cloud computing|Cloud computing]]
 - [[Social networks]]
 - [[Blogs and forums]]
 - [[File sharing]]
