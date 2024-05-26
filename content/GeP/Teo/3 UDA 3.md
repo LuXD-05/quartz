@@ -1,6 +1,6 @@
 ## Principi
 
-Il *project management* si basa su dei principi, che servono per affrontare (proattivamente, prevenendo) le situazioni che emergono realizzando un progetto,<u></u> e sono:
+Il *project management* si basa su dei principi, che servono per affrontare (proattivamente, prevenendo) le situazioni che emergono realizzando un progetto, e sono:
 
 ### 1) Scelta del progetto
 

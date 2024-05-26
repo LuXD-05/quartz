@@ -284,7 +284,7 @@ Va fatto per <u>entrambe le interfacce del collegamento</u> (prima per S1 e poi 
 
 ##### Abilitare l'inter-VLAN routing
 
-Supponendo che il VID della VLAN sia 10:
+Questo supponendo che il VID della VLAN sia 10:
 
 ```
 R1(config)# int g0/0
@@ -300,7 +300,7 @@ Con:
 - "192.168.0.1" = gateway della rete
 - "255.255.255.0" = subnet mask della rete
 
-imposto gateway per tutte le VLAN che mandano traffico all'interfaccia
+Imposto gateway per tutte le VLAN che mandano traffico all'interfaccia
 
 ##### Cancellare una VLAN
 
@@ -310,26 +310,6 @@ Supponendo che si voglia cancellare la VLAN con VID 10:
 S1(config)# no vlan 10
 ```
 
-#### Switch L3
-
-##### Configurare un'interfaccia per routing
-
-Così si imposta un'interfaccia per fare routing e non si usa più come interfaccia di switch:
-
-```
-S1(config)# int fa0/1
-S1(config-if)# no switchport
-S1(config-if)# no sh
-```
-
-In queste interfacce, non essendo adibite allo switching, non sarà necessario configurarle in modalità access.
-
-##### Abilitare il routing nello switch L3
-
-```
-S1(config)# ip routing
-```
-
 ## Hotkeys
 
 ##### CTRL + SHIFT + 6
@@ -337,18 +317,6 @@ S1(config)# ip routing
 Sblocca ping errati.
 
 ...
-
-## Step
-
-0) Subnetting e disposizione rete.
-1) Assegnare ip a host.
-2) Definire le VLAN in switch (anche L3), solo quelle conosciute dallo switch.
-3) Configurare le access port negli switch L2 (ed eventualmente in L3)
-4) Configurare le trunk port tra router e switch L2 (e tra 2 switch L2) con le VLAN delle quali il dispositivo vuole inviare il traffico.
-5) Abilitare inter-VLAN routing (in int router-L2, no sh poi configuro porte .N)
-6) Config L3 (con VLAN): no switchport su tutte le porte necessarie, ip gateway per ogni subnet e ip routing in config.
-7) Config interfacce di rete di comunicazione tra L3 e router.
-8) Rotte statiche.
 
 ## Esempio
 

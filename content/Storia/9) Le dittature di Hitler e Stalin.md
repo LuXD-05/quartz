@@ -298,5 +298,59 @@ Distribuiti per tutto il paese, si calcola che dai <u>10 ai 20 milioni di uomini
 
 ### Il Giappone
 
+Dopo la WWI, il Giappone era divenuto la > potenza asiatica grazie ad un'aggressiva politica espansionistica (soprattutto contro la Cina) sostenuta dalla classe dirigente, che intendeva creare un vasto dominio nel pacifico.
+
+##### Politica interna
+
+Sul versante **politico interno**, stavano guadagnando consensi dei <u>partiti di destra radicale</u> che volevano rimpiazzare il sistema liberaldemocratico con un <u>ordinamento autoritario</u> (sul modello di quelli europei) basato sul ripristino della tradizione; e la figura di riferimento di questi era l'imperatore **Hirohito**.
+
+La crisi degli anni '30 ebbe le stesse conseguenze anche in Giappone e fu determinante dato che aumentò il risentimento verso il mondo politico e convinse la classe dirigente ad avviare una politica espansionistica.
+
+##### Politica esterna
+
+Dopo un accordo coi militari per avviare una politica di riarmo, nel 1931 i giapponesi invasero la Manciuria e il nord-est Cina, proclamando nel 1932 l'indipendenza dei territori conquistati e costituendo lo stato fantoccio di **Manchu-kuo**. La reazione della Società delle Nazioni fu assai blanda e si limitò a condannare formalmente Tokyo.
+
+##### La svolta autoritaria e il "grande asiatismo"
+
+Il paese già stava cercando di avvicinarsi al <u>nazifascismo</u>, e nel **1936** sottoscrisse con la <u>Germania</u> il **patto Anticomintern** (nel 1937 entra anche l'Italia), un'alleanza in funzione antisovietica.
+
+Lo stesso anno, dopo tentativi fallimentari di destra, i militari (al governo dal 1932) adottarono dei provvedimenti d'impronta autoritaria:
+
+- **Politica interna**: repressioni operaie, persecuzioni socialisti e abrogazione di ogni pratica di opposizione legale,
+- **Politica estera**: venne istituito un <u>nuovo corso</u> che si ispirava all'ideologia del "**grande asiatismo**", una sorta di <u>imperialismo aggressivo e razzista</u>.
+
+Nel **1937** poi, con un altro pretesto, il Giappone mosse **guerra alla Cina** (<u>senza dichiararla</u>) arrivando a conquistare **Nanchino** ed attuando un massacro con oltre 200000 vittime.
+
 ### La Cina
+
+##### Nazionalisti vs comunisti
+
+In Cina, negli anni '20, la situazione politica era instabile in quanto i nazionalisti del **Guomindang** ed il **PCC** (Partito Comunista Cinese, fondato con l'appoggio del Comintern nel 1921) erano in lotta contro il <u>governo di Pechino</u> dei "**[[2) Nazionalismi e democrazie in Europa#La fragilità del nuovo ordinamento|signori della guerra]]**", accusato di essere corrotto.
+
+Dopo la morte di Sun-Yat Sen ad ottenere il comando del Guomindang fu Chiang (capo di esercito nazionalista); il quale, preoccupato dal consenso riscontrato dal PCC, incrinò l'alleanza. La rottura si ebbe nel 1927 quando Chiang decise di affrontare i militanti comunisti che avevano intrapreso la "marcia verso nord" per rovesciare il governo. 
+
+I nazionalisti vinsero a fine 1927, mettendo fuori legge il PCC e conquistando poi nel 1928 Pechino. Chiang fu proclamato presidente della repubblica cinese ed il nuovo governo si insediò a Nanchino.
+
+##### I problemi dei nazionalisti
+
+I nazionalisti ambivano ad una modernizzazione sul modello occidentale, ma c'erano dei problemi ad impedirla:
+
+- Territorio immenso: di difficile controllo per rivolte comuniste e tendenze autonomistiche provinciali,
+- Mancato appoggio delle campagne: per la rinuncia alla riforma agraria dato che Chiang non voleva perdere l'appoggio dei latifondisti,
+- Corruzione,
+- La successiva invasione della Manciuria da parte del Giappone nel 1931.
+
+##### La riorganizzazione del PCC
+
+Intanto il PCC continuava la sua azione in clandestinità, ma aveva cambiato *target*, passando dal proletariato (troppo esiguo) alla popolazione rurale (molto vasta). Questa strategia si basava sul proselitismo nelle campagne e sulla creazione delle "basi rosse": aree (strappate ai nazionalisti) in cui si sperimentava l'autogoverno popolare.
+
+A sud fu anche istituita una repubblica sovietica cinese; e tutto ciò fu opera di Mao Zedong, che già nel 1928 aveva costituito l'Armata rossa cinese (ispirandosi all'URSS).
+
+##### L'offensiva nazionalista
+
+Di fronte alla minaccia comunista, dal 1931 Chiang aveva lanciato delle "campagne di annientamento" contro essa, che sfociarono in guerra civile. I comunisti quindi, accerchiati a sud, intrapresero la "lunga marcia" per trovare riparo a nord, percorrendo + di 12000 km in 1 anno (ottobre 1934-1935). Solo 10000 si salvarono, ma il prestigio di Mao ne uscì rafforzato.
+
+##### La minaccia Giapponese
+
+Chiang avrebbe voluto intraprendere un'ulteriore campagna; tuttavia decise di porre fine alla guerra civile ed accordarsi con i comunisti nel 1937 per un fronte unito contro il Giappone. Nonostante ciò, i cinesi risultarono + robusti ma non a tal punto da vincere contro lo straniero (lotta concluderà a fine WWII, nel 1945).
 
