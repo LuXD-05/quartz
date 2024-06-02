@@ -55,29 +55,100 @@ La Spagna divenne quindi teatro di violenze squadriste fomentate dalla **Falange
 
 ### Il colpo di stato e l'appoggio dal fascismo
 
+Tra il 17 ed il 19 luglio 1936 i presidi militari in Marocco guidati da Francisco Franco misero in atto una sollevazione. Il governo sottovalutò gli insorti, i quali conquistarono parte della Spagna occidentale e il 29 settembre 1936 a Burgos venne costituito il 1° governo golpista presieduto da Franco.
+
+Il successo di questa operazione si dovette al supporto offerto da Berlino e Roma (per l'identificazione del golpe come opera fascista/autoritaria). Se l'Italia aiutò con oltre 50000 uomini a terra, la Germania inviò degli aerei (la "legione Condor") per sperimentare nuove tattiche belliche, come il bombardamento sui civili (l'episodio + violento fu a Guernica nel 1937).
+
 ### Le divisioni interne al fronte antifascista
+
+Il governo riuscì a mantenere il controllo di Madrid e delle regioni nord/est grazie all'appoggio popolare e all'esercito rimasto. Inoltre la repubblica non ricevette alcun aiuto se non dall'URSS che, attraverso il Comintern, fornì aiuti militari. Mosca appoggiò anche le Brigate internazionali: reparti di volontari antifascisti in cui militarono circa 40000 persone.
+
+Il Fronte popolare però era diviso da contrasti interni tra:
+
+- Anarchici (che volevano trasformare la guerra civile in rivoluzione),
+- Altri (repubblicani che volevano difendere le istituzioni e comunisti contro chi era contro lo stalinismo).
+
+Nel 1937 la frattura politica divenne scontro e a Barcellona gli anarchici finirono vittime di una durissima repressione.
 
 ### La fine della guerra civile e la dittatura di Franco
 
+In 1 anno dall'ottobre 1937 le truppe di Franco avevano conquistato tutto il nord della Spagna e separato Madrid dalla Catalogna, con conseguente congedo delle Brigate da parte della repubblica. Con una finale offensiva, i franchisti conquistarono Barcellona e poi Madrid nel 1939.
+
+A quel punto Franco instaurò una dittatura personale ed attuò una repressione durissima, con decine di migliaia di morti e circa 300000 politici espatriati.
+
 # Le premesse di un nuovo conflitto
 
-### L'alleanza Roma Tokyo Berlino
+### L'alleanza Roma-Berlino-Tokyo
+
+Nel 1936, Galeazzo Ciano, genero di Mussolini e ministro degli esteri, stipulò un accordo: l'Asse Roma-Berlino; questo prevedeva il sostegno comune alla rivolta di Franco in Spagna e l'impegno contro l'URSS.
+
+Hitler pensava infatti di espandersi verso l'URSS e perciò (sempre nel 1936), per stringere il paese in una sorta di tenaglia,  la Germania firmò col Giappone il **patto Anticomintern**, che prevedeva impegno comune contro l'URSS (nel 1937 l'Italia entra anche in questo).
 
 ### L'annessione dell'Austria e la Germania
 
+Hitler voleva riunire i popoli tedeschi sotto il *Reich* e, alla richiesta del Partito nazista austriaco di fermare i dissidi che lo stesso stava causando, il 12 marzo 1938 la *Wehrmacht* varcò il confine tra l'entusiasmo degli abitanti. L'Austria venne così annessa alla Germania tramite un plebiscito.
+
 ### La politica dell'appeasement
+
+Le altre potenze europee tacquero, in particolare lo UK, che riconobbe l'annessione dato che:
+
+- (Per la crisi del '29) non era ancora pronto a sostenere un conflitto,
+- (Per la WWI) l'opinione pubblica era in gran parte contraria alla guerra,
+- Non vi erano interessi inglesi da proteggere lì, anzi, i tedeschi sarebbero stati un'ulteriore barriera a eventuali mire russe.
+
+Il premier **Chamberlain** proseguì questa politica detta di ***appeasement*** (accordo) convinto di poter contenere le mire espansionistiche per via diplomatica (contrari a ciò erano pochi, tra cui **Churchill**).
+
+##### Chamberlain e l'appeasement
 
 ### Le rivendicazioni tedesche sui sudeti
 
+La Cecoslovacchia fu il prossimo bersaglio tedesco a causa dei 3 milioni di tedeschi che vivevano nell'area montuosa dei Sudeti. Il governo cecoslovacco mobilitò quindi l'esercito (come anche la Germania) alla dichiarazione delle intenzioni di annessione nel 1938; però, se Chamberlain prima non aveva intenzione di intervenire, poi chiese a Mussolini di fare da mediatore.
+
 ### La conferenza di Monaco
 
-### Chamberlain e l'appeasement
+Nel 1938 Mussolini, Hitler, Chamberlain e Daladier (capo francese) si incontrarono nella **conferenza di Monaco** per decidere il destino della Cecoslovacchia (neppure invitata) e da ciò:
+
+- La Cecoslovacchia venne divisa tra la Germania (Sudeti), la Polonia (Slesia) e l'Ungheria (altro).
+- Chamberlain ottenne un'impegno da parte di Hitler a risolvere eventuali future controversie con lo UK per via diplomatica.
+
+Il 15 marzo 1939, col pretesto di tensioni tra cechi e slovacchi, i tedeschi invasero la Cecoslovacchia istituendovi il protettorato di Boemia e Moravia. Intanto la Slovacchia (dove già c'erano tendenze separatiste) divenne indipendente ma subalterna alla Germania.
 
 ### Il cambio di rotta delle democrazie
 
+Il 21 marzo 1939 Hitler chiese alla Polonia la cessione del porto di Danzica e il diritto di transito nel "corridoio". Al rifiuto di Varsavia, il 26 marzo 1939 Hitler preparò l'esercito per l'invasione della Polonia.
+
+A quel punto, Francia e UK avevano capito i loro errori con la politica dell'*appeasement* ed elaborarono un sistema di alleanze militari (con Olanda, Belgio, Romania e Turchia) in grado di opporsi all'Asse dichiarando di difendere la Polonia.
+
 ### L'invasione dell'Albania
+
+Per non essere da meno, in aprile 1939 l'Italia occupò l'Albania senza alcuna giustificazione e Vittorio Emanuele III assunse la corona del paese. Quella che doveva essere una dimostrazione di forza in realtà:
+
+- Mise in luce l'impreparazione dell'esercito italiano,
+- Incrinò i rapporti con Francia e UK (tanto che a quel punto ci si poteva girare solo verso Hitler).
 
 ### Il patto d'acciaio
 
-### Il patto tedesco sovietico di non aggressione
+Il 22 maggio 1939 l'Italia sottoscrisse con la Germania il **Patto d'acciaio**, che rendeva l'Asse Roma-Berlino un'alleanza militare ed impegnava le potenze ad aiutarsi in caso di conflitto. Mussolini e Ciano erano consapevoli di non essere preparati a una guerra, tuttavia Hitler disse che non aveva intenzione di fare nulla per qualche anno (🧢).
+
+### Il patto Molotov-Ribbentrop
+
+Per le reciproche diffidenze non fu possibile per Francia e UK avvicinarsi diplomaticamente all'URSS, per cui lo fece Hitler. Il 23 agosto 1939 l'URSS e la Germania firmarono il patto Molotov-Ribbentrop (dai nomi dei 2 ministri degli esteri che lo firmarono), un patto di non aggressione per 10 anni.
+
+L'accordo era molto vantaggioso per l'URSS, considerata la situazione in cui era, in quanto:
+
+- Gli permette di riorganizzare l'Armata rossa dopo le [[9) Le dittature di Hitler e Stalin#La repressione e le "grandi purghe"|grandi purghe]],
+- Chiude un possibile fronte di combattimento così da potersi concentrare ad est in Mongolia contro il Giappone.
+
+La Germania, dal canto suo:
+
+- Evitava (posticipando) l'aggressione all'URSS,
+- (Era convinto che Francia e UK avrebbero rinunciato a difendere la Polonia).
+
+Tuttavia le cose non andarono come Hitler sperava siccome inglesi e francesi avevano abbandonato la politica dell'*appeasement* ed si erano alleati con la Polonia 2 giorni dopo il patto.
+
+#### Il protocollo segreto
+
+Il patto Molotov-Ribbentrop prevedeva anche un protocollo segreto secondo il quale i 2 paesi si sarebbero spartiti l'Europa in 2 zone d'influenza con paesi baltici e parte di Romania all'URSS e la Polonia spartita tra i 2.
+
+Questo generò poi grande sconcerto date le differenze ideologiche tra i 2 paesi e provocò anche profonde lacerazioni nel movimento operaio internazionale siccome i partiti comunisti iniziarono a sostenere il nazismo.
 

@@ -312,7 +312,7 @@ Dopo un accordo coi militari per avviare una politica di riarmo, nel 1931 i giap
 
 ##### La svolta autoritaria e il "grande asiatismo"
 
-Il paese già stava cercando di avvicinarsi al <u>nazifascismo</u>, e nel **1936** sottoscrisse con la <u>Germania</u> il **patto Anticomintern** (nel 1937 entra anche l'Italia), un'alleanza in funzione antisovietica.
+Il paese già stava cercando di avvicinarsi al <u>nazifascismo</u>, e nel **1936** sottoscrisse con la <u>Germania</u> il **[[10) Verso la WWII#L'alleanza Roma-Berlino-Tokyo|patto Anticomintern]]**, un'alleanza in funzione antisovietica.
 
 Lo stesso anno, dopo tentativi fallimentari di destra, i militari (al governo dal 1932) adottarono dei provvedimenti d'impronta autoritaria:
 
