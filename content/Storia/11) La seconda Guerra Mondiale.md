@@ -93,7 +93,7 @@ In seguito, in ottobre 1940, l'esercito italiano, muovendo dall'Albania, attacc�
 
 Nell'aprile 1941, reparti della *Wehrmacht* intervennero in Iugoslavia e Grecia riprendendo il controllo della situazione e poi:
 
-- La Iugoslavia firmò l'armistizio il 17 cessando di essere uno stato indipendente e perdendo i territori di Slovenia, Montenegro e Croazia (poi i territori delle foibe, siccome la fascistizzazione forzata di essi causò risentimenti nei comunisti di Tito).
+- La Iugoslavia firmò l'armistizio il 17 cessando di essere uno stato indipendente e perdendo i territori di Slovenia, Montenegro e Croazia (poi i territori delle foibe, siccome la fascistizzazione forzata di essi causò risentimenti nei comunisti di Tito, vedi [[12) L'Italia dopo l'armistizio#La situazione sul confine orientale]]).
 - La Grecia firmò l'armistizio il 23 e fu sottoposta ad un regime di occupazione militare italo-tedesco.
 
 ###### Crittografia e macchine enigma?
@@ -312,9 +312,9 @@ Radio e giornali interruppero tutto per dare la notizia e in poche ore le folle 
 
 ### L'armistizio con gli alleati
 
-Badoglio, seppur aveva affermato ai tedeschi di stare dalla loro parte, per salvare la monarchia, avviò trattative con gli anglo-americani per una pace separata. 
+Badoglio, seppur aveva affermato ai tedeschi di stare dalla loro parte, per salvare la monarchia, avviò trattative con gli anglo-americani per una pace separata.
 
-L'8 settembre 1943 (pubblicato, firmato già il 3) l'armistizio di Cassabile concludeva la guerra tra Italia e alleati.
+Il 3 settembre (anche se pubblicato solo l'8) 1943 fu firmato l'armistizio di Cassabile che concludeva la guerra tra Italia e alleati.
 
 ### L'occupazione dell'Italia
 
@@ -406,11 +406,33 @@ Il 30 aprile Hitler si suicidò nel bunker sotterraneo della cancelleria, quando
 
 ### USA vs Giappone
 
+Tra giugno 1942 e inizio 1943, gli USA erano riusciti ad arrestare l'avanzata giapponese nel pacifico; e, con la battaglia nelle isole Midway, dell'isola di Guadalcanal e della Nuova Guinea, per il Giappone fu sempre + difficile tenere testa agli avversari.
+
+Dopo altre conquiste americane (isole Marshall, Saipan e Guam nelle Marianne) si giunse nell'ottobre 1944 alla battaglia delle Filippine, con cui venne annientata la flotta di Tokyo. Proprio lì gli americani si trovarono ad affrontare per la 1a volta l'attacco dei kamikaze.
+
 ##### I kamikaze
 
 ### La bomba atomica e la resa giapponese
 
+Rimaneva solo l'arcipelago nipponico, difeso da 3 milioni di uomini. Già la battaglia di Okinawa (aprile-giugno 1945) rese noti i rischi di un'invasione del Giappone: l'isola era protetta da 100000 uomini che morirono quasi tutti e venne conquistata dopo 2 mesi e perdendo 17000 uomini e tante risorse.
+
+Alla conferenza di Potsdam (estate 1945) gli USA, lo UK e la Cina avevano intimato al Giappone la resa incondizionata (ovviamente non accettata), e intanto il presidente Truman succeduto a Roosevelt in aprile, annunciò a Churchill e Stalin l'intenzione di usare la bomba atomica.
+
+Il 6 agosto 1945, il bombardiere americano Enola gay sganciò su Hiroshima la 1a bomba atomica (morte istantanea di 70000 abitanti) e il 9 agosto sorte analoga toccò a Nagasaki (morte istantanea di 40000 persone). Al contempo l'URSS attaccò i giapponesi in Manciuria e Corea. 
+
+Consapevole dei danni ricevuti, Hirohito annunciò la resa del Giappone, firmata sul ponte della corazzata Missouri il 2 settembre 1945.
+
 ##### Le bombe su Hiroshima e Nagasaki
 
 ### Il bilancio
+
+I morti in totale furono 55 milioni: 24 di combattenti e + di 30 di civili. Oltre poi allee distruzioni di intere città e linee di comunicazione, nei paesi:
+
+- URSS: 13.6 milioni di militari e 8 milioni di civili,
+- Germania: 3.25 milioni di militari e 3.8 milioni di civili,
+- Giappone: 1.7 milioni di soldati e 360000 civili,
+- Italia: 330000 militari e 85000 civili,
+- USA: 220000 militari e 0 civili.
+
+Questa fu una "guerra totale" siccome: fece mobilitare tutte le risorse disponibili, si svolse in scenari e fronti diversi, fu tale da includere le istituzioni pubbliche, le strutture economiche, l'assetto sociale e l'esistenza quotidiana delle popolazioni e anche per gli stermini di massa, dal genocidio di 6 milioni di ebrei all'uso delle bombe atomiche da parte degli USA.
 

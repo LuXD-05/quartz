@@ -28,7 +28,7 @@ Questo permise al **Duce** (dal latino *dux*: guida, condottiero; evidenzia il r
 
 Le violenze squadriste continuavano e in politica nessuno riusciva ad accordarsi per fronteggiare il fenomeno. Si mobilitarono quindi i **sindacati**, che nell'agosto 1922 proclamarono uno "**sciopero generale legalitario**" che però riscontrò scarsa partecipazione. 
 
-Le "**squadracce**" **fasciste** annientarono l'ultima resistenza del movimento operaio e con ciò il fascismo era riuscito a porre le basi per un controllo del paese, potendo contare sul favore dei gradi alti, dei militari e della chiesa. A quel punto Mussolini <u>abbandonò l'indirizzo repubblicano</u>.
+Le **"squadracce" fasciste** annientarono l'ultima resistenza del movimento operaio e con ciò il fascismo era riuscito a porre le basi per un controllo del paese, potendo contare sul favore dei gradi alti, dei militari e della chiesa. A quel punto Mussolini <u>abbandonò l'indirizzo repubblicano</u>.
 
 Nel mentre il partito **socialista** era stato ulteriormente indebolito dall'espulsione dei riformisti per decisione dei massimalisti. I riformisti quindi crearono il **partito socialista unitario**, con leader **Matteotti**.
 
@@ -194,13 +194,13 @@ Questo porta a pensare che il Vaticano sembrava preferire **stabilità** (seppur
 
 Dopo qualche anno di negoziati, l'11 febbraio **1929 Mussolini** e il cardinale **Gasparri** firmarono i **Patti lateranensi** (dal nome del palazzo di San Giovanni in Laterano), che erano **2 documenti** distinti:
 
-#### Il trattato internazionale
+### Il trattato internazionale
 
 Il **trattato internazionale** era di entità **territoriale**; con questo la chiesa riconosceva la <u>sovranità del regno d'Italia con Roma capitale</u> e a sua volta lo stato italiano riconosceva lo <u>stato della Città del Vaticano</u> (piccolo territorio con la basilica di San Pietro + edifici adiacenti). 
 
 La chiesa cattolica poté quindi godere di nuovo di **territorialità politica**, fino ad allora negata dalla **legge delle Guarentigie**. Il trattato prevedeva anche una convenzione finanziaria con cui lo stato italiano si impegnava a pagare un'indennità di risarcimento per l'estinzione dello stato pontificio nel 1870.
 
-#### Il concordato
+### Il concordato
 
 Il **concordato** invece definiva il **ruolo della religione cattolica in Italia**. Con questo la chiesa ottenne uno status di assoluto privilegio grazie al riconoscimento del <u>cattolicesimo come religione di stato</u> (questo ripudiava il principio liberale di laicità dell stato, espresso da Cavour nella formula "libera chiesa in libero stato"). Il concordato poi si articolava su una serie di concessioni:
 

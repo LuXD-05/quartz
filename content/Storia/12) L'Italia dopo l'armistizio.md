@@ -1,4 +1,4 @@
-( da risistemare un po tutto, è sballato con le date almeno fino al cap 2)
+( da risistemare un po tutto, è sballato con le date almeno fino al cap 2 )
 
 # La situazione post-armistizio
 
@@ -151,21 +151,55 @@ Il 29 i tedeschi firmarono la resa (anche se si continuò fino al 2 maggio). In 
 
 # L'Italia sotto l'occupazione tedesca
 
+(Capitolo riassuntivo generale della situazione)
+
 ### La vita quotidiana
+
+Durante l'occupazione tedesca (settembre 1943 - aprile 1945) la popolazione era segnata da una costante precarietà dovuta a 2 cose:
+
+- La scarsità di viveri (per questa si costituì un mercato "nero" clandestino con prezzi altissimi),
+- I bombardamenti alleati (distruggevano tutto, per cui parte dei civili sfollò in campagna mentre chi restava stava nei rifugi antiaerei).
 
 ### La violenza tedesca
 
-### Il bilancio
+Durante l'occupazione i tedeschi, come in altri paesi sottomessi, si abbandonò a brutali atti di violenza gratuita contro i civili. Ciò aumentò con l'intensificarsi dell'attività partigiana, al che Kesselring ordinò la persecuzione di chiunque fosse anche solo sospettato di avere rapporti coi partigiani (*banditen* in tedesco).
+
+Ciò comportò vari massacri di italiani, tra cui a Roma l'eccidio delle Fosse ardeatine ai danni di + di 300 persone o il massacro di Marzabotto (settembre 1944).
+
+Spietata fu la reazione nei confronti delle "repubbliche partigiane" (una 20ina di zone ribellatesi al nazifascismo nel 1944, cadute tutte entro dicembre) al loro stroncamento, risultando in dure rappresaglie (azioni punitive operate da potenze militari ai danni di civili in seguito ad un danno subito, intese come rivalsa) a opera di tedeschi e repubblichini delle Brigate nere della RSI.
 
 ##### La strage di Marzabotto
+
+### Il bilancio
+
+Furono almeno 30000 i partigiani morti, 10000 le vittime delle rappresaglie, 40000 deportati nei *lager* e 33000 di questi morti.
 
 # Le Foibe e i profughi
 
 ### La situazione sul confine orientale
 
+Mentre la *Wehrmacht*, dopo l'armistizio, aveva occupato Trieste, Pola, Fiume e Gorizia, la penisola istriana venne occupata da varie formazioni partigiane slave composte dai comunisti di Tito (Josip Broz) aiutati dalla popolazione locale contro gli occupanti.
+
+La popolazione (soprattutto rurale) era particolarmente avversa agli italiani a causa di:
+
+- L'[[11) La seconda Guerra Mondiale#L'offensiva nei Balcani|occupazione di Istria e Dalmazia]] (parti di Iugoslavia, dopo l'aiuto tedesco) nel 1941, che aveva suscitato vari conflitti con la popolazione locale,
+- La 20ennale politica fascista di italianizzazione (linguistica e culturale) forzata attuata in queste terre.
+
+Quindi, con il crollo militare dell'Italia e la rivolta della popolazione rurale croata, dall'autunno del 1943 l'essere italiano iniziò ad essere equivalente ad essere fascista; perciò, + di 500 italiani (stimati) furono assassinati dopo processi sommari venendo buttati nelle ***foibe*** (profonde cavità naturali nei terreni carsici istriani) per impedirne l'identificazione.
+
 ### L'occupazione tedesca e La risiera di San Sabba
+
+Con l'occupazione tedesca e la formazione del "Litorale adriatico", come detto [[11) La seconda Guerra Mondiale#L'offensiva nei Balcani|qui]], iniziarono in questa zona diversi massacri e deportazioni ad opera dei nazifascisti. In particolare nella Riviera di San Sabba venne istituito un campo di concentramento e sterminio dove, oltre ad ebrei, morirono anche partigiani iugoslavi.
 
 ### L'occupazione iugoslava di Trieste e Gorizia
 
+Con la fine dell'occupazione tedesca, le violenze degli uomini di Tito contro gli italiani si rimoltiplicarono. L'obiettivo degli iugoslavi era annettere Trieste e dintorni alla nascente repubblica di Belgrado. Gli oppositori erano eliminati, tanto che il CLN locale tornò in clandestinità e vari antifascisti italiani furono uccisi.
+
+Tra maggio e giugno 1945, durante l'occupazione iugoslava di Trieste e Gorizia, si succedettero arresti arbitrari, deportazioni ed esecuzioni sommarie. Si calcola che le vittime tra Venezia Giulia e Zara siano intorno alle 5000, tra infoibati (talora ancora in vita) e prigionieri nei campi iugoslavi.
+
+Gli alleati non intervennero fino alla conclusione delle trattative con Tito. il 12 giugno 1945 gli iugoslavi abbandonarono Trieste, Gorizia e Pola (che diventavano parte di una zona sotto controllo alleato), ma non Istria e Fiume.
+
 ### I profughi Giuliani e Dalmati
+
+Dal 1947 quasi tutta la minoranza italiana abbandonò la patria in seguito alle ostilità locali. 250000 persone dovettero riparare in Italia potendosi portare dietro poco a causa delle requisizioni iugoslave. Ciò durò fino alla 2a metà degli anni '50, sotto il silenzio del governo italiano a causa dei condizionamenti e compromessi politici del dopoguerra.
 

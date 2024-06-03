@@ -1,6 +1,6 @@
 # La rivoluzione bolscevica in Russia
 
-##### Il "pericolo rosso" in Europa
+### Il "pericolo rosso" in Europa
 
 Nel 1917 [[4) La prima Guerra Mondiale#La fine della Russia zarista|cadde il regime zarista in Russia]] e ora il comunismo, fonte di preoccupazioni politiche e sociali da parte di altri stati conservatori e liberali, diventa una minaccia esterna e reale.
 
