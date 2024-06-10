@@ -79,7 +79,7 @@ Il ***3-way handshake*** permette di:
 
 La **terminazione** di una connessione può essere iniziata sia da **client** sia da **server**.
 
-Per chiuderla è usato il **flag FIN** (*finish*) e dato che la connessione è ***full*-duplex**, la terminazione deve avvenire in **entrambe le direzioni** (non per forza insieme). Ogni **pacchetto FIN** (o ***shutdown***) **va riscontrato con** un **ACK**; perciò, per chiudere una connessione, servono **4 pacchetti** (**2 coppie di FIN+ACK in entrambe le direzioni**).
+Per chiuderla è usato il **flag FIN** (*finish*) e dato che la connessione è **full-duplex**, la terminazione deve avvenire in **entrambe le direzioni** (non per forza insieme). Ogni **pacchetto FIN** (o ***shutdown***) **va riscontrato con** un **ACK**; perciò, per chiudere una connessione, servono **4 pacchetti** (**2 coppie di FIN+ACK in entrambe le direzioni**).
 
 **Al termine**, **client** e **server** TCP **deallocano** le **risorse** (buffer e variabili) usate.
 

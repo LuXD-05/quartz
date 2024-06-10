@@ -2,170 +2,245 @@
 
 ### Il "pericolo rosso" in Europa
 
-Nel 1917 [[4) La prima Guerra Mondiale#La fine della Russia zarista|cadde il regime zarista in Russia]] e ora il comunismo, fonte di preoccupazioni politiche e sociali da parte di altri stati conservatori e liberali, diventa una minaccia esterna e reale.
+Nel 1917 [[4) La prima Guerra Mondiale#La fine della Russia zarista|cadde il regime zarista in Russia]] e ora il **comunismo**, fonte di preoccupazioni politiche e sociali da parte di altri stati conservatori e liberali, <u>diventa una minaccia esterna e reale</u>.
 
 ### Dalla rivoluzione di febbraio a quella d'ottobre
 
-Nel febbraio 1917, ancora durante la WWI, la Russia era stata travolta da un'ondata di proteste operaie e contadine, in seguito a cui lo zar abdicò venendo poi arrestato (link cap 4). La guida del paese fu presa da un governo provvisorio rivoluzionario (sostenuto da partito costituzional-democratico, dai menscevichi e dai socialisti rivoluzionari), la cui autorità era però minata dai **soviet** (link cap 2), presenti ora in quasi ogni fabbrica e villaggio. Il governo a quel punto perse favore decidendo di continuare con la WWI; e Lenin, appena tornato dall'esilio, con le sue parole e le "tesi di aprile" (dove sancisce: "pace, terra ai contadini e il potere ai soviet") incita i bolscevichi a rovesciare il governo e a riprendere il potere (questi intanto avevano visto crescere i loro consensi e conquistano la maggioranza nei 2 soviet + importanti: Mosca e Pietrogrado).
+Nel febbraio 1917, con l'[[4) La prima Guerra Mondiale#La fine della Russia zarista|abdicazione dello zar]], la guida del paese fu presa da un governo provvisorio rivoluzionario, la cui autorità era però minata dai **[[2) Nazionalismi e democrazie in Europa#La domenica di sangue e la rivoluzione del 1905|soviet]]**, presenti ora dappertutto.
 
-Nonostante il governo fosse stato affidato a Kerenskij, membro del soviet di Pietrogrado, Lenin ruppe ogni indugio e nella città, nella notte tra il 24 e il 25 ottobre 1917, 25000 bolscevichi armati si impadronirono del Palazzo d'Inverno. 
+Il governo decise di <u>continuare</u> con <u>la WWI</u> (perdendo favore); e Lenin, appena tornato dall'esilio, con le "**tesi di aprile**" (sanciva: "pace e terra ai contadini + il potere ai soviet"), incitò i <u>bolscevichi a rovesciare il governo</u> (questi avevano conquistato la maggioranza nei soviet di Mosca e Pietrogrado).
+
+Nonostante il governo fosse stato affidato a **Kerenskij**, membro del soviet di Pietrogrado, nella notte tra il <u>24 e il 25 ottobre 1917</u>, 25000 bolscevichi armati si impadronirono del Palazzo d'Inverno (Pietrogrado).
 
 ### La repubblica dei soviet
 
-Il giorno dopo, il congresso panrusso dei soviet (con quelli di tutto il paese), approvò
+Il giorno dopo, il **congresso panrusso dei soviet** (con quelli di tutto il paese), approvò
 
-- Un **decreto sulla pace**, con cui ci si appella a paesi in guerra chiedendo una pace "senza annessioni o indennità";
-- Un **decreto sulla terra**, che dava ai soviet contadini il compito di ridistribuire le terre equamente.
+- Un **decreto sulla pace**, con cui ci si appellava a paesi in <u>guerra</u> per una <u>pace "senza annessioni o indennità"</u>,
+- Un **decreto sulla terra**, che dava ai soviet contadini il compito di <u>ridistribuire le terre equamente</u>.
 
-Venne anche istituito un Consiglio dei commissari del popolo presieduto da Lenin che però, alle prime elezioni a suffragio universale con la vittoria della sinistra socialrivoluzionaria (40% voti) contro i bolscevichi (24% voti), sciolse poi l'Assemblea con un colpo di stato e instaurò una sorta di dittatura bolscevica con organi popolari sottoposti al loro controllo sotto il nome di "Repubblica dei soviet, dei deputati, degli operai, dei soldati e dei contadini" (quindi all'inizio l'atteggiamento di Lenin era repressivo).
+Venne istituito un <u>Consiglio dei commissari del popolo</u> presieduto da Lenin; ma le prime elezioni a suffragio universale del novembre 1917 le vinsero i socialrivoluzionari (sinistra, 40% voti) contro i bolscevichi (24% voti).
 
-### La guerra civile
+Perciò **Lenin**, con un <u>colpo di stato</u>, instaurò una <u>dittatura bolscevica</u> con chiamata "**Repubblica dei soviet, dei deputati, degli operai, dei soldati e dei contadini**" (all'inizio l'atteggiamento di Lenin era repressivo).
 
-Il colpo di stato provocò la reazione delle forze contrarie alla rivoluzione (sia interne che esterne); quindi dopo l'uscita dalla guerra col trattato di Brest-Litovsk (link cap 4), il nuovo governo si trova ad affrontare da una parte una guerra civile, mentre dall'altra gli assalti dei nemici decisi ad abbattere i bolscevichi (inglesi, francesi, polacchi, serbi, rumeni, giapponesi...) in appoggio dei "bianchi" (per il colore delle loro uniformi), ufficiali rimasti fedeli allo zar. 
+### La guerra civile e l'Armata rossa
 
-Questi occuparono vaste aree del territorio alimentando ribellioni qua e là; perciò, nel timore che i bianchi liberassero lo zar Nicola II, il 17 luglio 1918 venne dato l'ordine di giustiziare lui e la sua famiglia.
+Dopo il colpo di stato (e il [[4) La prima Guerra Mondiale#L’uscita della Russia dal conflitto|trattato di Brest-Litovsk]]), il governo dovette affrontare forze contrarie alla rivoluzione:
 
-5 giorni dopo fu proclamata la "Repubblica socialista federativa sovietica russa" con capitale Mosca; la quale, per fronteggiare i suoi avversari, affidò al capo bolscevico **Trockij**, l'incarico di allestire un nuovo esercito. Molto rapidamente è emerso un esercito efficiente e disciplinato, detto "**Armata rossa**", che riuscì a resistere ai bianchi assicurando la sopravvivenza della rivoluzione.
+- Dall'**interno** una <u>guerra civile</u>,
+- Dall'**esterno** gli assalti di coloro che volevano abbattere i bolscevichi (inglesi, francesi, giapponesi...) in appoggio dei "**bianchi**" (per le uniformi) rimasti fedeli all zar.
+
+"**Bianchi**" ed **esterni** occuparono aree del territorio alimentando ribellioni; perciò, nel timore che liberassero lo <u>zar Nicola II</u>, il 17 luglio 1918 venne dato l'ordine di **giustiziare lui** e la sua <u>famiglia</u>.
+
+Il 22 luglio 1918 invece nacque la "**Repubblica socialista federativa sovietica russa**" con capitale <u>Mosca</u>; e questa affidò al capo bolscevico **Trockij**, l'incarico di allestire un nuovo esercito: l'"**Armata rossa**", che resistette ai "bianchi".
 
 ### Il comunismo di guerra
 
-Con la guerra civile il governo bolscevico era timoroso di venire accerchiato ed ossessionato dalla sicurezza interna, quindi Lenin adottò il "comunismo di guerra", imponendo misure drastiche:
+Con la guerra civile il governo bolscevico temeva tradimenti, quindi Lenin adottò il "**comunismo di guerra**", con misure drastiche:
 
-- La sospensione di molti diritti (tipo sciopero),
-- La militarizzazione del lavoro (ora obbligatorio),
-- L'abolizione del mercato privato (sostituito dal razionamento pubblico),
-- Il controllo statale dell'economia.
+- La <u>sospensione</u> di molti <u>diritti</u> (tipo sciopero),
+- La <u>militarizzazione del lavoro</u> (ora obbligatorio),
+- L'<u>abolizione del mercato privato</u> (sostituito dal razionamento pubblico),
+- Il <u>controllo</u> statale dell'<u>economia</u>.
 
-Le industrie vennero nazionalizzate e la terra tornò allo stato. I contadini, costretti a alimentare le città e le truppe col proprio raccolto, opposero resistenza, ma a questa i bolscevichi risposero con requisizioni, violenze, arresti e assassini; oltre alla repressione di ogni dissenso (condannato come "controrivoluzionario") dalla Ceka (nuova polizia politica).
+Le **industrie** vennero <u>nazionalizzate</u> e la **terra** tornò <u>allo stato</u>. I **contadini**, costretti a alimentare le città e le truppe col proprio raccolto, opposero <u>resistenza</u>, ma a questa i bolscevichi risposero con requisizioni, violenze, arresti e assassini; oltre alla <u>repressione del dissenso</u> (condannato come "controrivoluzionario") dalla **Ceka** (nuova polizia politica).
 
 ### La rivolta del Kronstadt
 
-Nel febbraio 1921 scoppiarono delle proteste e la + grave ci fu nella base navale di Kronstadt il 2 marzo 1921, quando i marinai si ribellarono contro la dittatura bolscevica chiedendo la fine del comunismo di guerra. Lenin (come per le altre proteste) ne ordinò la repressione per mano dell'Armata rossa.
+Nel febbraio 1921 scoppiarono delle <u>proteste</u> e la + grave ci fu nella <u>base navale di</u> **Kronstadt** il 2 marzo 1921, quando i marinai si ribellarono contro la dittatura bolscevica chiedendo la<u> fine del comunismo di guerra</u>.
+
+Lenin (come per le altre proteste) ne ordinò la <u>repressione</u> per mano dell'Armata rossa.
 
 ### La NEP
 
-Dopo aver sconfitto i controrivoluzionari (1920-1921), venne varata la **NEP** (Nuova Politica Economica), i cui punti fondamentali erano:
+Dopo aver <u>sconfitto i controrivoluzionari</u> (1920-1921), venne varata la **NEP** (*Nuova Politica Economica*), i cui punti fondamentali erano:
 
-- Parziale liberazione dell'industria,
-- Fine delle requisizioni forzate, 
-- Reintroduzione del libero commercio,
-- Maggiore attenzione per il mondo rurale.
+- <u>Parziale liberazione dell'industria</u>,
+- <u>Fine delle requisizioni</u> forzate,
+- Reintroduzione del <u>libero commercio</u>,
+- Maggiore <u>attenzione per il mondo rurale</u>.
 
-La **NEP** assicurò alla Russia la fine della guerra civile, un periodo di tregua sociale e di sviluppo economico oltre alla riduzione delle tensioni tra lo stato e le altre potenze. 
+La **NEP** assicurò alla Russia la <u>fine della guerra civile</u>, un periodo di <u>tregua sociale</u> e di <u>sviluppo economico</u> oltre alla <u>riduzione delle tensioni tra lo stato e le altre potenze</u>.
 
-Lenin si rese conto che la rivoluzione non si sarebbe allargata in Europa, quindi avviò una politica estera col fine di reinserire la Russia nel sistema di scambi internazionale; e ci riuscì dopo una settimana con un accordo con lo UK. Tra il 1924 e il 1925 tutti i paesi d'occidente eccetto gli USA riconobbero ufficialmente la Russia sovietica.
+Lenin si rese conto che la rivoluzione non si sarebbe allargata in Europa, quindi avviò una **politica estera** per <u>reinserire la Russia negli scambi internazionali</u>; e ci riuscì dopo una settimana con un accordo con lo UK. Tra il 1924 e il 1925 tutti i paesi d'occidente eccetto gli USA riconobbero ufficialmente la Russia sovietica.
 
 ### La nascita dell'URSS
 
-Dopo la guerra civile Lenin sistemò il territorio (prima diviso in varie repubbliche e territori autonomi) nel 1922, quando il Congresso panrusso dei soviet sancì la nascita dell'URSS (Unione delle Repubbliche Socialiste Sovietiche), che riuniva la Russia con Ucraina, Bielorussia, Azerbaigian, Armenia e Georgia. Questa sarebbe stata retta dal Soviet supremo dell'Unione (con potere legislativo) e dal Consiglio dei Commissari del popolo (con potere esecutivo); mentre alle repubbliche federate vene concessa un'autonomia formale (anche se la loro guida rimaneva nelle mani del partito comunista).
+Dopo la guerra civile, nel 1922 Lenin riorganizzò il territorio e il Congresso panrusso dei soviet sancì la nascita dell'**URSS** (*Unione delle Repubbliche Socialiste Sovietiche*), che riuniva la Russia con Ucraina, Bielorussia, Azerbaigian, Armenia e Georgia (a queste concessa un'autonomia formale).
+
+L'URSS sarebbe stata retta da:
+
+- Il **Soviet supremo dell'Unione** (con potere <u>legislativo</u>),
+- Il **Consiglio dei Commissari del popolo** (con potere <u>esecutivo</u>).
 
 ### La dittatura bolscevica
 
-I bolscevichi sopprimevano ogni dissenso politico (vedi scioglimento Assemblea nel 1918) e avevano imboccato la via di un rigido monopartitismo, che prevedeva l'estromissione di menscevichi, democarico-borghesi e socialisti rivoluzionari. Con la perdita del potere dei soviet in seguito alla formazione dell'URSS, la dittatura si fece sempre + repressiva: dal 1921 fu vietato il confronto di idee, progetti... nel partito e inoltre i dissidenti vennero sempre + esiliati, uccisi o mandati nei gulag. Il patto con le campagne si reggeva su Lenin, e la sua prematura scomparsa nel 1924 segnò anche la fine della NEP.
+I **bolscevichi** sopprimevano ogni dissenso e avevano imboccato la via di un rigido <u>monopartitismo</u>, che prevedeva l'estromissione di menscevichi, democarico-borghesi e socialisti rivoluzionari.
+
+Con l'<u>URSS</u> (e la perdita del potere dei soviet), la dittatura si fece sempre + **repressiva**: dal 1921 fu vietato il confronto di idee, progetti... nel partito e inoltre i dissidenti vennero sempre + esiliati, uccisi o mandati nei gulag.
+
+Il <u>patto con le campagne</u> si reggeva su **Lenin** e la sua <u>prematura scomparsa</u> nel 1924 segnò anche la fine della NEP.
 
 # I tentativi rivoluzionari in Europa
 
 ### La 3° Internazionale e i partiti comunisti
 
-La rivoluzione bolscevica in Russia aveva avuto un grande impatto anche sul resto d'Europa, convincendo molti socialisti ad approcciare la strada delle rivoluzioni per far nascere una democrazia "vera" come quella dei soviet. Perciò, per coordinare le sinistre rivoluzionarie, venne fondata a Mosca la 3° Internazionale o Comintern; questa spaccò le sinistre europee di cui socialdemocratici e socialisti ruppero con i più radicali, i quali crearono nuovi partiti comunisti (però sempre minoritari).
+La <u>rivoluzione bolscevica</u> in Russia aveva avuto un grande impatto anche sul resto d'Europa, convincendo molti socialisti ad approcciare la strada delle rivoluzioni per far nascere una <u>democrazia "vera" come quella dei soviet</u>.
+
+Perciò, per coordinare le sinistre rivoluzionarie, venne fondata a Mosca la **3° Internazionale** o **Comintern**; questa spaccò le sinistre europee di cui socialdemocratici e socialisti ruppero con i + <u>radicali</u>, che crearono nuovi <u>partiti comunisti</u>.
 
 ### La fragilità di governi e istituzioni
 
-Nei trattati del 1919, il principio di nazionalità venne spesso sacrificato a logiche ed esigenze diverse:
+Nei <u>trattati del 1919</u>, il **principio di nazionalità** venne spesso **sacrificato** a logiche ed esigenze diverse:
 
-- L'Intesa, per paura che l'Austria si unisse alla Germania, pose la sua indipendenza sotto la "protezione" della Società delle Nazioni.
-- In Europa centro-est, i tagli ai vinti a favore dei nuovi stati (Polonia, Romania, Cecoslovacchia, Iugoslavia) crearono nuove minoranze e ignorò le esigenze di molti, risultando in 30 milioni di persone tagliate fuori dai propri confini "naturali", tra cui tedeschi in Cecoslovacchia, ungheresi in Romania, ucraini in Polonia e diversi in Iugoslavia (già segnata da conflitti interni).
+- L'**Austria**, per paura che si <u>riunisse alla Germania</u>, vide la sua <u>indipendenza</u> posta sotto la "<u>protezione</u>" della Società delle Nazioni.
+- In **Europa centro-est**, i <u>tagli</u> ai vinti a favore dei <u>nuovi stati</u> (Polonia, Romania, Cecoslovacchia, Iugoslavia) crearono <u>nuove minoranze</u> e ignorarono molte esigenze, risultando in 30 milioni di persone tagliate fuori dai propri confini "naturali".
 
 ### Tentativi insurrezionali in Austria e Ungheria
 
-I paesi dell'Europa centro-est erano dilaniati da spinte contrastanti: da una parte un nazionalismo reazionario antidemocratico in cerca di rivalsa e dall'altra le insurrezioni delle sinistre comuniste aizzate dalla rivoluzione bolscevica. 2 sono gli esempi più importanti:
+I paesi dell'**Europa centro-est** erano dilaniati da spinte contrastanti:
+
+- Da una parte un <u>nazionalismo reazionario (antidemocratico)</u> in cerca di rivalsa,
+- Dall'altra le <u>insurrezioni delle sinistre comuniste</u> aizzate dalla rivoluzione bolscevica.
+
+2 sono gli esempi più importanti:
 
 ##### Ungheria
 
-Nel 1919 una rivolta operaia sfociò nell'occupazione di fabbriche e nella costruzione di soviet; nel mentre i socialdemocratici al governo cedettero ai comunisti proclamando una repubblica sovietica. Questo perché già l'armistizio aveva ridotto il territorio, poi c'erano da fronteggiare cechi e rumeni che volevano espandersi e tutto ciò davanti all'indifferenza di Francia e UK; per questo si puntava ad un aiuto dalla Russia di Lenin. 
+Nel 1919 una rivolta operaia sfociò nell'<u>occupazione di fabbriche</u> e nella <u>costruzione di soviet</u>; perciò il governo cedette ai **comunisti** proclamando una <u>repubblica sovietica</u>. Si puntava ad un aiuto dalla Russia di Lenin, dato che:
 
-Nello stesso anno si concluse l'esperienza rivoluzionaria con un colpo di stato dell'ammiraglio Horthy, supportato da rumeni, inglesi e francesi, nel cui regime autoritario si scatenò una repressione degli oppositori.
+- Già l'armistizio aveva <u>ridotto il territorio</u>,
+- Poi, c'erano da fronteggiare <u>cechi e rumeni</u> che <u>volevano espandersi</u>,
+- <u>Francia e UK rimanevano indifferenti</u> a ciò.
+
+Sempre nel 1919 si concluse l'esperienza rivoluzionaria con un <u>colpo di stato</u> dell'ammiraglio **Horthy**, supportato da rumeni, inglesi e francesi, nel cui regime autoritario si scatenò una <u>repressione</u> degli oppositori.
 
 ##### Austria
 
-Anche qui (ma in modo incruento) prevalsero le forze conservatrici. Alle elezioni del 1920 vinsero i cristiano-sociali e i socialdemocratici si accontentarono di mantenere il municipio di Vienna.
+Anche qui (ma in modo incruento) <u>prevalsero le forze conservatrici</u>. Alle elezioni del 1920 vinsero i cristiano-sociali e i socialdemocratici si accontentarono di mantenere il municipio di Vienna.
 
 ### La repubblica socialdemocratica in Germania
 
-Il 9 novembre 1918 l'imperatore abdicò e venne proclamata la repubblica con capo provvisorio il socialdemocratico Ebert, il cui partito (SPD, partito socialdemocratico tedesco) sembrava l'unico a poter gestire la situazione. Nel gennaio 1919 Rosa Luxemburg e Karl Liebknecht, figure di spicco del partito comunista tedesco e leader della Lega di Spartaco (link?), tentarono la via dell'insurrezione popolare. Il tentativo rivoluzionario fu però soffocato nel sangue e i comunisti fucilati per le strade.
+Il 9 novembre 1918 venne proclamata la repubblica con capo provvisorio il **Ebert**, il cui partito (**SPD**, *partito socialdemocratico tedesco*) sembrava l'unico a poter gestire la situazione.
+
+Nel gennaio 1919 Rosa Luxemburg e Karl Liebknecht, figure di spicco del <u>partito comunista tedesco</u> e leader della **Lega di Spartaco** (movimento socialrivoluzionario (comunista?) tedesco nato nel 1914), tentarono un colpo di stato con insurrezioni popolari.
+
+Il tentativo fu però <u>soffocato nel sangue e i comunisti fucilati</u>.
 
 ### La repubblica di Weimar
 
-Nell'agosto 1919 venne varata una nuova costituzione detta di Weimar (città in cui redatta); era molto avanzata per il tempo e prevedeva:
+In agosto 1919 venne varata la nuova **costituzione di Weimar** (città dove redatta), molto avanzata per il tempo, che prevedeva:
 
-- Suffragio universale maschile e femminile,
-- Centralità del Parlamento,
-- Valorizzazione dei partiti come strumenti di partecipazione politica,
-- Riconoscimento ti vari diritti sociali.
+- <u>Suffragio universale maschile e femminile</u>,
+- Centralità del <u>Parlamento</u>,
+- Valorizzazione dei <u>partiti come strumenti di partecipazione politica</u>,
+- Riconoscimento di <u>vari diritti sociali</u>.
 
-Le istituzioni repubblicane erano però ancora deboli e la situazione creata parve intollerabile alla destra tedesca antiparlamentare, antidemocratica e antisocialista; e inoltre ad accrescere la tensione vi era la "pace punitiva" del trattato di Versailles. In questo clima prese sempre + piede la violenza politica, risultando tra il 1919 e il 1922 in 376 omicidi politici fatti dalla destra. tra il 1920 e il 1923 furono inoltre tentati vari ***putsch*** ("colpo di stato") per rovesciare la repubblica, rivelando anche il coinvolgimento di parte dell'esercito nei piani della destra.
+Le istituzioni repubblicane erano però <u>deboli</u> e la situazione non piaceva alla **destra** tedesca <u>antiparlamentare, antidemocratica e antisocialista</u>. Prese sempre + piede la <u>violenza politica</u>, con centinaia di omicidi politici fatti dalla destra.
+
+Tra il 1920 e il 1923 furono inoltre tentati vari ***putsch*** ("*colpo di stato*") per rovesciare la repubblica, rivelando anche il coinvolgimento di parte dell'<u>esercito</u> nei piani della destra.
 
 ### I ceti medi
 
-I nazionalisti riuscirono a convincere milioni di tedeschi per la frustrazione dovuta alle conseguenze delle condizioni di pace (nel popolo si era diffuso il termine di "pugnalata alle spalle", ovvero il fatto che i socialdemocratici avessero contrattato con l'Intesa per far finire la guerra senza che l'esercito sapesse nulla; e ora la gente comune doveva subire gli effetti di ciò). Particolare fu poi la frustrazione dei ceti medi, fattore determinante per l'ascesa di movimenti politici fautori di uno stato forte e autoritario, capace di fronteggiare minacce come le rivendicazioni contadine e operaie (tipo totalitarismo di Hitler poi?).
+I nazionalisti convinsero milioni di tedeschi della **frustrazione** per le conseguenze delle <u>condizioni di pace</u> (si era diffusa la "**pugnalata alle spalle**", ovvero che il governo avesse contrattato per far finire la WWI all'insaputa dell'esercito; e ora il popolo ne subiva gli effetti).
+
+Ciò fu un fattore determinante per l'ascesa di <u>movimenti politici</u> fautori di uno **stato forte e autoritario**, capace di fronteggiare minacce come le rivendicazioni contadine e operaie (tipo <u>totalitarismi di Hitler e Mussolini</u>).
 
 ### Il tracollo finanziario e il putsch di Monaco
 
-L'economia tedesca era già in ginocchio, ma nel 1923 ci fu un tracollo finanziario in seguito all'occupazione del bacino della Ruhr di francesi e belgi (pretesto mancato pagamento di 1 rata). Il governo dovette quindi aumentare le emissioni di banconote e il valore del marco precipitò, scaturendo in una terribile inflazione. Nel mentre, ad Amburgo e a Monaco, il partito nazionalsocialista dei lavoratori di Hitler (nuova formazione di estrema destra) tentò un colpo di stato detto "***Putsch di Monaco***" che però fallì (Hitler condannato a 5 anni ma esce dopo meno di 1).
+L'economia tedesca era già in ginocchio, ma nel 1923 ci fu un **tracollo finanziario** in seguito all'<u>occupazione del bacino della Ruhr</u> di francesi e belgi (pretesto: mancato pagamento di 1 rata).
+
+Il governo dovette <u>aumentare le emissioni di banconote</u> e il <u>valore del marco precipitò</u>, scaturendo nell'**iperinflazione**.
+
+Intanto, ad Amburgo e a Monaco, il <u>partito nazionalsocialista dei lavoratori</u> di **Hitler** (nuova formazione di estrema destra) tentò un <u>colpo di stato</u> detto "***Putsch di Monaco***" che però <u>fallì</u> (Hitler condannato a 5 anni ma esce dopo - di 1).
 
 ### Una precaria stabilizzazione
 
-I repubblicani reagirono: tutti i partiti (da destra moderata a sinistra socialdemocratica) si strinsero in un governo di coalizione sotto Stresemann, che riuscì a isolare estrema destra e sinistra, trattare con la Francia e avviare una politica economica. Ciò aveva comunque convinto gli stati vincitori che il sistema delle riparazioni non funzionava; ma la soluzione giunse dagli USA con gli aiuti economici del piano Dawes, grazie alle quali la Germania si risollevò.
+Tutti i partiti si strinsero quindi in un **governo di coalizione** sotto **Stresemann** in agosto 1923, il che <u>isolò le ali estreme</u>, <u>trattò con la Francia</u> e avviò una <u>politica economica</u>.
 
-Con l'accordo di Locarno (1925) Germania e Francia migliorarono i rapporti e l'anno dopo la Germania venne ammessa alla Società delle Nazioni; quindi il governo di Weimar sembrava aver retto, ma la repubblica era debole e le oligarchie e il loro consenso forti, infatti nel 1925 venne eletto presidente **Hindenburg**, già capo dell'esercito del *Reich* della WWI.
+Ciò convinse i vincitori che il <u>sistema delle riparazioni non funzionava</u>; ma gli USA risolsero il problema con il **[[5) Il dopoguerra#Il piano Dawes|piano Dawes]]**, grazie al quale la Germania si risollevò.
+
+Con l'**[[8) Il regime fascista di Mussolini#Le ambizioni dell'Italia|accordo di Locarno]]** (ottobre 1925) Germania e Francia migliorarono i rapporti e l'anno dopo la Germania venne ammessa alla Società delle Nazioni.
+
+La repubblica di Weimar sembrava aver retto, ma la era debole , infatti nel 1925 eletto **Hindenburg**, già capo dell'esercito in WWI.
 
 ### Francia e UK alla ricerca della stabilità
 
-Negli anni 20 anche Francia e UK si trovarono ad affrontare varie difficoltà; tuttavia in questi le istituzioni parlamentari e liberali ressero nonostante l'instabilità interna del dopoguerra. 
+Negli anni '20 anche Francia e UK si trovarono ad affrontare varie difficoltà; tuttavia in questi le <u>istituzioni parlamentari e liberali ressero</u> nonostante l'instabilità interna del dopoguerra.
 
-- Francia: si alternarono molti governi accomunati da un moderatismo che escluse le tendenze estremiste e i comunisti.
-- UK: qui l'allargamento dell'elettorato e l'inclusione al voto a donne e operai rafforzò il partito laburista, il quale riuscì a mantenere la classe operaia distante da posizioni rivoluzionarie tipo quelle dei comunisti. Da lì si delineò un nuovo "bipartismo", basato sull'alternanza al governo di conservatori e laburisti.
+- **Francia**: si alternarono <u>molti governi</u> accomunati da un **moderatismo** che <u>escluse</u> le tendenze <u>estremiste e i comunisti</u>.
+- **UK**: qui l'allargamento dell'elettorato e l'inclusione al voto a donne e operai rafforzò il **partito laburista**, il quale mantenne la classe operaia distante da posizioni rivoluzionarie (tipo comunismo). Da lì si delineò un nuovo "**bipartismo**", basato sull'alternanza al governo di **conservatori** e **laburisti**.
 
 # Il "biennio rosso" in Italia
 
 ### La "vittoria mutilata" e l'impresa di Fiume
 
-Alla Conferenza di Parigi l'Italia, nonostante parte dei vincitori, ebbe un ruolo secondario a causa del carattere contraddittorio delle sue pretese: tra i territori rivendicati erano inclusi la Dalmazia (perché prevista dal patto di Londra, ma abitata da slavi e rivendicata dalla Iugoslavia) e Fiume (perché abitata per la maggior parte da italiani). Quindi da una parte ci si appellava al principio di nazionalità e dall'altra lo si negava.
+Alla **Conferenza di Parigi** l'Italia, nonostante parte dei vincitori, ebbe un <u>ruolo secondario</u> a causa del <u>carattere contraddittorio delle sue pretese</u> (da una parte ci si appellava al principio di nazionalità e dall'altra lo si negava):
 
-Visto l'andamento sfavorevole delle trattative, molti pensavano che l'Italia fosse stata derubata dei frutti della sua vittoria, tra cui d'Annunzio, colui che coniò il termine "vittoria mutilata" (link?). Lo stesso, l'11 settembre 1919 riunì gruppi di volontari e militari vicino Gorizia, marciò su Fiume e vi istituì una "reggenza" provvisoria, in attesa di annessione all'Italia. Il governo non intervenne pensando di trarne vantaggio.
+- Si rivendicava la **Dalmazia** perché prevista dal [[4) La prima Guerra Mondiale#Il patto di Londra|patto di Londra]] (ma abitata da slavi e rivendicata dalla Iugoslavia),
+- Si rivendicava **Fiume** perché abitata per la > parte da italiani.
+
+Per l'andamento sfavorevole delle trattative, molti pensavano che l'Italia fosse stata derubata della sua vittoria, tra cui **d'Annunzio**, colui che coniò il termine "**vittoria mutilata**".
+
+Sempre d'Annunzio, l'11 settembre 1919 riunì gruppi di volontari e militari vicino Gorizia, **marciò su Fiume** e vi istituì una "<u>reggenza</u>" provvisoria, in attesa di annessione all'Italia. Il <u>governo non intervenne</u> pensando di trarne vantaggio.
 
 ### Il "biennio rosso"
 
-Alla debolezza internazionale, all'Italia si aggiungeva una situazione interna delicata: il paese usciva dalla guerra stremato, impoverito e indebitato. Tra reduci di guerra, operai e contadini si rivendicavano soldi, terre e lavoro. Oltre a tutto ciò si era diffusa la convinzione che gli effetti della rivoluzione bolscevica stessero per colpire anche l'Italia; e questa previsione sembrò realizzarsi durante il "biennio rosso", un periodo di moti di protesta sia in campagne sia in città che va dal 1919 al 1920.
+Alla debolezza internazionale, all'Italia si aggiungeva una <u>situazione interna delicata</u>: il paese era stremato, impoverito e indebitato dalla guerra; poi reduci, operai e contadini rivendicavano soldi, terre e lavoro.
 
-### Lotte contadine al sud
+Oltretutto si pensava che la <u>rivoluzione bolscevica</u> stesse per arrivare anche in Italia; e ciò sembrò realizzarsi durante il "**biennio rosso**", un periodo di moti di protesta sia in campagne sia in città dal <u>1919 al 1920</u>.
 
-Nelle campagne del nord le leghe bracciantili ingaggiarono a inizio 1919 scioperi e boicottaggi, riuscendo a far valere alcune rivendicazioni. Il loro obiettivo finale (o almeno quello dei socialisti) era la socializzazione delle terre (ovvero la loro assunzione e redistribuzione da parte dello stato), cosa che spaventava i proprietari terrieri. Al sud invece il malessere sfociò in occupazioni delle terre incolte da parte di contadini senza terra.
+### Lotte contadine
+
+Nelle campagne:
+
+- A nord le **leghe bracciantili** ingaggiarono <u>scioperi</u>, riuscendo a far valere alcune rivendicazioni. Il loro <u>obiettivo finale</u> (o almeno quello dei socialisti) era la **socializzazione delle terre** (ovvero la loro redistribuzione da parte dello stato).
+- A sud invece il malessere sfociò in <u>occupazioni delle terre incolte</u> da parte di contadini senza terra.
 
 ### Agitazioni operaie a nord
 
-Nelle città le proteste contro il carovita del 1919 si spostarono nelle fabbriche. Una mobilitazione di operai metalmeccanici del 1920 sembro il preludio della rivoluzione in quanto, alla serrata (temporanea chiusura di un'azienda per fare pressioni sui lavoratori che non vogliono accettare certe condizioni) imposta dagli imprenditori, il Consiglio di fabbrica reagì proclamando l'occupazione; quindi gli operai presero possesso degli stabilimenti con armi e iniziarono ad autorganizzare il lavoro (fenomeno investe 400000 operai).
+Nel 1920 gli operai metalmeccanici, alle **serrate** (temporanea chiusura di un'azienda per fare pressioni sui lavoratori che non vogliono accettare certe condizioni) imposte dagli imprenditori, reagirono con una rivolta e **occupando le fabbriche**, iniziando poi ad <u>autorganizzare il lavoro</u> mentre presidiavano gli stabilimenti con armi.
 
 ### L'affermazione di partiti di massa
 
-In tutto ciò, nel 1919 si erano svolte le elezioni politiche con, oltre al suffragio universale maschile, anche il sistema proporzionale (prevede l'assegnazizone di seggi il + fedelmente possibile ai voti ottenuti, senza favorire chi ha la maggioranza), + adatto a rappresentare le volontà dell'elettorato. Dai voti vinsero 2 partiti (diversi da quelli della tradizione liberal-risorgimentale):
+Intanto, nel 1919, si erano svolte le **elezioni** con (oltre al suffragio universale maschile) il **sistema proporzionale** (<u>assegnazione di seggi il + fedelmente possibile ai voti ottenuti, senza favorire troppo la maggioranza</u>). Dai voti vinsero:
 
-- Il partito socialista (dei massimalisti, 32.3% voti) era ora il 1° partito d'Italia.
-- Il PPI (partito popolare italiano, 20.5€ voti) nato nel 1919 per iniziativa del sacerdote Luigi Sturzo; da lì i cattolici parteciperanno alla politica superando la barriera del *non expedit*.
+- Il **partito socialista** (dei <u>massimalisti</u>, 32.3% voti) era ora il <u>1° partito d'Italia</u>.
+- Il **PPI** (*Partito Popolare Italiano*, 20.5% voti) nato nel 1919 per iniziativa del sacerdote Luigi Sturzo; da lì i **cattolici** parteciperanno alla politica superando la barriera del *non expedit*.
 
 ### Il governo Giolitti
 
-Lo schieramento liberale passò a 200 seggi su circa 500, perdendo per la 1° volta la maggioranza assoluta in parlamento ma conservando quella relativa (sono sempre + degli altri ma non abbastanza per il consenso). In una situazione di difficoltà questi si rivolsero a Giolitti che, con l'appoggio di tutti (tranne socialisti), riprese la sua tattica riformista ed evitò che l'occupazione delle fabbriche sfociasse in rivoluzione da una parte facendo smettere il sostegno dell'occupazione delle fabbriche ai sindacati e dall'altra accordando un aumento salariale ai lavoratori (accordo del 27 settembre 1920 che isolò i nuclei più radicali e portò allo sgombero delle fabbriche).
+I **liberali** passarono a 200 seggi su circa 500, perdendo per la 1° volta la <u>maggioranza assoluta</u> in parlamento ma conservando quella <u>relativa</u> (sono sempre + degli altri ma non abbastanza per il consenso).
 
-### Giolitti e la questione di Fiume
+I liberali si rivolsero a **Giolitti** che, con l'appoggio di tutti i partiti (tranne socialisti), riprese la sua tattica riformista/mediatrice ed evitò che l'occupazione delle fabbriche sfociasse in rivoluzione:
 
-Per risolvere con Fiume, Giolitti negoziò con la Iugoslavia arrivando al trattato di Rapallo nel 1920, con cui l'Italia conservava Istria e Zara, il resto della Dalmazia veniva ceduto e Fiume diventava città-stato indipendente (annessa all'Italia poi nel 1924 con un accordo con Belgrado). Di fronte alla resistenza di d'Annunzio, Giolitti fece intervenire l'esercito a fine 1920.
+- Da una parte facendo <u>smettere il sostegno dell'occupazione</u> delle fabbriche <u>ai sindacati</u>,
+- Dall'altra accordando un <u>aumento salariale ai lavoratori</u> (accordo del settembre 1920 che isolò i + radicali e liberò le fabbriche).
+
+### La questione di Fiume
+
+Per risolvere la questione di Fiume, Giolitti stipulò con la Iugoslavia il **trattato di Rapallo** nel 1920, con cui:
+
+- **Italia**: <u>Istria e Zara</u>,
+- **Austria**: otteneva il <u>resto della Dalmazia</u>
+- **Fiume**: diventava <u>città-stato indipendente</u> (annessa all'Italia nel 1924 con un accordo con Belgrado). Di fronte alla resistenza di d'Annunzio, Giolitti fece intervenire l'esercito a fine 1920.
 
 ### La nascita del partito comunista
 
-Il trasformismo di Giolitti non ebbe un grande successo in quanto la sua linea riformista (sul piano sociale) non conquistò il consenso del PSI, in cui stava prevalendo la corrente massimalista. Inoltre, il fallimento dell'occupazione delle fabbriche portò alla scissione dell'estrema sinistra dal PSI. Al congresso di Livorno (1921) la maggioranza si rifiutò di farsi chiamare "partito comunista" e di espellere i riformisti come Lenin aveva imposto ai partiti che volevano aderire alla 3° Internazionale; e a quel punto la corrente di Gramsci (e Bordiga) abbandonò l'assemblea per fondare il PCd'I (partito comunista d'Italia).
+Il <u>trasformismo e la linea riformista</u> di Giolitti non conquistarono il consenso del PSI (in cui stava prevalendo il massimalismo). Inoltre, il fallimento dell'occupazione delle fabbriche portò alla **scissione dell'estrema sinistra** dal <u>PSI</u>.
+
+Al **congresso di Livorno** (1921) la maggioranza si rifiutò di farsi chiamare "<u>partito comunista</u>" e di <u>espellere i riformisti</u> come Lenin aveva imposto ai partiti che volevano aderire alla 3° Internazionale; quindi la corrente di **Gramsci** abbandonò l'assemblea per fondare il **PCd'I** (*Partito Comunista d'Italia*).
+
+##### Gramsci
 
 ### Le paure della borghesia
 
-La politica di Giolitti scontentò anche la destra, la quale vide le concessioni sindacali a contadini/operai e la neutralità dello stato nel conflitto tra capitale e lavoro come un'abdicazione dello stesso. Nel 1920 gli industriali si erano dovuti piegare al compromesso di Giolitti, i proprietari terrieri mal tolleravano il potere acquisito dalle leghe bracciantili e il ceto medio in generale temeva il suo declassamento e disfacimento. Sull'onda di queste paure emerse il fascismo, con un programma nazionalista, antisocialista e avverso nei confronti delle istituzioni liberali.
+La politica di Giolitti scontentò molti:
+
+- La destra vide le concessioni sindacali a contadini/operai e la neutralità dello stato nel conflitto tra capitale e lavoro come un'abdicazione dello stesso,
+- Nel 1920 gli industriali avevano accettato il compromesso di Giolitti senza accettarlo,
+- I proprietari terrieri mal tolleravano il potere acquisito dalle leghe bracciantili,
+- Il ceto medio in generale temeva il suo declassamento e disfacimento. 
+
+Sull'onda di queste paure emerse il **fascismo**, con un programma nazionalista, antisocialista e avverso nei confronti delle istituzioni liberali.
 

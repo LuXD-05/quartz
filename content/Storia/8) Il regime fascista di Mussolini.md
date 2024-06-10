@@ -321,7 +321,7 @@ Al contrario il ceto medio ottenne + vantaggi. Fino al 1936 la stabilizzazione d
 
 Dopo la WWI l'Italia non aveva assunto una posizione rilevante nel contesto europeo; tuttavia era comunque una potenza vincitrice e Mussolini giocò subito quella carta.
 
-Per tutti gli anni '20 l'Italia coltivò rapporti amichevoli con lo UK e anche una crescente rivalità con la Francia, ma si attenne per lo + a una linea prudente e moderata. In tale contesto, Mussolini sottoscrisse nel 1925 l'accordo di Locarno, per cui assunse la funzione di garante dell'inviolabilità dei confini tra Francia, Germania e Belgio.
+Per tutti gli anni '20 l'Italia coltivò rapporti amichevoli con lo UK e anche una crescente rivalità con la Francia, ma si attenne per lo + a una linea prudente e moderata. In tale contesto, Mussolini sottoscrisse nel 1925 l'**accordo di Locarno**, per cui assunse la funzione di garante dell'inviolabilità dei confini tra Francia, Germania e Belgio.
 
 ### L'Italia e il suo "peso determinante"
 
