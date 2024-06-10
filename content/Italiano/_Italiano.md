@@ -1,7 +1,7 @@
 ### Correnti
 
 - [[Romanticismo]]
-- [[Scapigliatura]]
+- [[Letteratura nell'Italia unita]]
 - [[Naturalismo]]
 - [[Realismo]]
 - [[Verismo]]
