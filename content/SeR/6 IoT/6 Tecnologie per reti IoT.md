@@ -11,16 +11,16 @@ La diffusione dell'IoT è rallentata a causa di:
 
 Per rendere un dispositivo *smart* (capace di percepire cambiamenti della realtà e trasmettere i dati a qualcuno) serve:
 
-- Identificarlo univocamente,
-- Renderlo capace di comunicare (con tecnologie wireless o cablate),
-- Abilitarlo a percepire la realtà (tramite sensori) ed eventualmente ad agire (tramite attuatori),
-- Renderlo monitorabile e controllabile da remoto attraverso un terminale (per esempio una app mobile per controllarlo o anche una in cloud per storage ed elaborazione di dati inviati).
+- <u>Identificarlo</u> univocamente,
+- Renderlo capace di <u>comunicare</u> (con tecnologie wireless o cablate),
+- Abilitarlo a <u>percepire la realtà</u> (tramite sensori) ed eventualmente ad <u>agire</u> (tramite attuatori),
+- Renderlo <u>monitorabile e controllabile da remoto</u> attraverso un terminale (per esempio una app mobile per controllarlo o anche una in cloud per storage ed elaborazione di dati inviati).
 
-Per fare tutto ciò occorre inserire materialmente nel dispositivo dei chip che permettano di implementare i suddetti punti.
+Per fare tutto ciò occorre inserire materialmente nel dispositivo dei ***chip*** che permettano di implementare i suddetti punti.
 
 ##### Criticità
 
-Una criticità si ha nel decidere quale standard trasmissivo usare per l'invio di dati, soprattutto se si decide che questo sarà wireless in quanto vi sono tantissime tecnologie tra cui scegliere, tra cui: WiFi, BT, BLE, ZigBee, cellulare (2/3/4/5G), LoRa...
+Una **criticità** si ha nel <u>decidere quale standard trasmissivo</u> usare per l'invio di dati, soprattutto se si decide che questo sarà wireless in quanto vi sono <u>tantissime tecnologie</u> tra cui scegliere, tra cui: WiFi, BT, BLE, ZigBee, cellulare (2/3/4/5G), LoRa...
 
 ### Alcune tecnologie
 

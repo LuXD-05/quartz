@@ -1,3 +1,8 @@
+### Altro
+
+- [[Figure retoriche]]
+- [[Le assaggiatrici]]
+
 ### Correnti
 
 - [[Romanticismo]]
@@ -7,8 +12,8 @@
 - [[Verismo]]
 - [[Decadentismo]]
 - [[Simbolismo]]
+- [[Avanguardie]]
 - [[Futurismo]]
-- ...
 
 ### Autori
 
@@ -22,11 +27,5 @@
 - [[D'Annunzio]]
 - [[Svevo]]
 - [[Pirandello]]
-- Gadda?
 - [[Ungaretti]]
 - [[Montale]]
-
-### Domande
-
-[[_Domande]]
-

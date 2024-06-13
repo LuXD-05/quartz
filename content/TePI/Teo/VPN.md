@@ -54,13 +54,13 @@ Questo prevede di **appoggiarsi a un ISP che crea dei tunnel sui i suoi circuiti
 
 **Vantaggi**:
 
-- Il clie**nte non si preoccupa del servizio** (fa tutto l'ISP),
-- Garantire la **sicurezza è a carico dell'ISP**,
-- La **QoS è anch'essa gestita dal fornitore**,
-- **Tempi** di ***fault recovery* brevi** per algoritmi di rete basati su priorità,
-- **Cliente gestisce l'indirizzamento IP** (come se fosse tutto su una LAN privata logica).
+- Il cliente non si preoccupa del servizio (fa tutto l'ISP),
+- Garantire la sicurezza è a carico dell'ISP,
+- La QoS è anch'essa gestita dal fornitore,
+- Tempi di *fault recovery* brevi per algoritmi di rete basati su priorità,
+- Cliente gestisce l'indirizzamento IP (come se fosse tutto su una LAN privata logica).
 
-**Svantaggi**: **costi elevati e rigidità**.
+**Svantaggi**: costi elevati e rigidità.
 
 ##### Secure VPN
 

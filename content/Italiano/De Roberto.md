@@ -4,11 +4,9 @@
 
 Nasce a **Napoli** nel **1861**, poi a Catania e si interessa nella letteratura conoscendo **Verga** e **Capuana** che lo indirizzano al **Verismo** e all’impersonalità; e inizia a produrre romanzi a Milano in cui nasce un ciclo di romanzi che racconta le vicende di una potente famiglia siciliana, gli **Uzeda**, diviso in 3 parti:
 
-1)      **L’Illusione** (1891), la protagonista è Teresa Uzeda e le sue vicende sentimentali;
-
-2)      I **Viceré** (1894), con le vicende della stessa famiglia nobile (non ha molto successo tra pubblico e critica, ciò contribuisce a peggiorare lo stato di salute mentale di De Roberto);
-
-3)      **L’imperio** (1929), con l’ultimo Uzeda (Consalvo) che agisce in politica (uscito postumo), con questo tocca il culmine della sfiducia totale nella storia e nella corruzione mostrando amarezza e pessimismo.
+1) **L’Illusione** (1891), la protagonista è Teresa Uzeda e le sue vicende sentimentali;
+2) I **Viceré** (1894), con le vicende della stessa famiglia nobile (non ha molto successo tra pubblico e critica, ciò contribuisce a peggiorare lo stato di salute mentale di De Roberto);
+3) **L’imperio** (1929), con l’ultimo Uzeda (Consalvo) che agisce in politica (uscito postumo), con questo tocca il culmine della sfiducia totale nella storia e nella corruzione mostrando amarezza e pessimismo.
 
 Muore a Catania nel 1927.
 
@@ -20,11 +18,9 @@ Con questa (la sua opera più importante) racconta le vicende della casata sicil
 
 Gli **Uzeda** (discendenti di viceré spagnoli della Sicilia borbonica) sono **avidi** e **patologicamente attaccati al potere**; all’interno della stessa famiglia ci sono vari **conflitti**:
 
--      Principe Giacomo e fratello Raimondo in lotta per eredità,
-
--      Consalvo è diseredato dal padre per essere entrato in parlamento,
-
--      Il monaco don Blasco insegue il proprio utile…
+- Principe Giacomo e fratello Raimondo in lotta per eredità,
+- Consalvo è diseredato dal padre per essere entrato in parlamento,
+- Il monaco don Blasco insegue il proprio utile…
 
 Negli Uzeda mezzi come **inganno, tradimento e corruzione** sono **legittimi** quando è in gioco la **ricchezza** o il **prestigio**, ma ciò non gli impedisce di mostrarsi **uniti** quando devono difendere gli interessi della **famiglia**.
 

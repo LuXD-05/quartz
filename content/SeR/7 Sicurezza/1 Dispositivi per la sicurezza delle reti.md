@@ -1,22 +1,22 @@
 ### Sicurezza
 
-Gli amministratori di rete devono usare strumenti per proteggere la propria rete ed impedirne l'accesso ai malintenzionati, in particolare riguardo alla comunicazione sicura. Per garantire la sicurezza (di una comunicazione) bisogna rispettare 4 principi:
+Gli amministratori di rete devono usare strumenti per proteggere la propria rete ed impedirne l'accesso ai malintenzionati, in particolare riguardo alla comunicazione sicura. Per garantire la sicurezza (di una comunicazione) bisogna rispettare <u>4 principi</u>:
 
 ###### Autenticazione
 
-Una comunicazione è autenticata solo se mittente e destinatario sono certi dell'identità della controparte.
+Una comunicazione è **autenticata** solo se <u>mittente e destinatario</u> sono <u>certi dell'identità della controparte</u>.
 
 ###### Riservatezza
 
-Una comunicazione tra 2 parti è riservata se i messaggi scambiati in essa sono comprensibili solo a loro.
+Una comunicazione tra 2 parti è **riservata** se i <u>messaggi scambiati</u> in essa sono <u>comprensibili solo a loro</u>.
 
 ###### Integrità
 
-Un messaggio è integro quando non subisce alterazioni durante la trasmissione (né casuali, né volute).
+Un messaggio è **integro** quando <u>non subisce alterazioni durante la trasmissione</u> (né casuali, né volute).
 
-###### Disponibilità
+###### (Disponibilità)
 
-Un sistema sicuro deve garantire la disponibilità dei propri servizi quando richiesti.
+Un sistema sicuro deve garantire la **disponibilità** dei propri servizi quando richiesti.
 
 ##### Debolezze dei sistemi
 
@@ -31,19 +31,15 @@ Gli attacchi a una rete possono provenire sia dall'interno che dall'esterno. Le 
 
 > [!important] Sicurezza
 > Insieme delle misure fisiche, tecnologiche ed organizzative che assicurano solo agli utenti autorizzati l'uso di certe risorse (nei tempi e modi prefissati).
-> La ***policy*** di un'azienda è poi costituita dalle regole di autenticazione (chi), autorizzazione (cosa) e controllo degli accessi (come) definite per un sistema.
+> La ***policy*** di un'azienda è poi costituita dalle regole di autenticazione (chi), autorizzazione (cosa) e controllo degli accessi (come) definite per un sistema (vedi [[4.1 AAA]]).
 
 ### Componenti
 
 ##### Firewall
 
-I firewall sono componenti hw o sw usati per collegare una rete privata *trusted* (fidata) e quindi sicura, con una non sicura, solitamente internet. I firewall controllano il traffico in entrata e in uscita dalla rete da proteggere filtrandolo in base a delle *policy* di sicurezza.
-
-Tipi: packet filter, stateful packet filter, proxy server, personal firewall.
+I firewall sono componenti hw o sw usati per collegare una **rete privata** *trusted* (fidata) e quindi <u>sicura</u>, con una <u>non sicura</u>, solitamente **internet**. I firewall <u>controllano il traffico in entrata e in uscita dalla rete da proteggere filtrandolo</u> in base a delle *policy* di sicurezza.
 
 ##### Sistemi di rilevamento delle intrusioni
 
-Sono dei sistemi che eseguono un controllo profondo del traffico che vi ci passa, così da individuare attività sospette e inviare avvertimenti all'amministratore di rete (IDS) o anche bloccare il traffico sospetto (IPS).
-
-Tipi: IDS, IPS.
+Sono dei sistemi che eseguono un <u>controllo profondo del traffico che vi ci passa</u>, così da individuare <u>attività sospette</u> e inviare <u>avvertimenti</u> all'amministratore di rete (IDS) o anche <u>bloccare il traffico</u> sospetto (IPS).
 

@@ -162,7 +162,7 @@ Zeno si attacca al fumo fin da giovane perché gli fornisce una **giustificazion
 - Da una parte il proposito di smettere di fumare <u>non "deve" andare a buon fine</u>, così che **Zeno** **potrà** continuare a **illudersi di avere una *chance* di riscatto** nella vita,
 - Dall'altra, l'**impossibilità di smettere col fumo** svolge la funzione di **capro espiatorio**: finché Zeno fumerà, potrà continuare a usare la **scusa del fumo** per giustificarsi invece di riconoscere la sua inettitudine.
 
-Con Svevo l'"**ultima sigaretta**" è divenuta emblema della volontà debole e della nevrosi dell'uomo moderno.
+Con Svevo l'"**ultima sigaretta**" è divenuta emblema della volontà debole dell'uomo moderno.
 
 ##### Il padre di Zeno
 

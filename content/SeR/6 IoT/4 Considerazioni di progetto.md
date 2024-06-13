@@ -15,8 +15,8 @@ Per quanto riguarda i **sensori** poi, bisogna tenere in considerazione:
 
 ###### Piattaforme hardware
 
-- Arduino: scheda microcontrollore, quindi, dotata di un *single-chip computer*, monoprogrammato e senza OS.
-- Raspberry PI: è un *Single Board Computer*, cioè un computer su un'unica scheda, sulla quale è presente un processore e una memoria dedicati e dove viene eseguito l'OS multiprogrammato (Linux o Raspberry PI OS)
+- **Arduino**: scheda microcontrollore, quindi, dotata di un *single-chip computer*, monoprogrammato e senza OS.
+- **Raspberry PI**: è un *Single Board Computer*, cioè un computer su un'unica scheda, sulla quale è presente un processore e una memoria dedicati e dove viene eseguito l'OS multiprogrammato (Linux o Raspberry PI OS)
 
 ### Livello rete
 

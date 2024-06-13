@@ -23,7 +23,7 @@ I sistemi GNSS sono dei sistemi di radionavigazione disponibili per navi, aerei 
 
 ###### Datum geodetico
 
-Li differenzia il ***datum*** geodetico, ovvero il sistema  che permette di **georeferenziare** punti ed oggetti sulla terra, ovvero, esprimere la loro posizione sottoforma di **coordinate**.
+Li differenzia il ***datum*** geodetico, ovvero il sistema che permette di **georeferenziare** punti ed oggetti sulla terra, cioè, esprimere la loro posizione tramite **coordinate**.
 
 La definizione di un *datum* si realizza effettuando delle **misurazioni** su dei **punti** a cui sono associate delle **coordinate** sulla superficie terrestre. Questa è detta **rete di inquadramento** e il sistema GPS usa quella mondiale **WGS 84** (17 stazioni). (Le misurazioni sono fatte periodicamente per aggiornare la rete).
 
@@ -106,7 +106,7 @@ Oltre a USA, URSS e Cina, anche l'UE ha il suo sistema satellitare: Galileo. Que
 
 ### Localizzazione indoors
 
-Come già detto, il GPS non funziona sottoterra, con la pioggia, nei canyon urbani negli interni o sott'acqua (oltre a necessitare contatto visivo con satelliti). 
+Come già detto, il **GPS** <u>non funziona sottoterra, con la pioggia, nei canyon urbani negli interni o sott'acqua</u> (oltre a necessitare contatto visivo con satelliti). 
 
 Tuttavia è possibile determinare la posizione in aree non coperte da GPS basandosi sulle ultime misurazioni o ricorrendo ad altre tecnologie.
 

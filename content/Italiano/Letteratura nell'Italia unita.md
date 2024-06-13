@@ -6,7 +6,7 @@ Questo articolo è scritto nel 1884 dalla giornalista **Matilde Serao** in occas
 
 ### L’italiano + La scuola
 
-Dopo l’unità del 1861, bisognava risolvere il problema dell’**unificazione linguistica**; siccome la questione della lingua è diventata una questione nazionale urgente. Nonostante le leggi scolastiche (come la legge Casati del 1859 e la legge Coppino del 1877), a parte nelle aree di Firenze e Roma, si usavano i **dialetti** sia nel parlato sia da parte degli insegnanti a scuola; e inoltre i prof (non elementari) erano tutti maschi, poco preparati e mal pagati, anche per la cattiva organizzazione delle scuole (_Fausta Zibets be like:_) e perché erano i comuni che dovevano cercare e retribuire i professori.
+Dopo l’unità del 1861, bisognava risolvere il problema dell’**unificazione linguistica**; siccome la questione della lingua è diventata una questione nazionale urgente. Nonostante le leggi scolastiche (come la legge Casati del 1859 e la legge Coppino del 1877), a parte nelle aree di Firenze e Roma, si usavano i **dialetti** sia nel parlato sia da parte degli insegnanti a scuola; e inoltre i prof (non elementari) erano tutti maschi, poco preparati e mal pagati, anche per la cattiva organizzazione delle scuole e perché erano i comuni che dovevano cercare e retribuire i professori.
 
 Se prima il dialetto era scoraggiato, dal 1890 aumentano i **dizionari italiani** e **vocabolari dialetto/italiano**; o anche si mandano in giro per l’Italia insegnanti toscano-romagnoli al fine che insegnino non usando il dialetto ma l’italiano (per esempio Pascoli, mandato a Matera, Basilicata).
 
