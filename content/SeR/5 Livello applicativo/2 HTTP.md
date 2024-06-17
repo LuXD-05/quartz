@@ -2,8 +2,8 @@
 
 È definito dalla **RFC 1945** e dalla **RFC 2616**. È un protocollo implementato nei programmi:
 
-- **Client HTTP**, dove l’HTTP implementa i messaggi request (richiesta),
-- **Server HTTPd**, dove l’HTTP implementa i messaggi response (risposta).
+- **Client HTTP**, dove l’HTTP implementa i messaggi *request* (richiesta),
+- **Server HTTPd**, dove l’HTTP implementa i messaggi *response* (risposta).
 
 ##### Caratteristiche
 
@@ -12,8 +12,8 @@
 - HTTP è ***pull-based***, perché è il client che richiede i dati al server (pagine web),
 - HTTP è un protocollo ***in-band***, perché invia messaggi di controllo con connessione di trasferimento dati,
 - HTTP è **creato per il trasferimento di pagine web** (ora usato per interfacciare l’utente ad app web, tipo social, giochi, e-commerce…),
-- HTTP **non è sicuro**, manda tutto in chiaro (ma c’è HTTPS con SSL/TLS che ovvia al problema),
-- L’app web è **client/server**; e il web server è installato nell’ISP, è sempre attivo, ha IP fisso e port 80 (well-known),
+- HTTP **non è sicuro**, manda tutto in chiaro (ma c’è HTTPS con [[4 IPsec, TLS e DTLS#TLS|SSL/TLS]] che ovvia al problema),
+- L’app web è **client/server**; e il web server è installato nell’ISP, è sempre attivo, ha <u>IP fisso e port 80</u> (*well-known*),
 - HTTP permette **2** tipi di **connessioni**:
 	- **Non persistenti**, uniche e possibili con **HTTP/1.0** (server HTTP chiude connessione ad ogni oggetto inviato),
 	- **Persistenti**, con **HTTP/1.1** (server HTTP chiude la connessione dopo un certo periodo di inattività).

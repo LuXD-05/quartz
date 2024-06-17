@@ -23,6 +23,8 @@ Francia, Italia e UK si riunirono quindi a Stresa (14 aprile 1935) formando un "
 
 La condanna da parte di UK e Francia dell'iniziativa italiana, ne favorì l'avvicinamento a Berlino (nel 1936 Mussolini dichiara che il "fronte di Stresa" era morto e che l'annessione di Austria a Germania non presentava + un problema).
 
+![](https://i.imgur.com/nLdmy8a.png)
+
 ### La rimilitarizzazione della Renania
 
 (2a infrazione del trattato di Versailles) Hitler quindi approfittò della rottura del fronte per far stanziare, nel 1936, dei reparti militari in Renania (zona interdetta alle truppe tedesche). 
@@ -30,6 +32,8 @@ La condanna da parte di UK e Francia dell'iniziativa italiana, ne favorì l'avvi
 Inglesi e francesi, al tempo, chiusero gli occhi per non riaprire le ostilità coi tedeschi; mentre la società delle nazioni si limitò a denunciare formalmente l'atto.
 
 L'ingresso della ***Wehrmacht*** sulla sinistra del Reno fu accolto con clamore dalla popolazione, anche per il fatto che riprendersi la Ruhr era il fulcro di un'intensa propaganda che faceva leva sulla rivalsa tedesca dopo la "pace punitiva".
+
+![](https://i.imgur.com/jG8Tk5h.png)
 
 ### Il fronte popolare in Francia
 
@@ -84,6 +88,8 @@ Nel 1936, Galeazzo Ciano, genero di Mussolini e ministro degli esteri, stipulò 
 
 Hitler pensava infatti di espandersi verso l'URSS e perciò (sempre nel 1936), per stringere il paese in una sorta di tenaglia,  la Germania firmò col Giappone il **patto Anticomintern**, che prevedeva impegno comune contro l'URSS (nel 1937 l'Italia entra anche in questo).
 
+![](https://i.imgur.com/Vg79Xnt.png)
+
 ### L'annessione dell'Austria e la Germania
 
 Hitler voleva riunire i popoli tedeschi sotto il *Reich* e, alla richiesta del Partito nazista austriaco di fermare i dissidi che lo stesso stava causando, il 12 marzo 1938 la *Wehrmacht* varcò il confine tra l'entusiasmo degli abitanti. L'Austria venne così annessa alla Germania tramite un plebiscito.
@@ -99,6 +105,8 @@ Le altre potenze europee tacquero, in particolare lo UK, che riconobbe l'annessi
 Il premier **Chamberlain** proseguì questa politica detta di ***appeasement*** (accordo) convinto di poter contenere le mire espansionistiche per via diplomatica (contrari a ciò erano pochi, tra cui **Churchill**).
 
 ##### Chamberlain e l'appeasement
+
+![](https://i.imgur.com/6s23BQQ.png)
 
 ### Le rivendicazioni tedesche sui sudeti
 
@@ -128,7 +136,9 @@ Per non essere da meno, in aprile 1939 l'Italia occupò l'Albania senza alcuna g
 
 ### Il patto d'acciaio
 
-Il 22 maggio 1939 l'Italia sottoscrisse con la Germania il **Patto d'acciaio**, che rendeva l'Asse Roma-Berlino un'alleanza militare ed impegnava le potenze ad aiutarsi in caso di conflitto. Mussolini e Ciano erano consapevoli di non essere preparati a una guerra, tuttavia Hitler disse che non aveva intenzione di fare nulla per qualche anno (🧢).
+Il 22 maggio 1939 l'Italia sottoscrisse con la Germania il **Patto d'acciaio**, che rendeva l'Asse Roma-Berlino un'alleanza militare ed impegnava le potenze ad aiutarsi in caso di conflitto. Mussolini e Ciano erano consapevoli di non essere preparati a una guerra, tuttavia Hitler disse che non aveva intenzione di fare nulla per qualche anno.
+
+![](https://i.imgur.com/zrnjRrd.png)
 
 ### Il patto Molotov-Ribbentrop
 

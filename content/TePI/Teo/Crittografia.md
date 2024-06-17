@@ -1,6 +1,8 @@
 # Crittografia
 
-La **crittografia** è la **disciplina che studia le tecniche matematiche per rendere sicuri i dati** in termini di **confidenzialità**, **integrità**, **auth** e **non ripudio**. Strumenti usati sono **cifrari** e funzioni **hash**.
+### Cos'è
+
+La **crittografia** è la **disciplina che studia le tecniche matematiche per rendere sicuri i dati** in termini di **confidenzialità, integrità, auth** e **non ripudio**. Strumenti usati sono **cifrari** e funzioni **hash**.
 
 Il suo **scopo** è **mantenere segrete le info**, trasformando il messaggio originale (in chiaro) in uno cifrato per mezzo di algoritmi di crittografia.
 
@@ -10,7 +12,7 @@ Il suo **scopo** è **mantenere segrete le info**, trasformando il messaggio ori
 
 Gli algoritmi a **crittografia simmetrica** (a **chiave segreta**) sono degli algoritmi noti che prevedono che la **codifica** e la **decodifica** dei **dati** avvengano usando la **stessa chiave** (per questo "chiave **simmetrica**"), detenuta da entrambi gli interlocutori.
 
-<font color="#aaaaaa">(Un messaggio (m) viene crittografato (C) con un algoritmo con chiave (k), ottenendo il messaggio crittografato $D_k(m)$. Questo viene decriptato (D) usando lo stesso algoritmo con la stessa chiave (k), ottenendo il messaggio originale: $D_k(C_k(m))=m)$</font>.
+(Un messaggio (m) viene crittografato (C) con un algoritmo con chiave (k), ottenendo il messaggio crittografato $D_k(m)$. Questo viene decriptato (D) usando lo stesso algoritmo con la stessa chiave (k), ottenendo il messaggio originale: $D_k(C_k(m))=m)$.
 
 ![[Pasted image 20240305192435.png]]
 
@@ -31,7 +33,7 @@ La sicurezza del metodo si basa sul fatto che ricavare la chiave privata dalla c
 
 L'algoritmo **RSA** (Rivest, Shamir, Adleman) si basa sulla teoria di scomposizione in **fattori primi** di un numero e usa sempre una coppia di chiavi generate in modo che sia impossibile ricavare una dall'altra. Pubblicato nel 1978, era considerato sicuro fino a poco tempo fa e prevede 3 passi:
 
-##### Determinazione *kpb* e *kpr*
+##### Determinazione kpb e kpr
 
 Si trovano chiave pubblica e privata in 5 step:
 
@@ -124,7 +126,7 @@ Mentre il **destinatario** dovrebbe:
 
 #### Digest
 
-**Crittografare l'intero messaggio è oneroso e troppo lungo**, perciò si usa il ***digest***: un **riassunto** estratto dal messaggio originale che **crittato va a costituire la firma**. Questo si ottiene applicando funzioni di ***hash*** al messaggio originale, ottenendo quindi una stringa molto **+ corta**, **dipendente da esso** e che **identifica univocamente il documento e il mittente** (siccome è **impossibile modificare il messaggio senza modificarne l'hash**).
+**Crittografare l'intero messaggio è oneroso e troppo lungo**, perciò si usa il ***digest***: un **riassunto** estratto dal messaggio originale che **crittato va a costituire la firma**. Questo si ottiene applicando funzioni di ***hash*** al messaggio originale, ottenendo quindi una stringa molto **+ corta, dipendente da esso** e che **identifica univocamente il documento e il mittente** (siccome è **impossibile modificare il messaggio senza modificarne l'hash**).
 
 ##### Step
 
@@ -170,7 +172,9 @@ Garantisce la **sicurezza** di un collegamento garantendone:
 - **Autenticazione**: l’identità delle connessioni è autenticata con la **crittografia asimmetrica o a key pubblica** (tipo RSA...) così che client sono sicuri di parlare col server giusto (entrambi da certificare).
 - **Affidabilità**: il livello trasporto include un ***integrity check*** del mess basato su un **MAC** (*Message Authentication Code*) che usa funzioni **hash sicure** (SHA, MD5...) per verificare che i dati non siano stati alterati durante la trasmissione.
 
+##### Strati
+
 L'SSL/TLS ha lo scopo di fornire **riservatezza** e **affidabilità** alle comunicazioni. Si compone di 2 strati:
 
-- **SSL Record Protocol** (inferiore), usato per la **trasmissione dei messaggi protetti**,
-- **SSL Handshake Protocol** (superiore), che si **interfaccia sull'SSL Record Protocol e permette a client e server di autenticarsi a vicenda negoziando algoritmi di crittografia e chiavi**.
+- **SSL Record Protocol** (inferiore), usato per la trasmissione dei messaggi protetti,
+- **SSL Handshake Protocol** (superiore), che si interfaccia sull'SSL Record Protocol e permette a client e server di autenticarsi a vicenda negoziando algoritmi di crittografia e chiavi.

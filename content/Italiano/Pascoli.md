@@ -68,3 +68,286 @@ Infine ribadisce come secondo lui sia **sbagliato** il poeta “**vate**” tipo
 
 Questo testo inquadra Myricae in un contesto di lutto e di dolore (per morte Pascoli’s dad). La natura è comunque definita come madre dolcissima che sembra che ci culli e addormenti; quindi vista positivamente come il 1° Leopardi. Nonostante il dolore del lutto, non mancano appelli a felicità, speranza e contentezza che differenziano la poesia di Pascoli dal pessimismo di Leopardi.
 
+# Testi ed estratti
+
+### ?
+
+##### Lampo ?
+
+PARAFRASI
+
+|   |   |
+|---|---|
+|E cielo e terra si mostrò qual era:<br><br>la terra ansante, livida, in sussulto;<br><br>il cielo ingombro, tragico, disfatto:<br><br>bianca bianca nel tacito tumulto<br><br>una casa apparì sparì d’un tratto,<br><br>come un occhio, che, largo, esterrefatto,<br><br>s’aprì si chiuse, nella notte nera.|Cielo e terra si mostrano per ciò che erano:<br><br>la terra affannata, buia, agitata;<br><br>il cielo nuvoloso, cupo, a pezzi:<br><br>nel tumulto silenzioso una casa<br><br>bianchissima apparve e subito scomparve,<br><br>come un occhio che, grande, stupito,<br><br>si aprì e si chiuse, nella notte buia.|
+
+SIGNIFICATO
+
+La luce abbagliante di un lampo mostra la terra e il cielo in una situazione quasi apocalittica, poiché vicini allo scoppio di un temporale. In ciò appare e scompare una casa, illuminata dal lampo, con la stessa velocità con cui un occhio si apre e si chiude nel buio della notte.
+
+ANALISI
+
+Figure di suono
+
+|   |   |
+|---|---|
+|Rime|Tutte|
+|Assonanze|x|
+|Consonanze|x|
+|Onomatopee|x|
+|Allitterazioni|2 (c) – 3 (o)|
+|Paronomasie|x|
+
+Figure sintattiche
+
+|   |   |
+|---|---|
+|Anafore|x|
+|Ellissi|1 - 7|
+|Enumerazioni|x|
+|Anastrofi|x|
+|Ipallage (iperb?)|11 (di foglie un cader fragile)|
+|Chiasmi|1|
+|Enjambements|1, 3, 5, 7|
+
+Figure di significato
+
+|   |   |
+|---|---|
+|Personificazioni|x|
+|Apostrofi|x|
+|Similitudini|x|
+|Metafore|x|
+|Analogie|x|
+|Sinestesie|3 (odorino amaro)|
+|Metonimie|x|
+|Sineddochi|x|
+|Ossimori|11/12 (estate fredda)|
+|Iperboli|x|
+|Litoti|x|
+
+##### Tuono ?
+
+PARAFRASI
+
+|   |   |
+|---|---|
+|E nella notte nera come il nulla,<br><br>a un tratto, col fragor d’arduo dirupo<br><br>che frana, il tuono rimbombò di schianto:<br><br>rimbombò, rimbalzò, rotolò cupo,<br><br>e tacque, e poi rimareggiò rinfranto,<br><br>e poi vanì. Soave allora un canto<br><br>s’udì di madre, e il moto di una culla.|E nella notte nera come il nulla,<br><br>ad un tratto, con il fragore di un dirupo ripido<br><br>che frana, il tuono rimbombò di colpo:<br><br>rimbombò, rimbalzò, rotolò in modo cupo,<br><br>e tacque, e poi risuonò (come un’onda infrantasi sugli scogli),<br><br>e poi svanì. Allora si udì il canto soave<br><br>di una madre, e il movimento di una culla.|
+
+SIGNIFICATO
+
+a
+
+ANALISI
+
+Figure di suono
+
+|   |   |
+|---|---|
+|Rime|Tutte|
+|Assonanze|x|
+|Consonanze|x|
+|Onomatopee|x|
+|Allitterazioni|2 (c) – 3 (o)|
+|Paronomasie|x|
+
+Figure sintattiche
+
+|   |   |
+|---|---|
+|Anafore|x|
+|Ellissi|1 - 7|
+|Enumerazioni|x|
+|Anastrofi|x|
+|Ipallage (iperb?)|11 (di foglie un cader fragile)|
+|Chiasmi|1|
+|Enjambements|1, 3, 5, 7|
+
+Figure di significato
+
+|   |   |
+|---|---|
+|Personificazioni|x|
+|Apostrofi|x|
+|Similitudini|x|
+|Metafore|x|
+|Analogie|x|
+|Sinestesie|3 (odorino amaro)|
+|Metonimie|x|
+|Sineddochi|x|
+|Ossimori|11/12 (estate fredda)|
+|Iperboli|x|
+|Litoti|x|
+
+##### L'assiuolo
+
+PARAFRASI
+
+|   |   |
+|---|---|
+|Dov’era la luna? ché il cielo<br><br>notava in un’alba di perla,<br><br>ed ergersi il mandorlo e il melo<br><br>parevano a meglio vederla.<br><br>Venivano soffi di lampi<br><br>da un nero di nubi laggiù;<br><br>veniva una voce dai campi:<br><br>chiù…|Dov’era la luna? Poiché il cielo<br><br>Nuotava in un’alba bianca (color perla),<br><br>e il mandorlo e il melo sembravano<br><br>ergersi per vederla meglio.<br><br>Dalle nuvole nere laggiù<br><br>Provenivano lampi veloci come soffi;<br><br>Dai campi proveniva una voce:<br><br>chiù…|
+|Le stelle lucevano rare<br><br>tra mezzo alla nebbia di latte:<br><br>sentivo il cullare del mare,<br><br>sentivo un frù frù tra le fratte;<br><br>sentivo nel cuore un sussulto,<br><br>com’eco d’un grido che fu.<br><br>Sonava lontano il singulto:<br><br>chiù…|Le stelle splendevano sparse (poche)<br><br>In una nebbia bianca:<br><br>sentivo l’ondeggiare del mare (come una culla),<br><br>sentivo un fruscio tra i rami(/cespugli);<br><br>sentivo un sussulto nel cuore,<br><br>come l’eco di un grido passato.<br><br>Da lontano risuonava il singhiozzo:<br><br>chiù…|
+|Su tutte le lucide vette<br><br>tremava un sospiro di vento:<br><br>squassavano le cavallette<br><br>finissimi sistri d’argento<br><br>(tintinni a invisibili porte<br><br>che forse non s’aprono più?…);<br><br>e c’era quel pianto di morte…<br><br>chiù…|Su tutte le cime degli alberi illuminate<br><br>Soffiava un leggero vento:<br><br>le cavallette scuotevano (le ali)<br><br>emettendo un suono simile a fini sistri d’argento<br><br>(erano tintinni a porte invisibili<br><br>che forse non si aprono più?…);<br><br>e c’era quel pianto di morte<br><br>chiù…|
+
+SIGNIFICATO
+
+Scritto nel 1897, ogni strofa usa 7 novenari chiusi da una sillaba onomatopeica con schema ABABCDCD.
+
+In uno scenario notturno al chiaro di luna e con rumori lontani, tutto è statico, ma il verso dell’assiuolo, enigmatico e ossessivo, denota una profonda inquietudine, angoscia e altre emozioni legate alla morte (chiù = 2M).
+
+ANALISI
+
+Figure di suono
+
+|   |   |
+|---|---|
+|Rime|Tutte|
+|Assonanze|x|
+|Consonanze|x|
+|Onomatopee|8 – 16 – 24 – 12 (fru fru) – 19 (squassavano)|
+|Allitterazioni|1 (l) – 2 (a) – 2/3/4 (r) – 9 (e) – 10/11 (l) – 12 (f/r) – 13 (s) – 17 (e) – 20 (s/i) – 21 (i)|
+|Paronomasie|x|
+
+Figure sintattiche
+
+|   |   |
+|---|---|
+|Anafore|8 – 16 – 24|
+|Ellissi|x|
+|Enumerazioni|11/12/13|
+|Anastrofi|3 – 21|
+|Iperbati|x|
+|Chiasmi|x|
+|Enjambements|1, 5, 9, 17, 19, 20, 21|
+
+Figure di significato
+
+|   |   |
+|---|---|
+|Personificazioni|7 (voce) – 18 (sospiro)|
+|Apostrofi|x|
+|Similitudini|14|
+|Metafore|2 (alba di perla = chiarore di luna?) – 11 (invisibili porte = porte del regno dei morti) – 23 (pianto di morte = ?)|
+|Analogie|x|
+|Sinestesie|5 (soffi di lampi)|
+|Metonimie|x|
+|Sineddochi|x|
+|Ossimori|x|
+|Iperboli|x|
+|Litoti|x|
+
+##### Novembre
+
+PARAFRASI
+
+|   |   |
+|---|---|
+|Gemmea l’aria, il sole così chiaro<br><br>che tu ricerchi gli albicocchi in fiore,<br><br>e del prunalbo l’odorino amaro<br><br>senti nel cuore...|L’aria è limpida come una gemma e il sole così luminoso (sembra primavera)<br><br>Che tu cerchi gli albicocchi in fiore,<br><br>e senti nel cuore<br><br>l’odore amaro del biancospino…|
+|Ma secco è il pruno, e le stecchite piante<br><br>di nere trame segnano il sereno,<br><br>e vuoto il cielo, e cavo al piè sonante<br><br>sembra il terreno.|Ma il rovo è secco, e le piante spoglie<br><br>Segnano il cielo con una trama nera,<br><br>e il cielo è vuoto, e sembra vuoto il<br><br>terreno ai passi che vi risuonano|
+|Silenzio, intorno: solo, alle ventate,<br><br>odi lontano, da giardini ed orti,<br><br>di foglie un cader fragile. È l’estate,<br><br>fredda, dei morti.|Intorno c’è silenzio: solo, alle ventate,<br><br>senti in lontananza, da giardini e da orti,<br><br>delle foglie fragili che cadono. È l’estate<br><br>fredda, degli amici.|
+
+SIGNIFICATO
+
+Scritto nel 1891 fa parte di Myricae e ha schema ABAB.
+
+Qui viene dipinta da subito una giornata primaverile nella prima strofa che poi però si rivela ingannevole nella seconda, e con la terza che si riferisce a novembre (mese degli amici), pervade il tutto di sensore di 2M.
+
+ANALISI
+
+Figure di suono
+
+|   |   |
+|---|---|
+|Rime|Tutte|
+|Assonanze|x|
+|Consonanze|x|
+|Onomatopee|x|
+|Allitterazioni|2 (c) – 3 (o)|
+|Paronomasie|x|
+
+Figure sintattiche
+
+|   |   |
+|---|---|
+|Anafore|x|
+|Ellissi|1 - 7|
+|Enumerazioni|x|
+|Anastrofi|1 (gemmea l’aria) – 3 – 5 (secco è il pruno / stecchite piante) – 6 (nere trame) – 7 (vuoto il cielo) – 7/8 (cavo…terreno) – 9/10 – 11 (foglie cader)|
+|Ipallage (iperb?)|11 (di foglie un cader fragile)|
+|Chiasmi|1|
+|Enjambements|1, 3, 5, 7|
+
+Figure di significato
+
+|   |   |
+|---|---|
+|Personificazioni|x|
+|Apostrofi|x|
+|Similitudini|x|
+|Metafore|x|
+|Analogie|x|
+|Sinestesie|3 (odorino amaro)|
+|Metonimie|x|
+|Sineddochi|x|
+|Ossimori|11/12 (estate fredda)|
+|Iperboli|x|
+|Litoti|x|
+
+##### X agosto
+
+PARAFRASI
+
+|   |   |
+|---|---|
+|San Lorenzo, Io lo so perché tanto<br><br>di stelle per l’aria tranquilla<br><br>arde e cade, perché sì gran pianto<br><br>nel concavo cielo sfavilla.|San Lorenzo, Io lo so perché così tante<br><br>Stelle brillano e cadono nell’aria<br><br>Tranquilla, perché un pianto così grande<br><br>Risplende nel cielo concavo.|
+|Ritornava una rondine al tetto:<br><br>l’uccisero: cadde tra spini:<br><br>ella aveva nel becco un insetto:<br><br>la cena dei suoi rondinini.|Una rondine stava tornando al tetto:<br><br>Quando la uccisero: e cadde tra (le spine de) i rovi:<br><br>Nel becco aveva un insetto:<br><br>Che era la cena dei suoi rondinini.|
+|Ora è là come in croce, che tende<br><br>quel verme a quel cielo lontano;<br><br>e il suo nido è nell’ombra, che attende,<br><br>che pigola sempre più piano.|Ora è lì come (se fosse) in croce, che porge<br><br>Quel verme al cielo lontano;<br><br>E i suoi piccoli sono nell’ombra, che aspettano,<br><br>e pigolano sempre più piano.|
+|Anche un uomo tornava al suo nido:<br><br>l’uccisero: disse: Perdono;<br><br>e restò negli aperti occhi un grido<br><br>portava due bambole in dono…|Anche un uomo tornava al suo nido:<br><br>Quando lo uccisero: disse: “Vi perdono”;<br><br>e negli occhi aperti restò un grido<br><br>che portava in dono 2 bambole…|
+|Ora là, nella casa romita,<br><br>lo aspettano, aspettano in vano:<br><br>egli immobile, attonito, addita<br><br>le bambole al cielo lontano.|Ora là, nella casa solitaria,<br><br>lo aspettano e aspettano inutilmente:<br><br>lui immobile, stupito, mostra<br><br>le bambole al cielo lontano.|
+|E tu, Cielo, dall’alto dei mondi<br><br>sereni, infinito, immortale,<br><br>oh! d’un pianto di stelle lo inondi<br><br>quest’atomo opaco del Male!|E tu, Cielo infinito e immortale,<br><br>dall’alto dei mondi sereni(/felici),<br><br>oh! Sommergi di un pianto di stelle<br><br>questo frammento oscuro del male|
+
+SIGNIFICATO
+
+Scritto nel 1896, usati decasillabi e novenari con schema ABAB, fa parte di Myricae.
+
+È la notte di San Lorenzo, il 10 agosto 1867, in cui si vedono le stelle cadenti, ma anche quella in cui il padre di Pascoli viene ucciso. Tramite analogie e parallelismi (tipo tra rondine uccisa e padre) è mostrato il dolore del poeta.
+
+ANALISI
+
+Figure di suono
+
+|   |   |
+|---|---|
+|Rime|Tutte|
+|Assonanze|x|
+|Consonanze|x|
+|Onomatopee|12 (pigola)|
+|Allitterazioni|17 (a)|
+|Paronomasie|x|
+
+Figure sintattiche
+
+|   |   |
+|---|---|
+|Anafore|9/17 (?)x|
+|Ellissi|x|
+|Enumerazioni|22|
+|Anastrofi|5 – 15 (aperti occhi …) – 23/24|
+|Iperbati|x|
+|Chiasmi|x|
+|Enjambements|1, 2, 3, 9, 19, 21, 23|
+
+Figure di significato
+
+|   |   |
+|---|---|
+|Personificazioni|1 (San Lorenzo) – 21 (Cielo) – 24 (Male)|
+|Apostrofi|1 (San Lorenzo) - 21 (Cielo)|
+|Similitudini|9|
+|Metafore|23 (pianto di stelle = ?) – 24 (atomo opaco del male = ?)|
+|Analogie|x|
+|Sinestesie|15 (occhi…grido)|
+|Metonimie|11/12 (nido…pigola) – 13 (nido)|
+|Sineddochi|5 (tetto) -|
+|Ossimori|x|
+|Iperboli|x|
+|Litoti|x|

@@ -24,7 +24,11 @@ Nella RSI si affermò presto una linea filonazista, che portò all'inasprimento 
 
 Fu anche proclamata la coscrizione obbligatoria ma moltissimi si rifiutarono, quindi il governo reagì con la caccia ai renitenti (chi si rifiuta di obbedire a una legge), che venivano fucilati. Analoga sorte ebbe il tentativo di arruolare 700000 italiani nei campi tedeschi, di cui solo il 2% aderì e col tempo disertò sempre di +.
 
+![](https://i.imgur.com/wXjVFn9.png)
+
 ##### La propaganda della RSI
+
+![](https://i.imgur.com/DZtxXaK.png)
 
 ### Antifascismo e resistenza
 
@@ -52,12 +56,16 @@ Un ruolo lo ebbero anche le donne: parteciparono alla lotta armata, costruirono 
 
 ##### Le donne
 
+![](https://i.imgur.com/1j0XEt2.png)
+
 ### Neofascismo di Salò e lotta partigiana
 
 Dall'armistizio ad aprile 1945 l'Italia fu spaccata in 2 tra i neofascisti della RSI e i partigiani della resistenza. La contrapposizione si tradusse in guerra civile lasciando però fuori una "**[[12) L'Italia dopo l'armistizio#Zona grigia|zona grigia]]**" che non si schierava da nessuna delle 2 parti. Comunque:
 
 - Quelli a favore della RSI aderivano al regime autoritario fascista e, per l'"onore dell'Italia" erano fedeli ai tedeschi, volevano difendere la patria dagli invasori alleati e scongiurare la "minaccia bolscevica".
 - Quelli che scelsero la resistenza invece, pensavano che il paese si sarebbe potuto riscattare solo liberandosi dal nazifascismo e realizzando un nuovo ordine politico democratico.
+
+![](https://i.imgur.com/O0FLbQb.png)
 
 > [!important] Zona grigia
 > Espressione usata da Primo Levi nel saggio *I sommersi e i salvati* del 1986 che identifica comportamenti al di fuori della contrapposizione fascismo-antifascismo ma identificabili nell'[[11) La seconda Guerra Mondiale#L'attendismo|attendismo]] e nel disimpiego.
@@ -81,6 +89,8 @@ Questi erano organismi politici non solo contro il nazifascismo, ma anche contro
 
 ##### Il CLN
 
+![](https://i.imgur.com/VqmPBV4.png)
+
 ### Il ruolo politico dei CLN
 
 L'azione dei CLN risentì fin da subito di una certa debolezza politica per vari motivi:
@@ -93,6 +103,8 @@ L'azione dei CLN risentì fin da subito di una certa debolezza politica per vari
    - Il Partito d'Azione invece li considerava come una nuova forma di organizzazione politica su cui basare il futuro stato italiano.
 
 ##### I Monuments Men
+
+![](https://i.imgur.com/KMcZJhV.png)
 
 # Dallo sbarco di Anzio alla Liberazione
 
@@ -108,6 +120,8 @@ La città e l'abbazia di Montecassino, dove gli alleati credevano fossero annida
 
 ##### La distruzione di Cassino
 
+![](https://i.imgur.com/eDLILA2.png)
+
 ##### Le paludi e la malaria
 
 ### La liberazione di Firenze
@@ -115,6 +129,8 @@ La città e l'abbazia di Montecassino, dove gli alleati credevano fossero annida
 A fine luglio 1944 gli alleati raggiunsero Firenze ed in 1 mese la liberarono anche grazie all'insurrezione urbana organizzata dal CLN (11 agosto) a cui parteciparono i partigiani. (Qui per la 1a volta gli alleati trovarono un effettivo organismo di governo antifascista).
 
 L'avanzata quindi proseguì liberando la Toscana, mentre ad est si era giunti a Pesaro; ma il fronte si arrestò nuovamente.
+
+![](https://i.imgur.com/LMt9YKx.png)
 
 ### La linea gotica
 
@@ -124,6 +140,8 @@ Mentre gli alleati da inizio ad aprile 1945 facevano brevi attacchi, i tedeschi 
 
 - Scarsità di approvvigionamenti dalla Germania,
 - Controffensive e rivolte partigiane nelle retrovie (i partigiani avevano rischiato di disgregarsi nell'inverno del 1944 per la mancanza di risorse e per gli scontri interni).
+
+![](https://i.imgur.com/l38JbuG.png)
 
 ### La "svolta di Salerno"
 
@@ -141,6 +159,8 @@ La promessa bastò a sbloccare il tutto; infatti il 24 aprile 1945 nacque a Sale
 
 Il 5 giugno 1945 Umberto successe al padre assumendo la luogotenenza del regno e Badoglio si dimise venendo sostituito da Bonomi.
 
+![](https://i.imgur.com/ANOZMSu.png)
+
 ### La liberazione
 
 Il 21 aprile 1945 gli alleati sfondarono la linea Gotica e mentre gli inglesi andavano verso Bologna, gli statunitensi salivano da ovest; tutti sempre supportati dai partigiani nelle retrovie delle città occupate.
@@ -148,6 +168,8 @@ Il 21 aprile 1945 gli alleati sfondarono la linea Gotica e mentre gli inglesi an
 Il 25 aprile 1945 fu proclamata l'insurrezione generale per tutti gli uomini della resistenza e tante metropoli del nord furono liberate. Mentre tentava la fuga in Svizzera, Mussolini fu catturato a Dongo (lago di Como) dai partigiani e venne fucilato con altri repubblichini il 28 aprile.
 
 Il 29 i tedeschi firmarono la resa (anche se si continuò fino al 2 maggio). In Italia, complessivamente, erano morti + di 300000 alleati, + di 500000 tedeschi e + di 200000 civili italiani.
+
+![](https://i.imgur.com/bSdBHXh.png)
 
 # L'Italia sotto l'occupazione tedesca
 
@@ -168,6 +190,8 @@ Ciò comportò vari massacri di italiani, tra cui a Roma l'eccidio delle Fosse a
 
 Spietata fu la reazione nei confronti delle "repubbliche partigiane" (una 20ina di zone ribellatesi al nazifascismo nel 1944, cadute tutte entro dicembre) al loro stroncamento, risultando in dure rappresaglie (azioni punitive operate da potenze militari ai danni di civili in seguito ad un danno subito, intese come rivalsa) a opera di tedeschi e repubblichini delle Brigate nere della RSI.
 
+![](https://i.imgur.com/w17IMCZ.png)
+
 ##### La strage di Marzabotto
 
 ### Il bilancio
@@ -187,6 +211,8 @@ La popolazione (soprattutto rurale) era particolarmente avversa agli italiani a 
 
 Quindi, con il crollo militare dell'Italia e la rivolta della popolazione rurale croata, dall'autunno del 1943 l'essere italiano iniziò ad essere equivalente ad essere fascista; perciò, + di 500 italiani (stimati) furono assassinati dopo processi sommari venendo buttati nelle ***foibe*** (profonde cavità naturali nei terreni carsici istriani) per impedirne l'identificazione.
 
+![](https://i.imgur.com/BMIPHHQ.png)
+
 ### L'occupazione tedesca e La risiera di San Sabba
 
 Con l'occupazione tedesca e la formazione del "Litorale adriatico", come detto [[11) La seconda Guerra Mondiale#L'offensiva nei Balcani|qui]], iniziarono in questa zona diversi massacri e deportazioni ad opera dei nazifascisti. In particolare nella Riviera di San Sabba venne istituito un campo di concentramento e sterminio dove, oltre ad ebrei, morirono anche partigiani iugoslavi.
@@ -198,6 +224,8 @@ Con la fine dell'occupazione tedesca, le violenze degli uomini di Tito contro gl
 Tra maggio e giugno 1945, durante l'occupazione iugoslava di Trieste e Gorizia, si succedettero arresti arbitrari, deportazioni ed esecuzioni sommarie. Si calcola che le vittime tra Venezia Giulia e Zara siano intorno alle 5000, tra infoibati (talora ancora in vita) e prigionieri nei campi iugoslavi.
 
 Gli alleati non intervennero fino alla conclusione delle trattative con Tito. il 12 giugno 1945 gli iugoslavi abbandonarono Trieste, Gorizia e Pola (che diventavano parte di una zona sotto controllo alleato), ma non Istria e Fiume.
+
+![](https://i.imgur.com/Myu21qh.png)
 
 ### I profughi Giuliani e Dalmati
 

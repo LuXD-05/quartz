@@ -16,9 +16,9 @@ Nel 1887 *Rime nuove*, nel 1890 nominato senatore nel 1896 1° Nobel letteratura
 
 ### Classicismo moderno
 
-Carducci propone un ritorno ai **classici**, comprendente oltre alla **forma**, anche la **passione civile**. Il suo **classicismo** è **vario** siccome **non ignora i temi romantici** (es: rivalutazione medioevo) e **richiama** all’attualità **elementi** **del** **passato**. Secondo lui la storia ha i **modelli di vigore morale** ignorati dai moderni che possono ispirare l’Italia (part. da **metrica**).
+Carducci propone un ritorno ai **classici**, comprendente oltre alla **forma**, anche la **passione civile**. Il suo **classicismo** è **vario** siccome **non ignora i temi romantici** (es: rivalutazione medioevo) e **richiama** all’attualità **elementi del passato**. Secondo lui la storia ha i **modelli di vigore morale** ignorati dai moderni che possono ispirare l’Italia (part. da **metrica**).
 
-Si dice che il suo sia un **classicismo romantico** siccome da voce alle emozioni tipo: **amore**, **nostalgia** del passato, dolore del **lutto**… In realtà è + **moderno**, perché unisce elementi classici con innovazioni suo tempo.
+Si dice che il suo sia un **classicismo romantico** siccome da voce alle emozioni tipo: **amore, nostalgia** del passato, dolore del **lutto**… In realtà è + **moderno**, perché unisce elementi classici con innovazioni suo tempo.
 
 Nonostante ciò, lui si professa sempre **contro il romanticismo** (quindi solo sotto certi aspetti?), per questi motivi:
 

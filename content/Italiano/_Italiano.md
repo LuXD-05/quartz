@@ -17,6 +17,7 @@
 
 ### Autori
 
+- [[Foscolo]]
 - [[Leopardi]]
 - [[Carducci]]
 - [[Capuana]]

@@ -20,13 +20,13 @@ La classe dirigente liberale pensava di poter sfruttare il movimento, per cui Gi
 
 Il successivo governo **Bonomi** però, si pose come obiettivo l'<u>arginare la violenza squadrista</u>; tuttavia Mussolini intendeva usare le squadre d'azione ponendole sotto controllo.
 
-Nel novembre **1921** quindi, Mussolini trasformò i **fasci** nel nuovo **PNF** (**Partito Nazionale Fascista**) che risultò subito il **1° partito italiano** forte di oltre **200000 iscritti**. 
+Nel novembre **1921** quindi, Mussolini trasformò i **fasci** nel nuovo **PNF** (**Partito Nazionale Fascista**) che risultò subito il **1° partito italiano** forte di oltre **200000 iscritti**.
 
 Questo permise al **Duce** (dal latino *dux*: guida, condottiero; evidenzia il ruolo di capo di Mussolini e si rifà ai fasti dell'antica Roma) di condurre la sua politica del "**doppio binario**": da un lato <u>violenza armata</u> e dall'altro <u>politica parlamentare</u>.
 
 ### Verso l'eclissi dello stato liberale
 
-Le violenze squadriste continuavano e in politica nessuno riusciva ad accordarsi per fronteggiare il fenomeno. Si mobilitarono quindi i **sindacati**, che nell'agosto 1922 proclamarono uno "**sciopero generale legalitario**" che però riscontrò scarsa partecipazione. 
+Le violenze squadriste continuavano e in politica nessuno riusciva ad accordarsi per fronteggiare il fenomeno. Si mobilitarono quindi i **sindacati**, che nell'agosto 1922 proclamarono uno "**sciopero generale legalitario**" che però riscontrò scarsa partecipazione.
 
 Le **"squadracce" fasciste** annientarono l'ultima resistenza del movimento operaio e con ciò il fascismo era riuscito a porre le basi per un controllo del paese, potendo contare sul favore dei gradi alti, dei militari e della chiesa. A quel punto Mussolini <u>abbandonò l'indirizzo repubblicano</u>.
 
@@ -34,11 +34,15 @@ Nel mentre il partito **socialista** era stato ulteriormente indebolito dall'esp
 
 ### La marcia su Roma e il 1° governo Mussolini
 
-Notorio fu poi il **discorso di Mussolini a Napoli del 24 ottobre 1922**, in cui annunciò: "*O ci daranno il governo, o lo prenderemo calando su Roma*", con seguente organizzazione del piano, che prevedeva l'assalto alle prefetture dell'Italia centro-nord e la "**marcia**" **verso la capitale**. Questo venne attuato il **28 ottobre 1922**, quando **25000 camicie nere** (fascisti) armate come potevano si diressero verso **Roma**. Ovviamente avrebbero perso contro uno schieramento militare, ma Vittorio Emanuele III decise di **non firmare il decreto per lo stato d'assedio** emanato da **Facta**, con conseguente dimissione del governo.
+Notorio fu poi il **discorso di Mussolini a Napoli del 24 ottobre 1922**, in cui annunciò: "*O ci daranno il governo, o lo prenderemo calando su Roma*", con conseguente organizzazione del piano, che prevedeva l'assalto alle prefetture dell'Italia centro-nord e la "**marcia**" **su Roma**.
 
-Allora si inserì **Mussolini**, il quale, grazie alle pressioni che poté esercitare con le squadre fuori Roma, "**vinse**" le **trattative** e il 29 ottobre ricevette dal re l'icarico di formare un nuovo governo. <u>Questo</u> + l'<u>ingresso delle squadre a Roma</u> senza scontri e la <u>lista dei ministri</u> che Mussolini sottopose al <u>re</u> non appena salito al Quirinale, segnarono la <u>fine dell'Italia liberale</u>.
+Ciò avvenne il **28 ottobre 1922**, quando **25000 camicie nere** (fascisti) + o - armate marciarono su **Roma**. Ovviamente avrebbero perso contro uno schieramento militare, ma Vittorio Emanuele III decise di **non firmare il decreto per lo stato d'assedio** emanato da **Facta**, con conseguente dimissione del governo.
 
-Tuttavia, nonostante fosse vero che la sopravvivenza del parlamento ormai dipendeva dal **Duce**, è anche vero che il 1° governo fascista era un **governo di coalizione** (con liberali, conservatori, popolari e democratici); inoltre l'ampio voto di fiducia dato a questa soluzione extra-costituzionale rendeva evidente come tutti la vedessero come l'**unica via d'uscita** dalla paralisi del sistema politico.
+Allora si inserì **Mussolini**, il quale, grazie alle pressioni che poté esercitare con le squadre fuori Roma, "**vinse**" le **trattative** e il 29 ottobre ricevette dal re l'incarico di formare un nuovo governo.
+
+<u>Questo</u> + l'<u>ingresso delle squadre a Roma</u> senza scontri e la <u>lista dei ministri</u> che Mussolini sottopose al <u>re</u> non appena salito al Quirinale, segnarono la <u>fine dell'Italia liberale</u>, però il 1° governo fascista era comunque un **governo di coalizione** (con liberali, conservatori, popolari e democratici).
+
+Inoltre l'ampio voto di fiducia dato a questa soluzione extra-costituzionale rendeva evidente come tutti la vedessero come l'**unica via d'uscita** dalla paralisi del sistema politico.
 
 ### I primi passi di Mussolini al potere
 
@@ -54,11 +58,15 @@ Successivamente venne elaborata una **legge elettorale** che prevedeva:
 - L'istituzione di un **collegio unico nazionale** (si calcolano i voti raccolti sull'intero territorio nazionale),
 - L'assegnazione di un **premio di maggioranza** (ovvero garanzia di **maggioranza assoluta** al partito che supera un certo *quorum* %) con **2/3 dei seggi** in Camera, alla lista con **+ del 25% dei voti** (**legge Acerbo** luglio **1923**).
 
-Alle elezioni in aprile **1924**, i fascisti si presentarono a capo del "**listone nazionale**", comprendente anche **liberali** e **cattolici** conservatori, riuniti sotto il **fascio littorio** (fascio di bastoni di legno e una scure legati da strisce di cuoio, simbolo del fascismo). Il listone conquistò il **64,9%** dei voti e 374 su 533 seggi totali (rendendo superflua la legge Acerbo) a causa delle numerose <u>aggressioni e intimidazioni dei fascisti nei confronti dell'opposizione</u>, che **compromisero la libertà di voto**.
+Alle elezioni in aprile **1924**, i fascisti si presentarono a capo del "**listone nazionale**", comprendente anche **liberali** e **cattolici** conservatori, riuniti sotto il **fascio littorio** (fascio di bastoni di legno e una scure legati da strisce di cuoio, simbolo del fascismo).
+
+Il listone conquistò il **64,9%** dei voti e 374 su 533 seggi totali (rendendo superflua la legge Acerbo) a causa delle numerose <u>aggressioni e intimidazioni dei fascisti nei confronti dell'opposizione</u>, che **compromisero la libertà di voto**.
 
 ### Il delitto Matteotti e la "secessione dell'Aventino"
 
-Il **30 maggio 1924** (apertura Camera), **Matteotti** pronunciò una dura **requisitoria** contro il presidente del consiglio, denunciando <u>violenze, brogli e irregolarità compiuti dai fascisti</u> durante le votazioni e concluse chiedendo l'<u>annullamento delle elezioni</u>. Il **10 giugno Matteotti** venne **rapito da** degli **squadristi** e il suo cadavere fu ritrovato il 16 agosto a pochi km da Roma. L'**assassinio** ebbe un pesante impatto sull'opinione pubblica e, oltre che dallo sdegno, il paese fu pervaso da manifestazioni antifasciste tanche che il regime sembrava star per crollare.
+Il **30 maggio 1924** (apertura Camera), **Matteotti** pronunciò una dura **requisitoria** contro il presidente del consiglio, denunciando <u>violenze, brogli e irregolarità compiuti dai fascisti</u> durante le votazioni e concluse chiedendo l'<u>annullamento delle elezioni</u>.
+
+Il **10 giugno Matteotti** venne **rapito da** degli **squadristi** e il suo cadavere fu ritrovato il 16 agosto a pochi km da Roma. L'**assassinio** ebbe un pesante impatto sull'opinione pubblica e, oltre che dallo sdegno, il paese fu pervaso da manifestazioni antifasciste tanto che il regime sembrava stesse per crollare.
 
 Alla Camera l'opposizione si compatto finalmente sotto **Amendola** e avvenne la "**secessione dell'Aventino**", ovvero la dichiarazione di astenersi dai lavori parlamentari e riunirsi altrove (che tuttavia non si trasformò mai in un'azione politica concreta).
 
@@ -72,11 +80,13 @@ L'<u>indecisione dell'opposizione</u> e la sua <u>assenza a Montecitorio</u> con
 
 ### La svolta del 1925 e le leggi "fascistissime"
 
-Nei 2 giorni successivi al discorso del 3 gennaio le <u>violenze squadriste dilagarono</u> e vennero emanati dei **provvedimenti** repressivi che chiusero le associazioni antifasciste e arrestarono quelli considerati "pericolosi". La svolta autoritaria si ebbe poi con le **leggi "fascistissime"**, grande passo verso la fascistizzazione dello stato, con cui:
+Dopo il discorso del 3 gennaio le <u>violenze squadriste dilagarono</u> e vennero emanati dei **provvedimenti** repressivi che chiusero le associazioni antifasciste e arrestarono quelli considerati "pericolosi".
+
+La svolta autoritaria si ebbe poi con le **leggi "fascistissime"**, grande passo verso la fascistizzazione dello stato, con cui:
 
 - La 1a legge dava ampissimi **poteri al capo di governo** (nuovo nome del presidente del consiglio), che non rispondeva + al parlamento ma solo al **re** e a cui dovevano rispondere i ministri.
 - Una 2a legge poi **rafforzò il governo**, abilitato ora a promulgare **leggi senza** riferirle al **parlamento**.
-- Venne abolito il carattere elettivo delle istituzioni locali, istituendo il **podestà** (già apparsi nell'epoca comunale, i podestà erano esterni che governavano un comune in caso di oscillazioni politiche causate da scontri tra fazioni interne); vi confluivano i poteri di sindaci, giunte e consigli comunali.
+- Venne abolito il <u>carattere elettivo delle istituzioni locali</u>, istituendo il **podestà** (già apparsi nell'epoca comunale, i podestà erano esterni che governavano un comune in caso di oscillazioni politiche causate da scontri tra fazioni interne); vi confluivano i poteri di sindaci, giunte e consigli comunali.
 - I poteri dei **prefetti** (che amministravano province) vennero **rafforzati**.
 
 Mussolini non volle <u>mai entrare in conflitto col re</u> per mantenere il comando sull'**esercito** e le prerogative in politica **estera**, ma dal canto suo il re si attenne sempre a una regola di scrupoloso riserbo.
@@ -90,11 +100,14 @@ In quel tempo la libertà di espressione non era ancora stata soffocata completa
 Nella concezione fascista dello stato, il **sistema produttivo** <u>non doveva essere ostacolato</u> da <u>dissidi tra lavoratori e padronato</u>, i quali avrebbero dovuto trovare una conciliazione con mediazione dello stato, secondo i principi del [[8) Il regime fascista di Mussolini#Corporativismo|corporativismo]]; per cui venne emanata nel **1926** la **legge sindacale**, che stabilì:
 
 - La **soppressione del libero sindacato**, sostituito dal **sindacato fascista** (poi riconosciuto come organo statale e reso obbligatorio per i lavoratori iscriversi a quello del proprio settore).
-- La **soppressione del diritto di sciopero** e della **serrata** (), che divennero **reati**; mentre la soluzione delle controversie tra lavoratori e datori veniva affidata a una Magistratura del Lavoro. Venne poi proibita la festa del 1° maggio e la CGdL si sciolse infine nel 1927.
+- La **soppressione del diritto di sciopero** e della **serrata** ([[6) L'URSS e le ripercussioni in Europa#Agitazioni operaie a nord|vedi qui]]), che divennero **reati**; mentre la soluzione delle controversie tra lavoratori e datori veniva affidata a una <u>Magistratura del Lavoro</u>.
+- (Venne poi proibita la festa del 1° maggio e la CGdL si sciolse infine nel 1927).
 
 ##### Corporativismo
 
-Il termine indica una visione dei rapporti di lavoro basata sulle **corporazioni**, ovvero associazioni professionali con fini sindacali, previdenziali, civili ed economici. Queste erano diffuse ad ogni settore produttivo nel Basso Medioevo e svolgevano importanti funzioni politiche. Col tempo però queste divennero troppo rigide e furono rese obsolete dal libero mercato.
+Il termine indica una visione dei rapporti di lavoro basata sulle **corporazioni**, ovvero associazioni professionali con fini sindacali, previdenziali, civili ed economici.
+
+Queste erano diffuse ad ogni settore produttivo nel Basso Medioevo e svolgevano importanti funzioni politiche. Col tempo però queste divennero troppo rigide e furono rese obsolete dal libero mercato.
 
 La legge sindacale del 1926 proponeva un ritorno a un sistema simile, ma le corporazioni fasciste troveranno concreta attuazione solo nel 1934.
 
@@ -102,25 +115,27 @@ La legge sindacale del 1926 proponeva un ritorno a un sistema simile, ma le corp
 
 A seguito di alcuni **attentati falliti contro Mussolini**, il governo impose delle norme che diedero al regime un carattere **totalitario**:
 
-- Inasprite le pene contro le emigrazioni clandestine e annullati i passaporti,
-- Istituito il confino politico (una sorta di arresti domiciliari, in pratica imponeva l'obbligo di soggiorno in un comune diverso da quello di residenza) per chi avesse anche solo manifestato di sovvertire il regime,
-- Soppressa la libertà di stampa (e soppressi giornali antifascisti),
-- Sciolto ogni partito, associazione e organizzazione non fascista,
-- Estromessi dal parlamento i 122 deputati che avevano aderito alla secessione dell'Aventino.
+- Inasprite le <u>pene contro le emigrazioni</u> clandestine e <u>annullati i passaporti</u>,
+- Istituito il **confino politico** (una sorta di arresti domiciliari, in pratica imponeva l'obbligo di soggiorno in un comune diverso da quello di residenza) per chi avesse anche solo manifestato di sovvertire il regime,
+- Soppressa la <u>libertà di stampa</u> (e soppressi giornali antifascisti),
+- Sciolto ogni partito, associazione e organizzazione <u>non fascista</u>,
+- Estromessi dal parlamento i 122 deputati che avevano aderito alla <u>secessione dell'Aventino</u>.
 
 Inoltre:
 
-- Con le "leggi di Pubblica sicurezza" venne ampliato il potere repressivo delle forze dell'ordine, a cui si aggregarono corpi come l'**OVRA** (Opera Volontaria per la Repressione dell'Antifascismo) e la **MVSN** (Milizia Volontaria per la Sicurezza nazionale) formata da ex squadristi.
-- Venne reintrodotta la pena di morte,
-- Venne istituito il Tribunale speciale per la difesa dello stato, per giudicare i reati politici, le cui sentenze erano di immediata esecuzione e inappellabili.
+- Con le "**leggi di Pubblica sicurezza**" venne ampliato il potere repressivo delle forze dell'ordine, a cui si aggregarono corpi come l'**OVRA** (Opera Volontaria per la Repressione dell'Antifascismo) e la **MVSN** (Milizia Volontaria per la Sicurezza nazionale) formata da ex squadristi.
+- Venne reintrodotta la **pena di morte**,
+- Venne istituito il <u>Tribunale speciale per la difesa dello stato</u>, per giudicare i reati politici, le cui sentenze erano di immediata esecuzione e inappellabili.
 
 ### Il plebiscito del 1929
 
-Nel **1928** venne varata una riforma elettorale con cui gli elettori furono chiamati ad <u>approvare o respingere una lista unica nazionale</u> di 400 candidati del **Gran Consiglio del fascismo**. 
+Nel **1928** venne varata una <u>riforma elettorale</u> con cui gli elettori furono chiamati ad <u>approvare o respingere una lista unica nazionale</u> di 400 candidati del **Gran Consiglio del fascismo**.
 
 Per questo, la consultazione del 1929 assunse i caratteri di un vero e proprio **plebiscito**, ma il problema (oltre ai soliti **soprusi** dei fascisti) era il fatto che il **voto non era + segreto** dato che le schede del "si" e del "no" erano di **colore diverso** e chi sceglieva il "**no**" era vittima di **violenze**.
 
-Queste "elezioni-farsa" registrarono un'affluenza pari al 90% degli aventi diritto al voto e attribuirono il 98% dei consensi alla lista unica. Nel 1930 la Camera dei deputati venne trasformata nella **Camera dei fasci e delle corporazioni**. Per il Senato del Regno (fatto nel 1861, conteneva senatori a vita scelti dal re) invece, non ci furono cambiamenti in quanto Mussolini non lo considerava una minaccia.
+Queste "elezioni-farsa" registrarono un'affluenza pari al 90% degli aventi diritto al voto e attribuirono il 98% dei consensi alla lista unica. Nel 1930 la Camera dei deputati venne trasformata nella **Camera dei fasci e delle corporazioni**.
+
+Per il Senato del Regno (fatto nel 1861, conteneva senatori a vita scelti dal re) invece, non ci furono cambiamenti in quanto Mussolini non lo considerava una minaccia.
 
 # L'organizzazione del consenso della repressione del dissenso
 

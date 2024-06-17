@@ -16,7 +16,7 @@ Il **crollo** di una miniera di **zolfo** acquistata grazie alla moglie rende cr
 
 ### L'attività teatrale
 
-Gli anni della **WWI** sono difficili per la salute della moglie sempre + precaria e il figlio Stefano fatto prigioniero degli austriaci; ma comunque Pirandello continua a comporre con *Si gira...* (1915, poi ***Quaderni di Serafino Gubbio operatore***), con le opere teatrali della raccolta ***Maschere nude*** del **1918** (*Pensaci Giacomino!*, *così è (se vi pare)*, *Il berretto a sonagli*, *Il piacere dell'onestà* e *Il giuoco delle parti*) e con ***Novelle per un anno*** (1922).
+Gli anni della **WWI** sono difficili per la salute della moglie sempre + precaria e il figlio Stefano fatto prigioniero degli austriaci; ma comunque Pirandello continua a comporre con *Si gira...* (1915, poi ***Quaderni di Serafino Gubbio operatore***), con le opere teatrali della raccolta ***Maschere nude*** del **1918** (*Pensaci Giacomino!*, *così è (se vi pare)*, *Il berretto a sonagli*, *Il piacere dell'onestà* e *Il giuoco delle parti*) e con ***Novelle per un anno*** (1922). 
 
 La sperimentazione teatrale culmina con ***Sei personaggi in cerca d'autore*** nel 1921 che a Roma provoca scandalo ma sarà un successo a Milano. I ***Sei personaggi*** + ***Ciascuno a modo suo*** (1924) + ***Questa sera si recita a soggetto*** (1930), formeranno la **trilogia del "teatro nel teatro"**.
 

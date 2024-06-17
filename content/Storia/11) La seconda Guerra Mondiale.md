@@ -12,6 +12,8 @@ Il 27 settembre 1939 Varsavia capitolò e, col governo rifugiatosi a Londra, i t
 
 a
 
+![](https://i.imgur.com/uYysI2j.png)
+
 ### L'occupazione sovietica della Polonia orientale
 
 Al contempo i sovietici (per il [[10) Verso la WWII#Il patto Molotov-Ribbentrop|patto Molotov-Ribbentrop]]) occuparono l'est del paese sopprimendo le opposizioni ed arrivando ad eliminare + di 20000 polacchi, deportandoli nei *gulag*, fucilandoli e buttando i corpi in fosse comuni nella foresta di Katyn.
@@ -32,6 +34,8 @@ Nonostante la dichiarazione di guerra, Francia e UK non avevano intrapreso offen
 
 Nel maggio 1940 Hitler fece passare l'esercito per Belgio, Olanda e Lussemburgo (neutrali), aggirando la linea Maginot ed entrando in Francia nel punto + trascurato dai nemici: il massiccio delle Ardenne, considerato una barriera naturale e non fortificato.
 
+![](https://i.imgur.com/YFqfcwz.png)
+
 ### Il crollo della Francia
 
 Sempre con la "guerra lampo", i tedeschi accerchiarono gli avversari nel nord della Francia e a fine maggio 1940, per sfuggire alla *Wehrmacht*, migliaia di soldati si imbarcarono dal porto di Dunkerque verso per lo UK protetti dalla sua marina e aviazione.
@@ -42,6 +46,8 @@ Da giugno l'offensiva riprese verso sud, arrivando ad occupare Parigi (14 giugno
 
 Fu scelto il vagone in cui finì la WWI perché, per Hitler e i tedeschi, essere riusciti a riscattarsi (dalle condizioni umilianti imposte alla Germania) aveva valore simbolico, tanto che Hitler fece poi portare il vagone a Berlino e lo espose come trofeo di guerra.
 
+![](https://i.imgur.com/E5VKpgA.png)
+
 ### Il governo di Vichy
 
 La Francia venne quindi divisa in 2 parti:
@@ -50,6 +56,8 @@ La Francia venne quindi divisa in 2 parti:
 - Il resto (centro-sud) fu affidato al governo "fantoccio" di Vichy (a cui furono concesse le colonie e la flotta però in disarmo).
 
 Il nuovo governo era supportato da antiliberali, antidemocratici e antisocialisti favorevoli a un regime collaborazionista vicino a quello nazista; tuttavia non tutti i francesi si arresero: il generale De Gaulle, rifugiatosi in UK, esortò i connazionali a resistere ai tedeschi da Radio Londra.
+
+![](https://i.imgur.com/cSLUlpw.png)
 
 ###### Radio Londra
 
@@ -63,6 +71,8 @@ All'invasione della Polonia, l'Italia era del tutto impreparata alla guerra e in
 - Poteva evitare che Hitler avesse mano libera nel dettare le condizioni di pace finendo per schiacciare l'Italia.
 
  Così, il 10 giugno 1940 a Roma, Mussolini annunciò l'ingresso dell'Italia in guerra contro Francia e UK. Con un esercito di quasi 2 milioni di uomini gli italiani attaccarono i francesi poco prima della resa e il 24 giugno la Francia firmò un armistizio anche con l'Italia con cui essa otteneva una striscia di confine smilitarizzata per 50km (sebbene vittoria poco significativa).
+
+![](https://i.imgur.com/w2tth9J.png)
 
 ### La battaglia d'Inghilterra
 
@@ -79,6 +89,8 @@ Dato che il fronte interno e l'efficienza degli apparati industriali/militari no
 
 ##### I bombardamenti sulle città
 
+![](https://i.imgur.com/jUQhNv4.png)
+
 ### La guerra parallela in Africa
 
 Nel mentre, convinto del successo tedesco contro gli inglesi, Mussolini pensò di fare una "guerra parallela" a quella tedesca contro lo UK nel mediterraneo e in Africa per avere un ruolo nei trattati di pace ed avere una zona d'influenza.
@@ -86,6 +98,8 @@ Nel mentre, convinto del successo tedesco contro gli inglesi, Mussolini pensò d
 In una 1a fase (agosto - settembre 1940), l'Italia attaccò gli inglesi a Malta, in Sudan, in Somalia e poi ad Alessandria d'Egitto con un'offensiva condotta dal generale Graziani dalla Libia. Nel dicembre 1940 però gli inglesi contrattaccarono e giunsero a conquistare l'intera Cirenaica (est Libia); ciò dimostrava l'impreparazione dell'esercito italiano.
 
 Successivamente però, nel marzo 1941, Hitler inviò in Libia l'*Afrikakorps* capeggiato da Rommel che, con un'abile guerra di movimento, cacciò gli inglesi dalla Libia. In Africa orientale però, per la mancanza di contingenti tedeschi, gli italiani si arresero schiacciati dagli avversari nel maggio 1941.
+
+![](https://i.imgur.com/gPsMZss.png)
 
 ### L'offensiva nei Balcani
 
@@ -96,7 +110,11 @@ Nell'aprile 1941, reparti della *Wehrmacht* intervennero in Iugoslavia e Grecia 
 - La Iugoslavia firmò l'armistizio il 17 cessando di essere uno stato indipendente e perdendo i territori di Slovenia, Montenegro e Croazia (poi i territori delle foibe, siccome la fascistizzazione forzata di essi causò risentimenti nei comunisti di Tito, vedi [[12) L'Italia dopo l'armistizio#La situazione sul confine orientale]]).
 - La Grecia firmò l'armistizio il 23 e fu sottoposta ad un regime di occupazione militare italo-tedesco.
 
+![](https://i.imgur.com/zusyMXB.png)
+
 ###### Crittografia e macchine enigma?
+
+![](https://i.imgur.com/WlRakIG.png)
 
 # L'allargamento del conflitto
 
@@ -113,6 +131,8 @@ Le direttrici di marcia erano 3:
 - Al centro verso Mosca.
 
 L'Armata rossa fu colta alla sprovvista siccome Stalin pensava che Hitler avrebbe attaccato solo dopo aver sconfitto lo UK; perciò la *Wehrmacht* avanzò velocemente. L'obiettivo era di vincere prima dell'inverno (perché avrebbe reso difficili le operazioni militari) e inoltre Hitler sperava di mettere in crisi il gruppo dirigente sovietico e di far ribellare le diverse nazionalità e gruppi oppressi a Mosca.
+
+![](https://i.imgur.com/eaQ0gLH.png)
 
 ### La giustificazione ideologica dell'invasione
 
@@ -148,17 +168,23 @@ Inoltre Roosevelt e Churchill firmarono, il 14 agosto 1941, la Carta Atlantica: 
 - Il rifiuto dell'uso della forza nei rapporti tra gli stati,
 - La promozione di cooperazione economica nazionale.
 
+![](https://i.imgur.com/aaACisQ.png)
+
 ### L'ingresso in guerra del Giappone
 
 Il Giappone, dal 1940 legato all'Asse col Patto Tripartito e dal 1941 non + in guerra con l'URSS (accordo di neutralità), continuò ad espandersi in Cina fino ad occupare tutta l'Indocina francese. A quel punto UK e USA avevano decretato un blocco commerciale per le esportazioni verso il Giappone.
 
 Il paese, povero di materie prime e soprattutto di petrolio (90% veniva dagli USA) poteva ritirarsi, oppure avviare una guerra di conquista per le risorse come sostenuto dal generale Tojo, simpatizzante per l'Asse.
 
+![](https://i.imgur.com/MnbRt8Q.png)
+
 ### Pearl Harbor e l'ingresso in guerra degli USA
 
 Il 7 dicembre del 1941, l'aviazione giapponese aggredì a sorpresa la base navale americana di Pearl Harbor nelle Hawaii. L'attacco (che distrusse centinaia tra aerei e navi) fu la goccia che fece traboccare il vaso: l'8 dicembre 1941, gli USA entrarono in guerra contro il Giappone, mentre 4 giorni dopo giunse anche la dichiarazione di guerra da parte di Germania e Italia.
 
 (Fino a metà 1942, i giapponesi ebbero la meglio e conquistarono Filippine, Malesia, Hong Kong, Singapore, Birmania, Indonesia e nuova Guinea; inoltre ora potevano minacciare India e Australia).
+
+![](https://i.imgur.com/Uk5Pz4k.png)
 
 ### Il patto delle Nazioni Unite
 
@@ -188,6 +214,8 @@ Economicamente l'Europa occupata fu praticamente saccheggiata: materie prime e b
 
 Analogamente, tramite trasferimento coatto, masse di lavoratori stranieri vennero portati in Germania e la loro sorte dipendeva dalla razza: ad ebrei, polacchi e russi spettava morte, mentre gli altri vivevano comunque una vita di stenti.
 
+![](https://i.imgur.com/QXXIp5d.png)
+
 ### La "questione ebraica"
 
 Gli ebrei, abbondanti nell'Europa est conquistata dai tedeschi, erano al gradino + basso della gerarchia razziale; in + i nazisti radicalizzarono la questione della loro sorte, passando dalla loro emarginazione all'eliminazione.
@@ -195,6 +223,8 @@ Gli ebrei, abbondanti nell'Europa est conquistata dai tedeschi, erano al gradino
 Dapprima gli ebrei vennero radunati nei ghetti, quartieri isolati nelle città (+ di 3 milioni a Varsavia, Lodz, Cracovia...) in cui venivano deportati anche da occidente.
 
 ##### La rivolta nel ghetto di Varsavia
+
+![](https://i.imgur.com/Y3OGtHM.png)
 
 ### Lo sterminio degli ebrei
 
@@ -228,6 +258,8 @@ Nonostante le varie forme del fenomeno, i fattori comuni furono l'antisemitismo 
 ##### L'attendismo
 
 Quest'altro semplicemente indica la passiva e rassegnata attesa dell'andamento degli eventi.
+
+![](https://i.imgur.com/QtWRvX5.png)
 
 ### Il "Nuovo Ordine" giapponese in Asia
 
@@ -274,6 +306,8 @@ Nel marzo 1943 l'Asse, con anche l'ARMIR (*Armata Italiana in Russia*, un corpo 
 
 ##### La battaglia di Stalingrado
 
+![](https://i.imgur.com/c104VPQ.png)
+
 ### Le vittorie alleate in Africa
 
 Intanto, dopo metà 1942, l'*Afrikakorps* era giunto ad El Alamein, a circa 100km da Alessandria (lì poteva minacciare il canale di Suez), però le truppe erano sfiancate e prive di rifornimenti a causa degli spostamenti e degli attacchi britannici.
@@ -283,6 +317,8 @@ Perciò il generale inglese Montgomery lanciò una controffensiva che ad inizio 
 Purtroppo questi non sapevano che pochi giorni dopo (8 novembre) un contingente anglo-americano capeggiato da Eisenhower sbarcò in Marocco e Algeria per occupare le colonie della Francia di Vichy e stringere in una morsa gli avversari, i quali (250000) nel maggio 1943, dovettero arrendersi.
 
 ##### I victory garden
+
+![](https://i.imgur.com/sRRm42R.png)
 
 ### L'Italia nuovo fronte
 
@@ -310,11 +346,15 @@ Il 25 luglio 1943, prima Mussolini venne sfiduciato dai fascisti moderati in una
 
 Radio e giornali interruppero tutto per dare la notizia e in poche ore le folle scesero in piazza a festeggiare la caduta del fascismo, prendendo d'assalto tutte le sedi, i simboli e gli esponenti di esso.
 
+![](https://i.imgur.com/1NVJx15.png)
+
 ### L'armistizio con gli alleati
 
 Badoglio, seppur aveva affermato ai tedeschi di stare dalla loro parte, per salvare la monarchia, avviò trattative con gli anglo-americani per una pace separata.
 
 Il 3 settembre (anche se pubblicato solo l'8) 1943 fu firmato l'armistizio di Cassabile che concludeva la guerra tra Italia e alleati.
+
+![](https://i.imgur.com/1Y4jO5Z.png)
 
 ### L'occupazione dell'Italia
 
@@ -327,6 +367,8 @@ Alla flotta militare era stato ordinato di consegnarsi agli alleati a Malta ma f
 (Questo paragrafo è una preview del prossimo capitolo: [[12) L'Italia dopo l'armistizio]])
 
 ##### Il bombardamento di Frascati
+
+![](https://i.imgur.com/KysmKmp.png)
 
 ### La Repubblica Sociale Italiana e la guerra in Italia
 
@@ -356,6 +398,8 @@ A fine novembre 1943 Roosevelt, Churchill e Stalin si riunirono nella conferenza
 
 Gli inglesi non potevano opporsi agli USA (per la loro potenza), perciò fu decisa l'"operazione Overlord", che prevedeva uno sbarco in Francia nord in Normandia (per aggirare il grosso dei tedeschi a Calais).
 
+![](https://i.imgur.com/5nlO7wr.png)
+
 ### Lo sbarco in Normandia
 
 L'operazione iniziò, dopo bombardamenti e paracadutisti oltre le linee tedesche, di notte tra il 5 e il 6 giugno 1944 (il "D-Day") con l'uso di migliaia di navi, mezzi anfibi e aerei.
@@ -365,6 +409,8 @@ Centinaia di migliaia di uomini sbarcarono in 5 punti della spiaggia per fare da
 Da lì (in agosto): il 15 sbarco in Provenza, il 18 Parigi insorse, il 25 Parigi accolse i primi reparti di resistenza, il 3 settembre arrivo ad Anversa e il 4 a Bruxelles. La marcia verso la Germania subì tuttavia una battuta d'arresto sul Reno dopo la conquista di Aquisgrana.
 
 ##### Il D-Day
+
+![](https://i.imgur.com/vTiWMiT.png)
 
 ### La controffensiva russa e l'Europa orientale
 
@@ -376,6 +422,8 @@ Tra agosto e settembre 1944 i sovietici conquistarono la Romania, la Bulgaria, l
 
 In questa situazione, il colonnello Klaus von Stauffenberg ordì un attentato contro il Fuhrer, però questo fallì e Hitler, solo ferito, ordinò alle SS di procedere con una spietata repressione, uccidendo 5000 persone.
 
+![](https://i.imgur.com/psbslwB.png)
+
 ### L'ultimo assalto alla Germania
 
 In autunno 1944, con la liberazione della Grecia da parte degli inglesi e di Belgrado da parte dei partigiani Iugoslavi, Hitler non cedette e proclamò la "guerra totale" (mobilitando tutte le persone e le risorse disponibili), nonostante la sproporzione delle forze e la minaccia di un duplice attacco da est e ovest.
@@ -386,6 +434,8 @@ Per esempio, Amburgo e Dresda furono ridotte a macerie da bombe incendiarie (sol
 
 ##### Le armi segrete tedesche
 
+![](https://i.imgur.com/JFL71vc.png)
+
 ### La conferenza di Mosca e Jalta
 
 Nell'ottobre 1944 Churchill e Stalin, alla conferenza di Mosca, sancirono le rispettive sfere d'influenza nei Balcani con:
@@ -393,7 +443,9 @@ Nell'ottobre 1944 Churchill e Stalin, alla conferenza di Mosca, sancirono le ris
 - All'URSS, Bulgaria e Romania (+ tutela condivisa di Ungheria),
 - Allo UK, Grecia (+ tutela condivisa di Ungheria).
 
-A febbraio 1945 invece, si tenne la conferenza di Jalta (mar nero), in cui Roosevelt, Churchill e Stalin decisero che la Germania sarebbe stata divisa in 4 zone d'occupazione, perfezionarono gli accordi sul destino degli altri paesi e si accordarono per la nascita dell'ONU (*Organizzazione delle Nazioni Unite*, un organo internazionale per mantenere la pace nel mondo).
+A febbraio 1945 invece, si tenne la **conferenza di Jalta** (mar nero), in cui <u>Roosevelt, Churchill e Stalin</u> decisero che la **Germania** sarebbe stata **divisa in 4 zone d'occupazione**, perfezionarono gli accordi sul destino degli altri paesi e si accordarono per la nascita dell'**ONU** (*Organizzazione delle Nazioni Unite*, un organo internazionale per mantenere la pace nel mondo).
+
+![](https://i.imgur.com/2uNr7KK.png)
 
 ### La resa della Germania
 
@@ -404,6 +456,8 @@ Gli alti gradi della *Wehrmacht* volevano un'armistizio con gli anglo-americani 
 
 Il 30 aprile Hitler si suicidò nel bunker sotterraneo della cancelleria, quando i russi erano a meno di 1km di distanza. La reggenza del governo fu presa da Donitz che, dopo il tentativo vano di una pace separata con gli anglo-americani, capitolò: il 7 maggio 1945 la Germania firmò la resa incondizionata a Reims, sancendo la fine della guerra in Europa.
 
+![](https://i.imgur.com/ZJNtiRN.png)
+
 ### USA vs Giappone
 
 Tra giugno 1942 e inizio 1943, gli USA erano riusciti ad arrestare l'avanzata giapponese nel pacifico; e, con la battaglia nelle isole Midway, dell'isola di Guadalcanal e della Nuova Guinea, per il Giappone fu sempre + difficile tenere testa agli avversari.
@@ -411,6 +465,8 @@ Tra giugno 1942 e inizio 1943, gli USA erano riusciti ad arrestare l'avanzata gi
 Dopo altre conquiste americane (isole Marshall, Saipan e Guam nelle Marianne) si giunse nell'ottobre 1944 alla battaglia delle Filippine, con cui venne annientata la flotta di Tokyo. Proprio lì gli americani si trovarono ad affrontare per la 1a volta l'attacco dei kamikaze.
 
 ##### I kamikaze
+
+![](https://i.imgur.com/xQEhnjk.png)
 
 ### La bomba atomica e la resa giapponese
 
@@ -422,7 +478,11 @@ Il 6 agosto 1945, il bombardiere americano Enola gay sganciò su Hiroshima la 1a
 
 Consapevole dei danni ricevuti, Hirohito annunciò la resa del Giappone, firmata sul ponte della corazzata Missouri il 2 settembre 1945.
 
+![](https://i.imgur.com/Abp5mkn.png)
+
 ##### Le bombe su Hiroshima e Nagasaki
+
+![](https://i.imgur.com/9n6Ge73.png)
 
 ### Il bilancio
 

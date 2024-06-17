@@ -1,24 +1,24 @@
 ### Cos'è?
 
-L’**FTP** (*File Transfer Protocol*) permette il **trasferimento di file** tra host su una rete senza bisogno di loggarsi o saper usare il sistema remoto destinatario, dando l’accesso a file system remoti con comandi molto semplici. È un servizio <u>client/server</u>, i cui trasferimenti di file sono <u>sia in download che in upload</u>. Utenti client interfacciati col servizio con ***FTP User Agent***.
+L’**FTP** (*File Transfer Protocol*) permette il **trasferimento di file** tra host su una rete senza bisogno di loggarsi o saper usare il sistema remoto destinatario, dando l’accesso a file system remoti con comandi molto semplici. 
 
-FTP prevede il **controllo degli accessi** per chi accede a files, per mezzo di una **auth** (username e password) **non cifrata**, per questo è un protocollo <u>non sicuro</u> (al contrario di **SFTP**); ed è il **server FTP** che verifica i privilegi di accesso.
+È un servizio <u>client/server</u>, i cui trasferimenti di file sono <u>sia in download che in upload</u>. Utenti client interfacciati col servizio con ***FTP User Agent***.
 
-FTP usa TCP (come HTTP), però usa <u>2 connessioni TCP separate</u>:
+FTP prevede un **controllo degli accessi** ai file, tramite un'**autenticazione non cifrata**, perciò <u>non è sicuro</u> (al contrario di **SFTP**); ed è il **server FTP** che verifica i privilegi di accesso.
+
+**FTP** usa <u>TCP</u>, però usa <u>2 connessioni TCP separate</u> (***out-of-band***, al contrario di [[2 HTTP|HTTP]]):
 
 - **Connessione di controllo**: per l’invio di <u>info di controllo</u> tra gli host (per auth e comandi),
 - **Connessione dati**: per il <u>trasferimento di file</u>.
-
-Per questo si dice che **FTP** è ***out-of-band***, al contrario di **HTTP**, che invece invia le <u>info di controllo negli header</u> dei messaggi e usa una <u>connessione unica</u> (***in-band***).
 
 ### Modalità
 
 ##### Modalità attiva
 
-All’apertura della porta di comando (client), il client dice al server di voler usare la **modalità attiva** inviandogli un **n° di porta non privilegiata e casuale** (> 1024) **aperta** sullo stesso. Il <u>server</u> apre quindi 2 collegamenti:
+<u>Stabilita la connessione di comando</u> (porta 21), il client dice al server di voler usare la **modalità attiva** inviandogli un **n° di porta non privilegiata e casuale** (> 1024) **aperta** sullo stesso. Il <u>server</u> apre quindi la <u>connessione dati</u> tra:
 
-- Tra la porta **well-known 20** e l’**IP del server**,
-- Tra **porta** specificata dal **client** e l’**IP del client**.
+- Socket server con: \[**IP server** + **porta 20**\],
+- Socket client con: \[**IP client** + **porta specificata dal client**\].
 
 In modalità attiva:
 
@@ -29,10 +29,10 @@ Il client deve essere abilitato ad accettare collegamenti tramite qualsiasi port
 
 ##### Modalità passiva
 
-All’apertura della porta di comando (client), il client richiede di voler usare la **modalità passiva**, quindi il <u>server gli fornisce</u> un **n° di porta non privilegiata e casuale** (> 1024) **aperta** sullo stesso. Il <u>client</u> apre quindi 2 collegamenti:
+<u>Stabilita la connessione di comando</u> (porta 21), il client richiede di voler usare la **modalità passiva**, quindi il <u>server gli fornisce</u> un **n° di porta non privilegiata e casuale** (> 1024) **aperta** sullo stesso. Il <u>client</u> apre quindi la <u>connessione dati</u> tra:
 
-- Tra la **porta** specificata dal **server** e l’**IP del server**,
-- Tra una **porta non privilegiata casuale** e l’**IP del client**.
+- Socket server con: \[**IP server** + **porta specificata dal server**\],
+- Socket client con: \[**IP client** + **porta non *well-known* casuale del client**\].
 
 In modalità passiva
 

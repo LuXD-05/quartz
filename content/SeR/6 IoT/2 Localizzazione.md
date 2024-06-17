@@ -17,7 +17,7 @@ Per questa sono usati i <u>sistemi di posizionamento satellitare globale</u> **G
 
 ##### GNSS
 
-I sistemi GNSS sono dei sistemi di radionavigazione disponibili per navi, aerei e veicoli in moto; i quali sono detti ricevitori GNSS (anche se chiamati di norma GPS). Alcuni sistemi GNSS sono:
+I sistemi **GNSS** sono dei sistemi di radionavigazione disponibili per navi, aerei e veicoli in moto; i quali sono detti <u>ricevitori GNSS</u> (anche se chiamati di norma GPS). Alcuni sistemi GNSS sono:
 
 ![](https://i.imgur.com/6IYEAIs.png)
 
@@ -78,7 +78,7 @@ Uno dei problemi principali dei ricevitori GPS è il ***fixing*** (ovvero la **1
 
 ###### Funzionamento
 
-Per il ***fixing***, un ricevitore A-GPS si collega con la <u>rete cellulare</u> ad un ***assistance server*** (anche gestito dall'operatore stesso) a cui viene detto a quale **cella** l'utente è agganciato. (<u>Presupponendo che i satelliti che vede la cella sono gli stessi del ricevitore</u>) il server determina la **lista dei satelliti** in vista della **cella telefonica** e li <u>invia al ricevitore</u> GPS.
+Per il ***fixing***, un ricevitore A-GPS si collega con la <u>rete cellulare</u> ad un ***assistance server*** (anche gestito dall'operatore stesso) a cui viene detto a quale **cella** l'utente è agganciato. (<u>Presupponendo che i satelliti che vedono la cella siano gli stessi del ricevitore</u>) il server determina la **lista dei satelliti** in vista della **cella telefonica** e li <u>invia al ricevitore</u> GPS.
 
 ##### Applicazioni GPS
 
@@ -185,24 +185,24 @@ Questi valori verranno poi inviati a tutti i terminali, che li salveranno in db 
 
 #### Localizzazione con RFID
 
-Per questa serve un trasmettitore (tag RFID passivo) e un ricevitore. La distanza tra questi va da pochi cm a 1m; e la localizzazione è molto puntuale (comunque si può integrare questa tecnica con altre). Viene usato in settori di produzione e logistica per localizzare e identificare oggetti.
+Per questa serve un **trasmettitore** (tag RFID passivo) e un **ricevitore**. La distanza tra questi va da pochi cm a 1m; e la localizzazione è molto puntuale (comunque si può integrare questa tecnica con altre). Viene usato in settori di produzione e logistica per localizzare e identificare oggetti.
 
 ![](https://i.imgur.com/zrOifJC.png)
 
 #### Localizzazione con LoRaWAN
 
-La rete LoRa opera nella banda 868MHz (sub-1GHz) ed una ha latenza elevata (dai 30 secondi ai 5 min) che la rende inadatta ai sistemi di localizzazione *real-time*.
+La rete **LoRa** opera nella banda 868MHz (sub-1GHz) ed una ha **latenza elevata** (dai 30 secondi ai 5 min) che la rende *inadatta ai sistemi di localizzazione real-time*. Comunque, anch'essa sfrutta le tecniche basate su **ToA** (*Time of Arrival*) e **AoA** (*Angle of Arrival*) di [[#Localizzazione con BLE|BLE]].
 
-LoRaWAN può essere usata combinando tag LoRa/BLE e beacon BLE, questi ultimi che inviano dati ai tag LoRa/BLE, i quali li invieranno al backend tramite un gateway speciale. Questo è adatto per scenari con pochi oggetti ma tracciati su aree estese.
+(LoRaWAN può essere usata combinando tag LoRa/BLE e beacon BLE, questi ultimi che inviano dati ai tag LoRa/BLE, i quali li invieranno al backend tramite un gateway speciale. Questo è adatto per scenari con pochi oggetti ma tracciati su aree estese).
 
 ![](https://i.imgur.com/9PxdF3x.png)
 
 ### Localizzazione subacquea
 
-La localizzazione subacquea si basa sul rilevamento di angoli e distanze di un trasmettitore e di un beacon (ricetrasmettitore) installato sull'oggetto. Quindi:
+La **localizzazione subacquea** si basa sul rilevamento di angoli e distanze di un <u>trasmettitore</u> e di un <u>beacon (ricetrasmettitore) installato sull'oggetto</u>. Quindi:
 
-- Le **distanze** sono calcolate col tempo impiegato dal suono a percorrere la strada trasmettitore-beacon e ritorno.
-- Gli **angoli** sono determinati con varie tecniche (generalmente prevedono 3 o + trasmettitori sul fondale o sull'oggetto) e a seconda del sistema usato, la posizione verrà calcolata o dal beacon o dai trasmettitori.
+- Le **distanze** sono calcolate col <u>tempo</u> impiegato dal suono a percorrere la strada trasmettitore-beacon e ritorno (**ToA**).
+- Gli **angoli** sono determinati con varie tecniche (generalmente prevedono 3 o + trasmettitori sul fondale o sull'oggetto) e a seconda del sistema usato, la posizione verrà calcolata o dal beacon o dai trasmettitori (**AoA**).
 
 ![](https://i.imgur.com/0w9ncrV.png)
 
@@ -212,11 +212,11 @@ La localizzazione subacquea si basa sul rilevamento di angoli e distanze di un t
 
 ##### Localizzazione basata su client
 
-Il dispositivo esegue un'app avente un db locale delle posizioni (*fingerprint*) indicizzato tramite il valore del segnale (ricevuto da AP WiFi o beacon BLE). L'indicizzazione serve per recuperare la posizione corrente presalvata nel db (metodo adatto per la navigazione interna se si ha un'infrastruttura WiFi o beacon esistente).
+Il dispositivo esegue un'**app** avente un <u>db locale delle posizioni</u> (*fingerprint*) indicizzato tramite il valore del segnale (ricevuto da AP WiFi o beacon BLE). L'indicizzazione serve per recuperare la posizione corrente presalvata nel db (metodo adatto per la navigazione interna se si ha un'infrastruttura WiFi o beacon esistente).
 
 ##### Localizzazione basata su server
 
-Un dispositivo WiFi, tag o beacon BT/BLE invia una chiave univoca (indirizzo MAC, UUID) al ricevitore che acquisisce i segnali e li trasmette a un server, il quale li userà per calcolare la posizione (metodo adatto per il monitoraggio di risorse e personale aziendali, tipo per notifiche antifurto di quando un'oggetto lascia una certa area).
+Un dispositivo WiFi, tag o beacon BT/BLE invia una <u>chiave univoca</u> (indirizzo MAC, UUID) al ricevitore che acquisisce i segnali e li trasmette a un **server**, il quale li userà per calcolare la posizione (metodo adatto per il monitoraggio di risorse e personale aziendali, tipo per notifiche antifurto di quando un'oggetto lascia una certa area).
 
 ### Applicazioni per localizzazione outdoors
 

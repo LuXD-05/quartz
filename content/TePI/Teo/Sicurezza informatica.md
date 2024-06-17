@@ -14,7 +14,7 @@ La gestione del rischio è legata a: 1) la probabilità che un evento accada, e 
 
 ### Il Cybersecurity Cube
 
-All'inizio degli anni 90, John McCumber, allora grande esperto di sicurezza informatica, realizzò un modello (detto il "*Cybersecurity Cube*") in cui sono rappresentate graficamente le leve su cui agire per garantire cybersecurity. Questo cubo ha 3 dimensioni:
+All'inizio degli anni 90, **John McCumber**, allora grande esperto di sicurezza informatica, realizzò un modello (detto il "*Cybersecurity Cube*") in cui sono rappresentate graficamente le leve su cui agire per garantire cybersecurity. Questo cubo ha 3 dimensioni:
 
 - 1° dimensione: evidenzia i 3 principi della sicurezza: Confidentiality (Riservatezza), Integrity (Integrità) e Availability (Disponibilità).
 - 2° dimensione: si occupa della protezione dei dati nelle loro fasi: durante la Trasmissione, la Memorizzazione e l'Elaborazione.

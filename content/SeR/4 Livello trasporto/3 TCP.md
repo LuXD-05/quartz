@@ -4,21 +4,23 @@ Usato per app che non tollerano perdite o alterazioni nell’ordine di pacchetti
 
 ##### Connection oriented
 
-Il TCP è un protocollo ***connection oriented*** che stabilisce una connessione permanente (detta **sessione**) tra gli host prima di trasmettere dati. Prima di stabilire la sessione, TCP:
+Il TCP è un protocollo ***connection oriented*** che stabilisce una connessione permanente (detta **sessione**) tra gli host prima di trasmettere dati. Prima (e durante) la sessione, TCP:
 
-- Riceve dati dall’applicazione trasmittente,
-- Accumula i dati in un buffer di trasmissione,
-- Periodicamente (o in presenza di particolari condizioni) crea un segmento con parte dei dati nel buffer. Il protocollo attende fino a quando la giusta quantità di dati è nel buffer in quanto **dimensione** del segmento è importante per le **prestazioni**.
+- <u>Riceve dati</u> dall’app trasmittente,
+- <u>Accumula i dati in un buffer</u> di trasmissione,
+- Quando una certa quantità di dati è nel buffer, <u>vi crea un segmento e lo invia</u>.
 
-Durante l’instaurazione della sessione (***handshake***), trasmittente e destinatario stabiliscono la ***window size*** (anche diversa nelle 2 direzioni), ovvero la **quantità di dati** che può essere **inviata in un** certo **periodo di tempo**.
+Durante l’instaurazione della sessione (con un ***[[#3-way handshake|handshake]]***), trasmittente e destinatario stabiliscono la ***window size*** (anche diversa nelle 2 direzioni), ovvero la <u>quantità di dati inviabile in un certo periodo di tempo</u>.
 
 ##### Reliable
 
-Essendo **affidabile**, TCP garantisce che ciascun segmento inviato dal trasmittente arrivi a destinazione. Nel caso in cui un segmento si perda o risulti corrotto, TCP lo **ritrasmette**. Dato che le reti presentano percorsi multipli di lunghezza diversa, i segmenti possono raggiungere la destinazione in **ordine diverso** da come sono trasmessi, perciò TCP fornisce un servizio di **numerazione** dei segmenti per poterne ricostruire la corretta sequenza.
+Essendo **affidabile**, TCP <u>garantisce che ciascun segmento inviato dal trasmittente arrivi a destinazione</u>. Nel caso in cui un segmento <u>si perda o risulti corrotto</u>, TCP <u>lo ritrasmette</u>. 
+
+Dato che le reti presentano percorsi multipli di lunghezza diversa, i segmenti possono raggiungere la destinazione in <u>ordine diverso</u> dall'originale, perciò TCP fornisce un servizio di **numerazione** dei segmenti per poterne ricostruire la corretta sequenza.
 
 ##### Controllo del flusso
 
-(O *flow control*), per questo TCP è in grado di accorgersi se un **destinatario** che riceve pacchetti **è sovraccaricato** e nel caso **riduce il tasso di trasmissione dei pacchetti** (previene la necessità di ritrasmissione di segmenti persi per ***buffer overflow***).
+(O *flow control*), per questo TCP è in grado di accorgersi se un **destinatario** che riceve pacchetti **è sovraccaricato** e nel caso **riduce il tasso di trasmissione dei pacchetti**.
 
 ##### Controllo della congestione
 
@@ -26,30 +28,30 @@ Essendo **affidabile**, TCP garantisce che ciascun segmento inviato dal trasmitt
 
 ##### Stateful
 
-Il TCP è ***stateful***, ovvero tiene traccia di stato delle sessioni, memorizzando varie info utili per implementare servizi.
+Il TCP è ***stateful***, ovvero tiene traccia dello stato delle sessioni, memorizzando varie info utili per implementare servizi.
 
 ##### Altro
 
-Il TCP è **full-duplex** e **unicast tra trasmittente e ricevente** (multicast non permesso).
+Il TCP è **full-duplex** e **unicast** (<u>no multicast</u>).
 
 ### Segmento TCP
 
 Il pacchetto TCP è detto segmento e ha un *overhead* di 20 byte (opzioni di solito non c’è); i campi sono:
 
-- ***Source port*** (16 bit) e ***Destination port*** (16 bit), usati per **identificare l’applicazione** e realizzare le attività di **multiplexing** e **demultiplexing** del livello trasporto.
-- ***Sequence number*** (32 bit), usato per **riordina**re i **segmenti** di una trasmissione.
-- ***Acknowledgement number*** (32 bit), o **n° di riscontro**, indica il dato che viene riscontrato.
-- ***Data offset*** (4 bit), è la **lunghezza dell’header** (bit di offset prima del payload/dati, se > 5 ci sono opzioni).
-- ***Reserved*** (3 bit), bit riservati.
-- ***Control bits*** (9 bit), **flags** usate da TCP per diversi scopi, tra cui:
-	- **SYN**, **ACK** e **FIN**, usati per gestire la connessione (***3-way handshake***).
-	- **RST**, *reset*, usato per resettare una connessione in caso di errore o *timeout*.
-	- **URG**, a **1** indica che il campo ***Urgent pointer*** è valido.
-	- **PSH**, usato in app soggette a **ritardi** (***real-time***) per la bufferizzazione dei dati presso sia TCP trasmittente sia TCP ricevente, chiede di inviare i dati nel buffer all’applicazione ricevente.
-- ***Window size*** (16 bit), apertura della **finestra di ricezione**, indica il **n° max di byte trasmissibili prima di 1 ACK positivo**.
-- ***Checksum*** (16 bit), campo di controllo con errori di ***header***, ***payload*** e alcuni **campi IP** (IP sorg, IP dest, n° protocollo…).
-- ***Urgent pointer*** (16 bit), individua **l’ultimo byte di dati urgenti** nel payload.
-- ***Options*** (0-320 bit, in unità di 32 bit), con:
+- ***Source port*** (16 bit) e ***Destination port*** (16 bit): usati per <u>identificare l’app</u> e realizzare le attività di *multiplexing* e *demultiplexing* del livello trasporto.
+- ***Sequence number*** (32 bit): usato per <u>riordinare i segmenti</u> di una trasmissione.
+- ***Acknowledgement number*** (32 bit): indica il dato che viene riscontrato.
+- ***Data offset*** (4 bit): è la <u>lunghezza dell’header</u> (bit di offset prima del payload/dati, se > 5 ci sono opzioni).
+- ***Reserved*** (3 bit): bit riservati.
+- ***Control bits*** (9 bit): <u>flags</u> usate da TCP per diversi scopi, tra cui:
+	- **SYN**, **ACK** e **FIN**: usati per <u>gestire la connessione</u> (*[[#3-way handshake]]*).
+	- **RST**: *reset*, usato per <u>resettare una connessione in caso di errore</u> o *timeout*.
+	- **URG**: a 1 indica che il <u>campo urgent pointer è valido</u>.
+	- **PSH**: usato in app soggette a <u>ritardi</u> (*real-time*) per la <u>bufferizzazione</u> dei dati presso sia TCP trasmittente sia TCP ricevente, chiede di inviare i dati nel buffer all’applicazione ricevente.
+- ***Window size*** (16 bit): apertura della finestra di ricezione, indica il <u>n° max di byte trasmissibili prima di 1 ACK positivo</u>.
+- ***Checksum*** (16 bit): <u>campo di controllo errori</u> di *header*, *payload* e alcuni campi IP (IP sorgente, IP destinazione, n° protocollo…).
+- ***Urgent pointer*** (16 bit): individua l’<u>ultimo byte di dati urgenti nel payload</u>.
+- ***Options*** (0-320 bit, in unità di 32 bit): con:
 	- Negoziazione opzionale di MSS (default 536 byte, max 65535 byte): tipo opzione 2 (con SYN impostato).
 	- Negoziazione Window scale: tipo opzione 3 (con SYN impostato).
 	- Selective acknowledgement (SACK invece di go-back-N) possibile: tipo opzione 4 (con SYN impostato).
@@ -59,55 +61,80 @@ Il pacchetto TCP è detto segmento e ha un *overhead* di 20 byte (opzioni di sol
 
 ##### 3-way handshake
 
-Una connessione TCP è stabilita quando un client inizia a comunicare con un server e richiede 3 step:
+Una connessione TCP è stabilita quando un client contatta un server e richiede 3 step:
 
-1) Il TCP **client invia** al TCP **server** un segmento **SYN** che non ha dati ma **ha** il **SYN** a **1** e il suo ***sequence number*** a un valore **casuale** (*numSeqClient*).
-2) **Dopo** aver **ricevuto** il segmento **SYN**, il TCP **server alloca** i **buffer** per ricezione/invio **e** le altre **variabili** TCP per la connessione. Poi **crea** un segmento **SYNACK** che non ha dati ma **ha SYN e ACK a 1**, l’***acknowledgement number*** uguale a *numSeqClient* + 1 e il suo ***sequence number*** a un valore **casuale** (*numSeqServer*).
+1) Il TCP client invia al TCP server un segmento **SYN** che non ha dati ma ha: 
 
-    Ogni pacchetto TCP deve essere riscontrato, quindi **questo ACK riscontra il SYN prima ricevuto**).
+   - **SYN a 1**,
 
-3) **Dopo** aver **ricevuto** il segmento **SYNACK**, il TCP **client alloca** i **buffer** per ricezione/invio **e** le altre **variabili** TCP per la connessione. Poi **crea** un segmento **ACK** che non ha dati ma ha **SYN a 0, ACK a 1**, l’**acknowledgement number** uguale a *numSeqServer* + 1 e ***sequence number*** a *numSeqClient* + 1.
+   - ***sequence number* casuale** (*numSeqClient*).
 
-Il ***3-way handshake*** permette di:
+2) Dopo aver ricevuto il segmento SYN, il TCP server alloca i buffer per ricezione/invio e le altre variabili TCP per la connessione. Poi riscontra il SYN precedente con un segmento **SYNACK** che non ha dati ma ha:
 
-- Dire se il **destinatario** è **presente** sulla **rete**,
-- Dire se **sul destinatario** c’è **un server che accetta richiesta** del client,
-- **Dire al destinatario** che **client vuole comunicare su** un **n° di porta**,
-- **Stabilire parametri** di **sessione** (*sequence numbers* iniziali, *window size*…).
+   - **SYN e ACK a 1**,
+
+   - ***acknowledgement number*** = *numSeqClient* + 1,
+
+   - ***sequence number* casuale** (*numSeqServer*).
+
+3) Dopo aver ricevuto il segmento SYNACK, il TCP client alloca i buffer per ricezione/invio e le altre variabili TCP per la connessione. Poi crea un segmento **ACK** che non ha dati ma ha:
+
+   - **SYN a 0, ACK a 1**,
+
+   - **acknowledgement number** = *numSeqServer* + 1,
+
+   - ***sequence number*** = *numSeqClient* + 1.
+
+###### Quindi
+
+Il *3-way handshake* permette di:
+
+- Dire se il <u>destinatario è presente in rete</u>,
+- Dire se sul destinatario c’è un <u>server che accetta richieste</u> client,
+- Dire al destinatario che un <u>client vuole comunicare su un n° di porta</u>,
+- <u>Stabilire parametri di sessione</u> (*sequence numbers* iniziali, *window size*…).
 
 ##### Terminazione
 
-La **terminazione** di una connessione può essere iniziata sia da **client** sia da **server**.
+La **terminazione** di una connessione <u>può essere iniziata sia da client sia da server</u>.
 
-Per chiuderla è usato il **flag FIN** (*finish*) e dato che la connessione è **full-duplex**, la terminazione deve avvenire in **entrambe le direzioni** (non per forza insieme). Ogni **pacchetto FIN** (o ***shutdown***) **va riscontrato con** un **ACK**; perciò, per chiudere una connessione, servono **4 pacchetti** (**2 coppie di FIN+ACK in entrambe le direzioni**).
+Per chiuderla è usato il **flag FIN** e dato che la connessione è **full-duplex**, la terminazione deve avvenire in <u>entrambe le direzioni</u> (non per forza insieme). 
 
-**Al termine**, **client** e **server** TCP **deallocano** le **risorse** (buffer e variabili) usate.
+Ogni **pacchetto FIN** (o *shutdown*) va riscontrato con un **ACK**; perciò, per chiudere una connessione, servono **4 pacchetti** (<u>2 coppie di FIN+ACK in entrambe le direzioni</u>).
+
+Al termine, client e server TCP <u>deallocano le risorse</u> (buffer e variabili) usate.
 
 #### Attacchi SYN flood
 
-I ***SYN flood attacks*** sono degli attacchi alla rete che sfruttano le vulnerabilità dell’**handshake** del TCP. In questi si mandano **tanti SYN** all’obiettivo **senza** poi **fare** il 3° passo (**l’ACK**); e, poiché **per ogni SYN** ricevuto il **server alloca buffer** e **variabili per** rispondere col **SYNACK**, il **server** potrebbe **esaurire** le sue **risorse** e **non riuscire** a **gestire** le **connessioni** giuste/**legittime** (attacco DoS, ***Denial of Service***).
+I ***SYN flood attacks*** sono degli attacchi alla rete che sfruttano le vulnerabilità del **3-way handshake**. In questi sono mandati tanti **SYN** all’obiettivo <u>senza poi fare il 3° passo (ACK)</u>. 
+
+Quindi, poiché per ogni SYN ricevuto il server <u>alloca buffer e variabili</u> per rispondere col **SYNACK**, il server potrebbe <u>esaurire le sue risorse e non riuscire a gestire le connessioni legittime</u> (attacco **DoS**, *Denial of Service*).
 
 ### Servizio affidabile
 
 ##### Sequence number
 
-Il ***sequence number*** di un segmento è il **n° del 1° byte del segmento rispetto al flusso** di byte **trasmesso** (per **segmenti** da **1000 byte**: **1°** sequence number = **1**, **2°** … = **1001**, **3°** … = **2001** e così via). Dato che il TCP vede i dati solo come un flusso di byte ordinati, i *sequence number* contano i **byte** trasmessi e non i segmenti inviati.
+Il ***sequence number*** di un segmento è il <u>n° del 1° byte del segmento rispetto al flusso di byte trasmesso</u> (con segmenti da 1000 byte: il 1° = "1", il 2° = "1001", il 3° = "2001"...). Dato che il TCP vede i dati solo come un flusso di byte ordinati, i *sequence number* contano i <u>byte trasmessi</u> e non i segmenti inviati.
 
-Per prevenire certi ***malicious attacks***, il TCP, durante l’instaurazione della connessione (**3-way handshake**) stabilisce un **valore casuale** da cui partire per contare i byte, che sarà il ***sequence number* iniziale** (quindi non per forza 1).
+Ad ogni segmento, il *sequence number* è <u>incrementato del n° dei byte trasmessi</u>, perciò:
 
-**Quando** un **segmento** è **trasmesso**, il ***sequence number*** è **incrementato del n°** dei **byte trasmessi**. Ciò rende ogni segmento identificabile e riscontrabile senza ambiguità; ed è anche possibile rilevare i segmenti persi.
+- Ogni segmento è <u>identificabile e riscontrabile senza ambiguità</u>,
+- I segmenti sono <u>riordinabili</u> (se arrivano in ordine diverso),
+- Si possono <u>rilevare le perdite</u>.
 
-Il TCP ricevente riceve i dati, li mette nel buffer di ricezione rispettando l’ordine, li riassembla e li dà al livello applicativo.
+###### Prevenzione di attacchi
+
+Per prevenire certi ***malicious attacks***, durante il *3-way handshake* è stabilito un <u>valore casuale</u> da cui partire per contare i byte, che sarà il ***sequence number* iniziale** (quindi non per forza 1).
 
 ##### Acknowledgement number
 
-L’***acknowledgement number*** invece è il **n° del prossimo byte che ci si aspetta di ricevere** (si riferisce sempre al flusso di byte).
+L’***acknowledgement number*** invece è il <u>n° del prossimo byte che ci si aspetta di ricevere</u> (si riferisce sempre al flusso di byte).
 
-Se un host che riceve un segmento (con byte da 1 a 1000) deve inoltrare un ACK al trasmittente, esso incrementerà l’*acknowledgement number* di **1** (1001) perché quello è il *sequence number* del byte aspettato (tenendo anche qui conto del valore casuale stabilito all’inizio, non per forza 1001).
+Se un host che riceve un segmento (tipo con byte da 1 a 1000) deve inoltrare un <u>ACK</u> al trasmittente tramite un segmento con <u>acknowledgement number aumentato di 1</u> (1001, che sarà) perché quello è il <u>n° del prossimo byte aspettato</u> (tenendo anche qui conto del valore casuale stabilito all’inizio, non per forza 1001).
 
-L’***acknowledgement number*** è **valido** solo **quando** il flag **ACK** è a **1** (di solito è a 0 solo nei segmenti SYN).
+###### Perdite
 
-Per le **perdite** si può usare sia ***go-back-N*** sia ***selective repeat***; ma alcuni usano la ***selective acknowledgement*** (**SACK**). (Se entrambi supportano **SACK**, il destinatario può riscontrare segmenti non contigui e richiedere di ritrasmettere solo quelli persi).
+Per le **perdite** si può usare sia ***[[2 Trasferimento affidabile#Go-back-N|go-back-N]]*** sia ***[[2 Trasferimento affidabile#Selective repeat|selective repeat]]***; ma alcuni usano **SACK** (*selective acknowledgement*). 
 
 Essendo ***full-duplex***, TCP può usare il ***piggybacking*** per riscontrare segmenti ricevuti (di solito 1 ACK per segmento ricevuto).
 

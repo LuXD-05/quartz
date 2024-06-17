@@ -10,10 +10,6 @@ Alle app sono offerti dei servizi a livello trasporto, con **TCP** (affidabile) 
 - **Temporizzazione**: molte app tollerano ritardi end-to-end solo nell’ordine di decimi di secondo.
 - **Sicurezza**: potrebbe essere necessario rendere i dati riservati con crittografia end-to-end.
 
-### SSL/TLS
-
-Riservatezza, auth e integrità dei dati sono critiche per molte app, quindi per garantirle si usa un protocollo sopra il TCP: l'SSL/TLS (*Secure Socket Layer / Transport Layer Security*). (HTTPS = HTTP + SSL/TLS).
-
 ### Web
 
 Una app web è una **app** che permette la **navigazione tra pagine web**. È composta da:

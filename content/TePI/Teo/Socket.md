@@ -1,18 +1,18 @@
 # Socket
 
-Perché?
+### Perché?
 
 Per lo scambio di messaggi tra processi su host diversi, serve un modo per i processi di identificare il destinatario, quindi le applicazioni in rete vanno riconosciute in qualche modo; ciò grazie al port address.
 
-Port address
+### Port address
 
 **N° che identifica** le **porte logiche** (su 2 byte, da 0 a 65535) e **individua** un **canale** da usare **per la comunicazione**.
 
 I **n° di porta logica** sono **univocamente assegnati al relativo protocollo** (porta TCP != porta UDP, anche se a volte usata una unica per entrambi). La sola **porta non rende** una **connessione univoca**, perché processi di host diversi potrebbero ascoltare tutti sulla stessa. Per questo **la porta viene combinata con l’indirizzo IP** (socket).
 
-**Socket**
+### Socket
 
-È scritto così: “**[IP]:[port]**”. La coppia è:
+È scritto così: “**\[IP]:\[port]**”. La coppia è:
 
 **IP**: che identifica l’host avente il processo destinatario con cui comunicare.
 
@@ -25,7 +25,7 @@ In un server TCP abbiamo 2 tipi di socket:
 - 1 per accettare le connessioni (condiviso) che si chiama *connection socket*,
 - 1 per funzioni send() e receive() (non condiviso) detto *data socket*.
 
-Socket & client/server
+###### Socket & client/server
 
 In rete ci sono client e server. Il **server** (o meglio **processi server** che girano **su un host che erogano servizi ad altri processi** in rete) ha più controllo perché lui **crea i socket**. Più client possono comunicare sullo stesso socket.
 
@@ -39,7 +39,7 @@ Il server quando accetta la richiesta realizza un canale virtuale tra il client 
 
 Processi si scambiano dati con funzioni **read()** e **write()** fino a **chiusura** del **canale** o a chiamata della primitiva **close()**.
 
-Famiglie di socket
+##### Famiglie di socket
 
 Ci sono 2 famiglie di socket (o domini):
 
@@ -48,7 +48,7 @@ Ci sono 2 famiglie di socket (o domini):
 - **Indirizzo IP** (32 bit), che individua un unico host Internet,
 - **N° di porta** (16 bit), che specifica una porta dell’host.
 
-Tipi di socket
+##### Tipi di socket
 
 Ci sono 3 tipi di socket:
 

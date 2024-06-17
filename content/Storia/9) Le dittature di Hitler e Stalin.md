@@ -296,6 +296,8 @@ Distribuiti per tutto il paese, si calcola che dai <u>10 ai 20 milioni di uomini
 
 # Imperialismo e nazionalismo in Asia
 
+![](https://i.imgur.com/8LiHLD6.png)
+
 ### Il Giappone
 
 Dopo la WWI, il Giappone era divenuto la > potenza asiatica grazie ad un'aggressiva politica espansionistica (soprattutto contro la Cina) sostenuta dalla classe dirigente, che intendeva creare un vasto dominio nel pacifico.

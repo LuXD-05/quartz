@@ -1,10 +1,10 @@
-### Scopo
+### Cos'è
 
-Il **DNS** (*Domain Name System*) da la possibilità agli utenti in internet di riferirsi alle risorse (siti, caselle di posta, servizi cloud su una macchina avente IP) attraverso nomi mnemonici e non tramite i loro indirizzi IP.
+Il **DNS** (*Domain Name System*) da la possibilità agli utenti in internet di riferirsi alle risorse (siti, caselle di posta, servizi cloud su una macchina avente IP) attraverso **nomi mnemonici** e <u>non tramite i loro indirizzi IP</u>.
 
-Per fare questo è stata predisposta una rubrica (*directory*) che associa i nomi mnemonici (detti **nomi di dominio**) ai corrispondenti IP. Questa è implementata con un database distribuito si vari pc detti ***name server***, i quali eseguono un programma server che risponde alle richieste di risoluzione dei nomi.
+Per fare questo è stata predisposta una <u>rubrica</u> (*directory*) che associa i nomi mnemonici (detti **nomi di dominio**) ai corrispondenti **IP**. Questa è implementata con un <u>database distribuito</u> si vari pc detti ***name server***, i quali eseguono un sw *DNS server* che risponde alle richieste di risoluzione dei nomi.
 
-DNS quindi realizza il servizio di directory di internet. Si risolve un nome di dominio in un IP quando un utente cerca di accedere a un sito, in quanto, usando HTTP o HTTPS, la connessione (socket) che si deve creare con il server web necessita del suo IP.
+**DNS** quindi realizza il <u>servizio di directory di internet</u>. Si risolve un nome di dominio in un IP quando un utente cerca di accedere a un sito, in quanto, usando HTTP o HTTPS, la connessione (socket) che si deve creare con il server web necessita del suo IP.
 
 ## Componenti
 
@@ -14,25 +14,27 @@ Il DNS riguarda vari componenti e processi:
 
 ##### Step
 
-1) Viene mandata una richiesta di risoluzione di un nome di dominio da una applicazione (tipo browser) al ***Resolver*** (software DNS client e punto di accesso al DNS system) fornito dall'OS. 
-2) Il *Resolver* fa la richiesta al ***Recursor*** (o DNS server locale), il quale avvia il processo di ricerca dell'IP corrispondente al nome. L'informazione, se trovata, viene rimandata al *Resolver* come risposta alla richiesta, altrimenti questo riceverà un codice di errore.
+1) Viene mandata una richiesta di risoluzione di un nome di dominio da una app (tipo browser) al ***Resolver*** (sw *DNS client*) fornito dall'OS dell'host. 
+2) Il *Resolver* fa la richiesta al ***Recursor*** (o <u>DNS server locale</u> o *name server*), il quale avvia la ricerca dell'IP corrispondente al nome. L'informazione, se trovata, viene rimandata al *Resolver* come risposta, altrimenti questo riceverà un codice di errore.
 
 ##### Altro
 
-Ogni host deve essere configurato con l'IP del default DNS server locale (manualmente in modo statico o col DHCP in modo dinamico, come per il *default gateway*).
+In ogni host va configurato il **default DNS server locale** immettendone l'**IP** (manualmente in modo statico o col DHCP in modo dinamico, come per il *default gateway*).
 
 I ***Recursor*** sono ridondati per rendere il sistema + robusto/disponibile; infatti ci sono sempre un ***name server*** primario e uno secondario, i cui IP sono solitamente forniti dall'ISP.
 
-Esistono però dei DNS server locali alternativi a quelli dell'ISP, tipo:
+Esistono però dei DNS server locali **alternativi** a quelli dell'ISP, tipo:
 
-- Google: 8.8.8.8 (primario) e 8.8.4.4 (secondario).
-- Cloudflare: 1.1.1.1 (primario) e 1.0.0.1 (secondario). (Logga solo per 24 ore e ha RTT bassi).
+- <u>Google</u>: 8.8.8.8 (primario) e 8.8.4.4 (secondario).
+- <u>Cloudflare</u>: 1.1.1.1 (primario) e 1.0.0.1 (secondario).
+
+##### Perché scegliere Cloudflare
 
 Ci sono varie ragioni per scegliere il *Recursor* di Cloudflare (rispetto a quello dell'ISP):
 
 ###### Sicurezza
 
-- Non tutti gli ISP usano tecniche di cifratura forte o supportano il protocollo [[#DNSSEC]] sui loro *name server*; per questo (le query di) molti utenti sono esposti ad attacchi tipo *[[TePI#Attività di hacking|man-in-the-middle]]*.
+Differisce da molti altri ISP che non usano tecniche di cifratura forte o non supportano il protocollo [[#DNSSEC]] sui loro *name server*; per questo (le query di) molti utenti sono esposti ad attacchi tipo *[[Sicurezza informatica#Attività di hacking|man-in-the-middle]]*.
 
 ###### Prestazioni
 
@@ -42,13 +44,13 @@ Ci sono varie ragioni per scegliere il *Recursor* di Cloudflare (rispetto a quel
 
 ### 2) Ricerca della soluzione
 
-Il *Recursor* inizia la ricerca degli IP interrogando i *name server* aventi il db distribuito. Ci sono 3 tipi di *name server*:
+Il *Recursor* inizia la ricerca degli IP interrogando i ***name server*** aventi il db distribuito. Ci sono 3 tipi di *name server*:
 
-![](https://i.imgur.com/Lv0WA1k.png)
+![](https://i.imgur.com/BerPLxq.png)
 
 ##### Root
 
-Il ***Root name server*** è il 1° *name server* cui si rivolge il *Recursor* per risolvere un nome (ogni *Recursor* deve conoscere tutti i *root name server*). Questo accetta le query del Recursor e risponde indirizzandolo verso il *TLD name server*.
+Il ***Root name server*** è il 1° *name server* cui si rivolge il *Recursor* per risolvere un nome (ogni *Recursor* deve conoscere tutti i *root name server*). Questo accetta le query del *Recursor* e risponde indirizzandolo verso il *TLD name server*.
 
 Risposta: RR NS.
 
@@ -62,6 +64,8 @@ Un ***Top Level Domain name server*** memorizza i dati per tutti i nomi che cond
 > Un *name server* è ***authoritative*** (autorevole) per un nome di dominio se questo è registrato presso di lui (quindi se nel suo db è presente l'IP ("RR A" o "AAAA") per quel nome + le altre info necessarie alla registrazione).
 
 Un ***Authoritative name server*** amministra (possiede (nel db)) i dati di un nome di dominio, quindi è detto *authoritative* solo per i nomi che gestisce.
+
+![](https://i.imgur.com/Lv0WA1k.png)
 
 ### 3) Gerarchia dei nomi di dominio
 
@@ -129,8 +133,13 @@ Oltre al *namespace* pubblico, un'azienda può definire un *namespace* privato p
 
 I dati di una zona sono usati da **1** *name server* primario <u>e</u> da **almeno 1** *name server* secondario:
 
-- Il *name server* **primario** gestisce i dati (**RR *authoritative***) di dominio o i domini della zona controllata. I dati sono salvati in uno *zone file* nel file system locale. **Modifiche** a record DNS di una zona possono essere fatte solo sul **server primario** della stessa (*zone file* in lettura/scrittura).
-- I *name server* **secondari** lavorano sui dati acquisiti dal primario tramite una procedura automatica detta ***zone-transfer*** (DNS port 53 TCP), dove lo *zone file* è una copia *readonly*. I *name server* secondari forniscono **ridondanza** aumentando la **robustezza** del sistema e, grazie al ***load balancing***, aumentano la **disponibilità del servizio**.
+- Il *name server* **primario** gestisce i dati (**RR *authoritative***) di dominio o i domini della zona controllata. I dati sono salvati in uno *zone file* nel file system locale. 
+
+  **Modifiche** a record DNS di una zona possono essere fatte solo sul **server primario** della stessa (*zone file* in lettura/scrittura).
+
+- I *name server* **secondari** lavorano sui dati acquisiti dal primario tramite una procedura automatica detta ***zone-transfer*** (DNS port 53 TCP), dove lo *zone file* è una copia *readonly*. 
+
+  I *name server* secondari forniscono **ridondanza** aumentando la **robustezza** del sistema e, grazie al ***load balancing***, aumentano la **disponibilità del servizio**.
 
 ##### Zone file e dati DNS - RR
 
@@ -179,7 +188,7 @@ I **record NS** sono dati da un *name server* di livello superiore (**root** o *
 
 ##### Tipi di query
 
-Un nome di dominio viene risolto accedendo ai dati (RR) del db distribuito per mezzo di ***query*** (interrogazioni), che in DNS possono essere di 2 tipi:
+Un nome di dominio viene risolto accedendo ai dati (RR) del db distribuito per mezzo di ***query***, che in DNS possono essere di 2 tipi:
 
 ![](https://i.imgur.com/DYPVm2h.png)
 
@@ -254,8 +263,6 @@ I *Registrar* registrano i TLD; alcuni si occupano dei **gTLD** e altri dei **cc
 
 ## DNSSEC
 
-### Esempio
-
 ##### Problema
 
 Quando si accede a un sito, il *Recursor* dell'ISP interrogherà tutti i livelli della gerarchia dei DNS *name server* (dal *Root name server* all'*authoritative name server* per quel sito) ottenendo infine l'IP.
@@ -266,5 +273,5 @@ Gli hacker potrebbero eseguire del ***cache poisoning***, ovvero modificare dei 
 
 **DNSSEC** (*DNS Secure*) protegge il DNS basandosi su delle ***signatures* crittografate** (firme), con cui si firmano i record negli *authoritative name server*.
 
-Come <u>HTTPS cifra il traffico</u>, <u>DNSSEC firma gli RR</u> cosicché i falsi siano rilevabili.
+Come <u>HTTPS cifra il traffico, DNSSEC firma gli RR</u> cosicché i falsi siano rilevabili.
 

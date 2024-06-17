@@ -11,7 +11,7 @@ Ciò fino agli anni 90, quando si iniziò ad usare la virtualizzazione per risol
 - Partizionare i server,
 - Eseguire le app su + tipi e versioni di OS.
 
-Con ciò la virtualizzazione ha contribuito a ridurre il vendor lock-in e ha posto le basi del cloud computing.
+Con ciò la virtualizzazione ha contribuito a ridurre il *vendor lock-in* e ha posto le basi del [[2. School/TePI/Teo/Cloud Computing|Cloud Computing|cloud computing]].
 
 ### Che cos’è?
 

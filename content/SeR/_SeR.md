@@ -2,7 +2,11 @@
 
 ##### Livello fisico
 
+- [[1 Fondamenti fisico]]
+
 ##### Livello datalink
+
+- [[1 Fondamenti datalink]]
 
 ##### Livello rete
 
@@ -20,9 +24,9 @@
 - [[1 Fondamenti trasporto]]
 - [[2 Trasferimento affidabile]]
 - [[3 TCP]]
-- [[4 Controllo di flusso]]
-- [[5 Controllo di congestione]]
-- [[6 UDP]]
+- [[3.1 Controllo di flusso]]
+- [[3.2 Controllo di congestione]]
+- [[4 UDP]]
 
 ##### Livello applicativo
 
@@ -64,6 +68,11 @@
 - [[4.1 AAA]]
 
 ##### Progettazione
+
+- [[1 Progettazione rete LAN Ethernet]] (?)
+- [[2 Progettazione rete LAN Cisco]] (?)
+- [[3 Cablaggio strutturato]] (no)
+- [[4 Captive portal]]
 
 ### Lab
 
