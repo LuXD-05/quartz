@@ -120,67 +120,65 @@ Nell'aprile 1941, reparti della ***Wehrmacht*** intervennero in <u>Iugoslavia e 
 
 ### L'operazione Barbarossa
 
-La Germania controllava buona parte dell'Europa e per Hitler sembrava fosse giunto il momento di invadere l'URSS per impadronirsi delle sue risorse e della manodopera della popolazione schiavizzata.
+La Germania controllava buona parte dell'Europa e per Hitler sembrava fosse giunto il momento di **invadere l'URSS** per impadronirsi delle sue risorse e della manodopera della popolazione schiavizzata.
 
-Il 22 giugno 1941 scattò l'operazione Barbarossa, che prevedeva l'impiego di 3 milioni di uomini, 10000 carri armati e 3000 aerei lungo un fronte di 1600km dal mar Baltico al mar Nero (supportati da rumeni, ungheresi, slovacchi, finlandesi e un corpo italiano).
+Il 22 giugno 1941 scattò l'**operazione Barbarossa**, che prevedeva l'impiego di 3 milioni di uomini, 10000 carri armati e 3000 aerei lungo un fronte di 1600km dal mar Baltico al mar Nero (supportati da rumeni, ungheresi, slovacchi, finlandesi e un corpo italiano). Le direttrici di marcia erano 3:
 
-Le direttrici di marcia erano 3:
+- A **nord** verso <u>Leningrado</u>,
+- Al **centro** verso <u>Mosca</u>,
+- A **sud** verso l'<u>Ucraina</u>.
 
-- A nord verso Leningrado,
-- A sud verso l'Ucraina,
-- Al centro verso Mosca.
-
-L'Armata rossa fu colta alla sprovvista siccome Stalin pensava che Hitler avrebbe attaccato solo dopo aver sconfitto lo UK; perciò la *Wehrmacht* avanzò velocemente. L'obiettivo era di vincere prima dell'inverno (perché avrebbe reso difficili le operazioni militari) e inoltre Hitler sperava di mettere in crisi il gruppo dirigente sovietico e di far ribellare le diverse nazionalità e gruppi oppressi a Mosca.
+L'<u>Armata rossa</u> fu colta alla <u>sprovvista</u> siccome Stalin pensava che Hitler avrebbe attaccato solo dopo aver sconfitto lo UK; perciò la *Wehrmacht* avanzò velocemente. L'obiettivo era di <u>vincere prima dell'inverno</u> (perché avrebbe reso difficili le operazioni militari) e inoltre Hitler sperava di mettere in crisi il gruppo dirigente sovietico e di far ribellare le diverse nazionalità e gruppi oppressi a Mosca.
 
 ![](https://i.imgur.com/eaQ0gLH.png)
 
 ### La giustificazione ideologica dell'invasione
 
-I nazisti pure giustificarono l'invasione presentandola come una "crociata" contro il "giudaismo bolscevico" (perché la propaganda nazista indicava Mosca come il centro di un complotto ai danni degli ariani ordito da ebrei). Quindi la connotazione ideologica e razzista rese il conflitto una guerra di annientamento di massa. Gli ordini erano:
+I nazisti pure giustificarono l'invasione presentandola come una "*crociata*" contro il "**giudaismo bolscevico**" (perché la propaganda nazista indicava **Mosca** come il centro di un complotto ai danni degli ariani ordito da **ebrei**). Gli ordini erano:
 
-- Distruggere ogni opposizione (anche non armata),
-- Sfruttare i civili (anche mettendone la vita a rischio),
-- Fomentare le violenze contro gli ebrei e procedere poi alla loro eliminazione fisica.
+- <u>Distruggere ogni opposizione</u> (anche non armata),
+- <u>Sfruttare i civili</u> (anche mettendone la vita a rischio),
+- Fomentare le <u>violenze contro gli ebrei</u> e procedere poi alla loro eliminazione fisica.
 
-Inoltre per i nazisti, gli slavi erano una "razza inferiore", quindi secondo loro non tutelata dalle convenzioni per il trattamento dei prigionieri di guerra: almeno 3 milioni di essi sarebbero morti nei lager tra il 1941 e il 1945.
+Inoltre per i nazisti, gli slavi erano una "<u>razza inferiore</u>", quindi secondo loro non tutelata dalle convenzioni per il trattamento dei prigionieri di guerra: almeno 3 milioni di essi sarebbero morti nei *lager* tra il 1941 e il 1945.
 
 ### L'inverno e la controffensiva sovietica
 
-A fine novembre 1941 i tedeschi avevano conquistato vari territori russi (ottenendo il controllo di buona parte delle risorse agricole e industriali) però, nonostante l'Armata rossa aveva perso + di 2 milioni tra morti, feriti e prigionieri, Mosca non era stata conquistata e il freddo del "generale inverno" costrinse i tedeschi a fermarsi.
+A fine novembre 1941 i tedeschi avevano conquistato vari territori russi (ottenendo il controllo di buona parte delle risorse agricole e industriali) però, nonostante l'Armata rossa aveva perso + di 2 milioni tra morti, feriti e prigionieri, <u>Mosca non era stata conquistata</u> e il freddo del "<u>generale inverno</u>" costrinse i tedeschi a fermarsi.
 
-A quel punto, infrangendo le aspettative tedesche, il gruppo dirigente sovietico si affidò a Stalin, il quale chiamò tutti i popoli slavi ad unirsi contro i nemici. Da quel momento i sovietici iniziarono a fare "terra bruciata" (distruggere risorse e beni per evitare che finissero in mano al nemico) ritirandosi sempre più ad est.
+A quel punto, infrangendo le aspettative tedesche, il <u>gruppo dirigente sovietico si affidò a Stalin</u>, il quale chiamò tutti i popoli slavi ad unirsi contro i nemici. Da quel momento i sovietici iniziarono a fare "**terra bruciata**" (distruggere risorse e beni per evitare che finissero in mano al nemico) ritirandosi sempre più ad **est**.
 
-A dicembre poi i sovietici intrapresero una controffensiva che allontanò la linea a 200km da Mosca e da lì in poi la guerra divenne di logoramento, in cui i tedeschi erano in svantaggio per la lontananza dalle proprie basi di rifornimento.
+A dicembre poi i sovietici intrapresero una <u>controffensiva</u> che allontanò la linea a 200km da Mosca e da lì in poi la guerra divenne di <u>logoramento</u>, in cui i tedeschi erano in svantaggio per la lontananza dalle proprie basi di rifornimento.
 
 ### Gli USA
 
-Nonostante la neutralità dichiarata nel 1939, dopo la caduta della Francia Roosevelt decise di supportare lo UK contro il fascismo con 50 navi e iniziò a preparare l'esercito. Poi col suo 3° mandato, nel novembre 1940, accentuò il suo impegno antifascista ed adottò vari provvedimenti.
+Nonostante la neutralità dichiarata nel 1939, dopo la caduta della Francia **Roosevelt** decise di supportare lo UK <u>contro il fascismo</u> con 50 navi e iniziò a preparare l'esercito. Poi col suo 3° mandato, nel novembre 1940, accentuò il suo impegno antifascista ed adottò vari provvedimenti.
 
-Determinante fu il ***Lend-Lease Act***, che permetteva al governo di affittare, prestare o vendere (con pagamento a guerra finita) armi e prodotti di qualsiasi tipo alle nazioni contro l'Asse. Ciò fu possibile grazie all'apparato industrial-militare statunitense (da solo superiore di quelli nazifascisti insieme e) che diede anche una spinta all'economia americana (per 1a volta dal 1929 riassorbì la disoccupazione).
+Determinante fu il ***Lend-Lease Act***, che permetteva al governo di affittare, prestare o vendere (con pagamento a guerra finita) <u>armi e prodotti</u> di qualsiasi tipo alle nazioni contro l'Asse. Ciò fu possibile grazie all'apparato industrial-militare statunitense (da solo superiore di quelli nazifascisti insieme e) che diede anche una spinta all'economia americana (per 1a volta dal 1929 riassorbì la disoccupazione).
 
 ### La Carta Atlantica
 
-Inoltre Roosevelt e Churchill firmarono, il 14 agosto 1941, la Carta Atlantica: un documento di 8 punti (ispirato ai [[5) Il dopoguerra#I “14 punti” di Wilson|"14 punti" di Wilson]]) contenente i principi fondamentali ai quali il mondo, conclusa la guerra, avrebbe dovuto ispirarsi per reggersi sulla base di istituzioni democratiche:
+Inoltre <u>Roosevelt e Churchill</u> firmarono, il 14 agosto 1941, la **Carta Atlantica**: un documento di <u>8 punti</u> (ispirato ai [[5) Il dopoguerra#I “14 punti” di Wilson|"14 punti" di Wilson]]) contenente i <u>principi</u> fondamentali ai quali il mondo, conclusa la guerra, avrebbe dovuto ispirarsi per reggersi sulla base di <u>istituzioni democratiche</u>:
 
-- La rinuncia da parte dei vincitori a guadagni territoriali,
-- La possibilità di modificare i confini solo in caso di accordo tra gli interessati,
-- L'autodeterminazione dei popoli,
-- Il rifiuto dell'uso della forza nei rapporti tra gli stati,
-- La promozione di cooperazione economica nazionale.
+- La <u>rinuncia</u> da parte dei vincitori a <u>guadagni territoriali</u>,
+- La possibilità di <u>modificare i confini solo in caso di accordo</u> tra gli interessati,
+- L'<u>autodeterminazione dei popoli</u>,
+- Il <u>rifiuto dell'uso della forza</u> nei rapporti <u>tra gli stati</u>,
+- La promozione di <u>cooperazione economica</u> nazionale.
 
 ![](https://i.imgur.com/aaACisQ.png)
 
 ### L'ingresso in guerra del Giappone
 
-Il Giappone, dal 1940 legato all'Asse col Patto Tripartito e dal 1941 non + in guerra con l'URSS (accordo di neutralità), continuò ad espandersi in Cina fino ad occupare tutta l'Indocina francese. A quel punto UK e USA avevano decretato un blocco commerciale per le esportazioni verso il Giappone.
+Il **Giappone**, dal 1940 legato all'Asse col [[10) Verso la WWII#L'alleanza Roma-Berlino-Tokyo|patto tripartito]] e dal 1941 non + in guerra con l'URSS (accordo di neutralità), continuò ad espandersi in **Cina** fino ad occupare tutta l'<u>Indocina francese</u>. A quel punto UK e USA avevano decretato un <u>blocco commerciale</u> per le esportazioni verso il Giappone.
 
-Il paese, povero di materie prime e soprattutto di petrolio (90% veniva dagli USA) poteva ritirarsi, oppure avviare una guerra di conquista per le risorse come sostenuto dal generale Tojo, simpatizzante per l'Asse.
+Il paese, povero di materie prime e soprattutto di petrolio (90% veniva dagli USA) poteva ritirarsi, oppure avviare una <u>guerra di conquista per le risorse</u> come sostenuto dal generale **Tojo**, simpatizzante per l'Asse.
 
 ![](https://i.imgur.com/MnbRt8Q.png)
 
 ### Pearl Harbor e l'ingresso in guerra degli USA
 
-Il 7 dicembre del 1941, l'aviazione giapponese aggredì a sorpresa la base navale americana di Pearl Harbor nelle Hawaii. L'attacco (che distrusse centinaia tra aerei e navi) fu la goccia che fece traboccare il vaso: l'8 dicembre 1941, gli USA entrarono in guerra contro il Giappone, mentre 4 giorni dopo giunse anche la dichiarazione di guerra da parte di Germania e Italia.
+Il <u>7 dicembre 1941</u>, l'aviazione giapponese aggredì a sorpresa la base navale americana di **Pearl Harbor** nelle Hawaii. L'attacco (che distrusse centinaia tra aerei e navi) fu la goccia che fece traboccare il vaso: l'8 dicembre 1941, gli **USA** entrarono in guerra contro il **Giappone**, mentre 4 giorni dopo giunse anche la dichiarazione di guerra da parte di Germania e Italia.
 
 (Fino a metà 1942, i giapponesi ebbero la meglio e conquistarono Filippine, Malesia, Hong Kong, Singapore, Birmania, Indonesia e nuova Guinea; inoltre ora potevano minacciare India e Australia).
 
@@ -188,39 +186,39 @@ Il 7 dicembre del 1941, l'aviazione giapponese aggredì a sorpresa la base naval
 
 ### Il patto delle Nazioni Unite
 
-Dopo l'entrata del Giappone, i ***Big Three*** (USA, UK e URSS) si riunirono a fine 1941 nella **conferenza di Washington**, in cui venne sottoscritto il **patto delle Nazioni Unite** per cui: oltre ad aderire alla Carta Atlantica, tutte le nazioni in lotta contro il nazifascismo si impegnavano con tutto ciò che avevano contro l'Asse e non negoziavano paci separate.
+Dopo l'entrata del Giappone, i ***Big Three*** (USA, UK e URSS) si riunirono a fine 1941 nella **conferenza di Washington**, in cui venne sottoscritto il **patto delle Nazioni Unite** per cui: oltre ad aderire alla <u>Carta Atlantica</u>, tutte le <u>nazioni</u> in lotta <u>contro il nazifascismo si impegnavano</u> con tutto ciò che avevano contro l'Asse e <u>non negoziavano paci separate</u>.
 
 # Il "Nuovo Ordine" e le resistenze
 
 ### Il progetto del "Grande Reich"
 
-Hitler progettava di istituire un "Nuovo Ordine" in Europa, basato su una rigida struttura politica, economica e razziale piramidale:
+Hitler progettava di istituire un "**Nuovo Ordine**" in Europa, basato su una rigida struttura politica, economica e razziale <u>piramidale</u>:
 
-1) Il "Grande Reich" (Germania prebellica e territori annessi dal 1938) era al vertice,
-2) Gli alleati subalterni, paesi indipendenti asserviti a Berlino (Ungheria, Romania, Slovacchia, Bulgaria e Francia di Vichy), seguivano,
-3) I paesi sottoposti a controllo militare con poche prerogative di autonomia (Norvegia, Danimarca, Olanda, Belgio, Iugoslavia e Grecia) erano al 3° posto,
-4) I "protettorati" (Boemia-Moravia) e "governatorati" (Polonia e Ucraina), paesi ridotti a colonie prive di autonomia, erano alla base.
+1) Il "**Grande Reich**" (Germania prebellica e territori annessi dal 1938) era al <u>vertice</u>,
+2) Gli **alleati subalterni**, <u>paesi indipendenti asserviti a Berlino</u> (Ungheria, Romania, Slovacchia, Bulgaria e Francia di Vichy), seguivano,
+3) I **paesi sottoposti a controllo militare** con poche prerogative di autonomia (Norvegia, Danimarca, Olanda, Belgio, Iugoslavia e Grecia) erano al 3° posto,
+4) I "**protettorati**" (Boemia-Moravia) e "**governatorati**" (Polonia e Ucraina), paesi ridotti a colonie prive di autonomia, erano alla base.
 
 In tale sistema l'Italia aveva un ruolo secondario, però la debolezza militare era compensata dal prestigio del fascismo e dalla considerazione personale di Hitler nei confronti di Mussolini.
 
 ### Le basi razziali dello sfruttamento economico
 
-La struttura piramidale del "Nuovo Ordine" derivava da un presupposto razziale: la razza ariana aveva il diritto assoluto di dominare tutte le altre considerate inferiori. Lo stesso presupposto era la causa del differente trattamento dei regimi occupati:
+La struttura piramidale del "Nuovo Ordine" derivava da un **presupposto razziale**: la <u>razza ariana</u> aveva il diritto assoluto di dominare tutte le <u>altre</u> considerate <u>inferiori</u>. Lo stesso presupposto era la causa del differente trattamento dei regimi occupati:
 
-- I paesi ad est, abitati da slavi, venivano ridotti a colonie agricole e le persone sfruttate e quasi come schiavi.
-- I paesi ad ovest, abitati da razze superiori, rafforzavano dell'economia tedesca mantenendo una sorta di autonomia.
+- I **paesi ad est**, abitati da <u>slavi</u>, venivano <u>ridotti a colonie agricole e le persone sfruttate</u> e quasi come schiavi.
+- I **paesi ad ovest**, abitati da <u>razze superiori</u>, rafforzavano dell'economia tedesca mantenendo una sorta di <u>autonomia</u>.
 
-Economicamente l'Europa occupata fu praticamente saccheggiata: materie prime e beni trasferiti al Reich, imprese controllate dai tedeschi, tassi di cambio fissati per favorire la Germania...
+Economicamente l'Europa occupata fu praticamente **saccheggiata**: materie prime e beni trasferiti al Reich, imprese controllate dai tedeschi, tassi di cambio fissati per favorire la Germania...
 
-Analogamente, tramite trasferimento coatto, masse di lavoratori stranieri vennero portati in Germania e la loro sorte dipendeva dalla razza: ad ebrei, polacchi e russi spettava morte, mentre gli altri vivevano comunque una vita di stenti.
+Analogamente, tramite **trasferimento coatto**, masse di lavoratori stranieri vennero portati in Germania e la loro sorte dipendeva dalla razza: ad ebrei, polacchi e russi spettava morte, mentre gli altri vivevano comunque una vita di stenti.
 
 ![](https://i.imgur.com/QXXIp5d.png)
 
 ### La "questione ebraica"
 
-Gli ebrei, abbondanti nell'Europa est conquistata dai tedeschi, erano al gradino + basso della gerarchia razziale; in + i nazisti radicalizzarono la questione della loro sorte, passando dalla loro emarginazione all'eliminazione.
+Gli **ebrei**, abbondanti nell'Europa est conquistata dai tedeschi, erano al <u>gradino + basso della gerarchia razziale</u>; in + i nazisti radicalizzarono la questione della loro sorte, passando <u>dalla loro emarginazione all'eliminazione</u>.
 
-Dapprima gli ebrei vennero radunati nei ghetti, quartieri isolati nelle città (+ di 3 milioni a Varsavia, Lodz, Cracovia...) in cui venivano deportati anche da occidente.
+Dapprima gli ebrei vennero radunati nei **ghetti**, quartieri isolati nelle città (+ di 3 milioni a Varsavia, Lodz, Cracovia...) in cui venivano deportati anche da occidente.
 
 ##### La rivolta nel ghetto di Varsavia
 
@@ -228,11 +226,11 @@ Dapprima gli ebrei vennero radunati nei ghetti, quartieri isolati nelle città (
 
 ### Lo sterminio degli ebrei
 
-All'arresto sul fronte russo e prima della guerra di logoramento, i territori andavano riorganizzati. I ghetti erano sovrappopolati e le fucilazioni di ebrei erano sporadiche, perciò in autunno 1941 Hitler decise che gli ebrei andavano eliminati velocemente.
+All'arresto sul fronte russo e prima della guerra di logoramento, i territori andavano riorganizzati. I **ghetti** erano <u>sovrappopolati</u> e le fucilazioni di ebrei erano sporadiche, perciò in autunno 1941 Hitler decise che gli <u>ebrei</u> andavano <u>eliminati</u> velocemente.
 
-Ciò fu formalizzato nella conferenza di Wannsee nel gennaio 1942, dove fu messo a punto un piano per lo sterminio di massa di milioni di ebrei: la "soluzione finale della questione ebraica".
+Ciò fu formalizzato nella **conferenza di Wannsee** nel gennaio 1942, dove fu messo a punto un piano per lo <u>sterminio di massa</u> di milioni di <u>ebrei</u>: la "*soluzione finale della questione ebraica*".
 
-Si stabilì che le deportazioni da ovest a est dovevano avere frequenza regolare e crescente, perciò vennero istituiti nuovi campi di concentramento, alcuni dei quali divennero campi di sterminio (tipo Auschwitz). Si calcola che il genocidio abbia fatto da 5 a 7 milioni di vittime.
+Si stabilì che le deportazioni da ovest a est dovevano avere frequenza regolare e crescente, perciò vennero istituiti nuovi **campi di concentramento**, alcuni dei quali divennero **campi di sterminio** (tipo <u>Auschwitz</u>). Si calcola che il genocidio abbia fatto da <u>5 a 7 milioni di vittime</u>.
 
 ### Le reazioni al nazismo
 
@@ -240,37 +238,37 @@ I paesi sotto il controllo tedesco reagirono in 3 modi:
 
 ##### La resistenza
 
-La resistenza (crescente nel corso del conflitto) fu un movimento eterogeneo (diverse motivazioni e linee di pensiero) avente 2 fasi:
+La **resistenza** (crescente nel corso del conflitto) fu un <u>movimento eterogeneo</u> (diverse motivazioni e linee di pensiero) avente 2 fasi:
 
-- Inizialmente, fu praticata da piccoli gruppi con una forte motivazione politica antifascista che facevano atti di sabotaggio, propaganda clandestina o informavano lo UK.
-- Dopo, con l'invalidazione del patto Molotov-Ribbentrop e l'aggiunta del supporto comunista sui fronti antifascisti interni, le resistenze assunsero caratteri di movimenti popolari: i partigiani (Balcani, Iugoslavia, Grecia e Italia), che acquisirono sempre + rilevanza nei paesi occupati dai tedeschi.
+- **Inizialmente**, fu praticata da <u>piccoli gruppi</u> con una forte motivazione politica <u>antifascista</u> che facevano atti di <u>sabotaggio</u>, <u>propaganda clandestina</u> o informavano lo UK.
+- **Dopo**, con l'<u>invalidazione del patto Molotov-Ribbentrop</u> e l'aggiunta del supporto <u>comunista</u> sui fronti antifascisti interni, le resistenze assunsero caratteri di <u>movimenti popolari</u>: i **partigiani** (Balcani, Iugoslavia, Grecia e Italia), che acquisirono sempre + rilevanza nei paesi occupati dai tedeschi.
 
-Anche nelle resistenze vi erano divisioni interne riguardo al futuro dei paesi dopo la liberazione: se le sinistre volevano poi una profonda trasformazione poltico-sociale, le destre volevano ripristinare le democrazie parlamentari liberali.
+Anche nelle resistenze vi erano <u>divisioni interne</u> riguardo al futuro dei paesi dopo la liberazione: se le <u>sinistre</u> volevano poi una profonda trasformazione poltico-sociale, le <u>destre</u> volevano ripristinare le democrazie parlamentari liberali.
 
 ###### La resistenza nei Balcani (e Iugoslavia) ((sotto foto))
 
 ##### Il collaborazionismo
 
-Altro schieramento erano i gruppi che volevano collaborare con gli invasori nazifascisti siccome per loro il 3° Reich era l'alternativa alla democrazia e il baluardo contro il bolscevismo.
+Altro schieramento erano i gruppi che volevano **collaborare** con gli invasori <u>nazifascisti</u> siccome per loro il 3° Reich era l'alternativa alla democrazia e il baluardo contro il <u>bolscevismo</u>.
 
-Nonostante le varie forme del fenomeno, i fattori comuni furono l'antisemitismo e l'avversione per la democrazia. (Per esempio, la Francia di Vichy collaborava in autonomia, i paesi baltici videro grande arruolamento di SS per anticomunismo e antisemitismo ma ci furono anche governi completamente succubi di Berlino, come la Norvegia, la Slovacchia, la Slovenia e la Croazia).
+Nonostante le varie forme del fenomeno, i fattori comuni furono l'<u>antisemitismo</u> e l'<u>avversione per la democrazia</u>. (Per esempio, la Francia di Vichy collaborava in autonomia, i paesi baltici videro grande arruolamento di SS per anticomunismo e antisemitismo ma ci furono anche governi completamente succubi di Berlino, come la Norvegia, la Slovacchia, la Slovenia e la Croazia).
 
 ##### L'attendismo
 
-Quest'altro semplicemente indica la passiva e rassegnata attesa dell'andamento degli eventi.
+Quest'altro semplicemente indica la **passiva e rassegnata attesa dell'andamento degli eventi**.
 
 ![](https://i.imgur.com/QtWRvX5.png)
 
 ### Il "Nuovo Ordine" giapponese in Asia
 
-In Asia, anche il Giappone aveva costituito un "Nuovo Ordine"; e, nonostante lo propagandasse come un'azione di liberazione del continente dal controllo occidentale, ciò (come l'indipendenza dei paesi "alleati") era in realtà una copertura per il disegno egemonico di Tokyo, che voleva sfruttare i paesi subordinati per materie prime e risorse.
+In Asia, anche il **Giappone** aveva costituito un "**Nuovo Ordine**"; e, nonostante lo propagandasse come un'azione di <u>liberazione del continente dagli occidentali</u>, ciò (come l'indipendenza dei paesi "alleati") era in realtà una <u>copertura</u> per il disegno egemonico di Tokyo, che voleva sfruttare i paesi subordinati per le risorse.
 
-Analogamente al "Nuovo Ordine" nazista, alla base di questo vi era un simile principio razziale, che considerava inferiori le altre razze asiatiche (a partire dai cinesi) e gli europei; perciò la gerarchia dei paesi comprendeva:
+Analogamente al "Nuovo Ordine" nazista, alla base di questo vi era un simile <u>principio razziale</u>, che considerava <u>inferiori le altre razze asiatiche</u> (a partire dai cinesi) e gli europei; perciò la gerarchia dei paesi comprendeva:
 
-1) Il Giappone al vertice,
-2) I paesi alleati controllati militarmente (Manchu-kuo, Siam, Birmania, Indocina e Filippine),
-3) Poi paesi senza autonomia politica (Malesia e Indonesia),
-4) Le colonie in fondo (Hong-Kong, Singapore, Borneo, Nuova Guinea, Timor).
+1) Il **Giappone** al vertice,
+2) I paesi **alleati** controllati militarmente (Manchu-kuo, Siam, Birmania, Indocina e Filippine),
+3) Poi **paesi senza autonomia politica** (Malesia e Indonesia),
+4) Le **colonie** in fondo (Hong-Kong, Singapore, Borneo, Nuova Guinea, Timor).
 
 ##### La resistenza all'occupazione giapponese
 
@@ -278,31 +276,31 @@ Analogamente al "Nuovo Ordine" nazista, alla base di questo vi era un simile pri
 
 ### Gli ultimi successi dell'asse
 
-In primavera 1942 le forze del Patto Tripartito raggiunsero il culmine della loro espansione:
+In primavera <u>1942</u> le forze del **Patto Tripartito** raggiunsero il <u>culmine della loro espansione</u>:
 
 - Il Giappone controllava tutta l'Asia sud-est, parte di Cina e molte isole del Pacifico,
 - ...
 
 Inoltre:
 
-- Nell'atlantico, i sottomarini tedeschi provocavano gravi danni alla flotta (mercantile e militare) alleata,
-- In Russia, dopo l'inverno, l'Asse aveva ripreso l'offensiva,
-- In Africa nord l'Asse aveva rioccupato la Cirenaica.
+- Nell'<u>atlantico</u>, i <u>sottomarini tedeschi</u> provocavano gravi danni alla flotta (mercantile e militare) alleata,
+- In <u>Russia</u>, dopo l'inverno, l'<u>Asse aveva ripreso l'offensiva</u>,
+- In <u>Africa nord</u> l'Asse aveva rioccupato la <u>Cirenaica</u>.
 
 Tuttavia di lì a poco, la situazione iniziò a preoccupare i tedeschi siccome:
 
-- In URSS il potere politico si era rafforzato anziché cedere,
-- Lo UK aveva retto agli attacchi,
-- Gli USA erano entrati in guerra,
-- La Germania non riceveva adeguato sostegno militare, con i continui fallimenti italiani e la strategia giapponese alta in termini di costi e non coordinata con l'Asse.
+- In <u>URSS il potere politico si era rafforzato</u> anziché cedere,
+- Lo <u>UK aveva retto</u> agli attacchi,
+- Gli <u>USA erano entrati</u> in guerra,
+- La <u>Germania non riceveva adeguato sostegno militare</u>, con i continui fallimenti italiani e la strategia giapponese alta in termini di costi e non coordinata con l'Asse.
 
 ### La resistenza di Stalingrado
 
-Da luglio a novembre 1942 l'offensiva tedesca in URSS riprese verso il Caucaso fino ad arrivare a Stalingrado, dove la battaglia si svolse casa per casa per l'intera città. Il 19 novembre, però, una controffensiva sovietica ribaltò la situazione accerchiando i tedeschi e costringendoli, in febbraio 1943, ad arrendersi al costo di 300000 uomini (morti o prigionieri).
+Da metà a fine 1942 l'offensiva tedesca in **URSS** riprese verso il Caucaso fino ad arrivare a **Stalingrado**, dove la battaglia si svolse casa per casa per l'intera città. Il 19 novembre, però, una <u>controffensiva sovietica ribaltò la situazione</u> accerchiando i tedeschi e costringendoli, in febbraio 1943, ad <u>arrendersi</u> al costo di 300000 uomini (morti o prigionieri).
 
-Questa fu la 1a sconfitta tedesca di grandi dimensioni, tanto che Hitler ordinò 4 giorni di lutto nazionale. Per gli antinazisti e antifascisti invece, la battaglia di Stalingrado ebbe grande valore simbolico.
+Questa fu la 1a sconfitta tedesca di grandi dimensioni, tanto che Hitler ordinò 4 giorni di lutto nazionale. Per gli antinazisti e antifascisti invece, la **battaglia di Stalingrado** ebbe grande valore simbolico.
 
-Nel marzo 1943 l'Asse, con anche l'ARMIR (*Armata Italiana in Russia*, un corpo di 230000 uomini che sostituiva il precedente), fu respinta oltre il Don, segnando il pessaggio dell'iniziativa militare nelle mani dell'URSS.
+Nel marzo 1943 l'Asse, con anche l'**ARMIR** (*Armata Italiana in Russia*, un corpo di 230000 uomini che sostituiva il precedente), fu <u>respinta</u> oltre il Don, segnando il passaggio dell'iniziativa militare nelle mani dell'<u>URSS</u>.
 
 ##### La battaglia di Stalingrado
 
@@ -310,55 +308,55 @@ Nel marzo 1943 l'Asse, con anche l'ARMIR (*Armata Italiana in Russia*, un corpo 
 
 ### Le vittorie alleate in Africa
 
-Intanto, dopo metà 1942, l'*Afrikakorps* era giunto ad El Alamein, a circa 100km da Alessandria (lì poteva minacciare il canale di Suez), però le truppe erano sfiancate e prive di rifornimenti a causa degli spostamenti e degli attacchi britannici.
+Intanto, da metà 1942, l'***Afrikakorps*** era giunto ad El Alamein, a circa <u>100km da Alessandria</u> (lì poteva minacciare il canale di Suez), però le truppe erano sfiancate e prive di rifornimenti a causa degli spostamenti e degli attacchi britannici.
 
-Perciò il generale inglese Montgomery lanciò una controffensiva che ad inizio novembre 1942 sfondò tutte le linee nemiche costringendo le truppe dell'Asse a ritirarsi in Tunisia.
+Perciò il generale inglese **Montgomery** lanciò una <u>controffensiva</u> che ad inizio novembre 1942 sfondò tutte le linee nemiche costringendo le truppe dell'<u>Asse a ritirarsi</u> in Tunisia.
 
-Purtroppo questi non sapevano che pochi giorni dopo (8 novembre) un contingente anglo-americano capeggiato da Eisenhower sbarcò in Marocco e Algeria per occupare le colonie della Francia di Vichy e stringere in una morsa gli avversari, i quali (250000) nel maggio 1943, dovettero arrendersi.
+Purtroppo questi non sapevano che pochi giorni dopo (8 novembre) un contingente anglo-americano capeggiato da **Eisenhower** sbarcò in <u>Marocco e Algeria</u> per occupare le colonie della Francia di Vichy e stringere in una <u>morsa</u> gli avversari, i quali (250000) nel maggio 1943, dovettero arrendersi.
 
 ##### I victory garden
+
+A causa dell'arruolamento di gran parte dei cittadini, gli <u>approvvigionamenti iniziarono a scarseggiare</u> per la mancanza di manodopera nel settore <u>agricolo</u>. Per rimediare, nacquero i ***victory garden***, piccoli <u>orti privati e pubblici</u> curati dai residenti che sgravarono lo stato dai rifornimenti e gli permisero di concentrare gli sforzi economici in guerra.
 
 ![](https://i.imgur.com/sRRm42R.png)
 
 ### L'Italia nuovo fronte
 
-Nel gennaio 1943, Roosevelt e Churchill parteciparono alla Conferenza di Casablanca e decisero che l'apertura del nuovo fronte (chiesta da Stalin per alleggerire le pressioni in URSS) sarebbe iniziata invadendo l'Italia attraverso la Sicilia. Questo perché:
+Nel <u>gennaio 1943</u>, <u>Roosevelt e Churchill</u> parteciparono alla **Conferenza di Casablanca** e decisero che l'apertura del <u>nuovo fronte</u> (chiesta da Stalin per alleggerire le pressioni in URSS) sarebbe iniziata invadendo l'**Italia** attraverso la **Sicilia**. Questo perché:
 
-- Era evidente la debolezza del fascismo data quella militare del paese stesso,
-- Era + semplice uno sbarco in Sicilia rispetto ad altre parti,
-- Gli anglo-americani non volevano "fare regali" a Stalin (il quale preferiva uno sbarco in Francia).
+- Era <u>evidente la debolezza del fascismo</u> data quella militare del paese stesso,
+- Era <u>+ semplice uno sbarco in Sicilia</u> rispetto ad altre parti,
+- Gli <u>anglo-americani non volevano "fare regali" a Stalin</u> (il quale preferiva uno sbarco in Francia).
 
-In tutto ciò l'Italia era estremamente in difficoltà: durante tutto marzo 1943 a nord vi furono diversi scioperi operai, i bombardamenti alleati si andavano via via intensificando e il paese era nel bel mezzo di una crisi economica.
+In tutto ciò l'**Italia** era estremamente <u>in difficoltà</u>: durante tutto marzo 1943 a nord vi furono diversi <u>scioperi operai</u>, i <u>bombardamenti alleati</u> si andavano via via intensificando e il paese era nel bel mezzo di una <u>crisi economica</u>.
 
 ### Lo sbarco degli alleati in Sicilia
 
-Tra il 9 e il 10 luglio 1943 ebbe inizio l'"operazione Husky", ovvero la conquista in poche settimane (per l'impreparazione italiana e i pochi tedeschi) della Sicilia dopo lo sbarco di truppe americane, inglesi e canadesi.
+Tra il <u>9 e il 10 luglio 1943</u> ebbe inizio l'"***operazione Husky***", ovvero la conquista in poche settimane (per l'impreparazione italiana e i pochi tedeschi) della **Sicilia** dopo lo sbarco di truppe americane, inglesi e canadesi.
 
-Intanto le forze aeree statunitensi bombardavano Roma: 1000 tonnellate di bombe furono sganciate e colpirono obiettivi militari e abitazioni, facendo + di 3000 vittime. (L'impatto emotivo di ciò fu enorme ed inasprì l'avversione per la guerra).
+Intanto le forze aeree statunitensi <u>bombardavano Roma</u>: 1000 tonnellate di bombe furono sganciate e colpirono obiettivi militari e abitazioni, facendo + di 3000 vittime. (L'impatto emotivo di ciò fu enorme ed inasprì l'avversione per la guerra).
 
 ### La caduta di Mussolini e il nuovo governo Badoglio
 
-Oltre ai siciliani che accolsero gli alleati come liberatori, tanti altri (militari, industriali, politici e pure il re) stavano valutando un'uscita di scena di Mussolini. Questo perché si voleva negoziare una pace separata senza punire troppo il paese o la monarchia. 
+Oltre ai siciliani che accolsero gli alleati come liberatori, tanti altri (militari, industriali, politici e pure il re) stavano valutando un'<u>uscita di scena di Mussolini</u>. Questo perché si voleva negoziare una <u>pace separata</u> senza punire troppo il paese o la monarchia. 
 
-Quando Hitler lo seppe, attuò il "piano Alarico": l'inviò a ruota di rinforzi (prima negati) in Italia al fine di difendere la penisola; però Vittorio Emanuele III aveva già predisposto le cose per allontanare Mussolini.
+Quando <u>Hitler</u> lo seppe, attuò il "***piano Alarico***": l'invio a ruota di <u>rinforzi</u> (prima negati) in Italia al fine di difendere la penisola; però Vittorio Emanuele III aveva già predisposto le cose per <u>allontanare Mussolini</u>.
 
-Il 25 luglio 1943, prima Mussolini venne sfiduciato dai fascisti moderati in una seduta del Gran Consiglio del fascismo, poi nel pomeriggio si recò dal re, sentendosi dire di dare le dimissioni per venire infine arrestato all'uscita. Il duce fu quindi confinato a Campo Imperatore in Abruzzo e sostituito dal generale Badoglio.
+Il <u>25 luglio 1943</u>, prima Mussolini venne sfiduciato dai fascisti moderati in una seduta del Gran Consiglio del fascismo, poi nel pomeriggio si recò dal re, sentendosi dire di dare le <u>dimissioni</u> per venire infine <u>arrestato</u> all'uscita. 
 
-Radio e giornali interruppero tutto per dare la notizia e in poche ore le folle scesero in piazza a festeggiare la caduta del fascismo, prendendo d'assalto tutte le sedi, i simboli e gli esponenti di esso.
+Il duce fu quindi <u>confinato a Campo Imperatore</u> in Abruzzo e sostituito dal generale **Badoglio**. Radio e giornali interruppero tutto per dare la notizia e in poche ore le folle scesero in piazza a festeggiare la caduta del fascismo, prendendo d'assalto tutte le sedi, i simboli e gli esponenti di esso.
 
 ![](https://i.imgur.com/1NVJx15.png)
 
 ### L'armistizio con gli alleati
 
-Badoglio, seppur aveva affermato ai tedeschi di stare dalla loro parte, per salvare la monarchia, avviò trattative con gli anglo-americani per una pace separata.
-
-Il 3 settembre (anche se pubblicato solo l'8) 1943 fu firmato l'armistizio di Cassabile che concludeva la guerra tra Italia e alleati.
+**Badoglio**, seppur aveva affermato ai tedeschi di stare dalla loro parte, per salvare la monarchia, avviò <u>trattative con gli anglo-americani</u> per una pace separata. Il 3 **settembre** (anche se pubblicato solo l'**8**) **1943** fu firmato l'**armistizio di Cassabile** che concludeva la guerra tra Italia e alleati.
 
 ![](https://i.imgur.com/1Y4jO5Z.png)
 
 ### L'occupazione dell'Italia
 
-Appena saputo dell'armistizio, i tedeschi occuparono l'Italia, Badoglio e il re abbandonarono Roma per Brindisi (appena liberata) e l'esercito (senza indicazioni) si dissolse e cadde sotto i colpi della *Wehrmacht*.
+Appena saputo dell'armistizio, i <u>tedeschi occuparono l'Italia</u>, Badoglio e il re abbandonarono Roma per Brindisi (appena liberata) e l'esercito (senza indicazioni) si dissolse e cadde sotto i colpi della *Wehrmacht*.
 
 In pochi giorni quasi 1 milione di soldati furono deportati. Inoltre i reparti italiani all'estero talvolta riuscirono a unirsi ai partigiani locali (Grecia, Albania e Iugoslavia), ma nei casi in cui provarono a resistere furono trucidati (come a Cefalonia, Corfu...).
 
@@ -372,17 +370,17 @@ Alla flotta militare era stato ordinato di consegnarsi agli alleati a Malta ma f
 
 ### La Repubblica Sociale Italiana e la guerra in Italia
 
-Il 12 settembre 1943 i nazisti liberarono Mussolini e gli affidarono il compito di costituire un nuovo governo fascista nei territori occupati (centro-nord): la RSI (*Repubblica Sociale Italiana*).
+Il <u>12 settembre 1943</u> i **nazisti liberarono Mussolini** e gli affidarono il compito di costituire un nuovo governo fascista nei territori occupati (centro-nord): la **RSI** (*Repubblica Sociale Italiana*).
 
-Il 13 ottobre 1943 Badoglio dichiarò guerra alla Germania, gli alleati riconobbero l'Italia come paese cobelligerante (stato non alleato ma che combatte lo stesso nemico) e un **corpo italiano di liberazione** li aiutò.
+Il <u>13 ottobre 1943</u> **Badoglio** dichiarò guerra alla **Germania**, gli alleati riconobbero l'Italia come **paese cobelligerante** (stato non alleato ma che combatte lo stesso nemico) e un corpo italiano di liberazione li aiutò.
 
-Dopo la liberazione di Napoli ad ottobre 1943 seguì una fase di stallo fino al maggio 1944; da lì fino ad ottobre gli alleati conquistarono tutto fino alla linea Gotica, che sarà sfondata solo a inizio 1945 arrivando poi alla resa tedesca in Italia il 2 maggio.
+Dopo la liberazione di **Napoli** ad ottobre 1943 seguì una fase di <u>stallo</u> fino al maggio 1944; da lì fino ad ottobre gli alleati conquistarono tutto fino alla **linea Gotica**, che sarà sfondata solo a inizio 1945 arrivando poi alla resa tedesca in Italia il 2 maggio.
 
 (Questo paragrafo è una preview del prossimo capitolo: [[12) L'Italia dopo l'armistizio]])
 
 ### La guerra partigiana
 
-La guerra fatta dagli alleati non fu l'unica in quanto anche i partigiani avevano dato un grande contributo. Questi, dopo la caduta del fascismo, avevano formato il CLN (*Comitato di Liberazione Nazionale*) e nelle zone della RSI si sviluppò anche un forte movimento di resistenza che piegò i fascisti con sabotaggi e guerriglia.
+La guerra fatta dagli alleati non fu l'unica in quanto anche i **partigiani** avevano dato un grande contributo. Questi, dopo la caduta del fascismo, avevano formato il **CLN** (*Comitato di Liberazione Nazionale*) e nelle zone della RSI si sviluppò anche un forte movimento di **resistenza** che piegò i fascisti con sabotaggi e guerriglia.
 
 (Questo paragrafo è una preview del prossimo capitolo: [[12) L'Italia dopo l'armistizio]])
 
@@ -390,23 +388,23 @@ La guerra fatta dagli alleati non fu l'unica in quanto anche i partigiani avevan
 
 ### La strategia finale degli alleati
 
-A fine novembre 1943 Roosevelt, Churchill e Stalin si riunirono nella conferenza di Teheran per concordare una strategia d'attacco:
+A fine novembre 1943 <u>Roosevelt, Churchill e Stalin</u> si riunirono nella **conferenza di Teheran** per concordare una strategia d'attacco:
 
-- Stalin chiedeva l'apertura di un fronte in Francia per avere meno pressione,
-- Churchill lo preferiva nei Balcani siccome temeva una possibile espansione sovietica in questa zona (strategica per gli interessi dello UK nel mediterraneo) a guerra finita,
-- Roosevelt invece era convinto che la sconfitta della Germania venisse prima di tutto e confidava di poter a contenere le mire dell'URSS a guerra finita.
+- **Stalin** chiedeva l'apertura di un <u>fronte in Francia</u> per avere meno pressione,
+- **Churchill** lo preferiva nei <u>Balcani</u> siccome temeva una possibile espansione sovietica in questa zona (strategica per gli interessi dello UK nel mediterraneo) a guerra finita,
+- **Roosevelt** invece era convinto che la <u>sconfitta della Germania</u> venisse <u>prima di tutto</u> e confidava di poter a contenere le mire dell'URSS a guerra finita.
 
-Gli inglesi non potevano opporsi agli USA (per la loro potenza), perciò fu decisa l'"operazione Overlord", che prevedeva uno sbarco in Francia nord in Normandia (per aggirare il grosso dei tedeschi a Calais).
+Gli inglesi non potevano opporsi agli USA (per la loro potenza), perciò fu decisa l'"***operazione Overlord***", che prevedeva uno <u>sbarco in Francia nord</u> in **Normandia** (per aggirare il grosso dei tedeschi a Calais).
 
 ![](https://i.imgur.com/5nlO7wr.png)
 
 ### Lo sbarco in Normandia
 
-L'operazione iniziò, dopo bombardamenti e paracadutisti oltre le linee tedesche, di notte tra il 5 e il 6 giugno 1944 (il "D-Day") con l'uso di migliaia di navi, mezzi anfibi e aerei.
+L'operazione iniziò, dopo bombardamenti e paracadutisti oltre le linee tedesche, di <u>notte tra il 5 e il 6 giugno 1944</u> (il "***D-Day***") con l'uso di migliaia di navi, mezzi anfibi e aerei.
 
-Centinaia di migliaia di uomini sbarcarono in 5 punti della spiaggia per fare da teste di ponte () per la conquista e, nonostante le forti perdite subite, a fine luglio il nord della Francia fu liberato. 
+Centinaia di migliaia di uomini sbarcarono in 5 punti della spiaggia per fare da **teste di ponte** (zona limitata nel territorio nemico controllata da un esercito) per la conquista e, nonostante le forti perdite subite, a fine luglio il <u>nord della Francia fu liberato</u>. 
 
-Da lì (in agosto): il 15 sbarco in Provenza, il 18 Parigi insorse, il 25 Parigi accolse i primi reparti di resistenza, il 3 settembre arrivo ad Anversa e il 4 a Bruxelles. La marcia verso la Germania subì tuttavia una battuta d'arresto sul Reno dopo la conquista di Aquisgrana.
+Da lì (in agosto): il 15 sbarco in Provenza, il 18 Parigi insorse, il 25 Parigi accolse i primi reparti di resistenza, il 3 settembre arrivo ad Anversa e il 4 a Bruxelles. La marcia verso la Germania subì tuttavia una <u>battuta d'arresto</u> sul **Reno** dopo la conquista di Aquisgrana.
 
 ##### Il D-Day
 
@@ -414,23 +412,23 @@ Da lì (in agosto): il 15 sbarco in Provenza, il 18 Parigi insorse, il 25 Parigi
 
 ### La controffensiva russa e l'Europa orientale
 
-Intanto l'apparato militare sovietico si era rafforzato grazie all'industria, tanto che l'Armata rossa riuscì a travolgere completamente i tedeschi nel luglio 1943 a Kursk (in quella che era la loro ultima offensiva in Russia) riprendendosi l'Ucraina, la Crimea e Leningrado.
+Intanto l'apparato militare sovietico si era rafforzato grazie all'industria, tanto che l'**Armata rossa** riuscì a travolgere completamente i tedeschi nel luglio 1943 a **Kursk** (in quella che era la loro ultima offensiva in Russia) riprendendosi l'<u>Ucraina, la Crimea e Leningrado</u>.
 
-Nell'estate 1944 l'Armata rossa entrò in Polonia fermandosi però a Varsavia, dove vi era un'insurrezione che mirava a liberare il paese prima dell'arrivo dei sovietici. Nonostante le richieste d'aiuto, l'URSS attese finché i nazisti non sedarono la rivolta uccidendo 200000 patrioti e distruggendo gran parte della città.
+Nell'<u>estate 1944</u> l'Armata rossa entrò in **Polonia** fermandosi però a **Varsavia**, dove vi era un'<u>insurrezione</u> che mirava a <u>liberare il paese prima dell'arrivo dei sovietici</u>. Nonostante le richieste d'aiuto, l'<u>URSS attese</u> finché i nazisti non sedarono la rivolta uccidendo 200000 patrioti e distruggendo gran parte della città.
 
-Tra agosto e settembre 1944 i sovietici conquistarono la Romania, la Bulgaria, l'Estonia e la Lettonia. La Finlandia, che aveva appoggiato l'operazione Barbarossa, firmò un trattato di pace con l'URSS proprio come l'Ungheria; però quest'ultima fu subito occupata dai tedeschi che fecero un'ultima catena di violenze deportando + di 500000 ebrei.
+Tra agosto e settembre 1944 i sovietici conquistarono la Romania, la Bulgaria e i paesi baltici. La <u>Finlandia</u>  firmò un <u>trattato di pace con l'URSS</u> proprio come l'<u>Ungheria</u>; però quest'ultima fu subito occupata dai tedeschi che fecero un'ultima catena di violenze deportando + di 500000 ebrei.
 
-In questa situazione, il colonnello Klaus von Stauffenberg ordì un attentato contro il Fuhrer, però questo fallì e Hitler, solo ferito, ordinò alle SS di procedere con una spietata repressione, uccidendo 5000 persone.
+In questa situazione, il colonnello **Klaus von Stauffenberg** ordì un attentato contro il Fuhrer, però questo fallì e Hitler, solo ferito, ordinò alle SS di procedere con una spietata repressione, uccidendo 5000 persone.
 
 ![](https://i.imgur.com/psbslwB.png)
 
 ### L'ultimo assalto alla Germania
 
-In autunno 1944, con la liberazione della Grecia da parte degli inglesi e di Belgrado da parte dei partigiani Iugoslavi, Hitler non cedette e proclamò la "guerra totale" (mobilitando tutte le persone e le risorse disponibili), nonostante la sproporzione delle forze e la minaccia di un duplice attacco da est e ovest.
+In autunno 1944, con la liberazione della <u>Grecia</u> da parte degli inglesi e di <u>Belgrado</u> da parte dei partigiani Iugoslavi, Hitler non cedette e proclamò la "**guerra totale**" (mobilitando tutte le persone e le risorse disponibili), nonostante la sproporzione delle forze e la minaccia di un duplice attacco da est e ovest.
 
-La propaganda cercò di rassicurare la popolazione con delle "armi segrete" che avrebbero rovesciato il conflitto, ma c'era poco da fare: la Germania, senza un'efficace difesa aerea, era sottoposta a bombardamenti incessanti degli alleati che colpivano obiettivi militari, industrie e civili.
+La <u>propaganda</u> cercò di rassicurare la popolazione con delle "<u>armi segrete</u>" che avrebbero rovesciato il conflitto, ma c'era poco da fare: la Germania, senza un'efficace difesa aerea, era sottoposta a <u>bombardamenti</u> incessanti degli alleati che colpivano obiettivi militari, industrie e civili.
 
-Per esempio, Amburgo e Dresda furono ridotte a macerie da bombe incendiarie (solo qui 600000 vittime); poi, sotto la spinta russa, in Germania si stava riversando un flusso di profughi complessivo di almeno 12 milioni di persone.
+Per esempio, Amburgo e Dresda furono ridotte a macerie da bombe incendiarie (solo qui 600000 vittime); poi, sotto la spinta russa, in Germania si stava riversando un <u>flusso di profughi</u> complessivo di almeno 12 milioni di persone.
 
 ##### Le armi segrete tedesche
 
@@ -438,31 +436,31 @@ Per esempio, Amburgo e Dresda furono ridotte a macerie da bombe incendiarie (sol
 
 ### La conferenza di Mosca e Jalta
 
-Nell'ottobre 1944 Churchill e Stalin, alla conferenza di Mosca, sancirono le rispettive sfere d'influenza nei Balcani con:
+Nell'ottobre 1944 <u>Churchill e Stalin</u>, alla **conferenza di Mosca**, sancirono le rispettive sfere d'influenza nei Balcani:
 
-- All'URSS, Bulgaria e Romania (+ tutela condivisa di Ungheria),
-- Allo UK, Grecia (+ tutela condivisa di Ungheria).
+- **URSS**: <u>Bulgaria e Romania</u> (+ tutela condivisa di Ungheria),
+- **UK**: <u>Grecia</u> (+ tutela condivisa di Ungheria).
 
-A febbraio 1945 invece, si tenne la **conferenza di Jalta** (mar nero), in cui <u>Roosevelt, Churchill e Stalin</u> decisero che la **Germania** sarebbe stata **divisa in 4 zone d'occupazione**, perfezionarono gli accordi sul destino degli altri paesi e si accordarono per la nascita dell'**ONU** (*Organizzazione delle Nazioni Unite*, un organo internazionale per mantenere la pace nel mondo).
+A febbraio 1945 invece, si tenne la **conferenza di Jalta** (mar nero), in cui <u>Roosevelt, Churchill e Stalin</u> decisero che la **Germania** sarebbe stata **divisa in 4 zone d'occupazione**, perfezionarono gli accordi sul destino degli altri paesi e si accordarono per la nascita dell'**[[13) Il mondo diviso in 2 blocchi#La nascita dell'ONU|ONU]]** (*Organizzazione delle Nazioni Unite*, un organo internazionale per mantenere la pace nel mondo).
 
 ![](https://i.imgur.com/2uNr7KK.png)
 
 ### La resa della Germania
 
-Gli alti gradi della *Wehrmacht* volevano un'armistizio con gli anglo-americani per concentrarsi contro i sovietici, ma Hitler non desistette: chiamò alle armi 16enni e 60enni ordinando di fare "terra bruciata" distruggendo le infrastrutture civili. Nel mentre:
+Gli alti gradi della *Wehrmacht* volevano un'<u>armistizio con gli anglo-americani</u> per concentrarsi contro i <u>sovietici</u>, ma Hitler non desistette: chiamò alle armi 16enni e 60enni ordinando di fare "<u>terra bruciata</u>" distruggendo le infrastrutture civili. Nel mentre:
 
-- Sul fronte occidentale, dopo la fallita controffensiva tedesca nelle Ardenne, il 7 marzo 1945 gli alleati superarono il Reno e si dilagarono in Germania (incontrando scarsa resistenza),
-- Sul fronte orientale, l'Armata rossa entrò in Ungheria (febbraio), in Austria (marzo) e iniziò ad avanzare verso Berlino, espugnandola tra il 19 aprile e il 2 magigo 1945.
+- Sul **fronte occidentale**, dopo la fallita controffensiva tedesca nelle Ardenne, il 7 marzo 1945 gli <u>alleati superarono il Reno e si dilagarono in Germania</u> (incontrando scarsa resistenza),
+- Sul **fronte orientale**, l'Armata rossa entrò in <u>Ungheria</u> (febbraio), in <u>Austria</u> (marzo) e iniziò ad avanzare <u>verso Berlino</u>, espugnandola tra il 19 aprile e il 2 maggio 1945.
 
-Il 30 aprile Hitler si suicidò nel bunker sotterraneo della cancelleria, quando i russi erano a meno di 1km di distanza. La reggenza del governo fu presa da Donitz che, dopo il tentativo vano di una pace separata con gli anglo-americani, capitolò: il 7 maggio 1945 la Germania firmò la resa incondizionata a Reims, sancendo la fine della guerra in Europa.
+Il 30 aprile **Hitler si suicidò** nel bunker sotterraneo della cancelleria, quando i russi erano a meno di 1km di distanza. La reggenza del governo fu presa da **Donitz** che, dopo il tentativo vano di una pace separata con gli anglo-americani, capitolò: il <u>7 maggio 1945</u> la **Germania firmò la resa** incondizionata a **Reims**, sancendo la fine della guerra in Europa.
 
 ![](https://i.imgur.com/ZJNtiRN.png)
 
 ### USA vs Giappone
 
-Tra giugno 1942 e inizio 1943, gli USA erano riusciti ad arrestare l'avanzata giapponese nel pacifico; e, con la battaglia nelle isole Midway, dell'isola di Guadalcanal e della Nuova Guinea, per il Giappone fu sempre + difficile tenere testa agli avversari.
+Tra giugno 1942 e inizio 1943, gli **USA** erano riusciti ad <u>arrestare l'avanzata giapponese</u> nel pacifico; e, con la **battaglia** nelle **isole Midway**, dell'**isola di Guadalcanal** e della **Nuova Guinea**, per il Giappone fu sempre + difficile tenere testa agli avversari.
 
-Dopo altre conquiste americane (isole Marshall, Saipan e Guam nelle Marianne) si giunse nell'ottobre 1944 alla battaglia delle Filippine, con cui venne annientata la flotta di Tokyo. Proprio lì gli americani si trovarono ad affrontare per la 1a volta l'attacco dei kamikaze.
+Dopo altre conquiste americane (isole Marshall, Saipan e Guam nelle Marianne) si giunse nell'ottobre 1944 alla **battaglia delle Filippine**, con cui venne annientata la flotta di Tokyo. Proprio lì gli americani si trovarono ad affrontare per la 1a volta l'attacco dei **kamikaze**.
 
 ##### I kamikaze
 
@@ -470,13 +468,13 @@ Dopo altre conquiste americane (isole Marshall, Saipan e Guam nelle Marianne) si
 
 ### La bomba atomica e la resa giapponese
 
-Rimaneva solo l'arcipelago nipponico, difeso da 3 milioni di uomini. Già la battaglia di Okinawa (aprile-giugno 1945) rese noti i rischi di un'invasione del Giappone: l'isola era protetta da 100000 uomini che morirono quasi tutti e venne conquistata dopo 2 mesi e perdendo 17000 uomini e tante risorse.
+Rimaneva solo l'arcipelago nipponico, difeso da 3 milioni di uomini. Già la **battaglia di Okinawa** (aprile-giugno 1945) rese noti i <u>rischi</u> di un'invasione del Giappone: l'isola era protetta da 100000 uomini che morirono quasi tutti e venne conquistata dopo 2 mesi e perdendo 17000 uomini e tante risorse.
 
-Alla conferenza di Potsdam (estate 1945) gli USA, lo UK e la Cina avevano intimato al Giappone la resa incondizionata (ovviamente non accettata), e intanto il presidente Truman succeduto a Roosevelt in aprile, annunciò a Churchill e Stalin l'intenzione di usare la bomba atomica.
+Alla **conferenza di Potsdam** (estate 1945) <u>USA, UK e Cina</u> avevano intimato al <u>Giappone</u> la **resa incondizionata** (ovviamente non accettata), e intanto il presidente **Truman** succeduto a Roosevelt in aprile, annunciò a Churchill e Stalin l'intenzione di usare la **bomba atomica**.
 
-Il 6 agosto 1945, il bombardiere americano Enola gay sganciò su Hiroshima la 1a bomba atomica (morte istantanea di 70000 abitanti) e il 9 agosto sorte analoga toccò a Nagasaki (morte istantanea di 40000 persone). Al contempo l'URSS attaccò i giapponesi in Manciuria e Corea. 
+Il <u>6 agosto 1945</u>, il bombardiere americano **Enola Gay** sganciò su **Hiroshima** la <u>1a bomba atomica</u> (morte istantanea di 70000 abitanti) e il <u>9 agosto</u> sorte analoga toccò a **Nagasaki** (morte istantanea di 40000 persone). Al contempo l'**URSS** attaccò i giapponesi in <u>Manciuria e Corea</u>. 
 
-Consapevole dei danni ricevuti, Hirohito annunciò la resa del Giappone, firmata sul ponte della corazzata Missouri il 2 settembre 1945.
+Consapevole dei danni ricevuti, **Hirohito** annunciò la **resa del Giappone**, firmata sul ponte della <u>corazzata Missouri</u> il 2 settembre 1945.
 
 ![](https://i.imgur.com/Abp5mkn.png)
 
@@ -486,13 +484,13 @@ Consapevole dei danni ricevuti, Hirohito annunciò la resa del Giappone, firmata
 
 ### Il bilancio
 
-I morti in totale furono 55 milioni: 24 di combattenti e + di 30 di civili. Oltre poi allee distruzioni di intere città e linee di comunicazione, nei paesi:
+I **morti** in totale furono **55 milioni**: 24 di combattenti e + di 30 di civili. Oltre poi allee distruzioni di intere città e linee di comunicazione, nei paesi:
 
-- URSS: 13.6 milioni di militari e 8 milioni di civili,
-- Germania: 3.25 milioni di militari e 3.8 milioni di civili,
-- Giappone: 1.7 milioni di soldati e 360000 civili,
-- Italia: 330000 militari e 85000 civili,
-- USA: 220000 militari e 0 civili.
+- **URSS**: 13.6 milioni di militari e 8 milioni di civili,
+- **Germania**: 3.25 milioni di militari e 3.8 milioni di civili,
+- **Giappone**: 1.7 milioni di soldati e 360000 civili,
+- **Italia**: 330000 militari e 85000 civili,
+- **USA**: 220000 militari e 0 civili.
 
-Questa fu una "guerra totale" siccome: fece mobilitare tutte le risorse disponibili, si svolse in scenari e fronti diversi, fu tale da includere le istituzioni pubbliche, le strutture economiche, l'assetto sociale e l'esistenza quotidiana delle popolazioni e anche per gli stermini di massa, dal genocidio di 6 milioni di ebrei all'uso delle bombe atomiche da parte degli USA.
+Questa fu una "**guerra totale**" siccome: fece mobilitare <u>tutte le risorse disponibili</u>, si svolse in <u>scenari e fronti diversi</u>, fu tale da <u>includere</u> le istituzioni pubbliche, le strutture economiche, l'assetto sociale e l'esistenza <u>quotidiana delle popolazioni</u> e anche per gli <u>stermini di massa</u>, dal genocidio di 6 milioni di ebrei all'uso delle <u>bombe atomiche</u> da parte degli USA.
 

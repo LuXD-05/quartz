@@ -34,7 +34,7 @@ Ci sono varie ragioni per scegliere il *Recursor* di Cloudflare (rispetto a quel
 
 ###### Sicurezza
 
-Differisce da molti altri ISP che non usano tecniche di cifratura forte o non supportano il protocollo [[#DNSSEC]] sui loro *name server*; per questo (le query di) molti utenti sono esposti ad attacchi tipo *[[Sicurezza informatica#Attività di hacking|man-in-the-middle]]*.
+Differisce da molti altri ISP che non usano tecniche di cifratura forte o non supportano il protocollo [[#DNSSEC]] sui loro *name server*; per questo (le query di) molti utenti sono esposti ad attacchi tipo *[[9 Sicurezza informatica#Attività di hacking|man-in-the-middle]]*.
 
 ###### Prestazioni
 

@@ -24,7 +24,7 @@ Alla presidenza degli USA vi era quindi **Truman**, il quale <u>non considerava 
 
 Inoltre, a **Jalta** si era deciso di procedere poi con la creazione dell'**ONU** (*Organizzazione delle Nazioni Unite*), il cui atto di nascita fu siglato in una <u>conferenza a San Francisco</u> (aprile-giugno 1945). 
 
-L'obiettivo era un organismo in grado di far valere la sicurezza collettiva; quindi composto da:
+L'obiettivo era un organismo in grado di garantire <u>sicurezza collettiva</u>; quindi composto da:
 
 - Un'**Assemblea generale**, che si sarebbe dovuta riunire <u>annualmente</u> per <u>votare a maggioranza semplice</u> (1 nazione = 1 voto) <u>risoluzioni non vincolanti</u> (con possibilità di astenersi),
 - Un **Consiglio di sicurezza**, che si sarebbe dovuto <u>riunire ogni volta</u> che se ne fosse presentata la <u>necessità</u>, composto da 15 membri di cui <u>5 permanenti</u> (USA, URSS, UK, Francia e Cina) e 10 eletti a rotazione ogni 2 anni.
@@ -119,7 +119,7 @@ Ciò affrettò gli occidentali alla creazione di un <u>sistema di difesa comune<
 
 # L'URSS e la sovietizzazione dell'est Europa 
 
-### Un nuovo piano quinquennale e l'atomica
+### Il 4° piano quinquennale e l'equilibrio del terrore
 
 Nel marzo 1946, l'URSS varò il **4° piano quinquennale**, che mirava al potenziamento dell'industria pesante e armamentale. A tal fine, l'URSS si servì delle **ripartizioni di guerra** imposte agli ex nemici occupati dall'Armata rossa e poté raggiungere una produzione pari a quella dell'anteguerra nel 1950.
 
@@ -133,13 +133,13 @@ Sul <u>piano geopolitico</u> Mosca voleva costruirsi uno <u>spazio strategico</u
 
 In Polonia, Romania, Ungheria, Bulgaria, Cecoslovacchia e Germania est si formarono regimi sul modello sovietico e qui nacquero le "**democrazie popolari**", <u>dittature a partito unico allineate a Mosca</u>.
 
-In questi si riprodusse lo stesso **totalitarismo staliniano** e, poiché l'unico <u>comunismo "autentico"</u> era quello <u>sovietico</u>, anche il minimo **dissenso** veniva considerato **tradimento**. (Ciò si tradusse in un asfissiante controllo di vita pubblica e privata con processi-farsa per eliminare avversari politici...).
+In questi si riprodusse lo stesso **totalitarismo staliniano** e, poiché l'unico <u>comunismo "autentico"</u> era quello <u>sovietico</u>, anche il minimo **dissenso** equivaleva a **tradimento**.
 
 ### La ricostruzione economica nell'est Europa
 
-La ricostruzione economica nelle "democrazie popolari" fu improntata al modello sovietico con la <u>collettivizzazione delle terre</u> e la <u>statalizzazione di banche ed industrie</u>, oltre ad essere completamente <u>subordinato alle esigenze dello "stato-guida"</u>.
+La ricostruzione economica nelle "democrazie popolari" fu improntata al modello sovietico con la <u>collettivizzazione delle terre</u> e la <u>statalizzazione di banche ed industrie</u>, oltre ad essere completamente subordinato alle esigenze dello "stato-guida".
 
-Quindi, come in URSS, nei <u>paesi satelliti</u> il **modello collettivista** innalzò inizialmente la produzione ma <u>finì per reprimere i consumi e il tenore di vita</u> dei popoli, causando malcontenti che si tradussero in <u>manifestazioni</u>, represse duramente dalla polizia.
+Quindi, come in URSS, nei <u>paesi satelliti</u> il **modello collettivista** innalzò inizialmente la produzione ma finì per <u>reprimere i consumi e il tenore di vita</u> dei popoli, causando malcontenti che si tradussero in manifestazioni, represse duramente dalla polizia.
 
 Nel gennaio 1949 venne poi costituito a Varsavia il **Comecon** (tra URSS, Bulgaria, Polonia, Cecoslovacchia, Romania e Ungheria), una rete di scambi commerciali tra l'est Europa e l'URSS, con il **rublo** come moneta di riferimento.
 
@@ -179,7 +179,7 @@ Il risultato fu però un <u>disastro</u>: tra il 1959 ed il 1962 una **carestia*
 
 ### La riconversione politica del Giappone
 
-A fine WWII, anche al Giappone venne imposto un <u>regime di occupazione militare</u> sotto gli **USA**, che volevano: introdurre un <u>assetto liberal-democratico</u> ed <u>estirpare autoritarismo, militarismo e comunismo</u>.
+A fine WWII, anche al Giappone venne imposto un <u>regime di occupazione militare</u> sotto gli **USA**, che volevano: introdurre un assetto liberal-democratico ed estirpare autoritarismo, militarismo e comunismo.
 
 Nel 1946 gli americani dettarono una <u>nuova costituzione</u> che trasformava il paese in una **monarchia costituzionale** (mantenendo <u>Hirohito</u> al vertice). Da lì il Giappone conobbe una grande stabilità politica ed una notevole crescita economica.
 
@@ -224,8 +224,6 @@ Alle elezioni del 1952 vinse il repubblicano **Eisenhower** che, (soprattutto) d
 
 Il 5 marzo 1953 **Stalin morì** e, dopo un periodo sotto il controllo dei suoi collaboratori, nel **1955 Chruščëv** ottenne il controllo dell'URSS. Diversamente dal predecessore, Chruščëv credeva che il <u>blocco occidentale non andasse sconfitto</u>, bensì **sfidato** per dimostrate che il <u>modello comunista era migliore di quello capitalista</u>.
 
-(Il nuovo leader era comunque consapevole che per reggere il confronto l'URSS aveva bisogno di riforme in campo economico ed industriale).
-
 ### La politica estera e il patto di Varsavia
 
 In <u>politica estera</u>, Chruščëv fece diverse cose:
@@ -268,11 +266,11 @@ Nel 1957 l'URSS lanciò il <u>1° satellite artificiale orbitante attorno alla t
 
 ### Il Manifesto di Ventotene
 
-Nel 1941 (in piena WWII) 3 antifascisti italiani (Spinelli, Rossi e Colorni) elaborarono il ***Manifesto di Ventotene***, documento in cui venivano enunciati i <u>principi</u> di fondo per un'**Europa federale**, governata da un'<u>organismo sovranazionale democratico, con moneta ed esercito unici</u>.
+Nel 1941 (in piena WWII) 3 antifascisti italiani (Spinelli, Rossi e Colorni) elaborarono il ***Manifesto di Ventotene***, documento in cui venivano enunciati i principi di fondo per un'**Europa federale**, governata da un'organismo sovranazionale democratico, con moneta ed esercito unici.
 
-L'idea di <u>Europa unita</u> trovò favore tra politici diversi, in particolare <u>Monnet, Schuman, De Gasperi e Adenauer</u>, i quali sostenevano che un cambiamento in tale senso sarebbe risultato fondamentale per <u>evitare che l'Europa rimanesse schiacciata tra USA e URSS</u>.
+L'idea di <u>Europa unita</u> trovò favore tra politici diversi, in particolare Monnet, Schuman, De Gasperi e Adenauer, i quali sostenevano che un cambiamento in tale senso sarebbe risultato fondamentale per evitare che l'Europa rimanesse <u>schiacciata tra USA e URSS</u>.
 
-Tuttavia c'erano <u>opinioni differenti</u> su come fare ciò: alcuni volevano prima <u>intensificare i rapporti e la collaborazione economica</u>, mentre altri volevano fin da subito un <u>sistema politico sovranazionale</u>.
+Tuttavia c'erano <u>opinioni differenti</u> su come fare ciò: alcuni volevano prima intensificare i rapporti e la <u>collaborazione economica</u>, mentre altri volevano fin da subito un <u>sistema politico sovranazionale</u>.
 
 ### Le prime forme di cooperazione economica
 
@@ -294,7 +292,7 @@ Il processo di integrazione ripartì nel <u>1957</u>, con la creazione della **C
 
 ##### CEE
 
-La **CEE** aveva lo scopo di <u>uniformare tariffe e regole degli scambi commerciali tra i membri</u> fino alla creazione di un **MEC** (*Mercato Comune Europeo*) all'interno del quale fosse garantita la <u>libera circolazione di merci, capitali e lavoratori</u>. La CEE era composta da:
+La **CEE** aveva lo scopo di <u>uniformare tariffe e regole degli scambi commerciali tra i membri</u> fino alla creazione di un **MEC** (*Mercato Europeo Comune*) all'interno del quale fosse garantita la <u>libera circolazione di merci, capitali e lavoratori</u>. La CEE era composta da:
 
 - Un **Parlamento** (a Strasburgo), organo <u>consultivo</u>,
 - Una **Commissione**, per l'<u>attuazione dei provvedimenti</u> (no potere esecutivo diretto),

@@ -1,3 +1,29 @@
+### Todo
+
+##### Studio
+
+Mate (tutto)
+
+Inglese (tutto)
+
+TePI (tutto + Firme digitali)
+
+GeP (quello che serve)
+
+Info (1)
+
+Ita (Montale)
+
+##### Ripasso
+
+Ita (fast quelli che nn ricordo e bene Ungaretti e altri)
+
+Stor (fast il vecchio e bene WWI, WWII e intorno)
+
+SeR (fast un po' tutto)
+
+ed. civica (aborto, donne, russia/ucraina, palestina...)
+
 ### Ed. Civica
 
 [[Firme digitali]]
@@ -154,6 +180,14 @@ guerra fredda - ARPANET ing - (TCP/IP - SeR - TePI) /
 
 (radio - fireside chats / radio londra)
 
+[[3) L'età giolittiana]]
+
+#stor/emigrazione - (america?)
+
+[[5) Il dopoguerra]]
+
+#stor/zona-smilitarizzata (15 km est Reno) - #ser/DMZ
+
 [[6) L'URSS e le ripercussioni in Europa]]
 
 #stor/comunismo
@@ -202,7 +236,11 @@ guerra fredda - ARPANET ing - (TCP/IP - SeR - TePI) /
 
 [[11) La WWII]]
 
+#stor/zona-smilitarizzata (ita 50 km confine Francia) - #ser/DMZ
+
 #stor/macchina-enigma - #tepi/crittografia (o in ing) - 
+
+#stor/asse-roma-tokyo-berlino - #mate/solidi-di-rotazione (asse di rotazione)
 
 ### TePI
 
