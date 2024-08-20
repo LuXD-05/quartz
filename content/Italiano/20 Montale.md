@@ -30,9 +30,63 @@ Negli ultimi anni si occupa poi di altre discipline, nel 1976 esce *Sulla poesia
 
 # Visione del mondo
 
-# Interviste
+### Oggetti e il correlativo oggettivo
 
-# 
+Gli oggetti montaliani possono assumere valore di "**emblemi**" di alto valore <u>simbolico ed allegorico</u> (ovvero raggiungono diversi livelli di significato, sempre + astratti). Elementi reali (tipo foglie accartocciate...) possono equivalere a <u>significati della vita</u>, tipo il "*male di vivere*".
+
+Queste corrispondenze sono dette "***correlativi oggettivi***". Diversamente da <u>metafore o analogie</u> di Ungaretti che richiamano significati con <u>legami associativi</u>, tali oggetti si caricano di significati allegorici/emblematici e li risemblano <u>a prescindere dalle connotazioni degli stessi</u> oggetti.
+
+Quindi un oggetto può dar concretezza ad una condizione astratta dell'esistenza; perciò, la poesia montaliana non descrive stati d'animo o sentimenti, bensì elementi reali che corrispondono ad essi.
+
+### Funzione della poesia e "male di vivere"
+
+Montale usa l'espressione "***male di vivere***" per descrivere la condizione dell'uomo: <u>prigioniero di una rigida catena di cause ed effetti che ne ostacolano la tensione verso la libertà</u>.
+
+L'uomo montaliano aspira a <u>comprendere se stesso e la vita</u>, ma ciò non gli è concesso se non attraverso degli **oggetti** o degli **attimi rivelatori**, i quali sono tuttavia talmente <u>rari e fulminei</u> da restituire solo <u>"fantasmi" di verità</u>.
+
+La conoscenza dell'essere e del mondo quindi sfuggirà per sempre agli uomini, al contrario dell'unica <u>verità chiara</u>: la **sofferenza** come <u>condizione esistenziale ineludibile</u>. Questa prospettiva coincide molto con quella elaborata dall'**esistenzialismo**.
+
+### Contro il "vate" e senso della poesia 
+
+Montale <u>rifiuta</u> sempre ogni atteggiamento da "**vate**": per lui la poesia <u>non può offrire verità certe</u> o rivelare il significato della realtà (come invece i **simbolisti**); e di conseguenza <u>nemmeno il poeta può presentarsi come guida</u> nobile di comunità che professa valori ed ideali elevati ed assoluti (come invece **d'Annunzio**).
+
+Con ciò però definisce definisce il **senso della poesia**: essa ha un <u>valore etico</u> ed invita a <u>diffidare delle verità</u> sbandierate, della <u>retorica propagandistica</u> e del <u>pensiero imposto dai regimi</u> (emerge da qui una chiara prospettiva <u>liberale, laica ed antifascista</u>); indicandola anche come **forma di resistenza al "male di vivere"**.
+
+### Il "tu"
+
+donne
+
+### Forma
+
+ha
+
+# Interviste e discorsi
+
+### È ancora possibile la poesia?
+
+Montale prova a difendere l'inutilità della letteratura nella modernità, affermando che anche in una società consumistica come quella sua contemporanea, la poesia rimarrà sempre come una "malattia incurabile".
+
+### La parola a Montale
+
+##### Intenzioni
+
+a
+
+##### Poesia e pubblico
+
+a
+
+# Ossi di seppia
+
+a
+
+# Le occasioni
+
+a
+
+# La bufera e altro
+
+a
 
 # Testi ed estratti
 
@@ -79,6 +133,22 @@ La poetica di Satira appare molto **comica**: con <u>argomenti bassi e quotidian
 - Metafora: 1/8 (sceso ... scale = vivere vita), 3 (viaggio = vita)
 
 ### Ossi di seppia
+
+##### I limoni
+
+a
+
+##### Non chiederci la parola
+
+a
+
+##### Mareggiare pallido e assorto
+
+a
+
+##### Spesso il male di vivere ho incontrato
+
+a
 
 ### Le occasioni
 
