@@ -12,14 +12,26 @@
 
 ###### Divisione tra polinomi
 
-- [ ] Divisione euclidea (con resto)
-- [ ] Divisione con metodo di Ruffini (+ considerazioni sul teorema del resto)
+- [x] Divisione euclidea (con resto)
+- [x] Divisione con metodo di Ruffini (+ considerazioni sul teorema del resto)
 
 ##### Sistemi
 
 ###### Sistemi lineari
 
-- [ ] Sistemi lineari
+- [x] Sistemi lineari
+
+##### Geometria analitica
+
+###### Piano cartesiano
+
+###### Vettori
+
+###### Fasci di rette
+
+- [ ] Fasci di rette (def)
+- [ ] Teorema di Talete ("piccolo" e "grande")
+- [ ] (Omotetie?)
 
 ##### Radicali
 
@@ -37,14 +49,6 @@
 - [ ] Razionalizzazione
 - [ ] Equazioni, disequazioni e sistemi con radicali
 - [ ] Numeri irrazionali
-
-##### Geometria analitica
-
-###### Piano cartesiano
-
-###### Vettori
-
-###### Fasci di rette
 
 ##### Equazioni e disequazioni
 
@@ -130,6 +134,96 @@ https://www.youmath.it/lezioni/algebra-elementare/equazioni/168-metodi-di-risolu
 \4) **Metodo di Cramer**
 
 https://www.youmath.it/lezioni/algebra-elementare/equazioni/170-metodi-di-risoluzione-per-sistemi-lineari-4-cramer.html
+
+##### Geometria analitica
+
+###### Piano euclideo
+
+(short)
+
+Nel piano euclideo sono definiti 3 concetti primitivi:
+
+- Punti: si indicano con lettere maiuscole dell'alfabeto,
+- Rette: ... minuscole ... 
+- Piani: ... lettere dell'alfabeto greco.
+
+Importante è poi definire degli assiomi (o postulati), teorie assunte e accettate come vere senza giustificarle e sono:
+
+> [!important] Assioma 1
+> Ogni piano è un'insieme di punti.
+> Ogni retta è un sottoinsieme del piano.
+
+> [!important] Assioma 2 (assiomi di appartenenza della retta)
+> 1) A ogni retta appartengono almeno 2 punti distinti,
+> 2) Per 2 punti passa (per entrambi) 1 e 1 sola retta alla quale appartengono,
+> 3) Data una retta in un piano esiste almeno un punto di esso che non appartiene alla retta.
+
+> [!important] Assioma 3 (assiomi di ordine della retta)
+> 1) Dati 2 punti distinti A e B in una retta (tali che A precede B) esiste sempre un punto P compreso tra A e B (A > P > B),
+> 2) Dato un punto P in una retta, esistono sempre 2 punti A e B tali che A precede P e P precede B (A > P > B).
+
+(semirette, segmenti e poligonali)
+
+(semipiani, angoli e poligoni)
+
+###### Piano cartesiano
+
+###### Vettori
+
+Geometricamente un vettore è un segmento (chiamiamolo AB) orientato caratterizzato da diverse proprietà:
+
+- **Direzione**: la retta che passa per entrambi gli estremi del vettore,
+- **Verso**: il verso in cui va il vettore inteso (tipo da A a B o viceversa),
+- **Modulo**: (o lunghezza) in pratica la misura dello stesso segmento AB.
+
+Se inteso invece nel piano cartesiano, una più semplice e accessibile spiegazione del concetto di vettore permette di definirlo come una sorta di "quantità" misurata in coordinate x, y (ed eventualmente z in casi di piano a 3 dimensioni) in base alla quale un punto si dovrebbe spostare sul piano cartesiano.
+
+Per esempio, al punto P(0,0) viene applicato un vettore AB(2,3); il punto P si sposterà su entrambi gli assi cartesiani di quanto il vettore indica, ritrovandosi alla fine alle coordinate (2,3).
+
+(Vettori equipollenti e relazioni tra vettori).
+
+###### Fasci di rette
+
+Prima di dire cosa sono, i fasci di rette sono di 2 tipi:
+
+- Fasci **propri**: insieme delle rette che passano per un punto specifico di un piano detto centro del fascio,
+- Fasci **impropri**: insieme delle rette parallele tra loro in un piano.
+
+Le rette possono anche distribuirsi in 3 dimensioni (affinché a tutte appartenga lo stesso punto (stella di rette) o tutte siano sempre parallele).
+
+Se si considera l'equazione di una retta normale:
+
+$$y = mx+q$$
+
+Quando si parla di fasci di rette **propri**, questa viene modificata con un parametro aggiuntivo detto "$k$" moltiplicato alla pendenza ed all'intercetta ("$k$" è un'incognita, le 2 seguenti non sono sempre = anche se variano, quella della "$q$" indica una sempre una certa intercetta mentre quella della "$m$" indica la differente pendenza/inclinazione di ogni retta, al fine di diversificarle l'una dall'altra):
+
+$$y = m(k)x + q(k)$$
+
+oppure (per rette passanti per un centro noto in $x_{0},y_{0}$):
+
+$$(y - y_{0}) = m(k)(x - x_{0})$$
+
+Per quanto riguarda invece i fasci di rette **impropri**, anche qui si aggiunge un (solo) parametro "$k$" all'intercetta (siccome le varie rette si traslano tutte verticalmente ed hanno la stessa pendenza):
+
+$$y = mx + q(k)$$
+
+###### Teorema di Talete
+
+Il "piccolo" teorema di Talete riguarda le corrispondenze (dette di Talete) tra segmenti omologhi creati su 2 o + linee trasversali rispetto ad un fascio di rette parallele (improprio).
+
+![](https://i.imgur.com/CVj9AAs.png)
+
+Viene quindi sancita la seguente proporzione:
+
+$$AB : CD = A'B' : C'D'$$
+
+secondo la quale è poi possibile trovare 1 dei segmenti della proporzione dati gli altri 3 (p.s., valgono anche BC e B'C', come anche AD e A'D'...).
+
+Il corollario del teorema ne espande l'uso anche nello studio dei triangoli; in particolare nel caso in cui ci sia un triangolo che viene tagliato in 2 da una retta orizzontale (quindi dal segmento BB'):
+
+![](https://i.imgur.com/dZ3ABzX.png)
+
+Vale il rapporto di proporzionalità precedentemente sancito.
 
 ##### Radicali
 
