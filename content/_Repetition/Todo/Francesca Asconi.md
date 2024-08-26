@@ -203,9 +203,37 @@ oppure (per rette passanti per un centro noto in $x_{0},y_{0}$):
 
 $$(y - y_{0}) = m(k)(x - x_{0})$$
 
+> [!important] Come si passa da una all'altra?
+> Dato il seguente grafico:
+> ![](https://i.imgur.com/Ax1T2Vc.png)
+> Dall'equazione generica di una retta: $y = mx + q$
+> Si ricava l'equazione generica di un suo punto: $y_{0} = mx_{0} + q$
+> Sottraendo alla 1a la 2a, si ottiene l'equazione di una retta generica passante per un punto: $y - y_{0} = m(x - x_{0})$.
+> Tale equazione descrive, al variare di $m$, tutte le rette del fascio di centro ($x_{0},y_{0}$) (eccetto quella verticale con $x = x_{0}$).
+> (TIP: si nota come da qui è semplice spiegare come è calcolata la formula inversa per la $m$).
+
+> [!important] Attenzione!
+> In alcuni esercizi ci si troverà davanti un'equazione del genere:
+> $$(k + 2)x - (k - 1)y + k - 2 = 0$$
+> Tale formula è semplicemente ricavabile:
+> 1) Prendiamo 2 equazioni di 2 rette in forma implicita dette "generatrici del fascio":
+>    $ax + bx + c = 0$
+>    $a'x + b'y + c' = 0$
+> 2) Da queste (supponendo che non siano parallele, altrimenti si avrebbe un fascio improprio) si ottiene un'equazione in tale forma:
+>    $ax + by + c + k(a'x + b'y + c') = 0$
+> 3) Sembra difficile, ma spostando le lettere si ottiene l'equazione equivalente: 
+>    $(a + ka')x + (b + kb')y + (c + kc') = 0$
+>    La quale è l'equazione del fascio generato dalle 2 rette generatrici.
+> 4) Guarda caso, considerando ciò che sta dentro le parentesi come (per esempio) una lettera (supponiamo in ordine: a, b, c) si ottiene:
+>    $ax + bx + c = 0$
+> 5) Si può anche ottenere y e riportare l'equazione in forma esplicita con qualche spostamento:
+>    ![](https://i.imgur.com/LEFr3kr.png)
+
 Per quanto riguarda invece i fasci di rette **impropri**, anche qui si aggiunge un (solo) parametro "$k$" all'intercetta (siccome le varie rette si traslano tutte verticalmente ed hanno la stessa pendenza):
 
 $$y = mx + q(k)$$
+
+Sappiamo che un fascio di rette proprio è un insieme di rette con $q$ ed $m$ variabili (solitamente in base ad un parametro $k$) che passano tutte per un punto detto centro.
 
 ###### Teorema di Talete
 
@@ -225,46 +253,50 @@ Il corollario del teorema ne espande l'uso anche nello studio dei triangoli; in 
 
 Vale il rapporto di proporzionalità precedentemente sancito.
 
+###### ESERCIZI
+
+\1) Determinare l'equazione della retta passante per P(1;3) e con coefficiente angolare (m) = $\frac{1}{2}$.
+
+\2) Determinare l'equazione della retta passante per P1(1;1) e P2(2;3).
+
+\3) Determinare il coefficiente angolare delle rette $r$ e $s$ con $r$ passante per A(3,-4) e B(-2,-4); e con $s$ passante per C(0,2) e D(0,-1)
+
+\4) Determinare quali rette sono parallele e quali sono perpendicolari tra:
+
+$$2x+3y-2=0\;\;\;3x-y+6=0\;\;\;-6x+2y=0\;\;\;3x-2y-8=0$$
+\5) Dire se le rette $y=x-1$ e  $y=-\frac{1}{2}x+2$ si incrociano e trovare le coordinate dell'eventuale punto di intersezione.
+\6) Calcolare la distanza di P(-2,2) dalla retta $y = x + 2$
+\7) Scrivere l'equazione del fascio di rette con centro P(2,0)
+\8) 
 ##### Radicali
-
 http://www.iisviasilvestri.it/files/Malpighi_Masci.pdf
-
 https://mc3-a2-01-numeri-reali.readthedocs.io/en/latest/02_Radicali.html#:~:text=non%20esiste%2C%20radicando%20negativo.,il%20risultato%20sia%20sicuramente%20positivo.
-
 ###### Intro
-
 > [!important] Radicale
 > Definizione: dati 2 numeri reali $a$ e $b$, si definisce radice n-esima di $a$ il numero reale $b$ la cui potenza n-esima è = ad $a$ (n pari: $a \ge 0, b \ge 0$).
 
 $\sqrt[indice \;\rightarrow\; 3]{8} \;\leftarrow\; radicando$
 
 Nonostante $5^{2} = 25$ e $(-5)^{2} = 25$, $\sqrt{25} = +5 \; (e \; \not= -5)$
-
 Perciò non esiste un numero il cui **quadrato** sia = a un numero negativo; quindi $\sqrt{-25}$  non esiste. (Però la $\sqrt[3]{-125} = -5$)
-
 ###### CE
-
 La CE nei radicali si ha solo se il loro **indice** è **pari** ed è: $\;\;[radicando] \,\ge\, 0$
-
 (In caso di radicali fratti: $N \ge 0$ e $D > 0$)
 
 ESERCIZI
-
 Trova le CE di:
-
 1) $\sqrt{x - 2}$
 2) $\sqrt[4]{\dfrac{x - 1}{x + 2}}$
 3) $\sqrt{x+2} - \sqrt{-x-3}$
 
 ###### Studio del segno (?)
-
 https://youtu.be/VzpJJirpbWQ?list=PLkD_roTRRfAGu0lZmvitaxwve3wEhP5dy
 
 ###### Proprietà
-
 > [!important] Invariantiva
 > Dato un radicale con radicando positivo o 0, se ne ottiene uno equivalente moltiplicandone (o dividendone) l'indice e l'esponente del radicando per uno stesso numero:
 > $$\sqrt[n]{a^{m}} \;=\; \sqrt[n * p]{a^{m * p}}$$
+
 > (con $a \ge 0$ e $m, n, p$ numeri naturali != 0)
 
 Quindi è possibile moltiplicare indice e radicando di un radicale per uno stesso numero dato che il valore del radicale stesso non cambia.
@@ -350,6 +382,142 @@ https://www.youtube.com/watch?v=AzgwnCxzo3g&list=PLkD_roTRRfAGu0lZmvitaxwve3wEhP
 ###### Risoluzione con metodo di Cramer
 
 ?
+
+##### Geometria analitica
+
+###### Determinare l'equazione della retta
+
+\1) 
+
+==m = 1/2,   P = (1;3),   q = ?==
+
+Innanzitutto abbiamo il coefficiente angolare, che lo si sostituisce: 
+
+$$y = \dfrac{1}{2} x + q$$
+
+Poi, dato che ci vengono date le coordinate di un punto P (1;3) per cui la retta passa, basta sostituirle a $x$ e $y$ dell'equazione per trovare q:
+
+$$3 = \dfrac{1}{2} * 1 + q \;\;\rightarrow\;\;q = \dfrac{5}{2}$$
+
+Quindi l'equazione finale sarà:
+
+$$y = \dfrac{1}{2} x + \dfrac{5}{2}$$
+
+(TIP: è necessario prima sostituire la m, cosicché sostituendo poi x e y del punto dato, solo la q rimanga isolata).
+
+(TIP: ovviamente, se venivano dati P e q, si faceva il percorso identico ma al fine di calcolare la m).
+
+\2) 
+
+P1 = (1;1),  P2 = (2;3)
+
+In esercizi del genere, è necessario l'uso di un sistema per determinare l'equazione della retta (siccome sostituendo x e y dei punti all'equazione generale della retta si hanno sempre 2 incognite: m e q):
+
+$$
+\left\{\,\begin{aligned}
+& 1 = m * 1 + q \\
+& 3 = m * 2 + q 
+\end{aligned}\right.
+\;\;\rightarrow\;\,
+\left\{\,\begin{aligned}
+& m + q = 1 \\
+& 2m + q = 3 
+\end{aligned}\right.
+\;\;\rightarrow\;\,
+\left\{\,\begin{aligned}
+& q = 1 - m \\
+& 2m + (1 - m) = 3
+\end{aligned}\right.
+\;\;\rightarrow\;\,
+\left\{\,\begin{aligned}
+& q = 1 - (2) = - 1 \\
+& m = 2
+\end{aligned}\right.
+$$
+
+(TIP: è possibile anche prima calcolare la m con la formula: $m = \dfrac{y_{b} - y_{a}}{x_{b} - x_{a}}$ e poi sostituire di x e y con uno dei 1 punti e calcolare la q isolandola).
+
+###### Trovare il coefficiente angolare di una retta
+
+\3) 
+
+==Formula m==: $\dfrac{y_{b} - y_{a}}{x_{b} - x_{a}}$
+
+$r$ passa per A(3,-4) e B(-2,-4)
+
+$$m_{r} = \dfrac{-4 - (-4)}{3 - (-2)} = \dfrac{0}{5} = 0$$
+
+Quindi: se le y dei 2 punti per cui passa una retta sono uguali, la retta avrà m = 0.
+
+$s$ passa per C(0,2) e D(0,-1)
+
+$$m_{s} = \dfrac{2 - (-1)}{0 - 0} = \dfrac{3}{0} = non\;esiste$$
+
+Quindi: se le x dei 2 punti per cui passa una retta sono uguali, la retta sarà verticale e non avrà m.
+
+###### Determinare parallelismi e perpendicolarità
+
+\4) 
+
+$$\begin{aligned}
+& 2x+3y-2=0 \;\rightarrow\; y=-\frac{2}{3}x+\frac{2}{3} \\
+& 3x-y+6=0 \;\rightarrow\; y=3x+6 \\
+& -6x+2y=0 \;\rightarrow\; y=3x \\
+& 3x-2y-8=0 \;\rightarrow\; y=\frac{3}{2}x-4
+\end{aligned}$$
+
+Rette parallele: $m_{1} = m_{2} \;\;\rightarrow\;\;$ rette 2 e 3
+
+Rette perpendicolari: $m_{1} = -\dfrac{1}{m_{2}} \;\;\rightarrow\;\;$ rette 1 e 4
+
+###### Intersezioni tra 2 rette
+
+\5)
+
+${} r_{1} \;\rightarrow\; y=x-1$
+
+$r_{2} \;\rightarrow\; y=-\frac{1}{2}x+2$
+
+Si fa sempre con un sistema e questa volta lo risolviamo per confronto:
+
+$$
+\left\{\,\begin{aligned}
+& y = x - 1 \\
+& y = -\frac{1}{2}x + 2 
+\end{aligned}\right.
+\;\;\rightarrow\;\,
+x - 1 = -\frac{1}{2} + 2
+\;\;\rightarrow\;\,
+3x = 6 
+\;\;\rightarrow\;\,
+x = 2
+$$
+
+Sostituendo la x alle equazioni delle 2 rette si ottiene 1 (in entrambe il risultato è uguale perché altrimenti non sarebbe un'intersezione); quindi il punto di intersezione ha coordinate: x = 2 e y = 1 --> P(2,1)
+
+(TIP: quando le m delle 2 equazioni sono uguali (rette parallele), si ottiene un sistema con solo i termini noti; nel caso in cui i termini noti siano uguali, le rette sono sovrapposte e il punto di intersezione è indeterminato; altrimenti le rette sono solo parallele ed il punto di intersezione di 2 rette che danno vita ad un sistema impossibile non esiste).
+
+###### Distanza di un punto da una retta
+
+\6) 
+
+Formula distanza: $d = \dfrac{|y_{0}-mx_{0}-q|}{\sqrt{1+m^{2}}}$
+
+$$d = \dfrac{|2-1*(-1)-2|}{\sqrt{1+1^{2}}} = \frac{2}{\sqrt{2}} = \sqrt{2}$$
+
+###### Determinare l'equazione di un fascio di rette proprio dato il centro
+
+\7)
+
+P (centro) = (2,0) 
+
+$$y - y_{0} = m(x - x_{0}) \;\;\rightarrow\;\; y = m(x - 2)$$
+
+###### Varie richieste con fasci generati da 2 rette
+
+8)
+
+https://youtu.be/9vwFhe4Sdpg?list=PLF304133989EE90EA
 
 ##### Radicali
 
