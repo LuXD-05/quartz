@@ -253,7 +253,7 @@ Il corollario del teorema ne espande l'uso anche nello studio dei triangoli; in 
 
 Vale il rapporto di proporzionalità precedentemente sancito.
 
-###### ESERCIZI
+###### Esercizi pt. 1
 
 \1) Determinare l'equazione della retta passante per P(1;3) e con coefficiente angolare (m) = $\frac{1}{2}$.
 
@@ -267,7 +267,13 @@ $$2x+3y-2=0\;\;\;3x-y+6=0\;\;\;-6x+2y=0\;\;\;3x-2y-8=0$$
 \5) Dire se le rette $y=x-1$ e  $y=-\frac{1}{2}x+2$ si incrociano e trovare le coordinate dell'eventuale punto di intersezione.
 \6) Calcolare la distanza di P(-2,2) dalla retta $y = x + 2$
 \7) Scrivere l'equazione del fascio di rette con centro P(2,0)
-\8) 
+###### Esercizi pt. 2
+\1) Scrivi l'equazione della retta passante per $A(-\frac{1}{2},2)$ e $B(4,-\frac{3}{2})$ e trova la coordinata mancante del punto $C(-1,?)$
+\2) Determina se i punti $A(2,1)$ e $B(1,1)$ appartengono alla retta di equazione $2x + y - 5 = 0$
+\3) Data la retta di equazione $2x - y + 3 = 0$ ed il punto $A(h + 2, 3 - 2h)$, determina per quale valore di h il punto A appartiene alla retta
+\4) ![](https://i.imgur.com/EMBUrk9.png)
+\5) Determina se le le rette $r: 2x - 4y + 1 = 0$ e $s: x - 2y + 4$ sono parallele o perpendicolari; poi, nel 1° caso, calcolane la distanza, altrimenti la distanza tra l'origine ed il punto di intersezione.
+\6) Dato il fascio di rette di equazione $y-2=m(x+5)$, determina in esso: a) il centro, b) la retta passante per il punto $B(-1,-2)$, c) la retta perpendicolare a quella di equazione $3x+8y+2=0$, d) la retta che dista $\frac{7\sqrt{2}}{2}$ dall'origine degli assi.
 ##### Radicali
 http://www.iisviasilvestri.it/files/Malpighi_Masci.pdf
 https://mc3-a2-01-numeri-reali.readthedocs.io/en/latest/02_Radicali.html#:~:text=non%20esiste%2C%20radicando%20negativo.,il%20risultato%20sia%20sicuramente%20positivo.
@@ -518,6 +524,56 @@ $$y - y_{0} = m(x - x_{0}) \;\;\rightarrow\;\; y = m(x - 2)$$
 8)
 
 https://youtu.be/9vwFhe4Sdpg?list=PLF304133989EE90EA
+
+###### PARTE 2
+
+1)
+
+Sostituire a equazione generale di retta x e y dei 2 punti (2 volte) e mettere le 2 risultanti a sistema (a 2 incognite: m e q) e risolvere con confronto.
+
+![](https://i.imgur.com/tpC8i0d.png)
+
+2)
+
+Sostituire a x e y dell'equazione i valori di x e y del punto
+
+![](https://i.imgur.com/29GTqlI.png)
+
+3)
+
+(come il 2) ma leggermente + complesso in quanto si deve risolvere per h)
+
+h = -1
+
+4)
+
+formula m
+
+![](https://i.imgur.com/lC5rZzj.png)
+
+5)
+
+formula m + confronto
+
+parallele
+
+formula distanza
+
+d = ${} \frac{7\sqrt{5}}{10}$
+
+6)
+
+trovare le generatrici e stabilire se proprio (si)
+
+a) porre a sistema le generatrici e fare confronto, si trova il punto comune (intersezione / centro)
+
+b) mettere a sistema 2 eq di rette sostituendovi in una le coord del punto B e nell'altra quelle del centro
+
+c) trovare opposto e reciproco di m della retta data, trovare retta dati quella m ed il centro
+
+d) sostituire a formula distanza (qualcosa???)
+
+![](https://i.imgur.com/MYGIzFi.png)
 
 ##### Radicali
 
