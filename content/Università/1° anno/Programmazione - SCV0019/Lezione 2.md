@@ -69,5 +69,3 @@ Oggetti e memoria non utilizzati sono automaticamente eliminati
 
 ### Classe String
 
-La classe `String` modella stringhe, ovvero sequenze di char (caratteri)
-

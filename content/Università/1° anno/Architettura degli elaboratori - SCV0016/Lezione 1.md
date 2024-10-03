@@ -1,10 +1,12 @@
-### Intro
+# Astrazione e macchine virtuali
+
+### Calcolatori
 
 > [!important] Calcolatore
 > Sistema digitale che esegue una sequenza di istruzioni dette programma, operando su dei dati per ottenere dei risultati.
 > I calcolatori sono caratterizzati da una complessa organizzazione interna.
 
-I circuiti elettronici di un calcolatore consentono l'esecuzione di un set di istruzioni limitato, di bassa complessità (tipo caricare un dato in una locazione di memoria, sommare 1 interi...).
+I circuiti elettronici di un calcolatore consentono l'esecuzione di un <u>set di istruzioni limitato, di bassa complessità</u> (tipo caricare un dato in una locazione di memoria, sommare 1 interi...).
 
 L'utente è colui che adatta il comportamento del calcolatore alle sue esigenze, modificando: i programmi e i dati.
 
@@ -12,9 +14,9 @@ L'utente è colui che adatta il comportamento del calcolatore alle sue esigenze,
 
 > [!important] Astrazione
 > Nascondere (ignorare) dettagli per semplificare un problema.
-> Molto utile per affrontare problemi complessi, per esempio coi DBMS e database: le tabelle sono solo una struttura astratta su cui l'utente si concentra, trascurando la già configurata struttura fisica.
+> (Utile per affrontare problemi complessi, per esempio coi DBMS e database: le tabelle sono solo una struttura astratta su cui l'utente si concentra, trascurando la già configurata struttura fisica).
 
-Il calcolatore può essere descritto e costruito come una gerarchia di macchine astratte o virtuali (VM?), dove ogni livello maschera i gettagli dei livello sottostanti. Ciò permette di concentrarsi sul funzionamento di singoli livelli in esame ("trascurando" i sottostanti se già funzionanti).
+Il calcolatore può essere descritto e costruito come una gerarchia di macchine astratte o virtuali (VM), dove ogni livello maschera i dettagli di quelli sottostanti. Ciò permette di concentrarsi sul funzionamento di singoli livelli in esame ("trascurando" i sottostanti se già funzionanti).
 
 (Già solo un programma moderno si basa completamente sull'astrazione: 1) si costruisce la macchina fisica con istruzioni elementari, 2) si costruisce un OS basato sulle istruzioni della macchina e 3) si scrive il programma basato sulle caratteristiche dell'OS e non della macchina).
 
@@ -96,7 +98,7 @@ Ci sono quindi diverse possibilità per passare da L1 a L0:
 - (O traduzione), in questa un apposito programma (detto **compilatore**) traduce il programma $P_{L_{1}}$ scritto in $L_{1}$ in un programma $P_{L_{0}}$ scritto in $L_{0}$,
 - Il nuovo programma PL0 viene quindi eseguito
 
-(i 2 programmi fanno la stessaa cosa ma sono scritti in lignuaggi diversi)
+(i 2 programmi fanno la stesaa cosa ma sono scritti in lignuaggi diversi)
 
 Il compilatore mantiene il controllo solo nella 1a fase (passando da PL1 in input a PL0 in output) e non serve più una volta fatta la traduzione
 

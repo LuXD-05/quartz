@@ -12,7 +12,7 @@
 > Si dice ***singleton*** un insieme composto da 1 solo elemento.
 
 > [!important] Insieme vuoto
-> Si dice **insieme vuoto** un insieme senza elementi; e si rappresenta con $a$ o $\{\;\}$
+> Si dice **insieme vuoto** un insieme senza elementi; e si rappresenta con ${} \emptyset {}$ o $\{\;\}$
 
 > [!important] Insiemi numerici
 > $\mathbb{N}$ = insieme dei numeri **naturali** ${} \{ 0, 1, 2, 3 ... \} {}$
@@ -21,7 +21,7 @@
 > $\mathbb{R}$ = insieme dei numeri **reali** $Q \cup \{ x con espansione decimale infinita non periodica \}$
 > Quindi: $\{\; \mathbb{N} \subseteq \mathbb{Z} \subseteq \mathbb{Q} \subseteq \mathbb{R} \;\}$
 
-Se N è + discreto (ogni numero ha un successore) come anche Z, Q invece è denso, ovvero non c'è un successore per ogni numero, infatti tra uno e il suo prossimo esistono in mezzo infiniti numeri.
+Se N è **discreto** (ogni numero ha un successore) come anche Z, Q invece è **denso**, ovvero non c'è un successore per ogni numero, infatti tra uno e il suo prossimo esistono in mezzo infiniti numeri.
 
 > [!important] Cardinalità (o ordine)
 > La **cardinalità** di un insieme finito di elementi è il n° di elementi dello stesso e si indica con $|A|$. Inoltre:
@@ -30,7 +30,7 @@ Se N è + discreto (ogni numero ha un successore) come anche Z, Q invece è dens
 > $A \subseteq B \rightarrow |A| \leq |B|$ 
 
 > [!important] Insieme universo
-> L'insieme universo ($U$) è un insieme "teorico" (come $\emptyset$) che contiene qualunque altro insieme. In pratica qualunque insieme venga definito è un sottoinsieme di questo.
+> L'insieme universo ($U$) è un insieme "teorico" (come $\emptyset$) che contiene qualunque altro insieme. In pratica qualunque insieme venga definito in un qualsiasi contesto è un sottoinsieme di questo.
 
 #### Proprietà
 
@@ -59,7 +59,7 @@ Per esempio, un insieme $A$ composto da 4 elementi: $a, b, c, d$ è così rappre
 
 $$A = \{ a, b, c, d \}$$
 
-Tale notazione è ottima al fine di rappresentare insiemi piccoli e definibili per ogni loro singolo elemento.
+Tale notazione è ottima al fine di rappresentare **insiemi piccoli** e **finiti**.
 
 ##### Notazione intensionale
 
@@ -70,8 +70,6 @@ $$A = \{\; x \;|\; x \;è\; pari \;\}$$
 che si legge "insieme $A$ di <u>x tale che x</u> (*x | x*) è pari"; e che è come scrivere:
 
 $$A = \{ 0, 2, 4, \ldots \}$$
-
-(In questo caso "$2 \in A$" e "$3 \not\in A$").
 
 (L'insieme dei numeri pari corrisponde a $2\mathbb{N}$, mentre l'insieme dei numeri dispari corrisponde a $2\mathbb{N} + 1$; e ciò vale anche per $\mathbb{Z}$).
 
@@ -85,7 +83,7 @@ Questa è una notazione astratta, che però aiuta a comprendere il seguente conc
 
 $$C = \{\; x \in B \;|\; f(x) \;\}$$
 
-Dire "*x è simpatico*" non è una condizione verificabile direttamente sull'oggetto, bensì è necessaria la conoscenza di una sua proprietà intrinseca; in parole povere (e in casi d'uso più reali) è applicata una funzione
+Dire "*x è simpatico*" non è una condizione immediatamente verificabile, però permette di capire quali elementi fanno parte di $C$, ovvero quelli che rispettano la proprietà $f(x)$ (o $P(x)$).
 
 ### Contenimento
 
@@ -103,7 +101,7 @@ $$A = \{a,b\},\; B = \{a,b,c\} \; \rightarrow \; A \subseteq B$$
 
 ##### Sottoinsiemi propri e impropri
 
-Dato un insieme $A$, l'**insieme vuoto** e l'**insieme $A$ stesso** sono comunque sottoinsiemi di A e si dicono **sottoinsiemi impropri**, mentre tutti gli altri sottoinsiemi di A si dicono **sottoinsiemi propri**.
+Dato un insieme $A$, l'**insieme vuoto** e l'**insieme $A$ stesso** sono comunque <u>sottoinsiemi di A</u> e si dicono **sottoinsiemi impropri**, mentre tutti gli altri sottoinsiemi di A si dicono **sottoinsiemi propri**.
 
 ##### Insiemi innestati
 
@@ -170,7 +168,7 @@ $A \cup B = B \cup A$
 
 Supponiamo (ancora) di avere 2 insiemi: $A = \{a,b\}, \; B = \{b,c\}$; adesso:
 
-${} |A| = 2 \;\rightarrow\; |P(A)| = 2^{|A|} = 2^{2} = 4 {}$
+$|A| = 2 \;\rightarrow\; |P(A)| = 2^{|A|} = 2^{2} = 4$
 
 $|B| = 2 \;\rightarrow\; |P(B)| = 2^{|B|} = 2^{2} = 4$
 
@@ -180,9 +178,9 @@ $P(A) = \{ \emptyset, \{a\}, \{b\}, \{a,b\} \}$
 
 $P(B) = \{ \emptyset, \{b\}, \{c\}, \{b,c\} \}$
 
-##### Intersezione
+##### Intersezione 
 
-Riprendendo i 2 insiemi precedenti $A$ e $B$, l'**intersezione** (detta anche congiunzione) permette di ottenere tutti gli elementi che compaiono sia in $A$ sia in $B$ e corrisponde all'operazione di **AND logico**:
+Riprendendo i 2 insiemi precedenti $A$ e $B$, l'**intersezione** (detta anche *congiunzione*) permette di ottenere tutti gli elementi che compaiono sia in $A$ sia in $B$ e corrisponde all'operazione di **AND logico**:
 
 $$A \cap B$$
 
@@ -202,9 +200,9 @@ $A \cap \emptyset = \emptyset$
 
 $A \cap B = B \cap A$
 
-Inoltre, quando l'intersezione tra 2 insiemi corrisponde all'**insieme vuoto**, tali insiemi si dicono **disgiunti**.
+$A \cap B = \emptyset \;\rightarrow\;$ ($A$ e $B$ si dicono *disgiunti*).
 
-Inoltre: $\;A \cap B \subseteq A\;$ e ${} \;A \cap B \subseteq B\;$, poi se $A \subseteq B \;\rightarrow\; A \cap B = A$ e viceversa.
+Se $A \subseteq B \;\rightarrow\; A \cap B = A$ e viceversa.
 
 ###### Intersezione tra insiemi delle parti
 
@@ -261,7 +259,7 @@ $A - B \subseteq A \;\rightarrow\; A - (A \cap B) = A - B$ ???$
 Prima di definire il prodotto cartesiano, è necessario approfondire il concetto di **coppia** di elementi:
 
 > [!important] Coppia
-> Una coppia di elementi (di un insieme ${} A$) è così denotata:
+> Una coppia di elementi (di un insieme $A$) è così denotata:
 > $(a,b) := \{ a, \{ a, b \} \}$
 > Dato ciò, la coppia $(a,b)$ è diversa dalla coppia $(b,a)$, in quanto nelle coppie si fissa e diventa importante l'<u>ordine degli elementi</u>, perciò:
 > $(a,b) := \{ a, \{ a, b \} \} \;\; \neq \;\; (b,a) := \{ b, \{ a, b \} \}$
