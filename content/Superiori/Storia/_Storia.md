@@ -1,0 +1,26 @@
+---
+public: true
+edited_seconds: 270
+modified_at: 23/06/2024 09:49:31
+---
+### Capitoli
+- [[-12) L'unificazione dell'Italia]]
+- [[-13) Le potenze in Europa]]
+- [[-14) USA e Giappone]]
+- [[-15) L'Italia dopo l'unificazione]]
+- [[-16) La 2a rivoluzione industriale]]
+- [[-17) Il nuovo scenario politico e culturale]]
+- [[-18) L'imperialismo e lo scenario internazionale]]
+- [[1) Lo sviluppo economico]]
+- [[2) Nazionalismi e democrazie in Europa]]
+- [[3) L'età giolittiana]]
+- [[4) La WWI]]
+- [[5) Il dopoguerra]]
+- [[6) L'URSS e le ripercussioni in Europa]]
+- [[7) La crisi del 1929 e gli USA di Roosevelt]]
+- [[8) Il regime fascista di Mussolini]]
+- [[9) I regimi totalitari]]
+- [[10) Verso la WWII]]
+- [[11) La WWII]]
+- [[12) L'Italia dopo l'armistizio]]
+- [[13) Il mondo diviso in 2 blocchi]]
