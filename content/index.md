@@ -24,4 +24,4 @@ public: true
 [[Università/1° anno/Algoritmi - SCV0017/_Algoritmi e strutture dati|Algoritmi e strutture dati]]
 
 # Superiori
-[[2. School/Superiori/index|Vedi appunti di 5a superiore (ISIS J.M. Keynes, non finiti)]]
+[[Superiori/index|Vedi appunti di 5a superiore (ISIS J.M. Keynes, non finiti)]]
