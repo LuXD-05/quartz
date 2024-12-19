@@ -1,0 +1,28 @@
+# Riassunto
+
+### Parte 1
+
+Rosa Sauer nasce a Berlino nel 1917 da padre ferroviere e madre sarta; vive un'infanzia normale e dopo le nasce anche il fratello Franz. Nella 1a parte è spiegata la situazione della protagonista e come ci è arrivata: passa tutta la vita a Berlino e lì conosce Gregor, nato a Gross-Partsch e venuto lì per lavorare (il padre era contrario). Ad un certo punto il fratello Franz parte e non si rivedranno più, subito dopo però Gregor la porta a Gross-Partsch per conoscere i suoi genitori Herta e Joseph. Vivono in un paesino piccolo ed è in quei giorni che Rosa e Gregor scopano (free). 
+
+Tornano indietro; mentre Rosa era con la madre, nel marzo del 1943, Berlino viene bombardata e la madre muore. Rosa inizialmente è costretta a vivere con altre 2 tipe, saccheggiando tra le macerie e vendendo ciò che può al mercato nero. A causa di ciò si sposta con Gregor a casa dei suoceri finché anche codesto non parte per la guerra come volontario, senza dare figli a Rosa.
+
+Nel mentre lei viene scelta come assaggiatrice di Hitler insieme ad altre 9 donne con cui da lì in poi mangerà il cibo di Hitler a colazione, pranzo e cena, tormentata dalla paura che il cibo sia avvelenato ma al contempo affamata per la mancanza di cibo solita della guerra. I rapporti con le altre all'inizio non vanno benissimo (la snobbano perché è di Berlino) ma continua a scrivere con Gregor. Intanto un giorno è chiamata per aiutare Krumel in cucina, poi però, gelose di quello che le aveva dato, le altre la obbligano a rubare del latte ma viene scoperta perché un'invasata ha snitchato e perde rispetto Krumel. A questo punto anche Gregor, nonostante avendo promesso di venire a natale, da una lettera si scopre che è ferito e in ospedale, mentre 2 mesi e mezzo dopo si scopre che è disperso. 
+
+Rosa, Herta e Joseph crollano, Per colpa di Rosa Herta si becca un cartone col fucile da una SS, ma la vita normale di assaggiatrice va avanti. 
+
+### Parte 2
+
+Nella 2a parte invece compare Ziegler, nuovo responsabile della caserma di Krausendorf e capo assoluto delle assaggiatrici. Qui si assiste a un episodio di intossicazione da miele dove la maggior parte delle assaggiatrici vomita a causa di ciò. Qui si scopre poi anche l'aborto di Heike, che non dice alla migliore amica Beate (per ...). I rapporti tra le assaggiatrici migliorano e Rosa, nonostante ancora nel lutto, viene invitata a casa della baronessa in cui Joseph lavorava come giardiniere e lì si scopre che sa cantare molto bene. Alla festa c'era però anche Ziegler, che prende curiosità in Rosa, affascinato dal suo canto, e la segue fino a casa sua. La aspetta fuori per qualche notte finché non esce e scopano nel fienile.
+
+Si viene poi a conoscere Ernst e Heiner, 2 militari con cui il gruppo di Rosa passa il tempo e Leni si innamora del 1°. Si ha poi l'attentato a Hitler del 1944, per cui la baronessa e suo marito sono arrestati e processati. Un giorno cmq, le assaggiatrici sono costrette a dormire al campo, Ernst lo vuole fare con Leni, lei prima ci sta, poi no ma Ernst la violenta, il che gli costa la carriera. In quel tempo si ha anche  Si scopre anche che Elfriede è ebrea e nonostante Rosa abbia pressato Ziegler per fare qualcosa, non è risultato molto.
+
+Alla fine di tutto Ziegler spinge Rosa a tornare a Berlino e la aiuta facendola salire su un treno, in un vagone merci dove la sua voce calma un bambino che piange.
+
+### Parte 3
+
+Nel 1946 si viene a sapere che Gregor è tornato dal fronte e Rosa gli presta cure per la sua guarigione, ma la storia non dura molto, in quel tempo Rosa non si è mai aperta con Gregor per quanto riguarda la faccenda delle assaggiatrici, di Ziegler o di Elfriede; infatti dopo 3 anni finisce lì.
+
+Questo epilogo cmq, si ambienta nel 1990 e vede una Rosa vecchia che torna a trovare un Gregor malato, risposato con l'ex e avente una figlia e un nipote.
+
+Nulla finisce così.
+
