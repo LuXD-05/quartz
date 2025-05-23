@@ -1,3 +1,0 @@
-### Motoria
-
-- [[Sistema nervoso]]
