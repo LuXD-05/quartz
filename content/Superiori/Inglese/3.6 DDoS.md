@@ -1,0 +1,40 @@
+### Distributive Denial of Service
+
+In a ***DDoS attack***, the attacker tries to **make** a particular **service unavailable** by <u>directing</u> continuous and huge <u>traffic from multiple hosts</u> to it. Due to this enormous traffic, the **network resources get used** in serving the requests of those false hosts, making it <u>impossible for a legitimate user to access the resources</u>.
+
+### Types of DDoS
+
+##### Application layer attacks
+
+These focus on attacking the **layer 7** of the ISO/OSI model where the web pages are generated in response to the request initiated by the end user. For a <u>client generating a request</u>, **does not take any heavy load** and it can easily generate multiple requests. However, <u>responding to a request</u> takes a **considerable load for the server**, since it has to:
+
+- Build all the pages,
+- Compute any queries,
+- Load the results from the db according to the request.
+
+##### Protocol attacks
+
+(A.k.a. ***state-exhaustion* attacks**) focus on vulnerabilities in **layer 3 and 4** of the protocol stack. These **consume resources** such as **servers** and **firewalls** (example: ***SYN flood attacks*** and ***pings of death***).
+
+##### Volumetric attacks
+
+These focus on **consuming the network bandwidth and saturating it** (by <u>amplification</u> or <u>botnet</u>) to **hinder its availability**. They are easy to generate by directing a massive amount of traffic to the target server (example: ***DNS amplification***, ***UDP flood attacks***, ***TCP flood attacks***).
+
+### Attacks
+
+##### SYN flood attack
+
+(<u>Analogy</u>: it's similar to a kid ringing the doorbell of an old person, who continues to answer until, at some point, it doesn't anymore, not even to legitimate people).
+
+A ***SYN flood attack*** exploits TCP's ***3-way-handshake*** by sending **SYN** messages with a **spoofed IP** address <u>without responding to the SYN/ACK resent by the victim server</u> (and making it allocate resources for nothing).
+
+##### HTTP flood attack
+
+In this, multiple **HTTP requests** are sent at the same time to a target server. This leads to the **exhaustion of the network resources of that server**, thus <u>failing to serve legitimate users' requests</u>.
+
+##### DNS amplification
+
+(<u>Analogy</u>: a person calls some pizza huts and asks them to call him back on a number to tell him information there; however the given number is not the original person's but another's).
+
+***DNS amplification***, works by requesting a **DNS server** from a **spoofed IP** address and structuring the request so that the DNS server responds with a<u> large amount of data to the target victim</u>.
+
